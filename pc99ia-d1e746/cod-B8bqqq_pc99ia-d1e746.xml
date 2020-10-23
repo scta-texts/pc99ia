@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="35-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e746"><!-- l4proem -->
+            <head xml:id="pc99ia-d1e746-Hd1e108">Prooemium</head>
+            <head xml:id="pc99ia-d1e746-Hd1e111" type="question-title"/>
+            <p xml:id="pc99ia-d1e746-d1e113">
+               <lb ed="#F" n="29"/>PAVLI CORTESII PROTONOTARII APOSPO 
+      <lb ed="#F" n="30"/>LICI IN QVARTVM SENTENTIARVM 
+      <lb ed="#F" n="31"/>PROHOEMIVM AD IVLIVM SE 
+      <lb ed="#F" n="32"/>CVNDVM PONT. MAN. 
+      <lb ed="#F" n="33"/>Atefactum est superiore libro Pont. Max. quemadmodum 
+      <lb ed="#F" n="34"/>esset recentatoris Christi perpessione litatum factumque pro 
+      <lb ed="#F" n="35"/>humano genere satis, nunc autem sequitur, ut ea sacra perse 
+      <lb ed="#F" n="36"/>quamur, quibus hominum generi applicetur expiantis uirtus. 
+      <lb ed="#F" n="37"/>Nam cum insidenti tetroque malo uexarentur homines,
+      con<lb ed="#F" n="38" break="no"/>sentaneum fuisse uideri poterat, ut ea sacrorum collyria
+      adhi<lb ed="#F" n="39" break="no"/>berentur, quibus uniuersae aegritudinis euellerentur fibrae. Ex 
+      <lb ed="#F" n="40"/>quo sane intelligi potest, quantum eiusmodi sacra, omnium gentium sacris praestare uideantur. 
+      <lb ed="#F" n="41"/>nam ut barbarorum omnium dira sacra omittam, quid in Graecorum aut Romanorum sacris 
+      <lb ed="#F" n="42"/>reperiri poterat, quod hominem aegrotationi mederetur: quae enim medicamenta hij afferre 
+      <!--084.xml-->
+      <pb ed="#F" n="36-r"/>
+               <lb ed="#F" n="1"/>poterant dij, qui uitiosarum rerum patrocinium susceperant: Quid est tam ab ho 
+      <lb ed="#F" n="2"/>minum sanatione adhorrens, quam Pertundam aut Subigum, inducere deos; lam 
+      <lb ed="#F" n="3"/>ut capitolinus ascendatur diuus, quodnam sacrificiorum in louis delubro poterat 
+      <lb ed="#F" n="4"/>inueniri genus, quod haerentia hominum carcinomata sanaret: Quis iouem in uo 
+      <lb ed="#F" n="5"/>luptatum luto uersatum fuisse dubitat, cum in aede capitolina, &amp; pellices, &amp;
+      para<lb ed="#F" n="6" break="no"/>sitos, &amp; epulones louis affuisse intelligat: omittimus hoc loco, caetera fana, latibu 
+      <lb ed="#F" n="7"/>la libidinum intimarum, ne uelut ex latrina, coeno obrutos eruamus deos, aut
+      Gy<lb ed="#F" n="8" break="no"/>gantomachiam moliri uideamur. At uero cum theologiam in mythicen,
+      politi<lb ed="#F" n="9" break="no"/>cen, &amp; physicen dispertiti sint, quarum una commentitia, altera ciuilis, tertia
+      natura<lb ed="#F" n="10" break="no"/>lis diceretur, quid erat causae cur naturam diuinam ad hominum uitia traducerent: 
+      <lb ed="#F" n="11"/>Nam si commentitiam nominabant, cur poetarum licentia in theatris, deorum uitia 
+      <lb ed="#F" n="12"/>carminibus euelari sinebant &amp; cantibus; si ciuilis dicebatur, cur in fanis nephariorum 
+      <lb ed="#F" n="13"/>deorum generi sacra decernebantur: si autem naturalis putabatur, cur physiologiae 
+      <lb ed="#F" n="14"/>enodatione aliquod religionis certum non constituebatur genus:; In quo illud etiam 
+      <lb ed="#F" n="15"/>a. M. Varrone deorum nomenculatore sciscitor, si Edulicam deam numerat, cur Pala 
+      <lb ed="#F" n="16"/>ticam etiam non inducat, neque enim ego uideo si Cunina ab eo est recepta dea, cur 
+      <lb ed="#F" n="17"/>sit Sedentaria explosa, quae sedibus senum praeesse debere uidebatur, cum non minus 
+      <lb ed="#F" n="18"/>opis praesidijque flagitent, qui ab occasum quam qui ab ortu propius absunt. Nec item 
+      <lb ed="#F" n="19"/>intelligo cur Agenorea dea putanda sit, si Ociaria non putetur, cum ocium multo 
+      <lb ed="#F" n="20"/>sit interdum negocio praestantius aut quomodo possit Abeona dea dici, Remea 
+      <lb ed="#F" n="21"/>non dici, quae eo augustior uideri debet, quo reditio quam abitio iucundior esse solet, 
+      <lb ed="#F" n="22"/>quod idem sane in tota deorum natura fingere liceret, cum quotidie eiusmodi
+      fin<lb ed="#F" n="23" break="no"/>gendi licentia &amp; fastis infarciri possent dij, &amp; nihilo notiores induci, quibus
+      thu<lb ed="#F" n="24" break="no"/>ra &amp; sacra decernerentur. At uero contra quid sacrorum nostrorum absolutione certius. 
+      <lb ed="#F" n="25"/>quid descriptione diuinius: Nam cum triplex sit generis humani egritudo, quarum 
+      <lb ed="#F" n="26"/>una appetitionum prauitas, altera aegrotationis crassa caligo, tertia flaccescens
+      im<lb ed="#F" n="27" break="no"/>becillitas dicatur, totidem sunt sacrorum adhibita praesidia, quibus &amp; adijceretur robur, 
+      <lb ed="#F" n="28"/>&amp; uetus animi tumor depelleretur, &amp; gentilitij mali insita elueretur labes. Quo ma 
+      <lb ed="#F" n="29"/>gis es tu Pont. Max. in hoc genere laudandus, qui cum princeps sacrorum sis, nihil 
+      <lb ed="#F" n="30"/>ducas antiquius, quam sanctissime haec sacrorum genera tueri
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

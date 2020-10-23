@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 4</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 4</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="29-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e617"><!-- l3d4 -->
+            <head xml:id="pc99ia-d1e617-Hd1e108">Distinctio 4</head>
+            <head xml:id="pc99ia-d1e617-Hd1e111" type="question-title">De conceptione virginis</head>
+            <p xml:id="pc99ia-d1e617-d1e114">
+      <!--071.xml-->
+               <pb ed="#F" n="29-v"/>
+               <lb ed="#F" n="1"/>DE CONCEPTIONE VIRGINIS 
+      <lb ed="#F" n="2"/>DISTINCTIO QVARTA. 
+      <lb ed="#F" n="3"/>Erum utrum dea mater originis sit polluta tabe, contentio acerrima 
+      <lb ed="#F" n="4"/>exoritur. Nam diuus Thomas quasi nihil sit, de quo minus
+      dubita<lb ed="#F" n="5" break="no"/>ri possit, eam originis nexu obstrictam fuisse censet. Cui mirifice fauet 
+      <lb ed="#F" n="6"/>tota illa atratorum theologorum manus, maximeque ex eorum sodalitio 
+      <lb ed="#F" n="7"/>
+               <name xml:id="pc99ia-d1e617-Nd1e135">Guillermus Gannacus</name> hanc causam tueri uoluit . Sed nobis pueris, praeter
+      caete<lb ed="#F" n="8" break="no"/>ros flagrantius, homo doctus Vincentius Insuber, Aquinateum patrocinium
+      susce<lb ed="#F" n="9" break="no"/>pit, in eaque causa est ducentenis sexagenis testibus usus. Contra quos maxime
+      con<lb ed="#F" n="10" break="no"/>currit armata caesiorum phalanx. quorum e numero Argus theologorum <name xml:id="pc99ia-d1e617-Nd1e145">Scotus</name>,
+      ue<lb ed="#F" n="11" break="no"/>hementer huius sententiae satorem urgere conatur . siquidem quasi resistendi orbita 
+      <lb ed="#F" n="12"/>reperta, absolutissimus inquit intermedius, eius causa ob quem gratiam conciliat,
+      ab<lb ed="#F" n="13" break="no"/>solutissimum conciliandi actum nanciscitur . atqui cum Christus absolutissimus
+      in<lb ed="#F" n="14" break="no"/>termedius dicatur, erit confiteri necesse, eum illius causa cuius pacificator sit, abso 
+      <lb ed="#F" n="15"/>lutissimum conciliandi actum nancisci. sed cum nullius causa praestantiorem actum,  
+      <lb ed="#F" n="16"/>quam deae matris causa, consecutus dicatur, igitur deae matris causa absolutissimum est 
+      <lb ed="#F" n="17"/>actum adeptus. Atqui cum id nullo modo futurum fuisse putandum sit, nisi uim 
+      <lb ed="#F" n="18"/>esset ad eam ab originis tabe liberandam nactus, igitur nec est ei ulla originis
+      in<lb ed="#F" n="19" break="no"/>usta nota . idque etiam (ut saepe solet) arctius uario argumentorum genere astringit.  
+      <lb ed="#F" n="20"/>Contra quem pugnans Gregorius Ariminensis, haud quaquam maiorem
+      perspicui<lb ed="#F" n="21" break="no"/>tatem eius assumpto inesse putat, quam si dicatur absolutissimum intermedium,
+      cuius<lb ed="#F" n="22" break="no"/>cunque causa cui gratiam conciliat, absolutissimum conciliandi actum nancisci quo qui 
+      <lb ed="#F" n="23"/>dem disserendi genere probari posse censet, caeteris quoque Christum originis
+      uin<lb ed="#F" n="24" break="no"/>cula demisse quod dici nullo modo posse arbitratur. At Aureolus, cui quanquam sint, 
+      <lb ed="#F" n="25"/>Scotea argumenta magni, aliam tamem rationem ineundam putat, qua se tueri
+      cre<lb ed="#F" n="26" break="no"/>dit causam caesiorum posse. Nam quodcunque consentaneum fuit, aut quodcunque fieri 
+      <lb ed="#F" n="27"/>potuisse dicitur, id totum deae matri datum opinatur sed cum fieri posse censeat,  
+      <lb ed="#F" n="28"/>ut illi a deo eius mali aegritudo depelleretur, quandoquidem maiorem uim deus in 
+      <lb ed="#F" n="29"/>liberando, quam caro in inquinando nanciscatur, facile esse in promptu, a deo
+      inqui<lb ed="#F" n="30" break="no"/>nationem &amp; tabem potuisse praecurri . idque consentaneum esse, cum maxime
+      conue<lb ed="#F" n="31" break="no"/>nire dicat, deam matrem nitidam, tabisque expertem fuisse censere . ldque etiam multo 
+      <lb ed="#F" n="32"/>esse ante a diuo Augustino praecautum, qui deae matris corpus ob eam causam
+      ci<lb ed="#F" n="33" break="no"/>nefactum esse neget, quod minime id cinefieri decuisse opinetur. Quod si inquit
+      con<lb ed="#F" n="34" break="no"/>sentaneum non fuit id corpus ullo modo cinefieri, nec etiam consentaneum uideri 
+      <lb ed="#F" n="35"/>debet, eam insidenti originis malo fuisse uexatam cum ueri simillimum sit, maluisse 
+      <lb ed="#F" n="36"/>eam eadem originis tabe non uexari, quam eius non esse cinefactam cutem. Atque 
+      <lb ed="#F" n="37"/>etiam ex eadem disciplina multi quasi pluris neminem quam diuum Augustinum fa 
+      <lb ed="#F" n="38"/>ciant, eum dixisse confirmant, cum de criminum genere disseritur, honoris causa 
+      <lb ed="#F" n="39"/>nolle deam matrem, in illiusmodi disceptationem uocare . Rursumque hoc nonnulli 
+      <lb ed="#F" n="40"/>ex eorum genere afferunt, cum absoluta expletione gratiae, nulla aegritudo miscetur. 
+      <lb ed="#F" n="41"/>at cum dea mater omnibus muneribus donisque gratiae referta dicatur . nulla igitur 
+      <lb ed="#F" n="42"/>in eam aegritudo cadit. Deinceps quoque tantundem addunt . nam cum parentem 
+      <!--072.xml-->
+      <pb ed="#F" n="30-r"/>
+               <lb ed="#F" n="1"/>deam ab ignoscibili scelere liberatam uelint, quod minus omnino malum sit, sequi 
+      <lb ed="#F" n="2"/>putant, ut ab eadem etiam sit originis aegritudine liberata, quod maius sit omnino 
+      <lb ed="#F" n="3"/>malum censendum . idque etiam ab his dimidio angustius contrahitur. Deus
+      inqui<lb ed="#F" n="4" break="no"/>unt matri originis uincula adimere potuit. igitur omnino ademit. Totidemque uer 
+      <lb ed="#F" n="5"/>bis inflectunt. si consentaneum fuit parentem deam liberari, consentaneum etiam
+      uide<lb ed="#F" n="6" break="no"/>ri, eam fuisse liberatam. Eorundemque Scoteorum itinerum ratio est, quodcumque
+      coeli<lb ed="#F" n="7" break="no"/>tum generi tributum dicatur, id deae matri negari non debere. sed cum coelitum genus
+      ex<lb ed="#F" n="8" break="no"/>pers originis mali sit, perabsurdum omnino uideri, nisi deam quoque matrem, eius 
+      <lb ed="#F" n="9"/>mali expertem dicamus . Eodemque modo, nihil quod Christum nominatim laedat, 
+      <lb ed="#F" n="10"/>aut ignominiae caliginem offundat, ei dandum esse opinantur, atqui si dea mater aliquo 
+      <lb ed="#F" n="11"/>morbi genere contabuisse dicatur, fatendum esse id Christo ignominiae nebulam 
+      <lb ed="#F" n="12"/>offundere quod dici nullo modo fas esse confirmant. Atque quasi nunquam sibi sint
+      ar<lb ed="#F" n="13" break="no"/>gumenta defutura, ex tota theologica gaza certam rationum supellectilem conficiunt,  
+      <lb ed="#F" n="14"/>quae credunt uel excludere repugnantes, uel se tueri posse lacessitos. Sed tota illa
+      alum<lb ed="#F" n="15" break="no"/>na Aquinatea natio, quae ubiuis esse quam in hac caesiorum sententia mauult, horum 
+      <lb ed="#F" n="16"/>argumenta pumice aridiora censet . Itaque placet illis Christum esse solum, in quem 
+      <lb ed="#F" n="17"/>eiusmodi mali non sit inuecta lues . idque hoc modo comnectunt. Omne genus
+      ho<lb ed="#F" n="18" break="no"/>minum quod sit a liberatore Christo restitutum, necesse est aliquo criminum
+      con<lb ed="#F" n="19" break="no"/>tabuisse morbo, dea autem mater est a Christo restituta . igitur aliquo scelerum
+      ge<lb ed="#F" n="20" break="no"/>nere contabuit. Ac omne genus hominum quod sit ex concubitu salacique libidine
+      ge<lb ed="#F" n="21" break="no"/>nitum, originis iustitia uacauit, quae illi decernenda erat, ni fuisset a primigeno ho 
+      <lb ed="#F" n="22"/>mine id facinus patratum . dea autem mater ex concubitu est, ueneriaque libidine
+      ge<lb ed="#F" n="23" break="no"/>nita . igitur omnino est ei istius modi sata labes. Praeterea omne genus hominum 
+      <lb ed="#F" n="24"/>pro quo liberator Christus nece litauit, in aliquod continuo est genus morbi dela 
+      <lb ed="#F" n="25"/>psum . at Christus pro parente dea litauit, continuo igitur est ab ea aliquod mali
+      hau<lb ed="#F" n="26" break="no"/>stum genus. Cum autem palam negetur aliquod actu scelus ab ea esse contractum,
+      ne<lb ed="#F" n="27" break="no"/>cesse est hunc gentilitium in ea insedisse morbum. Postremo cum consecratione eius 
+      <lb ed="#F" n="28"/>dilutam tabem, tum id malum a primigeni hominis seminario generatim in
+      cun<lb ed="#F" n="29" break="no"/>ctos profluxisse uolunt, negantque deam matrem ante liberatoris Christi expiationem 
+      <lb ed="#F" n="30"/>emigraturam fuisse in caelum . ac in eiusmodi causae patrocinium, non modo mirandum di 
+      <lb ed="#F" n="31"/>uorum coetum, sed etiam ex ipsa caesia disciplina testes arcessunt. Nos vero in tantula causa, 
+      <lb ed="#F" n="32"/>ne quid nobis negotij inficiando, aut probando contrahatur, rem integram ad expendentium
+      iu<lb ed="#F" n="33" break="no"/>(dicia referri uolumus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 5</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 5</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="18-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e387"><!-- l2d5 -->
+            <head xml:id="pc99ia-d1e387-Hd1e108">Distinctio 5</head>
+            <head xml:id="pc99ia-d1e387-Hd1e111" type="question-title">De creatione hominis</head>
+            <p xml:id="pc99ia-d1e387-d1e114">
+               <lb ed="#F" n="23"/>DE CREATIONE HOMINIS 
+      <lb ed="#F" n="24"/>DISTINCTIO QVINTA. 
+      <lb ed="#F" n="25"/>SEd quoniam spiritus &amp; corporum satis est explicata natura, restat ut ho 
+      <lb ed="#F" n="26"/>minem utriusque naturae compotem persequamur. Cum autem de
+      ho<lb ed="#F" n="27" break="no"/>mine dicendum sit, ab anima tanquam ab imperante &amp; duce ordiendum 
+      <lb ed="#F" n="28"/>erit, nec enim hoc loco <name xml:id="pc99ia-d1e387-Nd1e129">Aristotelem</name> syllogismorum Daedalum
+      imita<lb ed="#F" n="29" break="no"/>bimur, qui ut Endelechiam tanquam chimaeram ostentaret, superiorum
+      philolopho<lb ed="#F" n="30" break="no"/>rum omnes de anima sententias explosit, nugiuendos singulos fuisse ostendens, 
+      <lb ed="#F" n="31"/>&amp; uix dignos qui sibi in Peripatum eunti, logisticos libellos ferrent. Nec item hic 
+      <lb ed="#F" n="32"/>locus flagitare uidetur, ut accuratius indagetur animae explicata cognitio aut
+      pro<lb ed="#F" n="33" break="no"/>bandum sit, animam materiae &amp; funeris expertem, non esse corpus uel
+      disputan<lb ed="#F" n="34" break="no"/>dumque intelligens principium ut forma annectitur, queque homini nulla forma
+      prae<lb ed="#F" n="35" break="no"/>ter intelligentem animam insit. Neque etiam seorsum sunt animae diuidendae
+      po<lb ed="#F" n="36" break="no"/>tentiae, uel separatim partiendae in sensus, nec quidem modo attinet aut agentem 
+      <lb ed="#F" n="37"/>intelligentiam attingere, aut eorum opinionem refellere, qui in omnibus unam esse 
+      <lb ed="#F" n="38"/>censerent. Ex quo etiam nihil est, cur memoriam partem animae intelligentis esse 
+      <lb ed="#F" n="39"/>probemus, aut appetitum sensilem &amp; intelligentem, omnesque animi affectiones, &amp; 
+      <lb ed="#F" n="40"/>tum uoluntatem, tum liberum animi motum persequamur, interius enim haec, non in 
+      <lb ed="#F" n="41"/>cortice exterebranda sunt. Eodemque modo disputationes omittentur, quemadmo 
+      <lb ed="#F" n="42"/>dum anima corpori, annexa intelligat, si a speciebus naturaliter insitis, rerum eliciat 
+      <!--050.xml-->
+      <pb ed="#F" n="19-r"/>
+               <lb ed="#F" n="1"/>noticiam, ut nonnullis est uisum an a rebus sensibilibus intelligentem cognitionem 
+      <lb ed="#F" n="2"/>eruat, uel si intelligens iudicium, sensus nodo, uinculoque astringatur ac ne illud
+      qui<lb ed="#F" n="3" break="no"/>dem in contentione uocetur, ab intelligentia, interminata ignorari, ab eaque rerum 
+      <lb ed="#F" n="4"/>concretarum noticia, naturae materiae expertis cognitionem non elici. Nec multo secus 
+      <lb ed="#F" n="5"/>in his quae ad theologiam pertinent, agendum erit quae quidem a nostris ita sunt, 
+      <lb ed="#F" n="6"/>enodata subtiliter, ut iure ab his non modo minuti sapientes, sed etiam
+      philolo<lb ed="#F" n="7" break="no"/>phorum antesignani, ut monogrammi &amp; bardi ludantur. Hoc enim loco (ut
+      dixi<lb ed="#F" n="8" break="no"/>mus) principis hominis exquirendus est ortus, ac in primis animae procreatio,
+      ge<lb ed="#F" n="9" break="no"/>nitalisque origo indaganda. siquidem multi animam minime factam, sed ex diuini 
+      <lb ed="#F" n="10"/>tate decerptam esse putauerunt, idque a <name xml:id="pc99ia-d1e387-Nd1e188">Mose</name> molitionem rerum describente manasse 
+      <lb ed="#F" n="11"/>uoluerunt, cum confirment a fabricatore deo ex humo constructum esse hominem, 
+      <lb ed="#F" n="12"/>cique animam in uitalem spiritum insinuatam &amp; insitam afflatu cum autem qui afflat,
+      ali<lb ed="#F" n="13" break="no"/>quid ex se omnino effundat, concludi opinabantur, ut anima quippiam ex
+      diui<lb ed="#F" n="14" break="no"/>nitatis natura diceretur, quod quidem a sanioribus arctius urgetur nam cum
+      af<lb ed="#F" n="15" break="no"/>flatum corporeum esse negent, nihil aliud dicunt dei esse afflatum, quam originem, &amp; 
+      <lb ed="#F" n="16"/>causam spiritus gignundi quemadmodum quamquam homo corpore afflat, non tamen 
+      <lb ed="#F" n="17"/>quicquam omnino ex se, sed ex natura externa effundit, quae quidem opinionis
+      praui<lb ed="#F" n="18" break="no"/>tas, a superiorum philosophorum errore defluit, pingue enim &amp; elixum philolopho 
+      <lb ed="#F" n="19"/>rum genus, cum imaginationem tanquam atram caliginem perrumpere nequiret, nihil 
+      <lb ed="#F" n="20"/>omnino uacans corpore esse censuit, ob eamque causam deum corporeum esse sta 
+      <lb ed="#F" n="21"/>tuit, qui omnium corporum genitale primordium diceretur, cum autem animam (ut ait 
+      <lb ed="#F" n="22"/>
+               <name xml:id="pc99ia-d1e387-Nd1e217">Aristoteles</name>) arbitrarentur illius principis corporis natura constare, confirmare
+      ni<lb ed="#F" n="23" break="no"/>tebantur animam esse ex diuinitatis natura decerptam. Nos autem animam
+      ra<lb ed="#F" n="24" break="no"/>tionis participem sine procreatione fieri posse negamus, eamquaem ab auctore rerum 
+      <lb ed="#F" n="25"/>deo, nullo intermedio eductam dicimus. Quanquam oritur quaestio, utrum sit
+      corpo<lb ed="#F" n="26" break="no"/>re anima antiquior. Origenes enim qui unus e multis pientissimus fuisset Chri 
+      <lb ed="#F" n="27"/>stianorum, nisi inter Platonicos uepres abollam, &amp; sandalia discidisset, ortu coelitum 
+      <lb ed="#F" n="28"/>non modo hominis primigeni, sed etiam caeterorum hominum animas generatas esse 
+      <lb ed="#F" n="29"/>uoluit. Augustinus ortum quoque coelitum animam principis hominis, generationis or 
+      <lb ed="#F" n="30"/>dine antiquiorem putat, eamque postea uoluntario motu corporis, tanquam naturalis 
+      <lb ed="#F" n="31"/>domus imperium expetisse censet quanquam ne hoc quidem satis constanter affirmare 
+      <lb ed="#F" n="32"/>uideatur, hon enim purissimus Christianorum, in foelicitatis discrimine, non uult
+      pu<lb ed="#F" n="33" break="no"/>gnacissime ratum habere, quod opinari posset. Vnde exorta est causa diuo Tho 
+      <lb ed="#F" n="34"/>mae, cur a caeteris discreparet. nam cum animam corporis formam esse probet, eam 
+      <lb ed="#F" n="35"/>dicit non seorsum, sed in corpore creari debere . in quo non est Scoto cum illo
+      dissen<lb ed="#F" n="36" break="no"/>sio. Quibus expositis, confirmatur primigeni hominis corpus, nullo intermedio a 
+      <lb ed="#F" n="37"/>deo fuisse concretum quanquam multi theologorum exercitus calones, &amp; lixae, dicunt, 
+      <lb ed="#F" n="38"/>res corporeas a deo ministris coelitibus gubernari . cunque corpus humanum
+      corpo<lb ed="#F" n="39" break="no"/>rea materia cretum esse affirment, satis persuasum esse uolunt, deum ad humani 
+      <lb ed="#F" n="40"/>corporis coagmentationem &amp; fabricam coelitum opera esse usum. Contra quos triarij 
+      <lb ed="#F" n="41"/>nostri disserentes, probant aliquid deum ministris coelitibus moliri, sed quaedam 
+      <lb ed="#F" n="42"/>tamem in corporea natura fabricare deum, quae a coelitibus effici nullo modo pos¬ 
+      <!--051.xml-->
+      <pb ed="#F" n="19-v"/>
+               <lb ed="#F" n="1"/>sunt, quemadmodum cadauera lethi postliminio in uitam reuocare, aut orbatis 
+      <lb ed="#F" n="2"/>lumina inserere, quod architecti, &amp; effectoris dei proprium est munus. quo quidem 
+      <lb ed="#F" n="3"/>nutu primigeni hominis corpus effectum &amp; constructum uolunt. Nec negant fieri 
+      <lb ed="#F" n="4"/>posse ut in ipso corporis humani opere, coelites ministri adessent, quemadmodum 
+      <lb ed="#F" n="5"/>in mundi deflagratione, &amp; extima corporum suscitatione colligendorum cinerum
+      min<lb ed="#F" n="6" break="no"/>stros affuturos dicimus sed negant fieri posse, ut ab his sine ui seminis in aliam 
+      <lb ed="#F" n="7"/>formam corpora mutentur, cum autem nunquam antea ullum fuisset ortu humanum
+      pro<lb ed="#F" n="8" break="no"/>creatum corpus, cuius ui, &amp; gignendi ordine, aliud specie simillimum gigneretur,
+      ne<lb ed="#F" n="9" break="no"/>cessario confitendum esse dicunt, principis hominis corpus, ab opifice deo nullo
+      in<lb ed="#F" n="10" break="no"/>termedio cretum. Itaque affirmamus corporearum rerum, quoddam esse seminarium, quod 
+      <lb ed="#F" n="11"/>si tempestiuitatem nactum sit, ad speciei decentiam perueniat, cui ab agricolis
+      ido<lb ed="#F" n="12" break="no"/>neorum temporum opportunitatem, &amp; nascendi causas praeberi, &amp; quod ab agricolis 
+      <lb ed="#F" n="13"/>palam fiat, id cam fieri a coelitibus, nihilque inter eos interesse, nisi id quod a
+      colo<lb ed="#F" n="14" break="no"/>nis satu &amp; temporis progressum fiat, id a coelitibus clam &amp; repente fieri. Ex quo intel 
+      <lb ed="#F" n="15"/>ligi uolumus ex coelitum opera, multa quandoque incredibilia oriri, quae tamemn
+      causa<lb ed="#F" n="16" break="no"/>rum ordine, naturalia sunt ipsa per se . lisdemque rationibus probamus plaeraque coe 
+      <lb ed="#F" n="17"/>lites mirabiliter supra progredientem naturam posse moliri, sed illis non inesse uim 
+      <lb ed="#F" n="18"/>naturalium faciendarum rerum. Post autem de primigeni hominis materia
+      perqui<lb ed="#F" n="19" break="no"/>ritur. Nonnullis enim qui plebiscito, non senatus consulto theologi sunt, mirum 
+      <lb ed="#F" n="20"/>uideri solet, cur potius ex humo, quam ex coelesti materia humanum sit effectum
+      cor<lb ed="#F" n="21" break="no"/>pus. nam cum coelestem corpus absolutius terreno putarent, cumque humanum corpus 
+      <lb ed="#F" n="22"/>excellenti rationis forma, insignitum uiderent, uerisimile putandum esse dicebant, 
+      <lb ed="#F" n="23"/>humanum corpus ex coelesti magis quam ex telluris materia confici debere. quod quem 
+      <lb ed="#F" n="24"/>dem genus argumenti integrioribus crassius est uisum. Siquidem quanquam coeleste 
+      <lb ed="#F" n="25"/>corpus, sit terreno nobilius, dubitari tamem non potest, minus actui animae ratios 
+      <lb ed="#F" n="26"/>nis compotis congruere, cum anima quodammodo ex aduocatis sensibus noticiam 
+      <lb ed="#F" n="27"/>eliciat, quorum quidem instrumenta ex coelesti materia effici non possint, cum coelum 
+      <lb ed="#F" n="28"/>naturam patibilem non habeat. Eademque ratione indagatur, utrum primigeni humani 
+      <lb ed="#F" n="29"/>corporis fabrica, ex quatuor sit primordiorum natura constructa. Physici enim
+      concre<lb ed="#F" n="30" break="no"/>tioni mixtionis absolutae, plus telluris inesse uolunt, que plus formae, &amp; minus
+      ma<lb ed="#F" n="31" break="no"/>teriae nanciscatur. Auoustino autem theologorum deo, duo placet esse primordia rerum 
+      <lb ed="#F" n="32"/>quae patiendi necessitatem habeant, tellurem scilicet, &amp; aquam, &amp; duo quae sint ad
+      agen<lb ed="#F" n="33" break="no"/>dum educta, aerem, &amp; ignem. Et quoniam ex his patiendi ratio efficitur, tellusque ex 
+      <lb ed="#F" n="34"/>omnibus patibilem magis naturam nanciscatur, facile intellectu esse ait primigenum 
+      <lb ed="#F" n="35"/>humanum corpus telluris esse materia concretum, quam quidem sententiam omnis salubrio 
+      <lb ed="#F" n="36"/>rum coetus, tanquam theologiae pontem tuetur. Atque inde est ad totam hominis figuram, 
+      <lb ed="#F" n="37"/>fabricamque transitio. nam cum multa in homine mirabiliter effecta miremur, tum 
+      <lb ed="#F" n="38"/>maxime artificiosi operis descriptionem contemplamur, rationesque physicas induci 
+      <lb ed="#F" n="39"/>mus, quibus probatur tantam dissimilium instrumentorum uarietatem, animae gratia esse 
+      <lb ed="#F" n="40"/>perfectam, siquidem cum anima sit multarum rerum effectrix, quas sine corpore tanquam 
+      <lb ed="#F" n="41"/>instrumento persequi nequiret, necesse esse affirmamus, ut toto corpore, instrumen 
+      <lb ed="#F" n="42"/>torum summa sit intexta uarietas, quo dissimilitudini potentiae, &amp; munerum animae. 
+      <!--052.xml-->
+      <pb ed="#F" n="20-r"/>
+               <lb ed="#F" n="1"/>instrumentorum dissimilitudo congruat, sitque cognatio inter mobile corpus &amp;
+      ani<lb ed="#F" n="2" break="no"/>mam motricem. Quod quidem praecare patet, ex earum rerum motu, quae extra animam 
+      <lb ed="#F" n="3"/>cernuntur, cum anima sit principium uariorum susceptibilium sensuum, quos sino 
+      <lb ed="#F" n="4"/>instrumentorum uarietate, complecti nullo modo posset, praeclare enim haec medici 
+      <lb ed="#F" n="5"/>patefaciunt, qui Anatomiae scientia, manu ista articulatim dissecta contrectant,
+      do<lb ed="#F" n="6" break="no"/>centque capiti tanquam arci tres annexas esse sedes, in quibus speculatrices animae po 
+      <lb ed="#F" n="7"/>tentiae excubarent, easque sensum communem, phantasiam, rationem, &amp; memoriam nomi 
+      <lb ed="#F" n="8"/>nant quarum, sensus communis, &amp; phantasia sint incolae syncipitis, ratio in
+      meditul<lb ed="#F" n="9" break="no"/>lio capitis habitet, &amp; memoria occipiti annectatur. Quas quidem sedes, uentriculos 
+      <lb ed="#F" n="10"/>hoc interualli ordine interiectos esse dicunt, quae inter se habeant ductas &amp;
+      extem<lb ed="#F" n="11" break="no"/>rebratas uias, quo utrinque commeare possit perceptarum rerum tabellaria cognitio, ab 
+      <lb ed="#F" n="12"/>hisque extrinsecus, ad figuram homins conteplandam disceditur. Quam a parente deo celsam &amp; 
+      <lb ed="#F" n="13"/>rectam ob eam causam informatam, &amp; constitutam fuisse probat, quo tanquam princeps 
+      <lb ed="#F" n="14"/>inter omnia animantium genera internosceretur, essetque spectatrix superarum rerum cum 
+      <lb ed="#F" n="15"/>perspicuum sit, idem in spiritu amorem, ac pondus in corporibus existere. corpora enim 
+      <lb ed="#F" n="16"/>natura deorsum suopte pondere feruntur, at humanum corpus cum sit
+      domicilium<lb ed="#F" n="17" break="no"/>spiritus, natura superiora appetit. Ex quo quidem notum adagium illud existit, eodem 
+      <lb ed="#F" n="18"/>amorem, &amp; oculos concurrere. Atque ex hoc etiam est orta contentio, quaenam
+      primigeni<lb ed="#F" n="19" break="no"/>homins sedes extiterint. Grauissimus auctor <name xml:id="pc99ia-d1e387-Nd1e405">Damascenus</name> has sedes uelut Elysium 
+      <lb ed="#F" n="20"/>nemus descripsit, in quis semper nitescere ait coelum, cuncta odore fragrare, &amp;
+      hy<lb ed="#F" n="21" break="no"/>bernis, aestiuisque frugibus, pratorumque uestitu florere. losepo autem, qui solus propo 
+      <lb ed="#F" n="22"/>ex ludaeis, graecorum flumina nando transmisit, eas sedes ad orientem solem constitu 
+      <lb ed="#F" n="23"/>tas esse placet, cui prorsus <name xml:id="pc99ia-d1e387-Nd1e417">Celtiber Isidorus</name> assentitur, is enim harum sedium ingressus 
+      <lb ed="#F" n="24"/>post homins pollutam naturam, flammarum moenibus ocelusos, &amp; obstructos scribit. At 
+      <lb ed="#F" n="25"/>theologumenon librorum <name xml:id="pc99ia-d1e387-Nd1e424">Beda</name> interpres, rem in dimicationem adduxit. Probare 
+      <lb ed="#F" n="26"/>enim conatur has sedes ad orientem circumfluo oceano, &amp; montibus ab ea parte obie, 
+      <lb ed="#F" n="27"/>ctis contineri, quae ab hominibus habitatur easque ait ita a domicilijs nostris esse
+      se<lb ed="#F" n="28" break="no"/>motas, sublimesque ferri, ut orbem globumque lunae pertingant. ex quo multis
+      cau<lb ed="#F" n="29" break="no"/>sa fuit, ab eo desciscendi. Nam cum luna rigoris effectrix dicatur, uerisimile putan¬I 
+      <lb ed="#F" n="30"/>dum esse uolebant, ut subiecta ei quoque &amp; finitima reoio rigesceret. Quibusdam 
+      <lb ed="#F" n="31"/>etiam nullo modo fieri posse uisum est, ut hae sedes altissima telluris parte
+      collocen<lb ed="#F" n="32" break="no"/>tur siquidem si fieri hoc posse diceretur, concedi etiam uolebant, ut harum sedium
+      infoe<lb ed="#F" n="33" break="no"/>cunda natura diceretur, quando quidem montium altitudines solis flagrantia, &amp;
+      ar<lb ed="#F" n="34" break="no"/>dore torreantur, qui ex tellure ubertatem hauriant, quod quidem minime harum
+      se<lb ed="#F" n="35" break="no"/>dium foecunditati consentaneum esse dicunt. Maior autem pars eo defertur, ut eam 
+      <lb ed="#F" n="36"/>terrae partem temperatam uelint . idque affirmant ex noctium &amp; dierum aequalitate orin 
+      <lb ed="#F" n="37"/>quemnadmodum his accidere uidemus, qui terras ad orbem aequinoctialem colunt. 
+      <lb ed="#F" n="38"/>umbrae enim nocturnae cum lucibus aequentur, dierum feruidam naturam tepefaciunt, 
+      <lb ed="#F" n="39"/>in qua tamen sententia <name xml:id="pc99ia-d1e387-Nd1e458">Scotus</name> 
+               <name xml:id="pc99ia-d1e387-Nd1e461">Alexandro</name>, <name xml:id="pc99ia-d1e387-Nd1e464">Nicolao Boneto</name>, &amp; <name xml:id="pc99ia-d1e387-Nd1e467">Magno Alberto</name> 
+               <lb ed="#F" n="40"/>calcar adhibuit. Quo etiam loco probatur a nobis hominem dei esse simulacrum, non 
+      <lb ed="#F" n="41"/>quidem absolutum simulacrum, sed tanquam ad similitudinem expressum. Negamusque 
+      <lb ed="#F" n="42"/>primigeno homini deum notum fuisse de facie, nisi sopito ei, &amp; phantasmate se¬ 
+      <!--053.xml-->
+      <pb ed="#F" n="20-v"/>
+               <lb ed="#F" n="1"/>uocato deum uisum esse concedamus. Nihiloque secius inquiritur, an primo nantu 
+      <lb ed="#F" n="2"/>rae tyrocinio ei esset omnium humanarum rerum inserta notitia. In quo affirmatur no 
+      <lb ed="#F" n="3"/>uisse eum fundamenta necessariarum rerum, quatenus scilicet ratio assequi posset, 
+      <lb ed="#F" n="4"/>humana. occultas autem meditationes hominum &amp; praesensionem rerum
+      futura<lb ed="#F" n="5" break="no"/>rum nullo modo consecuturum fuisse. llludque etiam adiungitur, eum ante noxam 
+      <lb ed="#F" n="6"/>animantium omnium adepturum fuisse principatum, ferisque etiam pecudibus, ut 
+      <lb ed="#F" n="7"/>bubus, iuga &amp; onera impositurum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

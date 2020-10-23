@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 2</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 2</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="38-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e792"><!-- l4q2 -->
+            <head xml:id="pc99ia-d1e792-Hd1e108">Distinctio 2</head>
+            <head xml:id="pc99ia-d1e792-Hd1e111" type="question-title">De eucharistia</head>
+            <p xml:id="pc99ia-d1e792-d1e114">
+               <lb ed="#F" n="5"/>DE EVCHARISTIA. 
+      <lb ed="#F" n="6"/>DISTINCTIO SECVNDA. 
+      <lb ed="#F" n="7"/>Ed patefactis incolumitatis nostrae foribus, deinde est de eucharistia 
+      <lb ed="#F" n="8"/>dicendum. In quo quaestionis genere multi quasi in theologiae arcem 
+      <lb ed="#F" n="9"/>praesidium constituant, eucharistiam sacrum unum esse negant. nam 
+      <lb ed="#F" n="10"/>cum id materiae sacris confici dicant, cumque in eo duplex materiae sa 
+      <lb ed="#F" n="11"/>crum esse confirment, fatendum esse uolunt duplex id sacrum uideri quibus exem 
+      <lb ed="#F" n="12"/>pta larua auctore <name xml:id="pc99ia-d1e792-Nd1e133">Aristotele</name> responderi potest, haud tantum unum dici, quod 
+      <lb ed="#F" n="13"/>continuum &amp; insectile sit sed id etiam, quod absolutum dicatur, quemadmodum 
+      <lb ed="#F" n="14"/>hominem unum, &amp; larem familiarem unum dicimus quando quidem sit
+      abso<lb ed="#F" n="15" break="no"/>lutione unus, ad cuius integritatem explendam cunctorum cumulus accedat,
+      qui<lb ed="#F" n="16" break="no"/>ad eius finem flagitetur, quemadmodum homo membris ad animae munia
+      con<lb ed="#F" n="17" break="no"/>gruentibus cumulatur. Sed interim magna oritur de materia certatio. Nonnulli 
+      <lb ed="#F" n="18"/>enim quibus maiori curae est, quemadmodum argutiarum plagas texant, quam
+      quem<lb ed="#F" n="19" break="no"/>admodum ueri iudicium exquirant, eucharistiae materiem panem ac merum esse  
+      <lb ed="#F" n="20"/>negant siquidem cum in omnibus gentibus id sacrum fieri debere censeant,
+      ne<lb ed="#F" n="21" break="no"/>gentque in cunctis regionibus, tritici, merique naturam coalescere, praeclarum quid 
+      <lb ed="#F" n="22"/>se putant adeptos, si dicant panem merumque haud sane eiusmodi sacro
+      congrue<lb ed="#F" n="23" break="no"/>re. Cuius sententiae obsignatores adhibent, qui id sacrum aeque sanis atque aegris 
+      <lb ed="#F" n="24"/>congruere debere opinantur. Atqui cum merum saepe noxam aegris libantibus 
+      <lb ed="#F" n="25"/>afferat, ijsdem compraedibus affirmant, haud merum huius sacri materiem
+      uide<lb ed="#F" n="26" break="no"/>ri debere. Quorum utrorumque uersuntiloquax ratio conuellitur, cum alteris
+      respon<lb ed="#F" n="27" break="no"/>deatur facile quocunque tantum meri, triticique comportari posse, quantum sit ad 
+      <lb ed="#F" n="28"/>eiusmodi conficiendi sacri usum satis alteris dicatur haud sane tantillum meri 
+      <lb ed="#F" n="29"/>aegris libantibus nocere. Quod si tamem meri noxa formidetur, haud
+      senatuscon<lb ed="#F" n="30" break="no"/>sulti promulgatione cautum esse dicimus, ut ei qui panem libarit, necessario
+      me<lb ed="#F" n="31" break="no"/>rum sit quoque libandum. Atque etiam huius sacri materiem triticeum panem esse  
+      <lb ed="#F" n="32"/>putandum est quandoquidem ad hoc id maxime seligatur, quod generatim
+      fa<lb ed="#F" n="33" break="no"/>cilius suppeditatur ad usum siquidem ex omni genere frugum homines
+      maxi<lb ed="#F" n="34" break="no"/>me triticeo pane uescuntur nec sunt ex gea, uel ex hordeo, siue alia genera panis, 
+      <lb ed="#F" n="35"/>nisi tritici inopia, commenti. Itaque nostri panem ad hunc usum sine fermento
+      pin<lb ed="#F" n="36" break="no"/>sendum putant, quanquam in Graecorum sacrificiorum libamentis cum fermento ac 
+      <lb ed="#F" n="37"/>hibeatur. Eodemque modo edicto sancitur, ne quod ex fictitijs uinum a flamino 
+      <lb ed="#F" n="38"/>libetur, nam hydromel, siue myrtiten, &amp; id genus haud iure uina dici possunt, etiam 
+      <lb ed="#F" n="39"/>si temeti cognatam naturam nanciscuntur, Rursumque nefas putatur acetum, atque 
+      <lb ed="#F" n="40"/>omphacinum libare cum satis perspicuum sit tabe merum acescere, nec ex aceto 
+      <lb ed="#F" n="41"/>(ut ait <name xml:id="pc99ia-d1e792-Nd1e199">Aristoteles</name>) in temetum regressus fiat. Et item omphacinum in ortus
+      itine<lb ed="#F" n="42" break="no"/>re consistens, non dum meri naturam nanciscatur. Sed eodem modo ex intim¬ 
+      <!--089.xml-->
+      <pb ed="#F" n="38-v"/>
+               <lb ed="#F" n="1"/>Theologiae officina eliciendum est an Christi corpus uerissime in eucharistia insit, 
+      <lb ed="#F" n="2"/>Diuus enim Thomas qui hoc quaestionis genus ad rationis aequilibrium
+      perpen<lb ed="#F" n="3" break="no"/>dit, ob eam causam id corpus eucharistiae inesse confirmat, quo absolutius cum ho 
+      <lb ed="#F" n="4"/>minum genere copuletur. nam in caeteris quidem sacrorum generibus Christum 
+      <lb ed="#F" n="5"/>cum homibus participatione iugari, in hoc autem essentia (utamur enim hoc uerbo non 
+      <lb ed="#F" n="6"/>pessime) contineri dicit. At <name xml:id="pc99ia-d1e792-Nd1e222">Durandus</name> magno ambitu censet perabsurde dici id 
+      <lb ed="#F" n="7"/>corpus in eucharistia quasi contineatur inesse quandoquidem quicquid continetur 
+      <lb ed="#F" n="8"/>loco, id necesse sit loco uel corpore, quod loco insit, circunscriptum, aut praefinitum 
+      <lb ed="#F" n="9"/>dici. Quorum neutrum eiusmodi corpori congruere posse, perinde ut in eucharistia 
+      <lb ed="#F" n="10"/>inest, sed tantum essentiae conspectu inesse . idque se primum commentum esse gloriatur, 
+      <lb ed="#F" n="11"/>Cui quidem uehementer atque acriter resistit <name xml:id="pc99ia-d1e792-Nd1e236">Petrus Paludensi</name>s creber, &amp; argutus 
+      <lb ed="#F" n="12"/>theologus, maximeque repugnat <name xml:id="pc99ia-d1e792-Nd1e241">Tolosanus Capreolus</name> in quo sane tutius erit, a
+      di<lb ed="#F" n="13" break="no"/>uo, Thoma, tamquam ab itineris duce, digito latius non discedere. Sed maxime in
+      quae<lb ed="#F" n="14" break="no"/>stione uersatur, an eiusmodi corpus cum re incipit eucharistiae inesse, re ab
+      aethie<lb ed="#F" n="15" break="no"/>rijs sedibus absit. Nos enim nisi id corpus motu loci inesse incipere negemus,
+      fa<lb ed="#F" n="16" break="no"/>teri prorsus cogemur, id ab coelestibus domicilijs abesse siquidem quod alicundem 
+      <lb ed="#F" n="17"/>mouetur, haud aliquo recenter peruenit, nisi priorem locum deserat. Deinceps quiae 
+      <lb ed="#F" n="18"/>quod alicunde mouetur, cuncta interiecta intermedia perrumpat oportet, quod 
+      <lb ed="#F" n="19"/>quidem dici hoc loco nullo modo potest tumque haud fieri potest ut eiusdem
+      mo<lb ed="#F" n="20" break="no"/>tum, alicunde agitatum ad dissimillima simul statuamus locorum generam
+      praefi<lb ed="#F" n="21" break="no"/>niri, cum tamen id corpus in pluribus incipere inesse fatendum sit quod idem fere a 
+      <lb ed="#F" n="22"/>diuo Thoma connectitur quamquam eam sententiam circumrodit ingeniosissimus
+      opi<lb ed="#F" n="23" break="no"/>nator <name xml:id="pc99ia-d1e792-Nd1e268">Scotus</name>, affirmans haud eum explicandi modum consentaneum uideri, quom 
+      <lb ed="#F" n="24"/>id corpus utrobique aut pluribus inesse probatur. Itaque ob eam causam
+      perquiri<lb ed="#F" n="25" break="no"/>mus, an ibidem Christus inteoritate totus insit. Orthodoxei enim itineris securi 
+      <lb ed="#F" n="26"/>tas est, ibidem inesse totum affirmare, qui autem iter acciuius sequuntur, negant. 
+      <lb ed="#F" n="27"/>ibidem inesse totum . idque hoc modo condudunt transitione meri, libique Christus 
+      <lb ed="#F" n="28"/>eiusmodi incipit inesse sacro, atqui cum praedare notum sit, haud panem merumque 
+      <lb ed="#F" n="29"/>in animam diuinitatemque uerti posse, perspicuum est haud ibidem inesse
+      totum<lb ed="#F" n="30" break="no"/>Quibus de Heroum sententia responderi potest, quoniam panis merique
+      tran<lb ed="#F" n="31" break="no"/>sitio haud ad animam diuinitatemque praefinitur, plane bene liquere, haud eadem 
+      <lb ed="#F" n="32"/>ibidem ob uim sacri, sed ob consecutionem certam inesse. Et quoniam ascitum
+      cor<lb ed="#F" n="33" break="no"/>pus nunquam est a diuinitate seiunctum, quocunque consistat, ibidem prorsus
+      faten<lb ed="#F" n="34" break="no"/>dum est diuinitatem inesse, ex quo intelligi maxime potest eiusmodi sacro inesse 
+      <lb ed="#F" n="35"/>diuinitatem quacunque consectantem, &amp; consequentem corpus. Quocirca plaerique 
+      <lb ed="#F" n="36"/>nullo modo a diui Thomae sententia diuelli possunt, qui ait re animam a
+      corpo<lb ed="#F" n="37" break="no"/>re fuisse secretam. Itaque ob eam causam inquit, si illo ipso laethi triduo eiusmodi
+      con<lb ed="#F" n="38" break="no"/>fectum esse sacrum diceretur, haud ibidem anima, aut ui sacri, aut certa
+      consecu<lb ed="#F" n="39" break="no"/>tione affuisset sed quoniam post resurrectionem nunquam est a corpore anima
+      di<lb ed="#F" n="40" break="no"/>uulsa, ob eam causam ibidem &amp; corpus ui sacri, &amp; anima certa consecutione inest, 
+      <lb ed="#F" n="41"/>Contra quem studiosissime <name xml:id="pc99ia-d1e792-Nd1e310">Scotus</name>, <name xml:id="pc99ia-d1e792-Nd1e313">Aureolus</name>, &amp; <name xml:id="pc99ia-d1e792-Nd1e317">Henricus Gandensis</name> uaria
+      cuspidum<lb ed="#F" n="42" break="no"/>genera exacuunt sed in <name xml:id="pc99ia-d1e792-Nd1e322">Bernardum Gannacum</name>, &amp; <name xml:id="pc99ia-d1e792-Nd1e325">Henricum</name> acerrimos bella¬ 
+      <!--090.xml-->
+      <pb ed="#F" n="39-r"/>
+               <lb ed="#F" n="1"/>tores incidunt, qui diui Thomae causam tueri uolunt quanquam is qui ad omnes 
+      <lb ed="#F" n="2"/>ictus obcalluit patrocinio non eget, sed tanquam unguentum confrictu
+      uehemen<lb ed="#F" n="3" break="no"/>tius olet. Verum deinceps magna inter nostros de aduentitijs quae eiusmodi
+      sa<lb ed="#F" n="4" break="no"/>cro resident, est orta disputatio quanquam permagni interest scire quales effectus 
+      <lb ed="#F" n="5"/>consequantur. In quo sane meminerimus, ab his gratiae, &amp; gloriae fontes oriri. atque 
+      <lb ed="#F" n="6"/>etiam intelligendum est, eum qui capitali tabe uexetur, haud eiusmodi sacri effe 
+      <lb ed="#F" n="7"/>ctum nancisci posse, sed ignoscibilem labem deijcere, munirique tanquam lorica quae 
+      <lb ed="#F" n="8"/>dam contra scelera futura. Quinetiam sciri debet id non modo ad libantem, sec 
+      <lb ed="#F" n="9"/>etiam ad caeteros manare cautumque esse lege, ne quis flamen id notissimis
+      depe<lb ed="#F" n="10" break="no"/>culatoribus, siue danistis, aut damnatis hominibus libandum praebeat . Eodemque 
+      <lb ed="#F" n="11"/>modo eos excludi qui naturae ortu insani dicantur, non qui stolide desipiant, te 
+      <lb ed="#F" n="12"/>nuemque uim rationis nanciscantur. Iam illud etiam notum est, profusione
+      semi<lb ed="#F" n="13" break="no"/>nis nocturna, si modo cum capitali tabe fiat, eiusmodi libum pocillumque impe 
+      <lb ed="#F" n="14"/>diri. Similisque est ratio eorum qui ante eiusmodi sacri libum ientarint. nam a ie 
+      <lb ed="#F" n="15"/>iunis hoc sacrificij genus obiri debere putandum est. Sed &amp; piatori flamini sacr 
+      <lb ed="#F" n="16"/>ficandum prius esse uolumus, quam libum multitudini dispertiat nec ei a sacro cessa 
+      <lb ed="#F" n="17"/>tionem dari placet, etiam si minime publici delubri flamen esse dicatur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

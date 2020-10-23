@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="12-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e246"><!-- l2proem -->
+            <head xml:id="pc99ia-d1e246-Hd1e108">Prooemium</head>
+            <p xml:id="pc99ia-d1e246-d1e111">
+               <lb ed="#F" n="27"/>PAVLI CORTESII PROTONOTARI APOSTOLI 
+      <lb ed="#F" n="28"/>CIN SECVNDVM LIBRVM SENTENTIARVM 
+      <lb ed="#F" n="29"/>PROHOEMIVM AD IVLIVM II PONT. MAX. 
+      <lb ed="#F" n="30"/>Vlla re magis Pont. Max. quam rerum creatarum notitia, dei est in 
+      <lb ed="#F" n="31"/>tellecta natura. Si quidem homines cum naturae aspectu coelum
+      si<lb ed="#F" n="32" break="no"/>deribus tanquam oculis distinctum cernerent, &amp; tum tellurem altricem 
+      <lb ed="#F" n="33"/>aere circumfusam, in media mundi sede locatam librari
+      uide<lb ed="#F" n="34" break="no"/>rent, tum circa ea tam exiguo horarum curriculo flagrantem circum 
+      <lb ed="#F" n="35"/>ferri solem, cuius quotidiana circumuectione annuoque inflexu 
+      <lb ed="#F" n="36"/>non modo noctis dicique, sed etiam aestatis atque hyemis uicissitudo efficeret, infraque 
+      <lb ed="#F" n="37"/>aemulam ambire lunam, quae menstruis eum spatijs consequeretur, mutuatamque in terras 
+      <lb ed="#F" n="38"/>lucem effunderet, tum circumfluum mare nulla fluminum accessione crescens, tum fulminum
+      ia<lb ed="#F" n="39" break="no"/>ctus, uel telluris labentis motum, ac uentorum imbriumque tempestiuitatem aspicerent,
+      quo<lb ed="#F" n="40" break="no"/>rum alij ad aestus caloresque sedandos &amp; nauigandi facultate, alij ad serendi oportua¬ 
+      <!--037.xml-->
+      <pb ed="#F" n="12-v"/>
+               <lb ed="#F" n="1"/>
+               <!-- erroneous line -->
+               <lb ed="#F" n="2"/>nitatem darentur, tum animantium uel gradientium uel uolucrum, uel nantium
+      nae<lb ed="#F" n="3" break="no"/>turam, hominemque denique ut principem metirentur, confirmare cogebantur, tam 
+      <lb ed="#F" n="4"/>constantem solertemque molitionem rerum, ab aliquo diuino architectore oriri, qui 
+      <lb ed="#F" n="5"/>auctor &amp; parens &amp; educator deus diceretur. In quibus quidem rebus contemplam 
+      <lb ed="#F" n="6"/>dis multum philolophi, a theologorum genere abfuerunt. Siquidem philolophi 
+      <lb ed="#F" n="7"/>parum nubilo coelo cernentes, res genitas sunt in suapte natura metiti, propriaque 
+      <lb ed="#F" n="8"/>causarum genera indagarunt, nec earum finem attigerunt, ut qui aetatem in itine 
+      <lb ed="#F" n="9"/>re conterunt, nec unquam domum suam capessunt. At uero theologi quibus coelum
+      de<lb ed="#F" n="10" break="no"/>pulsa caligine patet, earum rerum genera expendunt, quatenus a principe auctore
+      deo<lb ed="#F" n="11" break="no"/>defluxerint, in eumque statuantur, qui sit rerum creatarum limes. Ex quo intelligi
+      ma<lb ed="#F" n="12" break="no"/>xime potest, Theologiam perinde philosophiae, ac disciplinam militarem, armorum fa 
+      <lb ed="#F" n="13"/>ciendorum artificio fabrili comparari, quae a philosophia tanquam a pedissequa &amp;
+      ancil<lb ed="#F" n="14" break="no"/>la porrigente sumat: Est enim certa quaedam omnium scientiarum seruitus theologiae 
+      <lb ed="#F" n="15"/>famulantium. In quo quidem Pont. Max. si nostrorum theologorum ingenia repetemus. 
+      <lb ed="#F" n="16"/>iure uidebimur affirmare posse, plures in omni doctrinarum genere theologos 
+      <lb ed="#F" n="17"/>quam philosophos praestantes extitisse. Nam ut omittam totum illum priscum
+      theo<lb ed="#F" n="18" break="no"/>logorum coetum, quis erit ex omni grege philolophorum Alberto comparandus. 
+      <lb ed="#F" n="19"/>Num Xenocrates aut Theophrastus adducetur par: Ego enim utrumque ut solertem 
+      <lb ed="#F" n="20"/>naturae interpretem probo, sed neutrum tamem hac enudeata Alberti disciplina
+      to<lb ed="#F" n="21" break="no"/>lerabilem puto. Nam Empedodem. Democritum, aureas philolophorum pecudes, non 
+      <lb ed="#F" n="22"/>equidem audeam cum Alexandro aut Egidio Romano conferre. Nec enim
+      du<lb ed="#F" n="23" break="no"/>bitari debet si de principijs aut atomis in disceptationem ueniant, quin statim sint, 
+      <lb ed="#F" n="24"/>nostrorum contrario ictu casuri. Nec item uerendum est, si modo uel &amp;eno Elae 
+      <lb ed="#F" n="25"/>ates, oculos hominibus eruens, nihil usquam esse affirmet, uel Herillus ad scientiam 
+      <lb ed="#F" n="26"/>omnia reuocet, siue Academici quasi desperati, nihil certi esse probent, quin
+      sta<lb ed="#F" n="27" break="no"/>tim de sententia deturbati cadant, cum facillime modo eorum precaria fundamen 
+      <lb ed="#F" n="28"/>ta conuellantur. Nihiloque plus esset Aristippo &amp; Epicuro inter theologos
+      erudi<lb ed="#F" n="29" break="no"/>tos loci, quorum alter uoluptatem dulcedine sensum cientem probat, alter
+      uoluptati<lb ed="#F" n="30" break="no"/>atomos adijciens, ita Democriti obsoletam chlamydem tingendo exurit, ut ambu 
+      <lb ed="#F" n="31"/>sto pilo extantia fila appareant. At Pythagoras, Anaximenes, &amp;enophanes. Par 
+      <lb ed="#F" n="32"/>menides, qui nascentem philolophiam tanquam galli aduentantem solem cecinerunt,  
+      <lb ed="#F" n="33"/>ut grandes &amp; antesignani laudantur. Sed si modo alius animam commeantem, alius 
+      <lb ed="#F" n="34"/>aerem deum, alius infinitatem, alius coronam afferret, quam effuse Henricum. Herueum. 
+      <lb ed="#F" n="35"/>Godofredum, &amp; Gregorium Ariminensem cachinnaturos credimus: Quid de 
+      <lb ed="#F" n="36"/>enone. Ceante. Perseo. Chrysippo, &amp; de tota illa spinosa Stoicorum turba
+      pu<lb ed="#F" n="37" break="no"/>tandum esset, si <name xml:id="pc99ia-d1e246-Nd1e230">Aureolo</name>. <name xml:id="pc99ia-d1e246-Nd1e233">Durando</name>. <name xml:id="pc99ia-d1e246-Nd1e236">Petro Paludensi</name>, aut <name xml:id="pc99ia-d1e246-Nd1e239">Alphonso</name> persuadere 
+      <lb ed="#F" n="38"/>uellent, sapientis esse neque exorari neque leniri, nec a capitalibus ignoscibilia
+      crimi<lb ed="#F" n="39" break="no"/>na secernere, sed omnium peccatorum genera esse paria, nec minus sceleris patrare 
+      <lb ed="#F" n="40"/>qui formicam aut culicem sine causa, quam qui hominem occideret an dubitamus 
+      <lb ed="#F" n="41"/>quin essent a nostris eorum capita sine cymolia abluenda: At uero quis in omni 
+      <lb ed="#F" n="42"/>philosophia Platone abundantior, quis Aristotele ueracior: Ego enim sic
+      censeo<lb ed="#F" n="43" break="no"/>Platonis uelut solis interuentu exhilaratum esse mundum, disciplinam eius ut 
+      <!--038.xml-->
+      <pb ed="#F" n="13-r"/>
+               <lb ed="#F" n="1"/>uariam &amp; uberem, &amp; quasi Christiano quodam suctu tinctam laudo, sed uideo ex 
+      <lb ed="#F" n="2"/>eius tentorio Aristarchum philolophorum prodire Aristotelem, qui eam disciplinam 
+      <lb ed="#F" n="3"/>tanquam adamas adamantem scalpit. Ipsum autem Aristotelem quasi lapidem
+      ly<lb ed="#F" n="4" break="no"/>dium philolophorum probo. Quis enim uel rerum compressione crebrior, uel par 
+      <lb ed="#F" n="5"/>titione lucidior, siue robore neruosior, aut in ueri iudicio sanior reperiri potesta 
+      <lb ed="#F" n="6"/>Natura profecto haud perinde se interius introspicit, ut ipse ea manu prope
+      ex<lb ed="#F" n="7" break="no"/>terebrando contrectat. Sed quid dicendum est, si cum hoc naturae prodigio,
+      nostro<lb ed="#F" n="8" break="no"/>rum legionaria cohors aduersa concurrat: quid si bellator acer <name xml:id="pc99ia-d1e246-Nd1e277">Scotus</name> in coelitum 
+      <lb ed="#F" n="9"/>notitia, eum rationum nexu tanquam elephantem draco astringat: quid si lychnus
+      theo<lb ed="#F" n="10" break="no"/>logorum, <name xml:id="pc99ia-d1e246-Nd1e284">d. Thomas</name>, perinde eius endelechiam illudat, ac qui ex auripigmento au 
+      <lb ed="#F" n="11"/>rum conficere uolunt, irridentur: An ego aut subtilitate disputandi, aut
+      partien<lb ed="#F" n="12" break="no"/>di luce, aut altitudine rerum, d. Thomam Platoni, aut Aristoteli <name xml:id="pc99ia-d1e246-Nd1e292">Scotum</name> opponere non 
+      <lb ed="#F" n="13"/>audeam, uel alterutrum utrique: Ego uero neutrum, si reuiuisceret, negaturum putarem 
+      <lb ed="#F" n="14"/>se a nostris in omni scientiarum genere, uel aequatum, uel superatum iri. At uero mo 
+      <lb ed="#F" n="15"/>do serotini naturae foetus, Themistius. Porphyrius &amp; Aphrodiseus Alexander iu 
+      <lb ed="#F" n="16"/>re celebrantur: Quid si ex eadem Aristotelicorum armorum officina, Auerrominm S&amp; 
+      <lb ed="#F" n="17"/>
+               <name xml:id="pc99ia-d1e246-Nd1e306">Auicennam</name> duo philolophorum fulmina eduxero, omnia Arabum mapalia
+      uesti<lb ed="#F" n="18" break="no"/>garo, eumque coetum. PARISIVS theatrum &amp; domum doctrine deduxero:
+      nu<lb ed="#F" n="19" break="no"/>putandum est, non obuiam omne theologorum uenturum robur, non equitum turmas 
+      <lb ed="#F" n="20"/>non phalanges occursuras quae enim patefacto armamentario, uel hystrice
+      spino<lb ed="#F" n="21" break="no"/>sior. <name xml:id="pc99ia-d1e246-Nd1e318">G. Ochan</name>, uel ex <name xml:id="pc99ia-d1e246-Nd1e321">Scoti</name> sinu. E. Maro, siue Tragicus theologus <name xml:id="pc99ia-d1e246-Nd1e324">Riccardus
+        Vil<lb ed="#F" n="22" break="no"/>la</name>, iaculorum genera arriperent, si illis esset cum hac gralatorum philolophorum manu 
+      <lb ed="#F" n="23"/>confligendum : lam uero qua oppugnatione, copia <name xml:id="pc99ia-d1e246-Nd1e331">Landulphi</name>. <name xml:id="pc99ia-d1e246-Nd1e335">Argentini</name>
+      acu<lb ed="#F" n="24" break="no"/>men, audacia <name xml:id="pc99ia-d1e246-Nd1e340">Capreoli</name>, tela <name xml:id="pc99ia-d1e246-Nd1e343">Garronis</name>. <name xml:id="pc99ia-d1e246-Nd1e346">Pauli</name> astus, affluentia <name xml:id="pc99ia-d1e246-Nd1e349">Gannaci</name>, uel litera 
+      <lb ed="#F" n="25"/>tior solertia <name xml:id="pc99ia-d1e246-Nd1e355">Pici</name>, siue caeterorum recentium theologorum arma urgerent: qui non 
+      <lb ed="#F" n="26"/>modo omnia doctrinarum genera tanquam per cribrum farinarium secreuerunt, sec 
+      <lb ed="#F" n="27"/>etiam usque eo dilatarunt, ut longius mens humana progredi nullo modo possit 
+      <lb ed="#F" n="28"/>Quare Pontifex Maxime cum uiderem proprium esse seminis Christiani, omnium 
+      <lb ed="#F" n="29"/>gentium hominibus antecellere, dolebam nos in aliquo genere superari. nam cum 
+      <lb ed="#F" n="30"/>quodcunque esset ubique praeclarum, a nostris haustum &amp; ereptum uideretur, non 
+      <lb ed="#F" n="31"/>poteram non turpe iudicare, pati nos a quibusdam in doctrinarum genere
+      elo<lb ed="#F" n="32" break="no"/>quentia uinci . cum praesertim multa praestantia ob eloquentiae inopiam in Biblio 
+      <lb ed="#F" n="33"/>thecis obsolescere cernerem, quemadmodum multa saepe auri aut gemmarum
+      ge<lb ed="#F" n="34" break="no"/>nera, artificum egestate obteguntur siquidem humaniorum teretes &amp; superbae au 
+      <lb ed="#F" n="35"/>res, ad omnem sermonis asperitatem, tanquam ad labentis Nili fragorem
+      obsurde<lb ed="#F" n="36" break="no"/>scunt contra uero philolophi, qui dum uerborum splendorem ut amictum me 
+      <lb ed="#F" n="37"/>tiuntur, nec multum curant cuiuscemodi pamnno uestiantur, modo ita amicti
+      pro<lb ed="#F" n="38" break="no"/>deant, ut penulatos &amp; uestitos se esse intelligant, omnia uerborum ornamenta tan 
+      <lb ed="#F" n="39"/>quam putamina aduenticia aspernantur. Itaque Pont. Max. hoc ingressu
+      patefacto<lb ed="#F" n="40" break="no"/>perge cunctantes excitare promerendo, ut absolutius hoc copulandi cumuletur 
+      <lb ed="#F" n="41"/>munus nam quod est tibi natura insitum, ut semper ingeniorum sedulitati faueasi 
+      <lb ed="#F" n="42"/>id nunc tibi imperij magnitudo concedit, ut affluentius suffragari possis,
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

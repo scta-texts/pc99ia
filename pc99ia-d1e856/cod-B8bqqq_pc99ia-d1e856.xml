@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 2</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 2</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="4-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e856"><!-- l1d2 -->
+            <head xml:id="pc99ia-d1e856-Hd1e108">Distinctio 2</head>
+            <head xml:id="pc99ia-d1e856-Hd1e111" type="question-title">An Deus intelligi possit ab hominibus in vita</head>
+            <p xml:id="pc99ia-d1e856-d1e114">
+               <lb ed="#F" n="32"/>AN DEVS INTELLIGI POSSIT AEB 
+      <lb ed="#F" n="33"/>HOMINIBVS IN VITA. 
+      <lb ed="#F" n="34"/>DISTINCTIO SECVNDA. 
+      <lb ed="#F" n="35"/>SEd cum uniuersa theologiae contentio eo deducatur, ut parentis
+      re<lb ed="#F" n="36" break="no"/>rum dei agnitio eruatur, perquirendum quidem est, an ab hominum 
+      <lb ed="#F" n="37"/>um genere in uita itelligi possit deus. Prisci enim illi philosophi quasi deus 
+      <lb ed="#F" n="38"/>u esset quiddam semicospicuum, &amp; opinabile, dum comiecturis uaria imaginum 
+      <lb ed="#F" n="39"/>genera effingebant, satis se exploratam cognitionem adeptos opinabantur, si quid simu¬ 
+      <!--021.xml-->
+      <pb ed="#F" n="4-v"/>
+               <lb ed="#F" n="1"/>lacrum figulina creta conficerent, quod ad ueritatis similitudinem accederet. Si 
+      <lb ed="#F" n="2"/>quidem Anaximenes deum ab unguibus pingere exorsus, aerem putauit.
+      Parme<lb ed="#F" n="3" break="no"/>nides uero ad circuli similitudinem lima &amp; torno perpoliuit. At Pythagorae, ani 
+      <lb ed="#F" n="4"/>ma commeans uidetur naturae uniuersae fusa. &amp;enophon autem &amp; Plato philo 
+      <lb ed="#F" n="5"/>sophorum tympana tornant deum, affirmantes ex his quae sub cernendi sensum 
+      <lb ed="#F" n="6"/>cadant, nullum esse dei simulacrum sole similius. Stoicis uero auctore &amp;enone 
+      <lb ed="#F" n="7"/>deus Aether est uisus. quanquam ex his Cleantes solem. Chrysippus mundum
+      do<lb ed="#F" n="8" break="no"/>minari putet. At in omni natura uaferrimus auctor Aristoteles, cum ad dei
+      prae<lb ed="#F" n="9" break="no"/>hensionem consequendam claudicaret, conscientiae latibulo, dum non potest
+      in<lb ed="#F" n="10" break="no"/>gredi recta, flexu dedinat, nihilo sane longius pusillis &amp; argutis oculis
+      prospici<lb ed="#F" n="11" break="no"/>ens, quam humani obtutus natura pateretur. Epicurus autem quem ego Paridem
+      phi<lb ed="#F" n="12" break="no"/>losophorum uoco, deum atomorum nexu, quasi harenarum coagmentatione
+      com<lb ed="#F" n="13" break="no"/>stituit. idque ex Democriti pixide deprompsit. Reliquos autem philolophorum 
+      <lb ed="#F" n="14"/>anteambulones, qui tanquam statuam membratim funderent, mundum corpus, &amp; deum 
+      <lb ed="#F" n="15"/>mundi esse animam dixerunt, aut eos qui homines partes esse dei opinati sunt, 
+      <lb ed="#F" n="16"/>nihil attinet uocare hostiatim, cum satis notum sit eos omnes in dei natura pnoscent 
+      <lb ed="#F" n="17"/>da excubare somniantes. Nos uero negamus interminatam magnitudinem,
+      cir<lb ed="#F" n="18" break="no"/>cunscripta intelligentia percipi posse, cum circunscripti ad interminatum, nulla esse 
+      <lb ed="#F" n="19"/>possit decempedatrix collatio. Atque etiam nihil quod est definitum, circumscriben 
+      <lb ed="#F" n="20"/>tis finibus exit. Si igitur hominum intelligentia dei naturam perciperet, tum dei
+      na<lb ed="#F" n="21" break="no"/>tura, intelligentiae fines transilire non posset, quod fieri nullo modo potest. ergo 
+      <lb ed="#F" n="22"/>intelligi etiam potest, dei naturam ab intelligentia percipi non posse. Praeterea 
+      <lb ed="#F" n="23"/>omne specierum genus natura cognobile, quo alicuius rei natura pernoscitur, eam 
+      <lb ed="#F" n="24"/>repraesentando percipit at cum fieri nullo modo possit, ut a quapiam genita simili 
+      <lb ed="#F" n="25"/>tudine referatur deus, cum omne genitarum similitudinum genus, aliquo praefini 
+      <lb ed="#F" n="26"/>to genere circumscribatur, confitendum quidem est, fieri non posse, ut quapiam
+      simi<lb ed="#F" n="27" break="no"/>litudine genita pernoscatur deus. Etenim mens humana, naturae notione,
+      phan<lb ed="#F" n="28" break="no"/>tasmata tanquam obiecta contuetur, ex quibus, ut ait Aristoteles, cognobilium
+      simu<lb ed="#F" n="29" break="no"/>lacrorum genera euocat. Ex quo quidem intelligi necesse est quodcumque in uitae
+      cur<lb ed="#F" n="30" break="no"/>riculo percipitur, id specie a phantasmatum genere seuocata percipi. At cum nullum 
+      <lb ed="#F" n="31"/>eiusmodi specierum genus, uim ad dei naturam referendam nanciscatur, cum
+      na<lb ed="#F" n="32" break="no"/>tura sensilium rerum longissime a dei natura absit, perspicuum esse debet, naturae 
+      <lb ed="#F" n="33"/>notione nullo modo in uita ab hominum genere intelligi posse deum. Siquidem 
+      <lb ed="#F" n="34"/>quod est superioris naturae proprium, nunquam assequitur natura inferior, nisi
+      su<lb ed="#F" n="35" break="no"/>perioris actio consequatur, quemadmodum aqua nisi ignis actione non feruescit.
+      Prae<lb ed="#F" n="36" break="no"/>terea quodcunque ad id effertur, quod terminis naturae suae egreditur, necesse est, ut 
+      <lb ed="#F" n="37"/>illius habitu informetur, quod fines naturae suae transit. Quando enim dei abdita
+      ab<lb ed="#F" n="38" break="no"/>strusaque natura, ab hominum intelligentia percipitur, tum sit ipsa natura
+      intel<lb ed="#F" n="39" break="no"/>ligentiae forma cognobilis. Ex quo praedare intelligi potest informationem 
+      <lb ed="#F" n="40"/>supra intelligentiae complexum esse necessariam qua tanquam quodam
+      aestu<lb ed="#F" n="41" break="no"/>supra mortanlitatem intelligentia tollatur, quae quidem, gratia, non natura
+      pa<lb ed="#F" n="42" break="no"/>ratur. Sed deum esse, rationibus probari posse dicimus. Nam cum oculorum 
+      <!--022.xml-->
+      <pb ed="#F" n="5-r"/>
+               <lb ed="#F" n="1"/>
+               <!-- erroneous line -->
+               <lb ed="#F" n="2"/>approbatione rerum motum fateamur, rectissimis possumus motuum
+      rationi<lb ed="#F" n="3" break="no"/>bus indagare deum. Siquidem cum confirmemus quodcunquam agitatur, alieno 
+      <lb ed="#F" n="4"/>impulsum moueri, id ipsum quod primum mouet, quoniam alterius non agitatur
+      mo<lb ed="#F" n="5" break="no"/>tu(neque enim princeps motus esset, si ab alio impelli uideretur) fateri cogimur, ut 
+      <lb ed="#F" n="6"/>consistere, aut se ipsum agitare dicatur. nam si alieno impulsum moueretur, necesse 
+      <lb ed="#F" n="7"/>esse dicimus, id quoque a quo impellitur, ab alio antegrediente moueri, &amp; rursum 
+      <lb ed="#F" n="8"/>aliud ab alio impelli, ex quo effici, ut in infinitum sit progressura excursio. Neque 
+      <lb ed="#F" n="9"/>enim unquam orsum primum inueniri posse affirmamus, si id quod putatur
+      primum<lb ed="#F" n="10" break="no"/>aliud semper antecedere dicatur. Praeterea scientius, exquisitiusque rationes
+      colli<lb ed="#F" n="11" break="no"/>gimus, quicquid agitatur, alieno concitum impulsum moueri, &amp; in impellentibus 
+      <lb ed="#F" n="12"/>&amp; pulsis in interminatum excurri nullo modo posse quodquidem hoc modo con 
+      <lb ed="#F" n="13"/>nectimus. Si quicquam suapte ui agitatur, necesse est aut habeat motionis suae
+      or<lb ed="#F" n="14" break="no"/>sum, aut alio impellente agitetur necesse est etiam ut suapte ui, non nutu partis im 
+      <lb ed="#F" n="15"/>pellantur, quemadmodum animantia pedum ingressum mouentur, quod si ita esset,
+      fa<lb ed="#F" n="16" break="no"/>cile sequi posset, non integritatem suapte ui, sed partem aliquam moueri, quod etiam 
+      <lb ed="#F" n="17"/>confitendum est sectile esse &amp; diuiduum, partibusque contineri. cum sectile sit, quod 
+      <lb ed="#F" n="18"/>cunque mouetur. Quo constituto illud arripimus, quicquid ex se agitari dicatur. 
+      <lb ed="#F" n="19"/>id intelligi debere primo esse motum. itaque ut pars una feriata consistat, totius 
+      <lb ed="#F" n="20"/>quies &amp; otium insequitur, nam si una torpescente agitaretur altera, tum minime 
+      <lb ed="#F" n="21"/>putandum uideretur, totum primum esse impulsum, sed partem eius fuisse agitatam, quae 
+      <lb ed="#F" n="22"/>altera consistente, moueretur, nihil autem consistens deside &amp; torpescente
+      altero<lb ed="#F" n="23" break="no"/>suopte nutu agitatur ex quo connecti potest, ab alio impelli quodcumque mouetur. 
+      <lb ed="#F" n="24"/>Deinde etiam adiungimus, que in impellentibus &amp; pulsis, in infinitum nullo modo 
+      <lb ed="#F" n="25"/>indagatio decurrat. nam si in infinitum cursus manaret, necesse esset ut impellen 
+      <lb ed="#F" n="26"/>tia &amp; pulsa, innumerabilia corpora putarentur quando quidem quodcunque mo 
+      <lb ed="#F" n="27"/>uetur, sectile sit, &amp; corpus, omne autem corpus impellens, pariter dum mouet
+      agi<lb ed="#F" n="28" break="no"/>tatur. igitur omnia infinita impulso uno mouerentur, at cum unum eorum sit 
+      <lb ed="#F" n="29"/>circumscriptione definitum, praecare patet id circumscripto tempore moueri. ex 
+      <lb ed="#F" n="30"/>quo sciri potest, caetera etiam tempore definito impelli, quod fieri nullo modo 
+      <lb ed="#F" n="31"/>potest. ergo fieri etiam non potest ut in impellentibus &amp; pulsis, in infinitum
+      pro<lb ed="#F" n="32" break="no"/>gressio dimanet. Eodemque modo rationes inducimus de ijs quae aut
+      aduenticio<lb ed="#F" n="33" break="no"/>aut ui, aut instrumento mouentur, infinitaque argumentationum genera
+      colligi<lb ed="#F" n="34" break="no"/>mus, quibus rectissime probatur, aliena impulsione moueri, quaecunque
+      mouen<lb ed="#F" n="35" break="no"/>tur cum autem sub cernendi sensum cadat, sidera moueri, fatendum esse dicimus 
+      <lb ed="#F" n="36"/>ea afieno impulsum moueri. Si uero molitor &amp; auctor motus non mouetur,
+      necessa<lb ed="#F" n="37" break="no"/>rio probamus, aliquem constituendum esse agitatorem immobilem si mouetur, aliquo 
+      <lb ed="#F" n="38"/>impellente moueri, aut in infinitum emanaturam indagationem putamus, aut aliquem 
+      <lb ed="#F" n="39"/>statorem impulsorem exquirendum. Sed quoniam perabsurda est in infinitum inqusitio, no 
+      <lb ed="#F" n="40"/>cessario affirmamus aliquem agitatorem immobilem, initium &amp; fontem esse motus, quem 
+      <lb ed="#F" n="41"/>deum esse homines coacti fateantur . Eodemque modo cum fieri non posse uideamus ut qucquam 
+      <lb ed="#F" n="42"/>ex se omnino gignatur, multaque cernamus eodem concurrere, &amp; alia ab alijs superari,
+      ne<lb ed="#F" n="43" break="no"/>cessario nobis existimandum dicimus, ut aut in, infinitum emanaturam progressionem, 
+      <!--023.xml-->
+      <pb ed="#F" n="5-v"/>
+               <lb ed="#F" n="1"/>aut aliquam principem causam exqrendam arbitremur, quo sit uniuersitatis
+      generatrix<lb ed="#F" n="2" break="no"/>Quinetiam cum agnoscamus ratione uacantia, constantissimo, &amp; certo quodam ordine 
+      <lb ed="#F" n="3"/>progredi, quod quidem casu fieri non posse scimus, cum continuata, eademque semper 
+      <lb ed="#F" n="4"/>fere constantia progrediantur, ad ultimum statuere cogimur, id ab aliqua mente 
+      <lb ed="#F" n="5"/>oriri, quae sit moderatrix, &amp; rectrix rati ordinis naturae, quam deum esse concedendum 
+      <lb ed="#F" n="6"/>sit. Itaque quamquam sensilium rerum notione nullo modo percipi dei natura possit, eo 
+      <lb ed="#F" n="7"/>tamen effectuum ab eo manantium agnitione progredimur, ut illa naturae
+      ratio<lb ed="#F" n="8" break="no"/>ne pernoscamus, quae ei congruere necessario uideantur. Siquidem perfacile
+      nege<lb ed="#F" n="9" break="no"/>mus parentem rerum deum corporea natura constare nam omne corpus, nullo
+      mo<lb ed="#F" n="10" break="no"/>do mouetur, nisi externo agitatu impellatur cum autem deum statorem, esse impul 
+      <lb ed="#F" n="11"/>sorem supra sit probatum a nobis, in promptu uideri debet asomaton esse eum 
+      <lb ed="#F" n="12"/>ut Graeci dicunt, &amp; corporea natura uacare. Nec item eum ulla coagmentatione con 
+      <lb ed="#F" n="13"/>cretum esse dicimus cum quodcumque comnectitur, necesse sit aliquo omnino
+      coagmen<lb ed="#F" n="14" break="no"/>tatore egere. atque etiam quicquid est coagmentatum &amp; structum, euerti &amp;
+      labe<lb ed="#F" n="15" break="no"/>factari potest deus autem labefactari nullo modo potest. Nam quidquid
+      gigni<lb ed="#F" n="16" break="no"/>tur, naturam habet patibilem, commutationis &amp; motus cum autem deus nullo
+      mo<lb ed="#F" n="17" break="no"/>do moueatur, intelligi maxime potest, eum esse aeternum, orsu &amp; fine uacantem. 
+      <lb ed="#F" n="18"/>Ex quo etiam ratione certa colligitur, deum nullo potentiae nexu deuinciri, cum quod 
+      <lb ed="#F" n="19"/>cunque potentia continetur, alicui sit herili naturae subiectum . at cum deus princeps 
+      <lb ed="#F" n="20"/>causa dicatur, nullum nancisci potest praesidentem herum . igitur nec ulla potentia 
+      <lb ed="#F" n="21"/>continetur, sed simplex est, &amp; puritate pollens actus. Nec est item eius naturae ullum 
+      <lb ed="#F" n="22"/>materiae genus admixtum quando quidem materia initium agendi nullo modo 
+      <lb ed="#F" n="23"/>dicatur, Rectissime quoque probatur minime eum aduenticia pati. siquidem sui pol 
+      <lb ed="#F" n="24"/>lens, &amp; existens natura perose, nullius est particeps, quod non sit suaptae naturae pro 
+      <lb ed="#F" n="25"/>prium, quae sui par, suique similis existit. Quod cum ita sit, necesse est nullius quoque 
+      <lb ed="#F" n="26"/>corporis esse formam proptereaque nullius esse naturae potest, quae non eius esse 
+      <lb ed="#F" n="27"/>naturae dicatur. Ergo nec fieri ullo modo potest, ut alterius corporis forma
+      uidea<lb ed="#F" n="28" break="no"/>tur, nam omnis existens natura per se, omnino ea praestantior uideri debet, cuius 
+      <lb ed="#F" n="29"/>natura in altero consistit at cum omnis alterius corporis forma in altero nitatur, 
+      <lb ed="#F" n="30"/>praedare sciri potest principem causam alterius corporis esse formam nullo
+      mo<lb ed="#F" n="31" break="no"/>do posse. In quo quidem facile superiorum Philolophorum ueternum agnoscitur 
+      <lb ed="#F" n="32"/>qui dum princeps initium materia praeditum uolunt, non intelligunt se deo
+      ab<lb ed="#F" n="33" break="no"/>solutionem expletam adimere cum princeps initium materia praeditum, longisi 
+      <lb ed="#F" n="34"/>sime ab absolutione absit. Sed nos cum deum maxime in actu uersari dicamus, 
+      <lb ed="#F" n="35"/>intelligi etiam uolumus, cumulata eum absolutione expleri. Nec minus est eorum 
+      <lb ed="#F" n="36"/>philosophorum minuendus adeps, qui quanquam quod esset interminatum, deum 
+      <lb ed="#F" n="37"/>esse censerent, non tamen uidebant aeque se in infinitate, ac in principis initij
+      na<lb ed="#F" n="38" break="no"/>tura labi. Nam cum id materia praeditum efficerent, ei infinitatem quoque
+      mate<lb ed="#F" n="39" break="no"/>riae compotem annecti uolebant, affirmantes aliquod omnino corporis
+      intermi<lb ed="#F" n="40" break="no"/>nati genus initium &amp; fontem esse rerum. At nos cum dei naturam in altero
+      nul<lb ed="#F" n="41" break="no"/>lo modo niti, sed existentem per se, suique pollentem uideamus, facile intellectu 
+      <lb ed="#F" n="42"/>esse dicimus, eum interminatum debere credi¬ 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

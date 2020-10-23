@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 4</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 4</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="41-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e862"><!-- l4q5 -->
+            <head xml:id="pc99ia-d1e862-Hd1e108">Distinctio 4</head>
+            <head xml:id="pc99ia-d1e862-Hd1e111" type="question-title">De sacramento ordinis</head>
+            <p xml:id="pc99ia-d1e862-d1e114">
+               <lb ed="#F" n="16"/>DE SACRAMENTO ORDINIS 
+      <lb ed="#F" n="17"/>DISTINCTIO <sic>QVARTA</sic>. <!-- actually 5 (i think ) --> 
+      <lb ed="#F" n="18"/>Taque quoniam cuncta sacrorum genera persequimur, restare deinceps 
+      <lb ed="#F" n="19"/>uidetur, ut de ordinis sacro dicatur. In quo quidem fateri cogimur 
+      <lb ed="#F" n="20"/>opificem, &amp; effectorem mundi deum, opera ad sui simulacrum aedere 
+      <lb ed="#F" n="21"/>uoluisse ut absoluerentur. Quamobrem ne eiusmodi decori species se 
+      <lb ed="#F" n="22"/>natui deesset, eam est in ordines, tanquam in membrorum quaedam genera partitus, ut 
+      <lb ed="#F" n="23"/>essent qui stata sacra obirent, eaque more rituque caeteris praeberent. Ex quo praecla 
+      <lb ed="#F" n="24"/>re dux sententiarum ait, ordinis sacrum, signum quoddam esse senatus, quo spiritus in 
+      <lb ed="#F" n="25"/>perium initiato tribuatur. Quam quidem definitionem diuus Thomas maxime
+      pro<lb ed="#F" n="26" break="no"/>bat, affirmans mirifice ordini consentaneam uideri, quatenus scilicet senatus sacus 
+      <lb ed="#F" n="27"/>dicatur. Sed in eadem curuli sella consessor <name xml:id="pc99ia-d1e862-Nd1e147">Scotus</name>, negat eiusmodi sacrum spiri 
+      <lb ed="#F" n="28"/>tus imperium ad actum quempiam in senatu nancisci. cum quo ab Aquinatibus 
+      <lb ed="#F" n="29"/>summa contentione pugnatur, in qua quidem re utrumuis concedi potest Sed na 
+      <lb ed="#F" n="30"/>tam controuersiam est, utrum in eo qui in ordines cooptetur, uitae sit flagitanda
+      pro<lb ed="#F" n="31" break="no"/>bitas, in quam sane quaestionem multi cum arcessuntur, negligenter ut sunt
+      amicti<lb ed="#F" n="32" break="no"/>prodeunt . Itaque quempiam ob sacrorum partitionem initiari dicunt. sed cum sacra affii 
+      <lb ed="#F" n="33"/>ment aeque probos ac improbos dispertiri posse, facile intellectu esse, uitae non esse 
+      <lb ed="#F" n="34"/>postulandam probitatem. Quibus responderi debet, in quocumque sacrorum ordine, dum 
+      <lb ed="#F" n="35"/>quis caeteris dux constituitur, eum in quocunque genere impudenter delinquere, si 
+      <lb ed="#F" n="36"/>modo cum capitalis facinoris morsum initietur, ob eamque causam in ordinum genere 
+      <lb ed="#F" n="37"/>edicti non sacri necessitate, uitae integritatem flagitari. Cui quidem sententiae ita 
+      <lb ed="#F" n="38"/>funt nonnulli assensi, ut initiatum tamen censeant, legis commentariorumque sacro 
+      <lb ed="#F" n="39"/>rum gnarum esse oportere siquidem eum legis peritum esse debere opinantur 
+      <lb ed="#F" n="40"/>cuius ex ore, ius fasque religiomnis hauritur. Atque cum lex diuo Matthaeo auctore, ex
+      flami<lb ed="#F" n="41" break="no"/>nis ore haurienda sit, in promptu esse, flaminem fegis debere nauiter eem peritum. Nos 
+      <lb ed="#F" n="42"/>veo in quocumque hominum actu, si ad ratam ordis mensionem referamur, ronis amussim iesse 
+      <!--095.xml-->
+      <pb ed="#F" n="41-v"/>
+               <lb ed="#F" n="1"/>oportere dicemus, quo constituto, fatendum esse affirmamus, flaminem quo 
+      <lb ed="#F" n="2"/>ordinum munia exequatur, tantum legis debere nosse, quantum sit ad eius ordinis 
+      <lb ed="#F" n="3"/>actum ineundum satis. Sed permagni refert, quot ordinum genera numerentur. 
+      <lb ed="#F" n="4"/>Plaerique enim quibus est inter theologos eruditos locus, multu negotij sibi contra 
+      <lb ed="#F" n="5"/>hunt, dum nominatim ianitorem, uaticiniorum praecentorem, anagnosten, exorcistam 
+      <lb ed="#F" n="6"/>hypodiaconum, acolythum, diaconum, &amp; pontificem in ordinum uarietate recensent, 
+      <lb ed="#F" n="7"/>At sententiarum principi syncaero, &amp; grandi theologo, septem ordinum genera esse 
+      <lb ed="#F" n="8"/>placet, quod idem diuo Thomae placere sensi, eique maxime Riccardus assentitur, 
+      <lb ed="#F" n="9"/>quem in summis theologis habitum uidemus. Idquam etiam ratione, probatur,
+      nam<lb ed="#F" n="10" break="no"/>cum eiusmodi sacrum ob eucharistiae statutum sacrificium, inuentu dicatur, abesse 
+      <lb ed="#F" n="11"/>non potest quin ministri quoque aedesque sacrentur. Quae quidem sacratio, ordinis 
+      <lb ed="#F" n="12"/>sacrum nominatur, quaeque uim obtinet eiusmodi eucharistiae conficiendi sacri, 
+      <lb ed="#F" n="13"/>ministrosque initiandi candidatos. Eius autem muneris est descriptio duplex siqui 
+      <lb ed="#F" n="14"/>dem sacratio ad flaminem, obsequium autem ad ministrum, pertinet. Itaque diaconi
+      pro<lb ed="#F" n="15" break="no"/>prium munus est ad parationem, non ad sacrationem litanti flamini suppeditare. Hy 
+      <lb ed="#F" n="16"/>podiaconi autem certum est, &amp; definitum ius, cum litatur, libum in poculis, &amp;
+      dona<lb ed="#F" n="17" break="no"/>ria aris inferre similisque est prope Acolythi descriptio, qui libum offert, ac uinarium 
+      <lb ed="#F" n="18"/>simpuuium, gutturniumque aquarium praeparat ad sacrum. At obsequium quod ad 
+      <lb ed="#F" n="19"/>libantium cultum flagitatur, rectissime contra tabificos inquinatosque institutum
+      pu<lb ed="#F" n="20" break="no"/>tatur. Quorum quidem triplex est genus, unum quod inficianti perfidia ad
+      creden<lb ed="#F" n="21" break="no"/>dum obcalluit, cui generi quoniam ita interdictum est, ut non modo eorum congressus. 
+      <lb ed="#F" n="22"/>sermonesque uitentur, sed etiam a delubri aditu arceantur, ob eam causam ianitores
+      op<lb ed="#F" n="23" break="no"/>ponuntur. Alterum genus est eorum, qui quamquam uehementer credendi studio flagrent 
+      <lb ed="#F" n="24"/>adiumentis tame, instrumentisque credendi carent. Itaque ob id anagnostae,
+      instituen<lb ed="#F" n="25" break="no"/>dique magistri adhibentur, quorum traditione ad credendi studium instituantur. 
+      <lb ed="#F" n="26"/>Tertium genus eorum est qui fidenter &amp; plane bene instituti sunt, sed carnificis
+      dae<lb ed="#F" n="27" break="no"/>monis nexu obstricti tenentur, contra quos armatus exorcista prodit, qui
+      uincu<lb ed="#F" n="28" break="no"/>cula fando dissoluit, inquilinumque daemonem ex aliena domo deturbat. Atque etiam 
+      <lb ed="#F" n="29"/>idem de initiantium potestate perquiritur. Plaerique enim qui nondum latum dlauum 
+      <lb ed="#F" n="30"/>in Theologia sumpserunt, negant, ad solum potetificem initiandi munus pertine 
+      <lb ed="#F" n="31"/>re proptereaque dum sacerdotijs comitijs candidatus flamen initiatur, non modo 
+      <lb ed="#F" n="32"/>a potestifice, sed etiam a flaminum collegio manum attingitur, ex quo intelligi dicunt,  
+      <lb ed="#F" n="33"/>haud soli pontifici ius initiandi dari. Sed praesto est praeclarus auctor Riccardus 
+      <lb ed="#F" n="34"/>qui pontificis manus coniectum, initiandi ius habere confirmat, flaminum autem 
+      <lb ed="#F" n="35"/>iniectum, sodalitatem, consociatamque concordiam indicare. Quo loco haud secus 
+      <lb ed="#F" n="36"/>dicimus pontificis potestatem, ac politicam, in inferiori ordine uersari, quae ut ait 
+      <lb ed="#F" n="37"/>Aristoteles inferiori generi praescribit uiuendi modum, quomodo scilicet
+      quis<lb ed="#F" n="38" break="no"/>que, quousque, &amp; quas uitae actiones persequi debeat. Qua similitudine, pontificis 
+      <lb ed="#F" n="39"/>permagni interesse affirmamus, quosdam ad sacra conficiunda adhibere, in quos 
+      <lb ed="#F" n="40"/>ius confirmandi nanciscatur, quod cum ita sit, intelligi etiam debet, ius ei in assisterio
+      ui<lb ed="#F" n="41" break="no"/>ginum initiandarum dari. Ob eamque causam contentio accidit, num potestifex qui in
+      haere<lb ed="#F" n="42" break="no"/>seos latrina coenum uolutatu colligat, ius initiandi nanciscatur, Multi deum dicunt, 
+      <!--096.xml-->
+      <pb ed="#F" n="42-r"/>
+               <lb ed="#F" n="1"/>principem esse initiandi causam, initiantem autem uim instrumenti consequi.
+      At<lb ed="#F" n="2" break="no"/>qui cum instrumenti uis feriata consistat, nisi principi agitatori amnectatur,
+      persua<lb ed="#F" n="3" break="no"/>sum esse uolunt, pontificem nullo modo ius cooptandi consequi, nisi in initiando 
+      <lb ed="#F" n="4"/>auctori rerum deo copuletur. At cum perduellionem pontificem deo negent in
+      ini<lb ed="#F" n="5" break="no"/>tiando iugari, concedi necesse esse affirmant, eum initiandi ius nullo modo
+      conse<lb ed="#F" n="6" break="no"/>qui. Quod disiectum argumenti genus, Riccardus celerius gypso agglutinari
+      pu<lb ed="#F" n="7" break="no"/>tat, si arctius ratione astringatur, quaeraturque utrum perduelliones pontifices ad 
+      <lb ed="#F" n="8"/>senatus praescriptum initiati sint si initiatos fuisse negent, perfacile respondet 
+      <lb ed="#F" n="9"/>eos nec pontifices debere dici, nec naucisci ius initiandi, si autem initiati dicantur. 
+      <lb ed="#F" n="10"/>consentaneum esse eos pontifices nominari. sed ijs muneris potestatem ademptam esse
+      fa<lb ed="#F" n="11" break="no"/>retur quando quidem eiusmodi perduellionum generi, ita pontificia execratione 
+      <lb ed="#F" n="12"/>interdicatur, ut ijs omnis muneris potestas adimatur, quod cum ita sit, effici
+      di<lb ed="#F" n="13" break="no"/>cit eos nullum nancisci initiandi ius. Ex quo est data causa cur nonnulli pontificem 
+      <lb ed="#F" n="14"/>perduellionem si postliminio redierit, in collegium recipi iterum debere negent. 
+      <lb ed="#F" n="15"/>Id si ita est, fatendum esse, his nullo modo adimi initiandi ius. Diuus autem Tho 
+      <lb ed="#F" n="16"/>mas permagni aestimans quorsum euasurus sit, haud his ius initiandi, sed gratiam 
+      <lb ed="#F" n="17"/>adimit . idque non infirmitate sacri, sed candidatorum scelere, accidere opinatur,
+      qui<lb ed="#F" n="18" break="no"/>senatus iniussu initiari uolunt . Eodemque modo de exauctoratorum genere dispu 
+      <lb ed="#F" n="19"/>tatur. Quamquam interim de munerali ambitu, quam simoniam uocant nascitur cen 
+      <lb ed="#F" n="20"/>tamen, inquiriturque primo, num qui eiusmodi ambitus postulantur, exleges no 
+      <lb ed="#F" n="21"/>minandi sint. Quibusdam enim placet eiusmodi ambitum ignoratione excusa 
+      <lb ed="#F" n="22"/>ri quando quidem accidere posse dicant, ut quis inscius initietur, ambituque obre 
+      <lb ed="#F" n="23"/>pat ad ordines, qui exlex nullo modo nominandus sit. Contra quos Riccardus 
+      <lb ed="#F" n="24"/>ex subsellijs in rostra descendit affirmans omnino eum exlegem debere putari 
+      <lb ed="#F" n="25"/>quandoquidem ita sancitum sit, ne quis qui muneralis ambitus postuletur Pont 
+      <lb ed="#F" n="26"/>Max. iniussu, aut sine consignantis diplomatibus initiari possit quamquam id intelligi de 
+      <lb ed="#F" n="27"/>bere opinatur, si sciens pepigerit, ob idque nummos persoluerit proptereaque si
+      eo<lb ed="#F" n="28" break="no"/>imprudente nomina facta sunt, ut initiaretur, quamquam ordine &amp; munijs abire cogatur 
+      <lb ed="#F" n="29"/>quoad id Pont. Max. instauratitia uenia ratum habeatur, negat tamem eum exle 
+      <lb ed="#F" n="30"/>gem debere credi
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

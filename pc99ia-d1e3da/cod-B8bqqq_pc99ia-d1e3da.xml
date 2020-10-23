@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prooemium</title>
+        <author ref="#per-b3aq1a">Paolo Cortese</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prooemium</title>
+          <date when="2020-10-23">October 23, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#F" n="0-r"/>
+        <cb ed="#F" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="pc99ia-d1e3da"><!-- proem -->
+        <head xml:id="pc99ia-d1e3da-Hd1e108">Prooemium</head>
+        <p xml:id="pc99ia-d1e3da-d1e111"><!--001.xml-->
+          <!--012.xml-->
+          <pb ed="#F" n="0-r"/>
+          <lb ed="#F" n="1"/>IN albo disciplinarum quae humanum intellectum 
+          <lb ed="#F" n="2"/>perficere natae sunt, Theologiam primas sibi uen 
+          <lb ed="#F" n="3"/>dicare, reliquarumque scientiarum absolutricem
+          coro<lb ed="#F" n="4" break="no"/>nidem existere, uel e triuijs ignorat nemo. Per 
+          <lb ed="#F" n="5"/>quas ueluti gradus quosdam cum sit ad hanc in supremo
+          fasti<lb ed="#F" n="6" break="no"/>gio sessitantem perueniendum, quotusquisque dum ascendere
+          pa<lb ed="#F" n="7" break="no"/>rat, non statim auertitur, neutiquam ab ipsa Theologia
+          genui<lb ed="#F" n="8" break="no"/>no suo splendore micantissima, sed uestitus barbarie
+          deter<lb ed="#F" n="9" break="no"/>ritus, qua uel Lucianicam illam <foreign>ἑρμογλύφικημ</foreign> situ &amp; squalore
+          exu<lb ed="#F" n="10" break="no"/>peret, cuius in Insomnio suo Samosatenus rabula festiuissi 
+          <lb ed="#F" n="11"/>me meminit. Nec id ab re. Etenim in pulchrorum amorem
+          cien<lb ed="#F" n="12" break="no"/>te sic nos natura propensiores sumus, quae minus speciei habent 
+          <lb ed="#F" n="13"/>ualere sinentes. Atque hinc meherde proficiscitur ut pauciusculi 
+          <lb ed="#F" n="14"/>Theolooiae studijs se mancipent, dum illi a quibus priusquam 
+          <lb ed="#F" n="15"/>adyta subeant, uelut ab aeditimis excipiuntur, tanta infantia
+          bal<lb ed="#F" n="16" break="no"/>butiunt, ut auditores statim nauseabundi fatiscant, crassas
+          ipso<lb ed="#F" n="17" break="no"/>rum dedoctiones aspernati. Quanquam non negauerim eos qui 
+          <lb ed="#F" n="18"/>cautim progressi fuerint, primordijs inuolutissimis extricatos 
+          <lb ed="#F" n="19"/>quae tamen clarius doceri &amp; possent &amp; deberent, ueluti stagno 
+          <lb ed="#F" n="20"/>quopiam transmisso, in amoenissimum florulentumque Theologiae 
+          <lb ed="#F" n="21"/>pratum deduci. Complurium enim recentioris aetatis
+          Theologo<lb ed="#F" n="22" break="no"/>tum copiosos commentarios, haud absone quis uiae itu diffici 
+          <lb ed="#F" n="23"/>liori comparauerit, eos sane qui <foreign>περί τά ἀωούδασα</foreign> aetatem terere non 
+          <lb ed="#F" n="24"/>instituissent, ad arcem Christianae eruditionis prouehenti. At 
+          <lb ed="#F" n="25"/>cum per multos sciam mollibus adeo pedibus praeditos, ut
+          mi<lb ed="#F" n="26" break="no"/>nima etiam asperitate offendantur, nec item desint qui uel
+          leui<lb ed="#F" n="27" break="no"/>culo dispendio magnum quantumuis compendium adsequi nolint, 
+          <lb ed="#F" n="28"/>summopere mihi placent hij, qui plano calle &amp; herboso,
+          stu<lb ed="#F" n="29" break="no"/>diosos eo ducunt, quo illi per salebras &amp; crepidines trahunt. 
+          <lb ed="#F" n="30"/>Proinde deum opt. max. obsecrabundus saepe precatus sum, ut 
+          <lb ed="#F" n="31"/>Sententiarum libros quos uocant, ob praestantiam &amp; utilitatem 
+          <lb ed="#F" n="32"/>semper in manibus habendos, aliquis tandem e doctis supremae 
+          <lb ed="#F" n="33"/>notae, adiunctis neotcricorum opinionibus, quo omnibus fieret sa 
+          <!--013.xml-->
+          <pb ed="#F" n="0-v"/>
+          <lb ed="#F" n="1"/>tis, cultiori stilo dolaret. Et ecce nuper, deo sit gratia. Chuonradus Peutinger in 
+          <lb ed="#F" n="2"/>clytae ciuitatis Augustae archigrammateus, &amp; MAXIMILIANI Caesaris a cnosilio, 
+          <lb ed="#F" n="3"/>Pauli Cortesij Theologumenon sententiarum opus ad me misit. In quo plane
+          du<lb ed="#F" n="4" break="no"/>bius sum quid primo admirer, stili ne exquisitissimam elegantiam, an potius diuinum 
+          <lb ed="#F" n="5"/>hominis doctissimi ingenium, tam belle uarias ac dissidentes Theologorum opinio 
+          <lb ed="#F" n="6"/>nes tamquam breuiter describentis &amp; id quidem sic aperte, ut ad aliud nihil praeter
+          com<lb ed="#F" n="7" break="no"/>munem studiosorum utilitatem, dum haec conderet, spectasse uideatur . ideoque in eum illud 
+          <lb ed="#F" n="8"/>quadrantissime conueniat dicere, quod Lysis de Pythagora refert hijs uerbis, 
+          <lb ed="#F" n="9"/>ου γυ κιϐδήλους ἔυεπορεύεα λόγους, οὐ πάγας αἴς πολλλοί την σοφιςὤμ τώς νέως ἐμωλέκοντι, πο¬ 
+          <lb ed="#F" n="10"/>τὀὐ δέμ κρήγυομ χολάξοντες ἀλλά θείωμ τέ ζ ἀνθρωπίνωμ πραγμάτωμ ημ ἐπιςάμωμ. Non enim,
+          in<lb ed="#F" n="11" break="no"/>quit, adulterinis &amp; uanis negociabatur sermonibus, neque tendiculis, quibus mul 
+          <lb ed="#F" n="12"/>ti sophistae adulescentes irretiunt, nunquam frugi rebus incumbentes sed
+          diuina<lb ed="#F" n="13" break="no"/>rum humanarumque rerum scius erat. Porro strenuam operam dedit, ut Theologiam a 
+          <lb ed="#F" n="14"/>foeda barbarie adsereret, uiamque ostenderet qua subsidua Theologicorum librorum 
+          <lb ed="#F" n="15"/>supellex omnis expoliri possit, quod plurimi hactenus impossibile rati, illud iam 
+          <lb ed="#F" n="16"/>falso opinari desinent, cum hoc opus uel semel introspexerint. Quare in primis Pa 
+          <lb ed="#F" n="17"/>risiorum Academia Athenae Christiani imperij. Paulum Cortesium Theologicae rei 
+          <lb ed="#F" n="18"/>uindicem, de se, si unquam alius, optime meritum, suae Sorbonae non temporarium, sed
+          per<lb ed="#F" n="19" break="no"/>petuum inquilinum asciscat. Suscipiant quoque obuijs ulnis Pictauienses.
+          Andegauen<lb ed="#F" n="20" break="no"/>ses, Tholosani, Cadomenses. Legant Hispani philolophiae &amp; sacris literis
+          deditis<lb ed="#F" n="21" break="no"/>simi. In Germania Colonieses, Viennenses, Louanienses, Treuerenses, Lipsicenses, 
+          <lb ed="#F" n="22"/>Cracouienses. Erfordiani. Heidelbergenses. Chrysopolitani, Friburgenses,
+          Magum<lb ed="#F" n="23" break="no"/>tini, Tubingenses. Basilieses, Albiburgenses, &amp; Francofordienses, si Ro. agnoscunt
+          im<lb ed="#F" n="24" break="no"/>perium (quod a Magni Charoli temporibus penes Germanos semper fuit)
+          Corte<lb ed="#F" n="25" break="no"/>sium ut Romanum &amp; latialem Theologum ubique ciuitate donent, fauore prosequantur, 
+          <lb ed="#F" n="26"/>&amp; colant. Neque uero non admonitos praeterierim Britannos a Germanis originem 
+          <lb ed="#F" n="27"/>ducentes, cultiorum literarum studiosissimos, quamquam illis adhortatione nihil opus est, 
+          <lb ed="#F" n="28"/>usis iampridem optimo in literis praeceptore Erasmo nostro Roterodamo, cuius 
+          <lb ed="#F" n="29"/>imaturum obitum &amp; rei literariae dispendiosum, dici non potest quam feram acerbe. Sed 
+          <lb ed="#F" n="30"/>haec forsan fusius iusto. Vos itaque melioris eruditionis candidati, quod summe 
+          <lb ed="#F" n="31"/>precamur, eloquentiam cum sacrorum scientia copulate, id quod tum facile a uobis fi 
+          <lb ed="#F" n="32"/>et, cum Cortesium &amp; huius similes frequentissime euoluetis &amp; decentibus approba 
+          <lb ed="#F" n="33"/>tisque loquendi formulis inter disceptandum cottidie utemini. Multum enim potest 
+          <lb ed="#F" n="34"/>in literarijs congressioribus mutua ad bene dicendum excitatio, multum creber usus. 
+          <lb ed="#F" n="35"/>siquidem &amp; puteos aiunt hauriendo meliores fieri, ut ad Eustathium testatus est
+          Ma<lb ed="#F" n="36" break="no"/>gnus Basilius sic graece scribens, καί γας τά φρέατα φασίμ ἀντλούμενα, βελτίω γίνεσθαι. Et 
+          <lb ed="#F" n="37"/>Beatum uestrum amate, qui studiosis omnibus semper gratificari cupit. Bene Valete 
+          <lb ed="#F" n="38"/>Basileae Rauricorum ad Eid. Augusti. AN. M. D XIII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

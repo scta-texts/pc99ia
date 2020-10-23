@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 4</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 4</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="7-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e143"><!-- l1d4 -->
+            <head xml:id="pc99ia-d1e143-Hd1e108">Distinctio 4</head>
+            <head xml:id="pc99ia-d1e143-Hd1e111" type="question-title">De Ideis</head>
+            <p xml:id="pc99ia-d1e143-d1e114">
+               <lb ed="#F" n="22"/>DE IDEIS 
+      <lb ed="#F" n="23"/>DISTINCTIO QVARTA. 
+      <lb ed="#F" n="24"/>QVibus quidem expositis quaeri maxime hoc loco potest, an Idearum 
+      <lb ed="#F" n="25"/>genera in deo esse dicantur, multi enim quibus non est sine aliqua 
+      <lb ed="#F" n="26"/>diuorum syngrapha credendum, in hoc quaestionis genere, deum in
+      se<lb ed="#F" n="27" break="no"/>met cuncta percipere dicunt, at cum se ex ldea pernoscere negent,
+      se<lb ed="#F" n="28" break="no"/>qui putant, nec item eum alia percipere. Quidam etiam quasi hoc argumentationis 
+      <lb ed="#F" n="29"/>genus Dionysieo colore pingere uideantur, deum, causarum, non Idearum ratione 
+      <lb ed="#F" n="30"/>pernoscere uolunt, quibus cum satis sit a diuo Bonauentura responsum, nihil attinet 
+      <lb ed="#F" n="31"/>ut ostendatur modo, argumenti corruptela quo serpat Nos autem si Ideas rationes 
+      <lb ed="#F" n="32"/>nominemus, scire etiam poterimus, facile nos in Cacozelorum genere uersari,
+      quan<lb ed="#F" n="33" break="no"/>doquidem rationum genera a graecis logos, non Ideas nominari uideamus. Si autem 
+      <lb ed="#F" n="34"/>uertendi uerbi uis nequa deperitura sit, eas potius formas &amp; species uocemus. qud 
+      <lb ed="#F" n="35"/>idem multo ante a. M. Tullio, &amp; diuo Augustino usurpatum scimus. Itaque cum re 
+      <lb ed="#F" n="36"/>ctissime ldeae formae nominentur, fatendum est ldearum genera in intelligentia 
+      <lb ed="#F" n="37"/>diuina uersari. Siquidem in omni rerum genere, quae nullo modo casu gignuntur, ne 
+      <lb ed="#F" n="38"/>cessitas fateri cogit, formam finem esse ortus, nec enim agens ob formam moliretur, nisi 
+      <lb ed="#F" n="39"/>quatenus in eo formae similitudo existeret . Idque bipertito secernitur. nam in
+      quo<lb ed="#F" n="40" break="no"/>dam agentium genere, forma ex natura rerum efficiendarum genera praecurrit, ut in 
+      <lb ed="#F" n="41"/>ijs quae natura moliuntur, quemadmodum hominem ab homine gigni uidemus, in 
+      <lb ed="#F" n="42"/>quodam uero genere ex intelligentia forma antegreditur, ut in ijs quae intelligentia 
+      <!--027.xml-->
+      <pb ed="#F" n="7-v"/>
+               <lb ed="#F" n="1"/>moliuntur, quemadmodum aedis simulacrum in architecti opificisque mente insi 
+      <lb ed="#F" n="2"/>det quod quidem aedis ldea rite dici potest, quando quidem architectus aedem 
+      <lb ed="#F" n="3"/>ad excogitatam speciem referre conetur. Cum autem constet nullo modo casu, sed 
+      <lb ed="#F" n="4"/>a deo per intelligentiam agentem, constitutum esse mundum, perfacile intelligi 
+      <lb ed="#F" n="5"/>potest, in intelligentia diuina esse formam, ad cuius simulacrum mundi machinam 
+      <lb ed="#F" n="6"/>construxerit. Sed quaerendum uidetur, an plura ldearum genera dicantur. Plato 
+      <lb ed="#F" n="7"/>enim qui primus est hoc nouo nomine ldearum genera commentus, in quocunque 
+      <lb ed="#F" n="8"/>genere multa participatu, &amp; unum natura, multaque materia concreta, &amp; unum
+      se<lb ed="#F" n="9" break="no"/>iugatum esse uoluit. Itaque seiugatas sensilium rerum naturas esse opinabatur, ac 
+      <lb ed="#F" n="10"/>quatenus eiusmodi sensilium rerum naturae se uicissim conglutinarent, ordinemque 
+      <lb ed="#F" n="11"/>certum nanciscerentur, sdeas uicissim inter se ordine structas esse censebat. In quo 
+      <lb ed="#F" n="12"/>quidem non agnouit minus se cernere, quam qui de suo lumine uident, ut qui funalia 
+      <lb ed="#F" n="13"/>praeferunt, minus uident, quam qui sequuntur. Nam primum Ideas statuit sensilium 
+      <lb ed="#F" n="14"/>naturas esse rerum, cunque inter se natura differre arbitraretur, eas deos esse uoluit 
+      <lb ed="#F" n="15"/>multitudinemque deorum afferens, unum summum constituit. Nos vero negamus haec 
+      <lb ed="#F" n="16"/>Idearum genera sensilium rerum esse naturas, cum necesse esse uideamus
+      quate<lb ed="#F" n="17" break="no"/>nus ueritas efflagitet, statuere rerum naturam ab eorum genere seiugari, quorum 
+      <lb ed="#F" n="18"/>naturae existunt quod est (ut praeclare ait Aristoteles) bonum quippiam
+      induce<lb ed="#F" n="19" break="no"/>re, boni natura uacans, quod quale sit a quouis intelligi pusione potest. Nec
+      ta<lb ed="#F" n="20" break="no"/>men ob eam causam in deo negamus plura ldearum genera uersari, sed plura
+      ge<lb ed="#F" n="21" break="no"/>nera, ut ab eo percepta, esse uolumus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

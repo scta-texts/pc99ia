@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 1</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 1</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="25-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e530"><!-- l3d1 -->
+            <head xml:id="pc99ia-d1e530-Hd1e108">Distinctio 1</head>
+            <head xml:id="pc99ia-d1e530-Hd1e111" type="question-title">De incarnatione Christi</head>
+            <p xml:id="pc99ia-d1e530-d1e114">
+               <lb ed="#F" n="13"/>DE INCARNATIONE CHRISTI. 
+      <lb ed="#F" n="14"/>DISTINCTIO PRIMA. 
+      <lb ed="#F" n="15"/>QVemadmodum statoris dei absoluta natura diceretur, atque in creandis 
+      <lb ed="#F" n="16"/>rebus admirabile architecti munus splendesceret, satis est supra a no 
+      <lb ed="#F" n="17"/>bis expositum. Modo autem uentum est ad eam theologiae partem, in qua 
+      <lb ed="#F" n="18"/>maxime Christi recentatrix opera elucet quo quidem loco
+      uehemen<lb ed="#F" n="19" break="no"/>ter est haereticorum morsibus discerptus deus. Siquidem improbissimus omnium 
+      <lb ed="#F" n="20"/>Photinus. Christum merum hominem constituit, eumque dicit ob uitae integritatem, 
+      <lb ed="#F" n="21"/>necisque perpessionem in diuinitatem esse receptum, qui quidem non natura deus, sed
+      no<lb ed="#F" n="22" break="no"/>minatione cooptatus diceretu. Nestorij autem inauspicata garrulitas est. Christum 
+      <lb ed="#F" n="23"/>non modo cooptatione, sed natura esse deum, nec tim ita homini copulatum putat, ut 
+      <lb ed="#F" n="24"/>una humanae &amp; diuinae naturae persona dici possit, sed tanquam dei filij delubrum
+      di<lb ed="#F" n="25" break="no"/>catur, &amp; domus. Haereticorum autem gurges Arrius, quo esset multitudini &amp; plaebi 
+      <lb ed="#F" n="26"/>uendibilior, dei &amp; homins unam personam, unamque naturam esse statuit. Sed praeter caete 
+      <lb ed="#F" n="27"/>ros in integra dei opinione, gibber &amp; strabo reperitur Manichaeus. nam is naturam 
+      <lb ed="#F" n="28"/>humanam Christo adimit, totamque corpoream naturam a sonte daemone creatam esse 
+      <lb ed="#F" n="29"/>censet. sed cum perabsurdum uideri posset dei filium, a daemone corpoream naturam
+      arri<lb ed="#F" n="30" break="no"/>pere. Christum uoluit non humano corpe constare, sed imaginatione uideri nullumque 
+      <lb ed="#F" n="31"/>omnino dixit eius esse corpus, quod tactile, &amp; aspectabile oculorum obtutu cerneretur. 
+      <lb ed="#F" n="32"/>quam quidem sententiam monstrosissima Christi simia Maumethes maxime probauit. 
+      <lb ed="#F" n="33"/>Valentinus autem quanquam Christum humano corpore constare arbitretur, negat tamen 
+      <lb ed="#F" n="34"/>purum ex uirgine arripuisse corpus, sed idipsum de coelo delapsum opinatur,
+      qud<lb ed="#F" n="35" break="no"/>per uirginem, tanquam latex per fistulam transiliret, haud inde quippiam arripiens.
+      Cae<lb ed="#F" n="36" break="no"/>terorum vero insulsitatem libenter hoc loco omittimus, cum perfacile iudicium sit,
+      tacitu<lb ed="#F" n="37" break="no"/>ros olim eos fuisse, si suspicari potuissent Parisium futuram Athenas
+      Christiano<lb ed="#F" n="38" break="no"/>rum, in qua urbe non modo eorum argumenta adipe suillo crassiora putarentur, sed 
+      <lb ed="#F" n="39"/>ipse etiam quandoque Aristoteles in imis disputationum gurgitibus uexaretur ut. 
+      <lb ed="#F" n="40"/>hebes. Quare quoniam ueritatis incorrupta integritas. Christum humano corpore. 
+      <lb ed="#F" n="41"/>ac anima rationis compote, praeditum esse statuit, hisque simul diuinitatem absolutam 
+      <lb ed="#F" n="42"/>adiunxit, perquirendi sunt qui caliginem soli offundere conarentur. Nam multis qui¬ 
+      <!--064.xml-->
+      <pb ed="#F" n="26-r"/>
+               <lb ed="#F" n="1"/>tanquam quidam corporum morbi non possunt nisi ustione sanari, parum
+      consenta<lb ed="#F" n="2" break="no"/>neum uisum est dominatorem rerum deum, carnis amictu uestiri, cum quod
+      ex<lb ed="#F" n="3" break="no"/>cellit in magnis, perabsurdum sit pusillis contineri. cum autem habeat rerum
+      uni<lb ed="#F" n="4" break="no"/>uersarum curationem deus, negabant eum cutis humanae operculo contineri
+      debe<lb ed="#F" n="5" break="no"/>re, in tantillumque corpusculum procurationem rerum incudi. Quibus acerrime 
+      <lb ed="#F" n="6"/>est ab Augustino responsum. negat enim ita cuti humanae suffusum fuisse
+      deum<lb ed="#F" n="7" break="no"/>ut ab eo rerum uniuersarum procuratio desereretur, imbecillorum enim hominum sensum 
+      <lb ed="#F" n="8"/>esse opinatur, qui nihil nisi ualentium pugilum athletarumque corpora expendunt. 
+      <lb ed="#F" n="9"/>itaque deum dicit non tanquam colossum mole, sed ui &amp; uirtute esse magnum, eiusque ma 
+      <lb ed="#F" n="10"/>gnitudinem in exiguum etiam contractam, angustijs non urgeri. Quidam etiam 
+      <lb ed="#F" n="11"/>quasi in easdem haereseos pedicas incidissent, minus necesse fuisse putauerunt, ut 
+      <lb ed="#F" n="12"/>ad laxandos homines carnis integumento obduceretur deus. nam cum peccati ta 
+      <lb ed="#F" n="13"/>bem culpa contractam affirmarent, negabant ad eam eluendam quicquam aliud quam 
+      <lb ed="#F" n="14"/>hominis expiationem oportere requiri. In quo non uident meri hominis
+      expiatio<lb ed="#F" n="15" break="no"/>ne peccatum elui non posse, cum ita esset humanum inquinatum genus, ut nec unius. 
+      <lb ed="#F" n="16"/>nec multorum quidem bonis, ad complexum generis totius, iactura aequari posset 
+      <lb ed="#F" n="17"/>nec sentiunt id delictum ex interminata dei magnitudine, immensitatem
+      nancisci<lb ed="#F" n="18" break="no"/>cum eo sit grauior iniuria, quo cui infertur praestantior existit. Ex quo fatendum 
+      <lb ed="#F" n="19"/>est, necesse fuisse ut ad id eluendum crimen, actus expiantis ui esset interminata 
+      <lb ed="#F" n="20"/>praeditus, qui quidem dei &amp; hominis copulatio diceretur. Contra autem nonnulli 
+      <lb ed="#F" n="21"/>affirmant interfuisse dei cutis humanae operimento tegi, etiam si non esset ab ho 
+      <lb ed="#F" n="22"/>mine eius mali facinus patratum. nam cum dei praesignationem aeternam esse
+      di<lb ed="#F" n="23" break="no"/>cant, concedi uolunt, ante noxam deum hominem futurum, quo dei praestitutio ad 
+      <lb ed="#F" n="24"/>definitum perueniret. Pugnacissimus autem omnium <name xml:id="pc99ia-d1e530-Nd1e237">Scotus</name> probare conatur, ani 
+      <lb ed="#F" n="25"/>mae Christi praesignationem non ob id tantum esse constitutam, ut compedibus, &amp; 
+      <lb ed="#F" n="26"/>uinculis laxarentur homines. nam cum liberandarum animarum gloriam, animae 
+      <lb ed="#F" n="27"/>Christi gloria minorem opinetur, negat uerisimile uideri, ita summu excellensque bo 
+      <lb ed="#F" n="28"/>num pusillioris boni gratia esse constitutum, quemadmodum uerisimile non
+      ui<lb ed="#F" n="29" break="no"/>deri, prius hominem, quam Christum esse praestitutum. nam si deus inquit prius
+      homi<lb ed="#F" n="30" break="no"/>nem, quam Christum praesignasset, prius hominem casurum praesensisset, quam seruatorem 
+      <lb ed="#F" n="31"/>Christum praesignasset, si ea praesignatio liberandarum tantum animarum causa esset 
+      <lb ed="#F" n="32"/>constituta, quod si ita diceretur, nihil affirmat dici posse hebetius, quod quidem 
+      <lb ed="#F" n="33"/>argumentum tanquam funis nexum a capite dissoluere conatur non contemnendus 
+      <lb ed="#F" n="34"/>theologus Capreolus. Veritatis autem sine fuco salubritas est, hominum genen 
+      <lb ed="#F" n="35"/>sospitatorem Christum, tanquam uulneri medicamentum esse adhibitum negaturque 
+      <lb ed="#F" n="36"/>a nobis ante pollutam naturam deum fuisse hominem futurum. Ab his autem 
+      <lb ed="#F" n="37"/>sanorum hominum quaestio defluxit, num fieri posset, ut eiusdem humanitatis 
+      <lb ed="#F" n="38"/>amictu trina diuina persona uestiretur. Locuples in primis auctor <name xml:id="pc99ia-d1e530-Nd1e271">Anselmus</name> 
+      ne<lb ed="#F" n="39" break="no"/>gat fieri posse, ut trina persona eundem hominem asciscat. <name xml:id="pc99ia-d1e530-Nd1e276">Durandus</name> autem in 
+      <lb ed="#F" n="40"/>census &amp; acer theologus intellexisse <name xml:id="pc99ia-d1e530-Nd1e281">Anselmum</name> uoluit, a trina persona non
+      eun<lb ed="#F" n="41" break="no"/>dem hominem posse sumi, ita ut uni personae copuletur, cum fieri posse neget, ut 
+      <lb ed="#F" n="42"/>trina persona in eodem homine una persona dicatur. At <name xml:id="pc99ia-d1e530-Nd1e289">Guillermus Ochan</name> dis¬ 
+      <!--065.xml-->
+      <pb ed="#F" n="26-v"/>
+               <lb ed="#F" n="1"/>cinictus, &amp; funicatus cum thorocato <name xml:id="pc99ia-d1e530-Nd1e298">Scoto</name> congreditur, eandem enim naturam  
+      <lb ed="#F" n="2"/>trinae personae agglutinari posse putat. Scoto autem minime placet eandem
+      na<lb ed="#F" n="3" break="no"/>turam a trina persona ascisci posse, ita ut primus glutini terminus personam
+      dica<lb ed="#F" n="4" break="no"/>tur. Sed accessit theologorum parcissimus <name xml:id="pc99ia-d1e530-Nd1e308">diuus Thomas</name>, qui non negat fieri posse 
+      <lb ed="#F" n="5"/>ut a trinam persona sumatur una natura, sed fieri posse negat, ut una &amp; eadem
+      hy<lb ed="#F" n="6" break="no"/>postasis humana, asciscatur a tribus. Nihiloque secius inquiritur, num in
+      Christo<lb ed="#F" n="7" break="no"/>animae &amp; corporis copulatio extiterit. In quo consentiens theologorum grex
+      Chri<lb ed="#F" n="8" break="no"/>stum hominum generi uniuocum esse probat, ad speciemque ait humanam
+      perti<lb ed="#F" n="9" break="no"/>fiere, ut anima corpori annectatur : Eodemque modo contentio exoritur, an uerbo 
+      <lb ed="#F" n="10"/>riatura humana ex accidenti copulata fuerit, in quo sunt a nostris Eutichetis.
+      Dio<lb ed="#F" n="11" break="no"/>scori, Theodori, &amp; Nestorij ingenia superba fracta quanquam eorum sententiae non 
+      <lb ed="#F" n="12"/>sint ita penitus euulsae, quin eorum multi sint interpolatores inuenti. Nam auctos 
+      <lb ed="#F" n="13"/>re sententiarum principe duplex est recentium hominum repertum genus, qui cum 
+      <lb ed="#F" n="14"/>maxime ab haeresi abesse uoluissent, flexu in eandem haereseos noctem remigram 
+      <lb ed="#F" n="15"/>runt. nam primum genus eorum esse dicit, qui cum unam seruatoris Christi peru 
+      <lb ed="#F" n="16"/>sonam concessissent, duas tamen hypostases esse uolebant alterum esse eorum, a 
+      <lb ed="#F" n="17"/>quibus cum personae copulatio seruaretur, animam tamem corpori annexam esse  
+      <lb ed="#F" n="18"/>negabatur sed uicissim haec inter se duo seiuncta, uerbo ex accidenti agglutinatam 
+      <lb ed="#F" n="19"/>esse censebant. Quorum utrunque male sanum genus in caenosam Nestorij
+      latri<lb ed="#F" n="20" break="no"/>nam incidisse dicit, negatque soliditatis, &amp; sinceritatis esse Christianae, ex accidenti 
+      <lb ed="#F" n="21"/>copulationem ponere. Ab his etiam dissidentium hominum pertinax certatio
+      di<lb ed="#F" n="22" break="no"/>manat, num deus qualemcunque naturam sibi possit asciscere. <name xml:id="pc99ia-d1e530-Nd1e350">Picus enim noster 
+        <lb ed="#F" n="23"/>Mirandula</name>, in ipso adolescentiae flore flagrans, &amp; uibrans fulmina, cum feruidius 
+      <lb ed="#F" n="24"/>theologiam esset complexus, argutiarum (ut opinor) exercitatione, negauit se
+      eo<lb ed="#F" n="25" break="no"/>rum sententiae assentiri, qui dicerent deum qualemcunque sibi posse naturam
+      asci<lb ed="#F" n="26" break="no"/>scere, contram quem quasi suspitiosius locutum. Garsiae Pont. est pusillus, non rebus 
+      <lb ed="#F" n="27"/>exilis libellus quanquam magnus homo <name xml:id="pc99ia-d1e530-Nd1e364">Picus</name>, quicquid fellis argutiarum gratia gu 
+      <lb ed="#F" n="28"/>starat, referuefacto auiditatis ardore tanquam boletum medicatum expuit. Sed huius 
+      <lb ed="#F" n="29"/>quaestionis augendae princeps fuit Godofredus, maximeque sufflator Henricus 
+      <lb ed="#F" n="30"/>Crandensis turgidorum hominum folles inflarat, a quo &amp; si minime omnipotens 
+      <lb ed="#F" n="31"/>praefinitur deus, nodus tamem in asciscibili natura perquiritur. In qua sane
+      senten<lb ed="#F" n="32" break="no"/>tia quanquam cruretenus haereseos salum ingrediatur, minime tamen ut Priamus 
+      <lb ed="#F" n="33"/>suis superstes extitit. Maturius autem &amp; uerius <name xml:id="pc99ia-d1e530-Nd1e380">Durandus</name> probat, ubi sit aequam 
+      <lb ed="#F" n="34"/>agentis potentia, &amp; aequa potentia obsequij naturae patibilis, inde continuo posse 
+      <lb ed="#F" n="35"/>simillimum effectum sequi cum autem dei potentia haud secus in silicem, ac in
+      huma<lb ed="#F" n="36" break="no"/>nam naturam, uim, &amp; dominatum habeat, facile intellectu esse ait, si sibi nanturam
+      hu<lb ed="#F" n="37" break="no"/>manam asciuit, ut silicis etiam naturam possit arripere, quod idem <name xml:id="pc99ia-d1e530-Nd1e392">Scotus</name> &amp;
+      lo<lb ed="#F" n="38" break="no"/>annes Neapolitanus, &amp; <name xml:id="pc99ia-d1e530-Nd1e397">Petrus Paludensis</name> probant maximeque unus inter multos 
+      <lb ed="#F" n="39"/>
+               <name xml:id="pc99ia-d1e530-Nd1e403">Bernardus</name> 
+               <name xml:id="pc99ia-d1e530-Nd1e406">Gannacus</name>. <name xml:id="pc99ia-d1e530-Nd1e409">Godofredum</name>, &amp; <name xml:id="pc99ia-d1e530-Nd1e412">Henricum</name> insequitur. At egregie uersutus 
+      <lb ed="#F" n="40"/>scriptor <name xml:id="pc99ia-d1e530-Nd1e418">Ochan</name>, idem hoc modo condudit, deus aliquam sibi naturam asciuit, quae 
+      <lb ed="#F" n="41"/>lemcunque igitur potest naturam arripere, cum maior ratio non sit, si unam arripue 
+      <lb ed="#F" n="42"/>rit, quin possit plures afciscere. Cum autem omnes asciscibiles sint, fatendum est, ab eo 
+      <!--066.xml-->
+      <pb ed="#F" n="27-r"/>
+               <lb ed="#F" n="1"/>qualemcumque posse naturam sumi, diuus auntm Thomas Lunensi marmore candidior 
+      <lb ed="#F" n="2"/>deum censet mera &amp; libera potestate quanlibet naturam rationis expertem arripere 
+      <lb ed="#F" n="3"/>posse sed rato potentiae ordine, negat ab eo ullam praeter rationis compotem naturam 
+      <lb ed="#F" n="4"/>posse ascisci, quam quidem sententiam integriores imis auribus excipiunt. Sed nascit 
+      <lb ed="#F" n="5"/>de ipsis membrorum partibus certamen, in quo maxime praestigiator Manichaeus 
+      <lb ed="#F" n="6"/>exploditur, qui negauit ullum omnino dei esse corpus, quod aspectabile oculorum 
+      <lb ed="#F" n="7"/>sensum cerneretu. Nam si deus humanam naturam arripuit, consentaneum uideri
+      dici<lb ed="#F" n="8" break="no"/>mus, ut merum etiam humanum corpus asciuerit atque etiam negatur a nobis eius coeleste 
+      <lb ed="#F" n="9"/>fuisse corpus, ut Valentinus uideri uolebat. nam cum forma hominis (ut ait Ar 
+      <lb ed="#F" n="10"/>stoteles) res quaedam naturalis dicatur, quae circunscriptam materiam, id est cutem &amp; ossa 
+      <lb ed="#F" n="11"/>requirit, nullo modo fieri posse uolumus, quin ea debeat in hominis definitioneo 
+      <lb ed="#F" n="12"/>poni. Praeterea si eum coelesti corpore constare diceremus, fateri cogeremur,
+      ne<lb ed="#F" n="13" break="no"/>esurijsse eum unquam nec sitisse, nec moriturum quidem fuisse cum coelum eodem Aristo 
+      <lb ed="#F" n="14"/>tele auctore, nec patibilem naturam habeat, nec tabescibile dicatur. Post etiam non mul 
+      <lb ed="#F" n="15"/>to secus indagamus, num animam quoque asciuerit. Apollinaris &amp; Arrius
+      maximi<lb ed="#F" n="16" break="no"/>haereticorum calcitrones, a dei filio uolunt sine anima ascitam esse carnem. In quo non 
+      <lb ed="#F" n="17"/>uident se deo unam non binam naturam dare, quod quidem fieri nullo modo potest. 
+      <lb ed="#F" n="18"/>cum satis exploratum sit, &amp; iratum quandoque, &amp; miratu esse eum, &amp; dolore affectum. 
+      <lb ed="#F" n="19"/>ex quo praeclare sciri potest, anima eum omnino praeditum fuisse, quod ni ita esset, 
+      <lb ed="#F" n="20"/>nec caro quidem ab eo esset ascita quando quidem caro membraque hominis speciem 
+      <lb ed="#F" n="21"/>ab anima suscipiant Eodemque modo dicimus ab eo intelligentiam &amp; mentem esse ascitam.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

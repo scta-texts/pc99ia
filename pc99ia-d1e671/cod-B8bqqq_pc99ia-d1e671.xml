@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 6</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 6</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="32-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e671"><!-- l3d6 -->
+            <head xml:id="pc99ia-d1e671-Hd1e108">Distinctio 6</head>
+            <head xml:id="pc99ia-d1e671-Hd1e111" type="question-title">De resurrectione et de ascensione Christi</head>
+            <p xml:id="pc99ia-d1e671-d1e114">
+               <lb ed="#F" n="9"/>DE RESVRRECTIONE. ETDE 
+      <lb ed="#F" n="10"/>ASCENSIONE CHRISTI. 
+      <lb ed="#F" n="11"/>DISTINCTIO SEXTA. 
+      <lb ed="#F" n="12"/>Cde Christi quidem litatu fere satis est dictum. Sequitur deinceps, ut 
+      <lb ed="#F" n="13"/>de resurrectione, &amp; de emigratione in coelum dicatur. Itaque
+      fundamen<lb ed="#F" n="14" break="no"/>ta iacimus, quibus necessariam fuisse resurrectionem confirmatur, nam  
+      <lb ed="#F" n="15"/>primum dei permagni interesse dicimus, eos sublimes ferre qui se pro 
+      <lb ed="#F" n="16"/>eo abiecerint, cum autem seruator Christus turpissimum cruciatus necisque genus. 
+      <lb ed="#F" n="17"/>parendi causa subierit, necesse fuisse dicimus, ut ei a deo resurrectionis gloria
+      de<lb ed="#F" n="18" break="no"/>cerneretur, tum ut esset eius diuinitatis fides testatior, tum ut spes hominum
+      fiden<lb ed="#F" n="19" break="no"/>tius excitaretur similitudine reuiuiscentis dei. Sed interim nata est controuersia, num 
+      <lb ed="#F" n="20"/>post resurrectionem merum cotpus extiterit. Multi enim quibus philolophia tanquam 
+      <lb ed="#F" n="21"/>arborum densitas coeli conspectum adimit, merum corpus ab intuentium obtutu
+      euane<lb ed="#F" n="22" break="no"/>scere negant, nisi id fortasse extabescat at cum Christi corpus a discipulorum
+      cernen<lb ed="#F" n="23" break="no"/>tium obtutu, euanuisse dicatur, praedare concludi putant, minime post resurrectio 
+      <lb ed="#F" n="24"/>nem merum corpus extitisse. Quorum quidem uiae facile interscindi possunt, cum Christum 
+      <lb ed="#F" n="25"/>immortali natura reuixisse confirmatur, conditio enim corporis gloria praediti, spiri 
+      <lb ed="#F" n="26"/>tus naturae subicitur Vt autem omnino corpus sit spiritus naturae subiectum, necesse 
+      <lb ed="#F" n="27"/>est ut omnis corporis actio, spiritus uoluntati sit tanquam imperatori subiecta.
+      Qd<lb ed="#F" n="28" break="no"/>autem quippiam cernatur actione fit, ut ait Aristoteles, aspectabilis in aspectum. 
+      <lb ed="#F" n="29"/>quamobrem quilibet corpore gloria praedito informat:, simulac ei collibitum est  
+      <lb ed="#F" n="30"/>&amp; spectari &amp; non spectari potest. Quod quidem non modo corporis natura, sed 
+      <lb ed="#F" n="31"/>etiam diuinitatis ui in Christo fuisse uolumus. ex quo eum a cernentium aspectu eua 
+      <lb ed="#F" n="32"/>nuisse dicimus, non quia extabuerit, aut sit in quippiam inaspectabile comuersus. 
+      <lb ed="#F" n="33"/>sed quia sit uoluntate cerni desitus, quibus assumptis post resurrectionem merum 
+      <lb ed="#F" n="34"/>corpus extitisse confirmatur. Sed interim etiam sciscitationes interponuntur, num 
+      <lb ed="#F" n="35"/>corpus integrum exuscitatum dici debeat, rectissime enim id corpus eadem natu 
+      <lb ed="#F" n="36"/>ra, sed non eadem gratia praeditum extitisse probatur. Ex quo quidem quicquid ad 
+      <lb ed="#F" n="37"/>corporis humani naturam pertinet id totum in reuiuiscentis dei corpore fuisse dicendum 
+      <lb ed="#F" n="38"/>est. nam cum sanguine, corde, iecore, humani corporis natura teneatur, minime ab 
+      <lb ed="#F" n="39"/>soluta resurrectio dici poterat, si corpori quicquam horum abfuisset. Ab his deinceps 
+      <lb ed="#F" n="40"/>de emigratione in coelum quaestio colligitur. Quidam enim qui Christum tanquam
+      Socra<lb ed="#F" n="41" break="no"/>tem aut Platonem de facie mirari uoluissent, haud consentaneum arbitrati sunt, eum in 
+      <lb ed="#F" n="42"/>coelestem locum euolasse. nam cum ab eo incolumitatis nostrae causa, naturam humanam 
+      <!--077.xml-->
+      <pb ed="#F" n="32-v"/>
+               <lb ed="#F" n="1"/>ascitam dicant, salubrius hominibus futurum confirmant, si esset in terris inter ho 
+      <lb ed="#F" n="2"/>mines uersatus. Quorum superba inscitia facile cognosci poterit, si dicatur locum sta 
+      <lb ed="#F" n="3"/>tuto appositum esse debere, eumque post resurrectionem, immortalem nec labefactabi 
+      <lb ed="#F" n="4"/>lem uitam exorsum. Atqui cum is quem incolimus locum, ortus &amp; tabis locus dicatur, 
+      <lb ed="#F" n="5"/>coeli autem locus nullo modo extabescat, magis consentaneum fuisse dicimus, eum 
+      <lb ed="#F" n="6"/>emigrasse in coelum, quam in terrarum gurgustio subsedisse. In quo etiam multi quasi 
+      <lb ed="#F" n="7"/>huic quaestioni plusculum salis adijciant, negant suapte uirtute Christum in coelum 
+      <lb ed="#F" n="8"/>euolasse. nam cum affirment eius corpus terrena natura fuisse concretum, fieri nullo 
+      <lb ed="#F" n="9"/>modo posse dicunt, ut id corpus suapte ui, aut natura, superiora capesseret.
+      Qui<lb ed="#F" n="10" break="no"/>bus male sanis metaphysicis, quanquam concedatur id corpus minime suapte ui in coe 
+      <lb ed="#F" n="11"/>lestem locum emigrasse, responderi tamen solet, suopte diuinitatis foelicisque animae 
+      <lb ed="#F" n="12"/>nutu, in coelum uolucre pondus subuolasse. Nec enim contra naturam est corpori 
+      <lb ed="#F" n="13"/>praedito gloria, superiora capessere, cum sit id omnino totum spiritus naturae
+      sub<lb ed="#F" n="14" break="no"/>iectum. Atque etiam permagni referre dicitur, num supra omnes coelos euolarit quo 
+      <lb ed="#F" n="15"/>quidem loco praecare ostenditur, quod quo quodpiam corpus diuinitatis
+      abso<lb ed="#F" n="16" break="no"/>lutius est particeps, eo sit corporum ordine superius, qui loci ordo dicatur. Ex quo 
+      <lb ed="#F" n="17"/>quidem sciri potestque corpora quae plus formae nanciscuntur (ut ait Aristoteles)
+      na<lb ed="#F" n="18" break="no"/>tura superiora sunt. nam eodem Aristotele auctore, quidlibet forma diuinitatis 
+      <lb ed="#F" n="19"/>est particeps. Atqui fateri necesse est, corpus ob gloriam plenius diuinitatis esse 
+      <lb ed="#F" n="20"/>particeps, quam quodcumque corpus forma naturae, cum autem perspicuum sit, id inter omia 
+      <lb ed="#F" n="21"/>corpora gloria praedita splendidius elucere, necessario concedendum est, id quoque
+      su<lb ed="#F" n="22" break="no"/>pra omne genus corporum statutum uideri . eodemque modo dicimus, eam emigrationem 
+      <lb ed="#F" n="23"/>incolumitatis nostrae causam fuisse, ob eaque nobis patefactum esse iter in
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

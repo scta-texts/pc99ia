@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 1</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 1</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="13-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e275"><!-- l2d1 -->
+            <head xml:id="pc99ia-d1e275-Hd1e108">Distinctio 1</head>
+            <head xml:id="pc99ia-d1e275-Hd1e111" type="question-title">Mundum esse creatum contra Aristotelem</head>
+            <p xml:id="pc99ia-d1e275-d1e114">
+      <!--039.xml-->
+               <pb ed="#F" n="13-v"/>
+               <lb ed="#F" n="1"/>SECVNDI SENTENT. PAVLI CORTESII 
+      <lb ed="#F" n="2"/>MVNDVM ESSE CREATVM. CON 
+      <lb ed="#F" n="3"/>TRA ARISTOTELEM. 
+      <lb ed="#F" n="4"/>DISTINCTIO PRIMA. 
+      <lb ed="#F" n="5"/>QVibus expositis perspicuum est, dei etiam procreandi proprium esse  
+      <lb ed="#F" n="6"/>munus, eumquam res ex nihilo, nulla antecedente materia construere. 
+      <lb ed="#F" n="7"/>Nam siquid a deo manat, necesse est, ut aut aliquid antecedat, aut,
+      ni<lb ed="#F" n="8" break="no"/>xl hil adsit. si nihil adest, notum esse debet, ab eo aliquid nullo antecedem 
+      <lb ed="#F" n="9"/>te manare. si autem quicquam antegreditur, aut est in infinitum emanatura excursio, 
+      <lb ed="#F" n="10"/>quod in naturae ratione fieri nullo modo potest, aut aliquid erit primum exquirem 
+      <lb ed="#F" n="11"/>dum, quod nihil antecedat quod quidem deus esse non potest, cum nulla sit materiae 
+      <lb ed="#F" n="12"/>coagmentatione concretus. ex quo maxime intelligi potest architectorem &amp; aedifi 
+      <lb ed="#F" n="13"/>catorem deum, res ex nulla antegrediente materia moliri. Hinc eorum est repulsa &amp; 
+      <lb ed="#F" n="14"/>reiecta opinio, qui de nihilo nihil gigni arbitrantur atque inde etiam magna est
+      na<lb ed="#F" n="15" break="no"/>ta de mundo dissensio, cum alij eum ex aeternitate &amp; imortali natura praeditum, alij a 
+      <lb ed="#F" n="16"/>deo exaedificatum &amp; constructum putarent, in quo praeclarus auctor Galenus negat 
+      <lb ed="#F" n="17"/>sine sensuum testimonio sciri posse utrum aeternus sit mundus, an natiuus, quasi
+      ra<lb ed="#F" n="18" break="no"/>tioni nihil sit sensuum fide testatius, ex quo quidem arriperetur, sensu semper ean 
+      <lb ed="#F" n="19"/>dem coeli &amp; siderum aequalitatem percipi, &amp; quod semper esset aequale, nullam unquam 
+      <lb ed="#F" n="20"/>sui tabem pati quod autem nunquam extabesceret, nec id quidem unquam esse generatum. 
+      <lb ed="#F" n="21"/>Sed praeter caeteros Arabs Auerrois qui Aristotelis disciplina tanquam cotis attritu 
+      <lb ed="#F" n="22"/>acuitur, cum uisco adest &amp; sibilo, &amp; quo illustrius Aristotelis opinionem
+      defensita<lb ed="#F" n="23" break="no"/>ret, omnes philolophorum sententias de mundo in quatuor genera partitur, nam 
+      <lb ed="#F" n="24"/>unam esse ait Anaxagorae qui mundum natiuum &amp; tabescibilem opinatur eamque dicit 
+      <lb ed="#F" n="25"/>auctoribus ludaeis, a Maumethistis, &amp; Christianis esse retentam. secundam
+      adhi<lb ed="#F" n="26" break="no"/>bet eorum quibus nunquam generatus, &amp; labefactabilis mundus uideretur,
+      proxi<lb ed="#F" n="27" break="no"/>mam esse dicit sententiam Platonis, cui natiuum quidem mundum, sed nulla temporum 
+      <lb ed="#F" n="28"/>aeternitate tabescibilem esse placet, quartam affert Aristotelis, qui nec genitum
+      mun<lb ed="#F" n="29" break="no"/>dum, nec interiturum esse censet. Plato autem duo initia rerum deum &amp; materiam 
+      <lb ed="#F" n="30"/>esse uoluit, quibus omnia constarent, deum mentem, &amp; causam rerum nominat.
+      ma<lb ed="#F" n="31" break="no"/>teriam uero formae expertem, &amp; infinitam, in ordinem a deo adductam putat, ex 
+      <lb ed="#F" n="32"/>eaque mundum immortali natura factum arbitratur. Stoicis uero placet natiuum 
+      <lb ed="#F" n="33"/>&amp; tabescibilem esse mundum. nam Seno. Chrysippus. Possidonius., Cleantes.
+      Anti<lb ed="#F" n="34" break="no"/>pater, &amp; Panaetius, probant cuius partes labefactabiles sint, tabescibilem esse
+      in<lb ed="#F" n="35" break="no"/>tegritatem, cum autem mundi partes labefactabiles sint, quando quidem uicissim 
+      <lb ed="#F" n="36"/>mutentur, fateri cogunt, tabescibilem esse mundum. At praestans omnibus astu, &amp; 
+      <lb ed="#F" n="37"/>doctrina Aristoteles, tanquam habuerit id operis ut omnium superiorum
+      philolopho<lb ed="#F" n="38" break="no"/>rum adipem extenuaret, negat mundum esse generatum, maximeque in eo qui est 
+      <lb ed="#F" n="39"/>primus de coelo &amp; mundo liber, auerso pollice Platonem ostendit. In quo natiui 
+      <lb ed="#F" n="40"/>&amp; tabescibilis definitione probat, quam fieri non possit, ut quod generatum sit, non 
+      <lb ed="#F" n="41"/>extabescat cumque firmissimis argumentationibus probare conetur, nunquam ortum 
+      <lb ed="#F" n="42"/>esse mundum, concedi sibi uult, ut aeternus esse dicatur, &amp; que fieri nullo modo pos 
+      <lb ed="#F" n="43"/>sit, ut quod aeternum sit, labefactari possit, &amp; quod ortu careat, id non esse 
+      <!--040.xml-->
+      <pb ed="#F" n="14-r"/>
+               <lb ed="#F" n="1"/>aeternum. In qua quidem sententia omnem Peripateticorum gregem tanquam suber 
+      <lb ed="#F" n="2"/>in aqua retis plumbum suspensum continet siquidem Themistius &amp; Auerrois 
+      <lb ed="#F" n="3"/>pertinaces Aristotelis asseclae, tantillum nodum exquirentes, pugnacissime hanc 
+      <lb ed="#F" n="4"/>sententiam tueri uolunt &amp; si sarcina in alteram ditellae partem propendet, alteri 
+      <lb ed="#F" n="5"/>adijciunt lapides. Verecundius autem ex eadem familia Alexander
+      Aphrodi<lb ed="#F" n="6" break="no"/>seus, dicit se non aliam ob causam hanc potissimum sententiam secutum, nisi que ea 
+      <lb ed="#F" n="7"/>sibi minus ambigua, &amp; a reprobatione semotior uideretur, quasi nondum certam, &amp; 
+      <lb ed="#F" n="8"/>ueram esse censeret. Ex quo quidem intelligitur homines nandi peritos, uoraginibus 
+      <lb ed="#F" n="9"/>tamen obrui. Nam quae sunt ab Aristotele exqsitius argumenta collecta, proba 
+      <lb ed="#F" n="10"/>biliora sunt, magisque ad contradicendum parata, quam uera . idque perspici potest, quo 
+      <lb ed="#F" n="11"/>semper in hoc quaestionis genere Anaxagoram. Empedodem, &amp; Platonem exag 
+      <lb ed="#F" n="12"/>tat quod magis uideri debet persuasibiliter probantis, quam necessaria ratione
+      con<lb ed="#F" n="13" break="no"/>dudentis . lpseque sibi repugnat, cum confirmet in topicis quaedam esse dialectica. a 
+      <lb ed="#F" n="14"/>blemata, quorum certa ratio afferri non possit, ut si quaeratur utrum sit ex
+      aeterni<lb ed="#F" n="15" break="no"/>tate mundus . Itaque ab eo hoc loco, sciscitor, si mundus aeternus fuisse dicatur, num 
+      <lb ed="#F" n="16"/>semper homines extitisse uelit. nam si semper fuisse neget, concedi oportere
+      pu<lb ed="#F" n="17" break="no"/>to, id pabsurdum uideri, cum negari non possit, hominum causa mundum esse constitutu, si 
+      <lb ed="#F" n="18"/>aunt homines semper fuisse confirmet, rursum ab eo sciscitandum arbitror, cur sit illorum ho 
+      <lb ed="#F" n="19"/>minum memoria deleta, aut curnon sint nobis per manus, scientiarum genera
+      tra<lb ed="#F" n="20" break="no"/>dita, quae quidem suo ingenio perfecta esse uideri cupit, dum omne superiorum 
+      <lb ed="#F" n="21"/>philosophorum genus, ut hebetius exagitat nam si memoriam rerum eluuione, 
+      <lb ed="#F" n="22"/>aut exustione, intercidisse dicat, perfacile erit secum obsignatis syngraphis
+      agen<lb ed="#F" n="23" break="no"/>dum, quando quidem in meteoris catholicum fieri catadysmum neget. Eodemquam 
+      <lb ed="#F" n="24"/>modo erit de exustione dicendum, cum satis physicis placere uideamus, calorem hu 
+      <lb ed="#F" n="25"/>more ali &amp; quam quam uicissim saepe alterum altero superari opinetur, neutrum tamen ita 
+      <lb ed="#F" n="26"/>opprimi posse uolunt, ut uim instauratitiam amittat ex quo facile intellectu est, 
+      <lb ed="#F" n="27"/>exustionem catholicam esse non posse. Quod si neutra catholica esse potest, per 
+      <lb ed="#F" n="28"/>spicuum etiam uideri debet, memoriam rerum propagari potuisse . id si ita est,
+      du<lb ed="#F" n="29" break="no"/>bitationem non habet, quin ad nos quoque dimanare potuisset quod si ad hanc aeta 
+      <lb ed="#F" n="30"/>tem propagari potuisse diceretur, nihil prorsus esset, quod ei scientiarum primae 
+      <lb ed="#F" n="31"/>ferrentur, cum perabsurdum esset negare, aeternis annorum curriculis
+      innumerabi<lb ed="#F" n="32" break="no"/>les Aristoteles aut Platones non fuisse. Atquam etiam si mundus aeternum omni specie 
+      <lb ed="#F" n="33"/>rum genere absolutus diceretur, causa non esset quin multa incredibilia sequerentur. 
+      <lb ed="#F" n="34"/>nam &amp; necesse esset confiteri, non modo innumerabiles animas actu existere, sed 
+      <lb ed="#F" n="35"/>etiam interminatas conuersiones fuisse. Ex quo perspicuum uideri posset, tot so 
+      <lb ed="#F" n="36"/>lis, quot lunae conuersiones extitisse. Cum autem fatendum esset utrorumque innu 
+      <lb ed="#F" n="37"/>merabiles conuersiones fuisse, satis esset argumenti, partem toto omnino esse aequa 
+      <lb ed="#F" n="38"/>tam. quo quidem, nihil insulsius dici posset. Atque etiam fateri licet, aeque leonem 
+      <lb ed="#F" n="39"/>a deo ex materia, ac ex nihilo gigni potuisse proptereaque quandocumque a deo ma 
+      <lb ed="#F" n="40"/>teria gigni potuisse dicatur, necesse est etiam fateri ab eodem coagmentatum edu 
+      <lb ed="#F" n="41"/>ci potuisse, alioqui materia sine forma gigneretur. Atqui cum notum sit haud ex 
+      <lb ed="#F" n="42"/>materia leonem a deo aeternum potuisse gigni, apertum esse debet, nec etiam ex 
+      <!--041.xml-->
+      <pb ed="#F" n="14-v"/>
+               <lb ed="#F" n="1"/>nihilo, aut ullo modo potuisse gigni. Praeterea quodcunque aeternum esse potuit. 
+      <lb ed="#F" n="2"/>id omnino aeternum fuit at nihil praeter parentem deum, aeternum esse potuisse 
+      <lb ed="#F" n="3"/>concedendum est. igitur nihil praeter deum aeternum esse potuit. Deinceps etiam 
+      <lb ed="#F" n="4"/>quodcunque est effectum ortu, diuturnitatis exordium nanciscitur, sed cum inter 
+      <lb ed="#F" n="5"/>philosophos sanos constare uideamus, deum causam effectricem esse mundi, fa 
+      <lb ed="#F" n="6"/>cile colligi potest, originem rerum &amp; molitionem esse nouam. Nec minus etiam 
+      <lb ed="#F" n="7"/>intelligi potest, excellentium omnium philolophorum generi placere, nihil om 
+      <lb ed="#F" n="8"/>nino, auctori &amp; parenti rerum deo aequari posse. at si mundus aeternus fuisse
+      di<lb ed="#F" n="9" break="no"/>ceretur, in promptu esse deberet, molitori mundi deo aequari posse, quo quid
+      di<lb ed="#F" n="10" break="no"/>ci potest inscitius: Postremo si aeternus fuisse diceretur, putandum esset, etiam aeter 
+      <lb ed="#F" n="11"/>num fuisse rerum ortum. igitur fatendum quoque esset, unum hominem ab alio 
+      <lb ed="#F" n="12"/>in immensum etiam generatum. atqui cum ille ipse Aristoteles parentem filij 
+      <lb ed="#F" n="13"/>causam effectricem esse uelit, perfacile iudicium esset, in effectricium causarum
+      ge<lb ed="#F" n="14" break="no"/>nere, in immensum excurrere indagationem posse, quod fieri nullo modo posse 
+      <lb ed="#F" n="15"/>censet. Ex quo quidem sciri licet innumerabilia colligi posse, quibus probetur &amp; ge 
+      <lb ed="#F" n="16"/>neratum esse mundum, &amp; generatorem fuisse deum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 6</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 6</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="8-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e165"><!-- l1d6 -->
+            <head xml:id="pc99ia-d1e165-Hd1e108">Distinctio 6</head>
+            <head xml:id="pc99ia-d1e165-Hd1e111" type="question-title">De Praedestinatione</head>
+            <p xml:id="pc99ia-d1e165-d1e114">
+               <lb ed="#F" n="25"/>DE PRAEDESTINATIONE. 
+      <lb ed="#F" n="26"/>DISTINCTIO SEXTA. 
+      <lb ed="#F" n="27"/>ITaque permagni refert an parens ille deus homines per praesignatio 
+      <lb ed="#F" n="28"/>nem seligat. In quo quidem intelligendum est, cuncta prouidentiae 
+      <lb ed="#F" n="29"/>diuinae esse subiecta, prouidentiaeque interesse res in ultimum statuere 
+      <lb ed="#F" n="30"/>At finis ad quem genita a deo statuuntur, duplex omnino dicitur. Vnus 
+      <lb ed="#F" n="31"/>qui supra genitarum rerum progredientem naturam constituitur, qui quidem cum aeternitas 
+      <lb ed="#F" n="32"/>nominet, in fabricatore rerum deo contuendo consistit. Alter vero est ad naturam
+      pro<lb ed="#F" n="33" break="no"/>gredientem aptus, quem genita consequi possunt suapte ui &amp; naturae suae modo. At 
+      <lb ed="#F" n="34"/>ad eum finem, ad quem quippiam suapte ui peruenire nullo modo potest, necesse est 
+      <lb ed="#F" n="35"/>ut ea perinde ab altero, ut tela a iaculante transferantur. Ex quo quidem iure natura 
+      <lb ed="#F" n="36"/>rationis compos, quae imortalitatis est capax, ad aeternitatem tanquam a deo sublata 
+      <lb ed="#F" n="37"/>subuolat. Ob eamque causam affirmatur praesignationem certissimos effectus consequi, 
+      <lb ed="#F" n="38"/>cum tamemn nullam necessitatem afferat. Nam quamquam praesignatio pars prouidentiae no 
+      <lb ed="#F" n="39"/>minetur, haud tamem cuncta, quae prouidentiae subsunt, necessaria dici ullo modo 
+      <lb ed="#F" n="40"/>debent. At quaedam fortuitu cadunt proximarum causarum modo, quae sunt ad
+      id<lb ed="#F" n="41" break="no"/>a prouidentia constitutae, cum tamem ratus prouidentiae ordo nullo modo fallat, 
+      <lb ed="#F" n="42"/>Eodemque modo dicimus ratum praesignationis ordinem esse certum, nec tamemn hominis 
+      <!--029.xml-->
+      <pb ed="#F" n="8-v"/>
+               <lb ed="#F" n="1"/>mentem, libera potestate orbari. Sed illud forsitan perquirendum est, num certus
+      se<lb ed="#F" n="2" break="no"/>lectorum numerus dicatur. Aureolus enim quasi auri stipe disserendi fundamenta
+      in<lb ed="#F" n="3" break="no"/>choarit, ei dicit, qui conseruare uniuersos foelicitatisque compotes fieri uelit, haud
+      qua<lb ed="#F" n="4" break="no"/>quam esse consentaneum, ut selectorum numerum circunscribat cum magis sua referat
+      uni<lb ed="#F" n="5" break="no"/>uersos sine exceptione conseruari uelle. At cum id deum maxime decere putet,
+      fa<lb ed="#F" n="6" break="no"/>cile intelligi debere dicit, ab eo selectorum numerum nullo modo circumscribi. Idque 
+      <lb ed="#F" n="7"/>etiam arctius astringit. nam si deus inquit, selectorum numerum circunscriberet, necessa¬, 
+      <lb ed="#F" n="8"/>rio quosdam seligeret, quosdam reijceret ad necem . at cum periniquum sit fateri
+      quos<lb ed="#F" n="9" break="no"/>dam, a deo ad mortem praesignando detrudi, periniquum etiam uideri debet, uolun 
+      <lb ed="#F" n="10"/>tario motu ab eo circunscribi numerum, &amp; quosdam cooptari, &amp; quosdam explodi, cum 
+      <lb ed="#F" n="11"/>magis ad ueritatis similitudinem accedat, ab eo uniuersos ad uitam designari. Atque 
+      <lb ed="#F" n="12"/>etiam multi certam numeri summam non deducunt, ut si dicatur, certum esse, centum 
+      <lb ed="#F" n="13"/>aut mille hominum, non Fabium aut Curtium conseruatum iri, quod quidem nulli 
+      <lb ed="#F" n="14"/>sane theologorum placet. Ex quo erit confiteri necesse, auctori deo praesignatorum nu 
+      <lb ed="#F" n="15"/>merum esse certum sed intelligendum est deo non modo cognitione, qua scilicet
+      per<lb ed="#F" n="16" break="no"/>inde praesignatos, ut harenarum numerum internoscat, sed etiam selectione certum esse  
+      <lb ed="#F" n="17"/>numerum. Quare ut Architector praefinitum modulum in aedificandi
+      descriptio<lb ed="#F" n="18" break="no"/>ne metitur, praefinitaque membrorum genera describit, nec circumscriptum
+      lapi<lb ed="#F" n="19" break="no"/>dum numerum secernit, sed tantum arripit, quantum sit ad cumulandam parietum men 
+      <lb ed="#F" n="20"/>sionem satis, sic deum uolumus in rerum uniuersitate metiri. Etenim auctor ille
+      re<lb ed="#F" n="21" break="no"/>rum deus mundum efficere uolens, statuit qua mensione, quo numero, rerum
+      uni<lb ed="#F" n="22" break="no"/>uersitas contineretur, ut scilicet quot essent astrorum, sphaerarum, uel primordiorum 
+      <lb ed="#F" n="23"/>genera futura, at tabescibilium indiuiduorum genera, haud quaquam in primis sed 
+      <lb ed="#F" n="24"/>tanquam minoris gentium in uniuersitate constituit. itaque quam quam horum generum numerum ei 
+      <lb ed="#F" n="25"/>notum esse affirmamus, haud tamen pecudum, formicarum aut culicum numerum 
+      <lb ed="#F" n="26"/>ante constitutum esse dicimus, sed tantum eiusmodi generis ab eo fuisse eductum 
+      <lb ed="#F" n="27"/>quantum esset ad speciem conseruandam satis. At cum in omni creatarum rerum ge 
+      <lb ed="#F" n="28"/>nere, natura rationis compos, in primisque ea quae sit foelicitatis capax, ad uniuersi 
+      <lb ed="#F" n="29"/>tatis probitatem statuatur, consentaneum uideri debet, generatori deo
+      praesigna<lb ed="#F" n="30" break="no"/>torum notum esse numerum. Sed interim causa indagandi datur, num molitoris dei 
+      <lb ed="#F" n="31"/>uoluntate quidam improbentur, &amp; quorundam selectus habeatur. In eiusmodi enim 
+      <lb ed="#F" n="32"/>quaestione Aureolus, d. Thomae gloriae ambitiosius obtrectans, hoc modo
+      con<lb ed="#F" n="33" break="no"/>cludit Omnis qui uoluntario motu in alterum animaduertit, eumque in tabifica 
+      <lb ed="#F" n="34"/>scelerum genera incurrere sinit, quo puniendi aut plectendi occasionem nanciscatur, 
+      <lb ed="#F" n="35"/>saeuus omino &amp; imanis uideri debet, cum tormentis &amp; poena pascatur . at si deus uolun 
+      <lb ed="#F" n="36"/>tario motu quosdam improbare diceretur, necesse esset etiam fateri eum
+      saeuiendi<lb ed="#F" n="37" break="no"/>uoluptate delectari, ac crudelem immanemque uideri quo nihil dici potest in tota
+      dei<lb ed="#F" n="38" break="no"/>natura absurdius. Atque etiam inquit quam quam sine iniuria figulus ex eadem creta quaedam 
+      <lb ed="#F" n="39"/>escaria uasa, quaedam latrinaria tornet, &amp; uitriarius cyathum &amp; matulam sine
+      in<lb ed="#F" n="40" break="no"/>iuria comflet, haud tamen idem his accidere potest, qui bonorum &amp; malorum, honorum 
+      <lb ed="#F" n="41"/>&amp; contumeliae genera secernunt,. nec enim homines sine iniuria, debita absolutione 
+      <lb ed="#F" n="42"/>fraudantur, aut in tentro sempiternoque erumnarum angore uersantur . igitur nec deus uolum 
+      <!--030.xml-->
+      <pb ed="#F" n="9-r"/>
+               <lb ed="#F" n="1"/>tate ex eodem genere quosdam seligere, quosdam improbare dicitur. Cotra quem agmino 
+      <lb ed="#F" n="2"/>composito cohors Aquinatea concurrit. Nos uero si dicamus, a deo quosdam uo 
+      <lb ed="#F" n="3"/>luntario motu improbari, minime tamen eum uolumus delectari poenis, aut
+      tor<lb ed="#F" n="4" break="no"/>mentorum uoluptate pasci, sed id ex iustitiae mensione nasci affirmamus, in qua cul 
+      <lb ed="#F" n="5"/>pa ad poenam statuitur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

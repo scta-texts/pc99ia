@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 1</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 1</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="2-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e502"><!-- l1d1 -->
+            <head xml:id="pc99ia-d1e502-Hd1e108">Distinctio 1</head>
+            <head xml:id="pc99ia-d1e502-Hd1e111" type="question-title">De theologia</head>
+            <p xml:id="pc99ia-d1e502-d1e114">
+               <lb ed="#F" n="25"/>DE THEOLOGIA. 
+      <lb ed="#F" n="26"/>DISTINCTIO I 
+      <lb ed="#F" n="27"/>Taque quoniam tota est de theologia futura disputatio, primum de 
+      <lb ed="#F" n="28"/>materia quaerendum arbitror. In quo cum uariae sint theologorum 
+      <lb ed="#F" n="29"/>doctissimorum sententiae, explicandum erit, quid hij de hoc
+      quaestio<lb ed="#F" n="30" break="no"/>nis genere senserint, qui tributim descriptis ordinibus, inter se
+      theo<lb ed="#F" n="31" break="no"/>logorum sunt aciem partiti. Siquidem largo haustu diuinitatis compos diuus
+      Tho<lb ed="#F" n="32" break="no"/>mas, cum omnia quae in theologia uersantur ad auctorem deum tanquam ad initium, 
+      <lb ed="#F" n="33"/>aut finem referat, effici uult, ut deus theologiae materia dicatur. Contra quem ho 
+      <lb ed="#F" n="34"/>mo doctus &amp; argutus Aureolus, armatus prodit qui unus ex caesiorum familia 
+      <lb ed="#F" n="35"/>magis uidetur conari uelle secundas arripere, quam ad primas aspirare eumque
+      sub<lb ed="#F" n="36" break="no"/>sequitur alterius familiae <name xml:id="pc99ia-d1e502-Nd1e142">Alphonsus Tulletanus</name>, cui non est satis laudari, nisi cum 
+      <lb ed="#F" n="37"/>summis theologorum comparetur. Sed est repente exortus <name xml:id="pc99ia-d1e502-Nd1e147">Landulphus</name>, qui fa 
+      <lb ed="#F" n="38"/>bricatorem mundi deum, quatenus deus dicatur, theologiae materiam esse
+      opina<lb ed="#F" n="39" break="no"/>tur. Post homo acutus, &amp; diligens, <name xml:id="pc99ia-d1e502-Nd1e155">Iacobus Viterbiensis</name> deum huiusce scientiae 
+      <lb ed="#F" n="40"/>materiam, amabilissimi ueri ratione esse censet, in eandemque fere sententiam
+      re<lb ed="#F" n="41" break="no"/>migrat faciendorum argumentorum artifex praeclarus Garro. Nec ab his quidem lon 
+      <lb ed="#F" n="42"/>ge abest Thomae Argentinae sententia, ab Augustini disciplina manantis. Nos 
+      <!--018.xml-->
+      <pb ed="#F" n="3-r"/>
+               <lb ed="#F" n="1"/>
+               <!-- erroneous line -->
+               <lb ed="#F" n="2"/>vero materiam in scientiarum genere, tripertito metimur nam in aliquo scientiae ge 
+      <lb ed="#F" n="3"/>nere, materiam esse dicimus, ad quam omnia tanquam ad initium &amp; fontem
+      reuocen<lb ed="#F" n="4" break="no"/>tur alteram vero esse, quam cuncta tanquam integrum totum contuentur tertiam au 
+      <lb ed="#F" n="5"/>tem eam esse dicimus, ad quam omnia tanquam ad uniuersitatem totam referantur. 
+      <lb ed="#F" n="6"/>quod quidem praecare in grammatica, &amp; gaeometria ostenditur. In quarum altera 
+      <lb ed="#F" n="7"/>quemadmodum materia, tripertito, in litera, oratione, &amp; uoce seiungitur, in altera 
+      <lb ed="#F" n="8"/>punctus, corpus, continuitasque secernitur, ita in hoc genere materia tripertita
+      de<lb ed="#F" n="9" break="no"/>scribitur quarum una ad parentem rerum deum, altera ad Christum tertia ad
+      sa<lb ed="#F" n="10" break="no"/>crorum genera refertur. Itaque ob eam causam nostrorum contentione certatur, an 
+      <lb ed="#F" n="11"/>fidei membra, theologiae initia dicantur Aureolus enim aculeatorum argumento 
+      <lb ed="#F" n="12"/>rum rapax, arcum totu contendit, ut ea Theologiae principia esse neget &amp; in quo 
+      <lb ed="#F" n="13"/>dam quasi conclusionum genere uersari putet, quod in theologia patefaciendum 
+      <lb ed="#F" n="14"/>&amp; tuendum sit. Nam nullum genus scientiae dicit ad initia sua condudenda
+      pro<lb ed="#F" n="15" break="no"/>gredi, sed potius ex his concludendi rationem nancisci . at cum diuum Thomam 
+      <lb ed="#F" n="16"/>omnemque prope Theologorum coetum de his, quaestionum genera construere 
+      <lb ed="#F" n="17"/>confirmet, ad eaque explicanda, patefacienda, concludendaque progredi dicat, ut
+      cum<lb ed="#F" n="18" break="no"/>quaeritur, tergeminus ne deus dicatur, fieriue possit ut cutis humanae amictu
+      ue<lb ed="#F" n="19" break="no"/>stiatur deus, &amp; quae eius generis sunt, fatendum esse censet, ea nullo modo
+      theo<lb ed="#F" n="20" break="no"/>logiae initia debere dici, sed in quodam potius condudendi genere uersari. Quo 
+      <lb ed="#F" n="21"/>quidem loco flos &amp; robur Theologorum uaria armorum genera ad dimicandum 
+      <lb ed="#F" n="22"/>affert, maximeque Bernardus. Oliuerius. Gerardus Senensis, &amp; Thomas etiam
+      Ar<lb ed="#F" n="23" break="no"/>gentina, argumentorum genera, quocunque torquent inflectunt. Nos cum
+      Aureol<lb ed="#F" n="24" break="no"/>rationes deducimus, non multum ei prorsus, etiam subducta summa, concedimus. 
+      <lb ed="#F" n="25"/>nam quanquam nullum scientiae genus dicamus ad initia sua probanda
+      progredi<lb ed="#F" n="26" break="no"/>nullo tamemn modo interdictum esse uolumus, quin aliquod scientiae genus initia 
+      <lb ed="#F" n="27"/>sua, aliquo similitudinum genere ostendat, eaque a labefactantium ratione tuea 
+      <lb ed="#F" n="28"/>tur, aut doceat argumentorum genera contraria, euerti, &amp; labefactari posse. Ex quo 
+      <lb ed="#F" n="29"/>perspicuum uideri debet, ea non in condudendi, sed quasi in principiorum quodam 
+      <lb ed="#F" n="30"/>genere uersari, quae a disserentium aduersariorum argumentatione defendantur, ut 
+      <lb ed="#F" n="31"/>Aristoteles contra eos sibi faciendum putat, qui initia in disserendo negarint. Sec 
+      <lb ed="#F" n="32"/>quaeri maxime hoc loco potest, an Theologia in aliquo scientiarum genere uerse 
+      <lb ed="#F" n="33"/>tur. Nobis vero duplex placet scientiae esse genus. nam &amp; unum esse intelligimus 
+      <lb ed="#F" n="34"/>quod ab initijs naturali intelligentiae luce notis eruitur, quo in genere arithmetica, 
+      <lb ed="#F" n="35"/>&amp; gaeometria numerantur. Alterum vero id esse dicimus, quod ex antegredientis 
+      <lb ed="#F" n="36"/>disciplinae principijs dimanat ut Musice &amp; spectatrix, quae graece SπTικί
+      nomina<lb ed="#F" n="37" break="no"/>tur, quarum altera ab arithmeticae, altera a gaeometriae principijs de promitur. Quo 
+      <lb ed="#F" n="38"/>in genere intelligi debet, theologiam esse constitutam, cum ab initijs celsioris scien 
+      <lb ed="#F" n="39"/>tiae luce notis oriatur, quae ab autoris dei, diuorumque patefactione dimanat. Quare 
+      <lb ed="#F" n="40"/>non sine causa id scientiae genus, caeteris praestantius uideri potest siquidem
+      om<lb ed="#F" n="41" break="no"/>nis scientiae praestantia, aut materiae dignitate, aut ostendendi modo ostenditur 
+      <lb ed="#F" n="42"/>ut perspicuum est astrologiam a gaeometria, certa ostendendi ratione superari 
+      <lb ed="#F" n="43"/>eamque materiae dignitate excellere. Cum autem id scientiae genus, quod sit pro¬ 
+      <!--019.xml-->
+      <pb ed="#F" n="3-v"/>
+               <lb ed="#F" n="1"/>grediente hominum solertia repertum, duplex omnino dicatur, unum quod
+      ge<lb ed="#F" n="2" break="no"/>nere, alterum quod specie continetur, nemini dubium esse potest, Theologiam 
+      <lb ed="#F" n="3"/>omnibus scientiarum generibus, quae specie continentur, antecellere, cum plane 
+      <lb ed="#F" n="4"/>bene notum sit, nullum genus earum deum materiam nancisci. Atque etiam in illud 
+      <lb ed="#F" n="5"/>gurgustium, philolophorum sunt compingendi greges, ut eam multo
+      Metaphy<lb ed="#F" n="6" break="no"/>sice excelsiorem esse fateri cogantur inuiti proptereaque non rationis modo, sed 
+      <lb ed="#F" n="7"/>consignata patefactionis forma, sit opificis rerum dei contemplatrix. Itaque multa 
+      <lb ed="#F" n="8"/>aethereo haustu arripit, quae assequi ratio nullo modo potest siquidem
+      Metaphy<lb ed="#F" n="9" break="no"/>sice cum rato rationis ordine circumscriptam nanciscatur ad indagandum
+      uiam<lb ed="#F" n="10" break="no"/>calcem euolandi habet, minusque se ad dei naturam pernoscendam effert. Ex quo 
+      <lb ed="#F" n="11"/>illud etiam contendimus, caeteris eam sapientiorem uideri, cum sapientia sit rerum 
+      <lb ed="#F" n="12"/>diuinarum cognitio. nam ea rite sapientia dici potest, quae eius rei indagatrix sit 
+      <lb ed="#F" n="13"/>a qua rerum causae nascantur, siquidem quemadmodum auctore Aristotele ignem 
+      <lb ed="#F" n="14"/>omnium calorum causam esse uolumus, ita est necesse confiteri nobis, princeps 
+      <lb ed="#F" n="15"/>uerum, omnium uerorum esse causam. at cum theologia maxime sit principis ueri 
+      <lb ed="#F" n="16"/>contemplatrix, perfacile sciri potest eam id maxime metiri, a quo rerum causae 
+      <lb ed="#F" n="17"/>oriantur. Atque etiam eam sui causam esse dicimus. nam id liberum, &amp; sui causa 
+      <lb ed="#F" n="18"/>esse placet, quod ad quippiam externum, nullo modo constituitur. Ex quo
+      effici<lb ed="#F" n="19" break="no"/>tur, ut omnia scientiarum quoque genera, ad eam statuantur, siquidem perinde 
+      <lb ed="#F" n="20"/>ea caeteris, ac medicina aromaticae arti comparatur, quae sit dominatrix, &amp; rectrix 
+      <lb ed="#F" n="21"/>earum, non a caeteris instruatur. Similique prope modo (ut mathematicis bilem 
+      <lb ed="#F" n="22"/>moueamus) eam probamus in quodam certissimo genere uersari. nam res certae 
+      <lb ed="#F" n="23"/>collatione dicuntur, quam ad perceptionem, aut ad mentis lucem nanciscuntur. 
+      <lb ed="#F" n="24"/>etenim ea quae magis propria uideri possunt, propinquius in mentis lucem
+      irre<lb ed="#F" n="25" break="no"/>punt. cuius offusum rerum genus, quod mentis obtutu percipi &amp; compraehendi
+      po<lb ed="#F" n="26" break="no"/>test, actu sub cernendi aciem illabitur, magisque illud lucis genus arripit, ac altius 
+      <lb ed="#F" n="27"/>mentis obtutu penetrari potest. Ex quo intelligi debet id rerum genus certius
+      om<lb ed="#F" n="28" break="no"/>nino uideri, certissimamque eam esse scientiam, quae illud rerum genus persequa, 
+      <lb ed="#F" n="29"/>tur. Itaque ob eam causam, eam scientiam quae coelitum naturam seiunctam com 
+      <lb ed="#F" n="30"/>plectitur, his certiorem esse dicimus, quibus earum rerum natura ostenditur, quae 
+      <lb ed="#F" n="31"/>ab omni materiae concretione secreta, corpori annectuntur &amp; tum rursum eam 
+      <lb ed="#F" n="32"/>certiorem quam illam, quae in rerum corporearum natura indaganda uersatur, ut
+      prae<lb ed="#F" n="33" break="no"/>dare Aristoteles animae scientiam his certiorem esse probat quae corpora natura 
+      <lb ed="#F" n="34"/>mobilia persequantur. Nec tamen ob id minus est mathematicorum eruendus 
+      <lb ed="#F" n="35"/>dauus, que rarius sit eorum decempeda metatrixque ratio fallax nec item minus est 
+      <lb ed="#F" n="36"/>eorum puluere obruendus Ptolomaeus, que mathematicarum rationum certissimam 
+      <lb ed="#F" n="37"/>scientiam uelit, eamquam certiorem, quam Metaphysicae disciplinam esse opinetur
+      quan<lb ed="#F" n="38" break="no"/>doquidem rerum diuinarum genera, disiecta phantasmatum caligine, magis in 
+      <lb ed="#F" n="39"/>integram mentis aciem influere dicantur. Quemadmodum res corporeae, quae 
+      <lb ed="#F" n="40"/>sunt splendidissimae natura, per se solisque splendore collustrantur, magis sub inte 
+      <lb ed="#F" n="41"/>grum oculorum sensum cadunt. At hebetiore mentis acie, qualis est eorum qui 
+      <lb ed="#F" n="42"/>sunt aliquo corporis morbo affecti, magis res phantasmatis obductae cernuntur. 
+      <!--020.xml-->
+      <pb ed="#F" n="4-r"/>
+               <lb ed="#F" n="1"/>quemadmodum magis sub aegri hebetiorisque oculi sensum, atra aut caliginosa, 
+      <lb ed="#F" n="2"/>quam alba, aut sole collustrata cadunt. Quocirca ab hominum intelligentia, qualis 
+      <lb ed="#F" n="3"/>est modo in nobis, certissima mathematicarum rationum genera euocantur, ad 
+      <lb ed="#F" n="4"/>eorumque perceptionem opinabilia phantasmata opitulantur, quae in
+      cernendi<lb ed="#F" n="5" break="no"/>sensum irrepunt. At intelligentia quae in expleto absolutoque statu constituitur, 
+      <lb ed="#F" n="6"/>certissima rerum diuinarum genera euocat quando quidem quo res puriores
+      sub<lb ed="#F" n="7" break="no"/>tilioresque suapte natura sunt, eo certiores dicantur. Ex quo perfacile iudicium est 
+      <lb ed="#F" n="8"/>theologiam unam ex omnibus, in quodam certissimo genere uersari, eamque ex 
+      <lb ed="#F" n="9"/>uerissima quadam supra progredientem naturam luce manare, intelligique posse 
+      <lb ed="#F" n="10"/>quantum ipse Aristoteles, hoc obtutu adempto lippiret, qui dum lac
+      gallina<lb ed="#F" n="11" break="no"/>ceum se putat inuenire posse, negauit quicquam sciri posse, praeterquam quod ab homi 
+      <lb ed="#F" n="12"/>num intelligentia eruitur. Sed permagni refert, num theologia contemplatrix sit, 
+      <lb ed="#F" n="13"/>an in actione, quam graeci πρασίμ uocant, uersari dicatur, nam diuus quidem Tho 
+      <lb ed="#F" n="14"/>mas, cum eam in utraque poni posse opinetur, magis tamen eam
+      contemplatio<lb ed="#F" n="15" break="no"/>nem, quam praxin nominandam censet. In quo magna est ei cum Aureolo
+      conten<lb ed="#F" n="16" break="no"/>tio, nec minus ei negotij contrahit <name xml:id="pc99ia-d1e502-Nd1e398">Gregorius Ariminensis</name> flagranti doctrina, S 
+      <lb ed="#F" n="17"/>illustri gratia Theologus. <name xml:id="pc99ia-d1e502-Nd1e404">Scotus</name> uero mentis aestu e conspectu euolans, ita
+      mi<lb ed="#F" n="18" break="no"/>nutatim hoc descriptionis genus concidit, ut acrioribus blandiatur acumine, &amp; 
+      <lb ed="#F" n="19"/>ex interuallo regustatus adhaerescat multumque etiam <name xml:id="pc99ia-d1e502-Nd1e411">Alexander Ales</name>, <name xml:id="pc99ia-d1e502-Nd1e414">Thomas 
+        <lb ed="#F" n="20"/>Argentina</name>, <name xml:id="pc99ia-d1e502-Nd1e419">Roddonton</name>. <name xml:id="pc99ia-d1e502-Nd1e423">Godofredus</name>. <name xml:id="pc99ia-d1e502-Nd1e426">Henricus</name>, &amp; <name xml:id="pc99ia-d1e502-Nd1e429">Garro</name>, magni &amp; nobiles theo 
+      <lb ed="#F" n="21"/>logi, in hoc quaestionis genere uersantur. Sed praeter caeteros sapientissimus qui 
+      <lb ed="#F" n="22"/>ritium <name xml:id="pc99ia-d1e502-Nd1e436">Egidius</name>, cum utrunque genus excludat, eam patheticam esse arbitratur,
+      pro<lb ed="#F" n="23" break="no"/>ptereaque charitas, qui sit theologiae constitutus limes, pathetica maxime existat 
+      <lb ed="#F" n="24"/>Nos uero quanquam theologiam uideamus unum esse scientiae genus, id tamen ex 
+      <lb ed="#F" n="25"/>pletum, &amp; absolutum esse dicimus, uimque ad hominum absoluntionem, ex
+      diuini<lb ed="#F" n="26" break="no"/>tatis luce nancisci, hominemque maxime absoluere, cum ad munia recta, tum ad 
+      <lb ed="#F" n="27"/>facultatem contemplandi ueri. ex quo eam partim praxin, partim contempla 
+      <lb ed="#F" n="28"/>tionem esse uolumus. At cum omne scientiae genus, finis mensione
+      expenda<lb ed="#F" n="29" break="no"/>mus, extremumque huius scientiae finem, in aethereis sedibus principis ueri
+      contem<lb ed="#F" n="30" break="no"/>plationem esse dicamus, constare debere inter sanos uolumus, eam in primis in 
+      <lb ed="#F" n="31"/>contemplandi quodam genere uersari.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

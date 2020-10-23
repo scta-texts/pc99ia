@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 5</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 5</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="30-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e636"><!-- l3d5 -->
+            <head xml:id="pc99ia-d1e636-Hd1e108">Distinctio 5</head>
+            <head xml:id="pc99ia-d1e636-Hd1e111" type="question-title">De passione Christi</head>
+            <p xml:id="pc99ia-d1e636-d1e114">
+               <lb ed="#F" n="34"/>DE PASSIONE CHRISTI. 
+      <lb ed="#F" n="35"/>DISTINCTIO QVINTA. 
+      <lb ed="#F" n="36"/>SEd quoniam de absolutione satis est supra explicatum, aequum quidem est.  
+      <lb ed="#F" n="37"/>ut de ijs quae ad Christi ex orbe terrarum demigratione, pertinent,
+      disse<lb ed="#F" n="38" break="no"/>ratur. Quo sane loco in contentionem uenitur, num necesse fuerit Christum 
+      <lb ed="#F" n="39"/>uniuersi generis humnani nomine litasse. Quorundam enim qui ex haereticorum ar 
+      <lb ed="#F" n="40"/>mamentario tela depromunt, opinio est, genus humanum nisi a deo uinculis
+      la<lb ed="#F" n="41" break="no"/>xari nequiuisse. nam cum deum nulla necessitate praefiniri uelint, quando quidem 
+      <lb ed="#F" n="42"/>deus omnipotens dicatur, sequi affirmant minime necesse fuisse a Christo esse 
+      <lb ed="#F" n="43"/>litatum. Sed Aquinatum soboles &amp; robur, Aristotelem principem philolophorum 
+      <!--073.xml-->
+      <pb ed="#F" n="30-v"/>
+               <lb ed="#F" n="1"/>sequens, necessarium uarie definit. nam id uno genere metitur, quod naturae suae 
+      <lb ed="#F" n="2"/>modo secus esse non potest. ex quo intelligi debere, haud necesse fuisse, dei aut ho 
+      <lb ed="#F" n="3"/>minis natura a Christo haustas esse aerumnas. Altero vero quippiam necessarium ex 
+      <lb ed="#F" n="4"/>aduentitio dici posse uolunt, quod quidem si causa efficiens, aut agitatrix sit, cogen 
+      <lb ed="#F" n="5"/>di necessitatem afferre, quemadmodum si quispiam alterius manus iniectu ingredi 
+      <lb ed="#F" n="6"/>nequiret. Si autem aduentitium id quod necessitatem affert, finis dicatur, fatendum 
+      <lb ed="#F" n="7"/>esse confirmant, quippiam praestitutione finis necessarium dici ex quo condudi 
+      <lb ed="#F" n="8"/>Christum aerumnas finis necessitate pertulisse, quam ob rem cum his Scoteorum 
+      <lb ed="#F" n="9"/>legiones aduersae concurrunt, quibus nullo modo Christi expiationem
+      intermina<lb ed="#F" n="10" break="no"/>tam esse placet. Ad quorum rationes tanquam ad crepidines &amp; cautes adhaerescit Du 
+      <lb ed="#F" n="11"/>randus, probare se sperans, nec quenquam hominem, nec Christum quidem, quatenus 
+      <lb ed="#F" n="12"/>scilicet hon fuisse dicatur, uniuersi generis humani nomine, deo facere potuisse
+      sa<lb ed="#F" n="13" break="no"/>tis, persolutionem aequalitate metiens magnitudinis culpae contractae. In quo Aqui 
+      <lb ed="#F" n="14"/>nates armis instructi adsunt, qui a Christo actione interius, perpessioneque aduen 
+      <lb ed="#F" n="15"/>titia, uniuersum humanum genus expiatum uolunt, factumque deo satis. Qui autem 
+      <lb ed="#F" n="16"/>in theologia tanquam per sentes suspenso pede incedunt, affirmant Christum dum 
+      <lb ed="#F" n="17"/>latus, uitamque corpoream deo parenti uouit, non modo pro hominum noxa, aes 
+      <lb ed="#F" n="18"/>alienum persoluere, sed etiam beneficia homini praestita aequare potuisse, quae ratio 
+      <lb ed="#F" n="19"/>multos impulit, ut nullo alio modo quam Christi litatu, genus humanum uinculis
+      la<lb ed="#F" n="20" break="no"/>xari potuisse opinarentur: Et contra nonnullis atriensibus theologis alio genere 
+      <lb ed="#F" n="21"/>aequius, quam Christi expiatione liberari potuisse uisum est. Quorum lippitudini
+      col<lb ed="#F" n="22" break="no"/>lyria adhibemus, affirmantes quodlibet genus eo congruentius ad finem
+      perse<lb ed="#F" n="23" break="no"/>quendum uideri, quo plura ex eo ad finem tempestiua oriantur, atqui cum multa 
+      <lb ed="#F" n="24"/>ex Christi litatu ad hominis incolumitatem, citra noxae expiationem nascantur, fateri 
+      <lb ed="#F" n="25"/>necesse esse dicimus, id maxime congruens fuisse liberandi genus. In quo sunt a 
+      <lb ed="#F" n="26"/>multis quaesita interposita, quibus parum decorum id genus necis uideretur, eamquam 
+      <lb ed="#F" n="27"/>sententiam Damasceno uade obstringunt, qui Christum neget abiectissimas
+      aerum<lb ed="#F" n="28" break="no"/>nas exandaturum fuisse sed cum nex Christi ignominiosissima fuisse uideatur. 
+      <lb ed="#F" n="29"/>haud sane consentaneum esse, ei id genus necis fuisse illatum, quorum tanquam
+      ephe<lb ed="#F" n="30" break="no"/>borum gymnica excursio, ab equitatu nostro coercetur. Siquidem eas abiectas 
+      <lb ed="#F" n="31"/>aerumnas a Christo recusatas dicimus, quae ad gratiae aut doctrinae defectionem 
+      <lb ed="#F" n="32"/>pertinerent, non autem illis eum obstitisse, quae ad iniuriam ab altero illatam perti 
+      <lb ed="#F" n="33"/>nerent, quo constituto omnis aculeatorum sophismatum acies retunditur. Sed mul 
+      <lb ed="#F" n="34"/>ti tamem quasi condusionum oppugnandarum periti. Christum dicunt omnes fuisse 
+      <lb ed="#F" n="35"/>aerumnas tolerando perpessum . idque sanctissimi hominis Hylarij syngrapham con 
+      <lb ed="#F" n="36"/>firmant, qui omnes humanas aerumnas a Christo haustas fuisse scribat, cum no 
+      <lb ed="#F" n="37"/>uissima uerba fatus, demissa ceruice animam efflauit. Quo quidem loco diuus Tho 
+      <lb ed="#F" n="38"/>mas, qui, quasi portitor, omnium sinus, &amp; manticas scrutatur, ne quid occulatur 
+      <lb ed="#F" n="39"/>quod ad Christianum uectigal pertineat, cum humanas aerumnas speciei modo 
+      <lb ed="#F" n="40"/>metitur, negat necesse fuisse, omnia ab eo cruciamentorum genera esse suscepta, 
+      <lb ed="#F" n="41"/>tum pleraeque inter se aerumnarum species dissideant, cum autem eas genere expen 
+      <lb ed="#F" n="42"/>dit, eum affirmat omnia humana tormenta perpessum. Cui quidem sententiae as¬ 
+      <!--074.xml-->
+      <pb ed="#F" n="31-r"/>
+               <lb ed="#F" n="1"/>sentitur orthodoxeorum senatus concors. nam Christum &amp; decuriatim, &amp;
+      plebi<lb ed="#F" n="2" break="no"/>scito &amp; edictis magistratuum, quasi perduellionem male mulctatum scimus, &amp; tum 
+      <lb ed="#F" n="3"/>a uiris, foeminisque omni probrorum genere contumeliosissime uexatum, tum ab
+      inte<lb ed="#F" n="4" break="no"/>rioribus proditu, &amp; desertum, ac rursum euelatum, &amp; diuaricatum ad tunicam interum 
+      <lb ed="#F" n="5"/>lam, eiusque fractas, transfixasque ceruices, &amp; consputa ora, uirgis denique insontem cae 
+      <lb ed="#F" n="6"/>sum populo cachinnante teste. Itaque ob id perquiritur, quales sint effectus
+      conse<lb ed="#F" n="7" break="no"/>cuti, multi enim uaferrimam cauillationem struunt, qua negant ob Christi litatum
+      ho<lb ed="#F" n="8" break="no"/>mines carnificis daemonis nexu esse liberatos, idque hoc modo comnectunt. Is enim 
+      <lb ed="#F" n="9"/>uim &amp; dominatum in alterum non nanciscitur, in quo alterius iniussu, imperio
+      de<lb ed="#F" n="10" break="no"/>fungi non potest. atqui cum daemon nihil unquam sit dei iniussum in hominis
+      perni<lb ed="#F" n="11" break="no"/>ciem molitus, perfacile notum est, daemonem nunquam in hominem, uim &amp; dominatum 
+      <lb ed="#F" n="12"/>esse nactum, quod cum ita sit, perspicuum est etiam minime ob Christi litatum ho 
+      <lb ed="#F" n="13"/>mines daemonis dominatu liberatos. Quod contortum argumenti genus rectissi 
+      <lb ed="#F" n="14"/>me ad perpendiculum, &amp; lineam erigimus, cum affirmamus hominem ob Christi ex 
+      <lb ed="#F" n="15"/>piationem compedibus laxatum, quatenus scilicet ea expiatio eluendorum criminum  
+      <lb ed="#F" n="16"/>causa dicatur, aut quatenus per eam sit cum statore deo reconciliata gratia. Et
+      quam<lb ed="#F" n="17" break="no"/>quam modo annuente deo a sonte daemone animae hominum irritari, corporaque
+      ue<lb ed="#F" n="18" break="no"/>xari possint. Christi tamen expiatione antidotum esse adhibitum dicimus, quo 
+      <lb ed="#F" n="19"/>homines contra eius insidias muniantur, labisque mulcta liberentur, cum antea
+      ho<lb ed="#F" n="20" break="no"/>mines nunquam ita ex eius ulnis elaberentur, quin esset ad ditis antrum excedentibus 
+      <lb ed="#F" n="21"/>manibus meandum. Quo quidem omnium consensum probato de Christi morte
+      di<lb ed="#F" n="22" break="no"/>sceptatur. In quo loco theologorum altera lux <name xml:id="pc99ia-d1e636-Nd1e285">Scotus</name> probat, minime Christo 
+      <lb ed="#F" n="23"/>moriendi necessitatem inustam, aut necessario eius mortale fuisse corpus, cum dicat, 
+      <lb ed="#F" n="24"/>miraculo id tabescibile fuisse, affirmans affluentiam gloriae animae ad corpus, mira 
+      <lb ed="#F" n="25"/>culo impediri, quo perfecto corpori sit moriendi necessitas inusta, cum nec gloria 
+      <lb ed="#F" n="26"/>in corpus redundaret, nec corporis natura originis iustitiam nancisceretur, qua
+      con<lb ed="#F" n="27" break="no"/>pus a tabe integrum seruaret. ad cuius sententiae uadimonium praedem
+      Augusti<lb ed="#F" n="28" break="no"/>num adhibet in quo argumenti ponte multi eum praestolantur armati, dicuntque his 
+      <lb ed="#F" n="29"/>rationibus tantum confirmari. Christo ob diuinitatis naturam moriendi necessita 
+      <lb ed="#F" n="30"/>tem inustam non fuisse, sed negant ab his condudi eum moriendi necessitatem 
+      <lb ed="#F" n="31"/>non esse nactum, &amp; propter decretam metam finis, &amp; propter uim agentis
+      ad<lb ed="#F" n="32" break="no"/>uentitij. At diuus Thomas in sententiarum aerario probare uidetur Christum no 
+      <lb ed="#F" n="33"/>modo corporis, sed etiam animae natura moriendi necessitatem esse nactum, sed in eo 
+      <lb ed="#F" n="34"/>qui est tertius theologumenon librorum cinnus, eo demigrat, ut Christo corporis 
+      <lb ed="#F" n="35"/>non animae natura moriendi necessitatem inustam uelit. Si autem eius columnis
+      capi<lb ed="#F" n="36" break="no"/>tula &amp; epistylia adijcere uelimus. Christi animam dicemus aliquam nactam esse
+      cor<lb ed="#F" n="37" break="no"/>pori influendi uim, ne patibile ullo modo constaret, ex quo praecare sequi
+      Chri<lb ed="#F" n="38" break="no"/>sto animae natura nullam moriendi necessitatem insitam fuisse sed cur corpus non
+      af<lb ed="#F" n="39" break="no"/>flaret, id tum ex partitione diuina oriri, qua Christi anima partim beata nec
+      pa<lb ed="#F" n="40" break="no"/>tibilis, partim haud beata &amp; patibilis existeret tum item ex anima nasci, quae
+      quam<lb ed="#F" n="41" break="no"/>quam uelut statoris instrumentum, uim nancisceretur, corpus a quacunque tabe tuendi, 
+      <lb ed="#F" n="42"/>tamen cum ob eam partem quae corpori iugabilis sit, nondum cumulate beata uide¬ 
+      <!--075.xml-->
+      <pb ed="#F" n="31-v"/>
+               <lb ed="#F" n="1"/>retur, propterea negemus eum nactum esse uim inhaerentem &amp; propinquam ad 
+      <lb ed="#F" n="2"/>afflandum. Ex quo quidem facultas disputandi suppetit, num letho sit a
+      corpo<lb ed="#F" n="3" break="no"/>re seiuncta diuinitas. Durandi enim extrinsecus inaurata sententia est, post
+      ne<lb ed="#F" n="4" break="no"/>cem a corpore diuinitatem esse secretam. Contra quem Atracinus Capreolus
+      disse<lb ed="#F" n="5" break="no"/>rens, probat ubiuis tutius eum, quam in ea sententia fore, quod quidem aurum ex Thomae 
+      <lb ed="#F" n="6"/>crumena deprompsit. Multi etiam Christum illo ipso mortis triduo hominem
+      extitis<lb ed="#F" n="7" break="no"/>se adiecerunt, quod sane falsum omnino uideri debet, cum maxime mortis uerita 
+      <lb ed="#F" n="8"/>tis intersit, post lethum hominem esse desinere quando quidem mors hominis ab
+      ani<lb ed="#F" n="9" break="no"/>mae secretione nascatur, qua hominis absoluta ratio cumulatur. Ideoque male
+      Vgo<lb ed="#F" n="10" break="no"/>Victorius Christum ipso triduo hominem extitisse probare conatur, animam
+      homi<lb ed="#F" n="11" break="no"/>nem esse affirmans. Nec multo secus a sententiarum principe in hac opinione
+      pec<lb ed="#F" n="12" break="no"/>catur, quanquam alio flexu dedinet, &amp; quasi alterius pedis solea altiuscula utatur, ne 
+      <lb ed="#F" n="13"/>daudicatio appareat. Quod idem fere persequitur Aureolus dum hoc argumen 
+      <lb ed="#F" n="14"/>tationis genus, propositionum terminorumque dialectica natura metitur quod
+      qui<lb ed="#F" n="15" break="no"/>dem ad Alberti praescriptum Capreolus retorquet. Quo concertationis loco
+      expli<lb ed="#F" n="16" break="no"/>cato, de Christi humatione loquimur. Plaerique enim hoc in illius quaestionis
+      or<lb ed="#F" n="17" break="no"/>bem detrudunt, qua affirmatur haud decore humatum fuisse Christum, cum
+      tonan<lb ed="#F" n="18" break="no"/>tem &amp; fulgentem deum fas esse negent humari. Quibus dicendum est consentaneum 
+      <lb ed="#F" n="19"/>esse, necis ueritatis testandae gratia, humatum fuisse Christum, nec enim quispiam  
+      <lb ed="#F" n="20"/>humatur, nisi exploratissima lethi signa antecedant . ldeoque Pilatum Pontium
+      di<lb ed="#F" n="21" break="no"/>uus Marcus scribit antequam humandum Christum concessisset, clarissima lethi
+      in<lb ed="#F" n="22" break="no"/>dicia quaesisse. In quo etiam multi honorificentius humationis genus putauerunt.  
+      <lb ed="#F" n="23"/>quam ignominiosissima nex illa postularet, nec consentaneum uideri homines
+      nobi<lb ed="#F" n="24" break="no"/>les pollinctores, &amp; uespillones extitisse. Quorum rationum quisquiliae satis sunt a 
+      <lb ed="#F" n="25"/>diuo Augustino. Hieronymo, &amp; Beda reiectae. ad eorum enim sententiam tanquam ad 
+      <lb ed="#F" n="26"/>statuam confugitur. Sed interim de Christi ad herebum itione, mars atrox
+      exci<lb ed="#F" n="27" break="no"/>tatur nomnulli enim cum letho Christi animam a corpore secretam putent, haud eum 
+      <lb ed="#F" n="28"/>animae tantum natura cocytum &amp; auernum transgressum uolunt quandoquidem 
+      <lb ed="#F" n="29"/>animam corpore uacantem dicant, quae motu loci moueri non posse appareat, cum 
+      <lb ed="#F" n="30"/>id Aristotele auctore corporeum dicatur. Cum autem itio corporis motum osten 
+      <lb ed="#F" n="31"/>dat, facile persuasum uolunt, haud consentaneum uideri. Christum stygem, &amp; cocytum 
+      <lb ed="#F" n="32"/>transmisisse, quam uersicolorem sententiam, plaerique ut pueri pauonis caudam mirantur. 
+      <lb ed="#F" n="33"/>At sanioribus nullo modo placet Christi animam eo genere motus, quo corpora, 
+      <lb ed="#F" n="34"/>sed eo genere quo caelites mouentur, ad herebi antrum descendisse. <name xml:id="pc99ia-d1e636-Nd1e409">Durandus</name>
+      au<lb ed="#F" n="35" break="no"/>tem paludamento circa lacertum obtorto in diuum Thomam armatus irrupit., 
+      <lb ed="#F" n="36"/>probans Christum animae natura haud uerissime, ita ut merae naturae conspectu 
+      <lb ed="#F" n="37"/>adesset, sed solum quo ad effectum ad orcum peruenisse. In quo genere quaestio 
+      <lb ed="#F" n="38"/>nis argumentando irracuit quamquam ei sententiae, ut obsoletae chlamydi patagium 
+      <lb ed="#F" n="39"/>superinduxit <name xml:id="pc99ia-d1e636-Nd1e423">Picus noster Mirandula</name>, dum magis ambitu gloriae, quam acerbiore 
+      <lb ed="#F" n="40"/>odio quibusdam obtrectat. Verum nerui atque artus Christianae soliditatis sunt, 
+      <lb ed="#F" n="41"/>Christum animae natura uerissime ad ipsam Ditis domum profectum. quae causa 
+      <lb ed="#F" n="42"/>diuum Thomam excitauit, ut probaret duplex esse genus in aliquo consistendi quorum 
+      <!--076.xml-->
+      <pb ed="#F" n="32-r"/>
+               <lb ed="#F" n="1"/>unum effectu expendet, quo quidem Christum omnes herebi gurgites, latebrasque 
+      <lb ed="#F" n="2"/>scrutatum fuisse dicit sed secus, cum in imis auerni faucibus inficiantem perfidiam
+      son<lb ed="#F" n="3" break="no"/>tibus manibus obijceret, &amp; tum ijs quorum esset praefinito tempore expiabile crimem 
+      <lb ed="#F" n="4"/>spem certissimae gloriae praeberet, tum sanctissimas heroum uatumque animas
+      euo<lb ed="#F" n="5" break="no"/>caret in coelum. Altero uero genere quippiam in aliquo loco consistere suapte
+      natu<lb ed="#F" n="6" break="no"/>ra dicendum putat, quo Christi animam ad ea tantum herebi partem measse dicit, qua 
+      <lb ed="#F" n="7"/>piorum foelices animae continerentur . ita ut cum in una herebi parte consisteret, eius
+      ef<lb ed="#F" n="8" break="no"/>fectus ad omnes tartareas carnificinas dimanaret.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

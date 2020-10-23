@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 3</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 3</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="15-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e327"><!-- l2d3 -->
+            <head xml:id="pc99ia-d1e327-Hd1e108">Distinctio 3</head>
+            <head xml:id="pc99ia-d1e327-Hd1e111" type="question-title">De daemonibus</head>
+            <p xml:id="pc99ia-d1e327-d1e114">
+               <lb ed="#F" n="38"/>DE DAEMONIBVS. 
+      <lb ed="#F" n="39"/>DISTINCTIO TERTIA. 
+      <lb ed="#F" n="40"/>Tidemque prope a nobis de daemonum genere exquiritur. In quo quidem 
+      <lb ed="#F" n="41"/>affirmatur, nihil aliud esse delinquere, quam ab amussi dedinare actus
+      sui<lb ed="#F" n="42" break="no"/> nam sruel ex ferum nantura, uel ex moralium, aut ex artificiorum ratione 
+      <!--044.xml-->
+      <pb ed="#F" n="16-r"/>
+               <lb ed="#F" n="1"/>peccatum elicitur, id solum a recto non torquetur, cuius est formula ipsa agentis 
+      <lb ed="#F" n="2"/>uirtus. Diuinae autem mentis uoluntas sola est amussis actus sui, nullisque superiori 
+      <lb ed="#F" n="3"/>bus finibus circunscribitur, at caeterorum, quorumcunque uoluntas, nullam actus sui formulam 
+      <lb ed="#F" n="4"/>assequitur, nisi quatenus in rectum ab uniuersitatis parente dirigatur. Ex quo
+      qui<lb ed="#F" n="5" break="no"/>dem assumitur, deum delinquere non posse, caetera autem delinquere posse,
+      conditio<lb ed="#F" n="6" break="no"/>nis naturae suae modo, quo constituto probatur coelitum genus peccare potuisse. Itaque 
+      <lb ed="#F" n="7"/>ob eam causam quaeri solet, quodnam eorum fuerit princeps peccati genus: Diuo 
+      <lb ed="#F" n="8"/>quidem Thomae id a superbiae malo manasse placet, quod contra Scoto maxime 
+      <lb ed="#F" n="9"/>displicet. Rationes enim inducit, quibus cum crimen daemonis maximum fuisse pro 
+      <lb ed="#F" n="10"/>bet, proptereaque esset irreparabile malum, condudi putat, superbiam nullo modo 
+      <lb ed="#F" n="11"/>maximum uideri crimen quando quidem ei obiecta humilitas e regione respondeat, 
+      <lb ed="#F" n="12"/>quae nullo modo uirtutum maxima dicatur, atque etiam probabilius uideri dicit, in 
+      <lb ed="#F" n="13"/>ferius daemonum genus, id imperium nullo modo concupisse, quod minus eorum 
+      <lb ed="#F" n="14"/>naturae congrueret cum perspicuum uideri debeat, maluisse eos auctoris dei, quam
+      Lu<lb ed="#F" n="15" break="no"/>cigeri dominatum pati ex quo satis liquere, haud quaquam id crimeni, a furentis supen 
+      <lb ed="#F" n="16"/>biae malo manasse. In quo quidem multum ei a caesiorum genere plamuditur, cui tamen 
+      <lb ed="#F" n="17"/>responderi potest, minime necesse fuisse, id daemonis maximum extitisse crimem, cum 
+      <lb ed="#F" n="18"/>post etiam ab eo diriora sint scelerum genera patrata . dicique etiam nimirum posset,  
+      <lb ed="#F" n="19"/>superbia tumentem, eodem hostimento malle superioris, quam inferioris generis im 
+      <lb ed="#F" n="20"/>peria pati. at si quicquam praestantius in inferiori genere nanciscatur, quod in
+      supe<lb ed="#F" n="21" break="no"/>riori consequi nullo modo posset, malle eum affirmamus, inferiori generi
+      subesse<lb ed="#F" n="22" break="no"/>Quo quidem modo dicendum esset haud quaquam contra stolidissimorum
+      daemo<lb ed="#F" n="23" break="no"/>num superbiam uideri, eos inferioris generis dominatum pati uoluisse, ut suapte 
+      <lb ed="#F" n="24"/>scilicet natura extremum bonorum assequerentur, cum tum etiam coelitum
+      principi<lb ed="#F" n="25" break="no"/>essent subiecti lege naturae. Sed a doctissimis quaesitum &amp; disputatum est, an nequam 
+      <lb ed="#F" n="26"/>daemon continuo in ortu deliquerit, multis enim daemones in ipso statim ortu non 
+      <lb ed="#F" n="27"/>natura, sed uoluntate malos fuisse placet. Aureolus autem qui Aquinateam
+      sen<lb ed="#F" n="28" break="no"/>tentiam delumbant, eum continuo in ortu delinquere potuisse censet, nec minus item 
+      <lb ed="#F" n="29"/>telorum affert Gregorius Ariminensis, qui cum in huiusce rei discemptatione Chri 
+      <lb ed="#F" n="30"/>stum anima continuo in ortum meruisse uelit, concedi sibi uult ut coelites etiam in 
+      <lb ed="#F" n="31"/>ipso statim ortum merere, ac aeque delinquere potuisse dicantur. Cui etiam ne mora 
+      <lb ed="#F" n="32"/>quidem ad respirandum d atur siquidem quemadmodum daemonem continuo in ortu 
+      <lb ed="#F" n="33"/>nullo modo deliquisse concedendum est, ita concedi debet coelites in ipso statim 
+      <lb ed="#F" n="34"/>ortu, foelicitatem nullo modo consecutos atque ita minus illis necesse fuisse putandum 
+      <lb ed="#F" n="35"/>est, se mansuros praesagisse, quemadmodum nec daemones se casuros diuinasse, ante 
+      <lb ed="#F" n="36"/>quam e coeli theatro deturbarentur. At cum inprimis coelitum foelicitas a deo dimanet 
+      <lb ed="#F" n="37"/>cumque crimen a libero uoluntatis motu oriatur, erit confiteri necesse, ut auctor mum 
+      <lb ed="#F" n="38"/>di deus coelites foelicitate afficere potuisse dicatur, eos in id impellens, quod sit su 
+      <lb ed="#F" n="39"/>pra progredientem naturam situm. At uero nullo modo confitendum est coelites nisi 
+      <lb ed="#F" n="40"/>post princeps illud momentum per se peruerse in id impelli posse, quod sit suprae 
+      <lb ed="#F" n="41"/>progredientem naturam constitutum, quo posito, tamquam in integro res sit, affirmatur 
+      <lb ed="#F" n="42"/>daemonem inuidiae felle &amp; superbia caecum, diuinum honorem, ut foelicitatis finem 
+      <!--045.xml-->
+      <pb ed="#F" n="16-v"/>
+               <lb ed="#F" n="1"/>concupisse, ac alios appetitionis contagione inquinasse, pluresque insontes reman 
+      <lb ed="#F" n="2"/>sisse, quam cecidisse reos. Itaque affirmamus eos apud orcum, igni ultore mulctari, nec 
+      <lb ed="#F" n="3"/>usquam nisi irritandorum oppugnandorumque hominum causa ex Ditis antro
+      discedere<lb ed="#F" n="4" break="no"/>quanquam principi sententiarum placet, eos in hoc terrae proximo crasso &amp; concreto 
+      <lb ed="#F" n="5"/>aere uersari, quo propinquius irritandi fallendique retia iactent. Atque etiam faten 
+      <lb ed="#F" n="6"/>dum est eos scelere occalluisse, nec sanabiles esse aetate, nec item his spacium reuo 
+      <lb ed="#F" n="7"/>candi dari, cum ab ea peccati tabe auelli nolint, qua coelitum princeps, ut fex, in 
+      <lb ed="#F" n="8"/>imum superba auiditate corruit. Ex quo nihil esse potest <name xml:id="pc99ia-d1e327-Nd1e243">Origeni</name> straboni
+      loci<lb ed="#F" n="9" break="no"/>qui daemonum aerumnas in tempus circumscribi putauit. soleo enim hominis om 
+      <lb ed="#F" n="10"/>nium doctissimi, hallucinatione angi, que ab eo sit tanto melli, tam dirum aconitum 
+      <lb ed="#F" n="11"/>satum. Atque etiam intelligendum est, eos ex quibusdam indicijs, occultarum rerum no 
+      <lb ed="#F" n="12"/>ticiam elicere absentium uero distantiumque rerum in se cognitionem percipere 
+      <lb ed="#F" n="13"/>cum haud quaquam propinquitas, aut longinquitas intelligentiae aciem perstringat. 
+      <lb ed="#F" n="14"/>at futurarum rerum praesensionem in se nullo modo percipiunt. sed quodam
+      cau<lb ed="#F" n="15" break="no"/>sarum significationumque genere res futuras praesentiunt, quod idem hominum 
+      <lb ed="#F" n="16"/>generi accidere posse dicitur, siquidem multi Astrologum causis. Gaeomanticum 
+      <lb ed="#F" n="17"/>signis, futurarum rerum praesensionem consequi posse uolunt. nam cum
+      Astrolo<lb ed="#F" n="18" break="no"/>gos aequato coelo, siderum cognitionem elicere opinentur, quibus citeriora
+      regan<lb ed="#F" n="19" break="no"/>tur, multa eos affirmant de uentis, de imbribus, de tempestate praesentire posse 
+      <lb ed="#F" n="20"/>eodemque modo Gaeomanticos celeri manuum motu, punctorum multitudinem 
+      <lb ed="#F" n="21"/>describere, qui ad orbium figuras referantur, nec multo quidem secus medicos ex 
+      <lb ed="#F" n="22"/>lotio, aegritudinis naturam praesagire, multosque item ex auium gannitu, multos 
+      <lb ed="#F" n="23"/>ex piscium natatu tempestatem praesentire . idque ex coeli motu accidere, a quo
+      tem<lb ed="#F" n="24" break="no"/>pestates aut commutationes futurae gignantur. In quibus quidem cunctis
+      per<lb ed="#F" n="25" break="no"/>noscendi generibus, daemones hominibus maxime praestant. nam &amp; absolutius 
+      <lb ed="#F" n="26"/>uim astrorum percipiunt, subtiliusque eorum copulationes dijudicant deinceps 
+      <lb ed="#F" n="27"/>etiam ex patefactione insontium coelitum cognitionem elicere dicimus, quorum 
+      <lb ed="#F" n="28"/>sint non uoluntatis congruentia, sed germanissima intelligentiae similitudine co 
+      <lb ed="#F" n="29"/>gnati. postremo multa eosdem longinquo temporis usum, &amp; consuetudine
+      perci<lb ed="#F" n="30" break="no"/>pere uolumus. Itaque iure ob eam causam senatus promulgatione cauetur, nequa 
+      <lb ed="#F" n="31"/>daemonum ad percontandum euocatio fiat, neue quis eorum nomenculator sit, 
+      <lb ed="#F" n="32"/>neue etiam malum carmen incantetur, quo daemones, tanquam serpentes Psyllorum 
+      <lb ed="#F" n="33"/>cantu, leniantur. Si quidem homines cum crassius intelligentiae obtutu hebescant, 
+      <lb ed="#F" n="34"/>facile e uestigio conuulsi, artifici uipereo, nexu obligantur. Est enim daemonum
+      ge<lb ed="#F" n="35" break="no"/>nus natura noxium, inuidiae felle luridum, in fallendo uafrum, ac insidiosum uer 
+      <lb ed="#F" n="36"/>riculum generis humani. Ideoque in hominum corpora obrepere, ac ultro citroque 
+      <lb ed="#F" n="37"/>uexando concursare suapte natura possunt nec eorum quidem appulsus
+      animan<lb ed="#F" n="38" break="no"/>tium genus ullum expers uideri potest, ni sit coelesti sera aditus praeclusus . Eodem 
+      <lb ed="#F" n="39"/>accedit, que haud quaquam eorum est naturae negatum, quin possint corporum
+      inte<lb ed="#F" n="40" break="no"/>gumenta arripere, in uariaque figurarum genera transferri, quo callidius
+      improui<lb ed="#F" n="41" break="no"/>da hominum ingenia lacessant, ut saepe in diuorum pugilatu contigisse legimus, 
+      <lb ed="#F" n="42"/>qui olfactu, aduentantium praestigias agnouerunt.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 7</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 7</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="9-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e181"><!-- l1d7 -->
+            <head xml:id="pc99ia-d1e181-Hd1e108">Distinctio 7</head>
+            <head xml:id="pc99ia-d1e181-Hd1e111" type="question-title">De potentia Dei</head>
+            <p xml:id="pc99ia-d1e181-d1e114">
+               <lb ed="#F" n="6"/>DE POTENTIA DEI 
+      <lb ed="#F" n="7"/>DISTINCTIO SEPTIMA. 
+      <lb ed="#F" n="8"/>ATque huic quaestioni finitima est de dei potentia disceptatio. Sunt enim 
+      <lb ed="#F" n="9"/>multi qui eam interminatam esse negent in eaque sententia probanda, dum 
+      <lb ed="#F" n="10"/>struem argumentorum cumulant, &amp; modo laxius Aristotelem quam aurum 
+      <lb ed="#F" n="11"/>dilatant, modo tanquam in uisco inhaeserit, explicant, in id genus ludicri 
+      <lb ed="#F" n="12"/>deducunt, quod pueri foris &amp; intus uocant. Nos uero cum ex rerum ortu,
+      quando<lb ed="#F" n="13" break="no"/>quidem nulla circunscripta uis, quippiam ex nihilo gignat, tum ex motus
+      aeternita<lb ed="#F" n="14" break="no"/>te interminatam dei potentiam indagamus . Eodem acceditque hominum intelligentia 
+      <lb ed="#F" n="15"/>ab omni materiae concretione seiuncta, in infinitum, in immensumque progredit quod 
+      <lb ed="#F" n="16"/>ex eo scire licet, que omni circunscriptae magnitudini, intelligentiae capacitas, aliquid 
+      <lb ed="#F" n="17"/>maius adijcere cogitando potest, nullamque ultimi oram metitur. Etenim frustra 
+      <lb ed="#F" n="18"/>intelligentiae acies in imensum ferri uideretur, ni quippiam interminatum
+      existe<lb ed="#F" n="19" break="no"/>ret, quod intelligi cogitatione posset. Ex quo notum esse debet, aliquid imensum quid 
+      <lb ed="#F" n="20"/>intelligi possit, existere, quod deum esse fateri cogamur. Ergo perspicuum etiam esse  
+      <lb ed="#F" n="21"/>potest, deum imensum, interminatamquam eius potentiam existere. Atque etiam nullo 
+      <lb ed="#F" n="22"/>modo effectus causae suae finibus exit. at cum intelligentia, a parente deo
+      dima<lb ed="#F" n="23" break="no"/>net, quae est cunctarum rerum causa generatrix &amp; princeps. igitur nihil intelligentia
+      deo<lb ed="#F" n="24" break="no"/>maius cogitando percipit quod si terminatae magnitudini aliquid semper
+      ingen<lb ed="#F" n="25" break="no"/>tius addere meditando potest, facile est etiam intelligi, nec deum terminatum, nec
+      uim<lb ed="#F" n="26" break="no"/>eius esse circumscriptam . Itaque cum perspicuum sit, minime uim eius ad quempiam ef  
+      <lb ed="#F" n="27"/>fectum praefiniri, sed puritate naturae cuncta moliri posse, dubitationem non habet,  
+      <lb ed="#F" n="28"/>quin omnipotens sit dicendus. Etenim uis seminis humani nunquam lupum aut
+      pi<lb ed="#F" n="29" break="no"/>rum gignere ullo modo potest nec item uis corporea, gignendorum coelitum facul 
+      <lb ed="#F" n="30"/>tatem nanciscitur, eodemque modo nec sutor terebram, nec figulus serram conficere
+      po<lb ed="#F" n="31" break="no"/>test. At fabricatori deo nullius eiusmodi conficiendi generis facultas adimitur, nec 
+      <lb ed="#F" n="32"/>dissimilitudine aut praestantia, nec ademptione materiae. Quando quidem nullam 
+      <lb ed="#F" n="33"/>in moliendo materiam efflagitet, cum nullo antecendente moliatur. Itaque quamquam omnes 
+      <lb ed="#F" n="34"/>fateantur omnipotentem esse deum, multis tamen solet difficilis uideri eius rei
+      ex<lb ed="#F" n="35" break="no"/>plicandae ratio, siquidem. D. Thomae perspicua sincaeritas est, liberrime omnipoten 
+      <lb ed="#F" n="36"/>tem esse deum. At plaerique cum setinum &amp; phalernum habeant, malunt haurire
+      de<lb ed="#F" n="37" break="no"/>fece, &amp; cum probabiliora dicantur, incredibiliora indagare uolunt. Ex quo magna 
+      <lb ed="#F" n="38"/>auctoritate theologus Aureolus, quacunque summam. d. Thomae cutem ledere
+      co<lb ed="#F" n="39" break="no"/>natur, affirmans posse deum ex nihilo quippiam moliri, cinefactaque hominum
+      corpo<lb ed="#F" n="40" break="no"/>ra ex laeti tenebris ad intuendam lucem reuocare, praeditisque gloria corporibus
+      ta<lb ed="#F" n="41" break="no"/>bescibilem adimere luem, ac multa generis eiusdem moliri posse confirmat . at cum 
+      <lb ed="#F" n="42"/>haec ab hominum genere sine repugnatione percipi posse neget, ob eam causam id 
+      <!--031.xml-->
+      <pb ed="#F" n="9-v"/>
+               <lb ed="#F" n="1"/>inanius dici arbitratur, nec fas esse censet, negare, quaedam a deo confici neqre, propterea 
+      <lb ed="#F" n="2"/>que homines ea fieri nullo modo posse opinentur. Ex quo est illa Aquinatum
+      contradicen<lb ed="#F" n="3" break="no"/>tium nata ratio, qua ita eius argumenta retorquent, ut ostendant ab his deo, contu 
+      <lb ed="#F" n="4"/>meliae nebulam offundi nihilque ineptius esse putant quam tam nobilem &amp; probatum theo 
+      <lb ed="#F" n="5"/>logum, ad oens argumentorum angustias, ad omnesque uerborum angulos reuocare, in 
+      <lb ed="#F" n="6"/>ducereque eum saepe a se dissentientem, saepe discrepantem, cum a se dissideat nemo in 
+      <lb ed="#F" n="7"/>theologia minus. Sed in hac disceptatione nonulli opinantur, multa facere
+      nequi<lb ed="#F" n="8" break="no"/>re deum. nam nec eum esse corpus, nec mutari, nec augeri, nec decrescere quidem 
+      <lb ed="#F" n="9"/>ullo modo posse dicunt, nec item eum lassitudinem aut senectutem sentire posse, nec
+      ob<lb ed="#F" n="10" break="no"/>liuisci, nec pati, nec rursum nancisci in anteacta uim . Eodemque modo nequire esse 
+      <lb ed="#F" n="11"/>nisi probum, nec aliqua malorum genera uelle, nec delinquere quidem posse. Ex quo mul 
+      <lb ed="#F" n="12"/>ti quasi tortuosior uulpis adit: pateret, deum dixerunt praestantiora quam moliatur
+      moli<lb ed="#F" n="13" break="no"/>ri nequire, nam nec recentatorem Christum, nec deam matrem praestantiores esse posse
+      af<lb ed="#F" n="14" break="no"/>firmarunt. Nobis uero placet quocumque genito, quod circunscriptum sit, aliquid fieri pos 
+      <lb ed="#F" n="15"/>se praestantius, at eo, quod nec genitum, nec terminatum sit, satis est argumenti nihil 
+      <lb ed="#F" n="16"/>fieri posse absolutius. Sed cum duplex sit rerum genitarum probitas, una quae per se,
+      al<lb ed="#F" n="17" break="no"/>tera quae collatione expenditur, nemini dubium esse debet, si quippiam per se
+      ponde<lb ed="#F" n="18" break="no"/>retur, quin fatendum sit, aliquid eo fieri posse praestantius si autem ad auctorem deum qpe 
+      <lb ed="#F" n="19"/>piam collatione referatur, quin concedendum sit, id ab imenso, cui confert, intermina 
+      <lb ed="#F" n="20"/>tam magnitudinem nancisci. Atque etiam ordo earum rerum quae deo ascribuntur,
+      triperti<lb ed="#F" n="21" break="no"/>to describitur, nam quaedam nec libere quidem eius potestati conceduntur, ut si dicatur
+      effi<lb ed="#F" n="22" break="no"/>cere neqre deum, ut pugnantia simul in eodem ueri curriculo uersentur, quaedam etiam 
+      <lb ed="#F" n="23"/>ab eius probitate dissident, quae minime eum moliri posse negamus quaedam quae
+      in<lb ed="#F" n="24" break="no"/>ter se nullo modo pugnant, sed dissidere spectatu apparent, in quo genere libere 
+      <lb ed="#F" n="25"/>conficiundi potestas non adimitur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

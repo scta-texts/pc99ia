@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 7</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 7</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="21-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e450"><!-- l2d7 -->
+            <head xml:id="pc99ia-d1e450-Hd1e108">Distinctio 7</head>
+            <head xml:id="pc99ia-d1e450-Hd1e111" type="question-title">De peccato parentum et originis</head>
+            <p xml:id="pc99ia-d1e450-d1e114">
+               <lb ed="#F" n="14"/>DE PECCATO PARENTVM. 
+      <lb ed="#F" n="15"/>ET ORIGINIS 
+      <lb ed="#F" n="16"/>DISTINCTIO SEPTIMA. 
+      <lb ed="#F" n="17"/>Qcautem loco perquirendus est Phaeton generis humani. nam cum 
+      <lb ed="#F" n="18"/>satis fere de incolumi natura explicatum sit, restare uidetur, ut de
+      son<lb ed="#F" n="19" break="no"/>tium hominum noxa indagetur. Duplex est igitur huius uiperei
+      mali<lb ed="#F" n="20" break="no"/>tabes, unum genus est, in quo a persona natura inquinatur, alterum in quo 
+      <lb ed="#F" n="21"/>personam natura contaminat, quo quidem humanum genus, tanquam natiuo quodam 
+      <lb ed="#F" n="22"/>morbo uexatur, sed quoniam utriusque peccati, magna est quaestio, ab eo ordiendum 
+      <lb ed="#F" n="23"/>arbitror, quod est ordine prius. Itaque primum uidendum erit, num id a tumente super 
+      <lb ed="#F" n="24"/>biae malo manarit. multi enim qui se mirifice literosos putant, ratiunculas afferunt,  
+      <lb ed="#F" n="25"/>quibus id ab adipiscendarum scientiarum cupiditate, non a superbia ortum esse uolunt. 
+      <lb ed="#F" n="26"/>nam cum a sonte daemone dicant homini promissam scientiam esse rerum, eius
+      conse<lb ed="#F" n="27" break="no"/>quendae desiderio flagrasse, non superbia tumefactum esse hominem. In quo non uident. 
+      <lb ed="#F" n="28"/>scientiarum cupiditatem a praestantiae appetitione oriri, quae a superbiae malo nascatur 
+      <lb ed="#F" n="29"/>Atque rursum alij hoc, edacitate, alij deceptionem &amp; fraudem, quidam etiam auaritiam 
+      <lb ed="#F" n="30"/>esse confirmare conati sunt, quorum quidem argumentorum exilitas, quoniam celeriter 
+      <lb ed="#F" n="31"/>ut auri bractea prumpitur, iure est hoc praetereunda loco. Neruosius enim &amp; uerius 
+      <lb ed="#F" n="32"/>probamus, ad unum peccati genus, multa affectionum genera comfluere, in quibus
+      qui<lb ed="#F" n="33" break="no"/>dem illud princeps uideri debet, quod rata ordinis mensione egreditur. Atqui per 
+      <lb ed="#F" n="34"/>spicuum est prius affectiones rata ordinis mensione egredi, quam motus corporis
+      ex<lb ed="#F" n="35" break="no"/>trinsecus, cum autem in affectionibus prius appetitus ad finem quam ad id, quod propter 
+      <lb ed="#F" n="36"/>finem quaeritur, inflammati rapiantur, fatendum est in eo princeps hominis peccatum 
+      <lb ed="#F" n="37"/>consedisse, in quo eius rei princeps appetitus esse potuit, quae esset rati ordinis egres 
+      <lb ed="#F" n="38"/>sio. Cum autem ante noxam hominem ita genuisset, &amp; ornasset deus, ut nullum admiscue 
+      <lb ed="#F" n="39"/>rit sensuum &amp; spiritus dissidium, praedare sciri potest, minime eam ratae mensionis 
+      <lb ed="#F" n="40"/>egressionem fuisse, qua homo sensile quoddam bonum expeteret, ad quod corporis
+      ap<lb ed="#F" n="41" break="no"/>petitio citra ordinis terminos contendit. Sed intelligi debet in hominis appetitu 
+      <lb ed="#F" n="42"/>eam transitionem fuisse, qua quoddam spiritus naturae bonum expeteret, quod quidem 
+      <!--056.xml-->
+      <pb ed="#F" n="22-r"/>
+               <lb ed="#F" n="1"/>minime citra rati ordinis fines optasset, si ad perpendiculi diuini mensionem
+      concu<lb ed="#F" n="2" break="no"/>pisset. Ex quo concludi necesse est, primam hominis perniciem fuisse, qua quoddam spirita 
+      <lb ed="#F" n="3"/>naturae bonum, supra mensionis suae typum, optauit, quae audax animae
+      usurpatio<lb ed="#F" n="4" break="no"/>elationis est, &amp; superbiae maxime propria. De originis aunt tabe summa est opinio 
+      <lb ed="#F" n="5"/>num uarietas, hominumque dissensio, siquidem Pelagiani &amp; Manichaei Christianorum 
+      <lb ed="#F" n="6"/>carcinomata, ut canes qui lorum quo alligantur abrodant, hoc originis stigma hu 
+      <lb ed="#F" n="7"/>mano generi inustum fuisse, negant. Nostri autem qui in eorum libris ne manum quidem 
+      <lb ed="#F" n="8"/>porrigendam putant, nisi in ijs atramento lineas transuersas ducant, ratione certa
+      eno<lb ed="#F" n="9" break="no"/>datius hoc totum indagare uolunt. Nam in theologia magnus meditator
+      Duran<lb ed="#F" n="10" break="no"/>dus, dum hoc culpa, an peccatum dici possit inquirit, prius quaeri oportere purat, an 
+      <lb ed="#F" n="11"/>uoluntarium dici posse uideatur, itaque placet illi id esse uoluntarium, quod
+      no<lb ed="#F" n="12" break="no"/>strae sit, aut alienae uoluntatis. Cum autem in promptu sit, id magis esse uolunta 
+      <lb ed="#F" n="13"/>rium quod in nostra, quam quod sit in aliena uoluntate, cum aliena uoluntas
+      di<lb ed="#F" n="14" break="no"/>ci nostra non possit, concludi oportere arbitratur, id malum uoluntarium, non ex
+      nostra<lb ed="#F" n="15" break="no"/>sed ex primigeni hominis uoluntate oriri. Doctissimus autem omnium <name xml:id="pc99ia-d1e450-Nd1e215">Scotus</name> hoc 
+      <lb ed="#F" n="16"/>ipsum originis iustitiae ademptionem esse putat. <name xml:id="pc99ia-d1e450-Nd1e221">Guillermus uero Ochan</name> uerens 
+      <lb ed="#F" n="17"/>ne dum rus sententiarum sarrit, semen cum herba euellat, id quaestionis genus
+      incul<lb ed="#F" n="18" break="no"/>tum relinquit. At <name xml:id="pc99ia-d1e450-Nd1e228">Gregorius Ariminensis</name>, cui modo multi de uia decedunt, hunc in 
+      <lb ed="#F" n="19"/>haerentem morbum, aegrotationem, &amp; appetitionem insititiam esse censet, qua homo 
+      <lb ed="#F" n="20"/>actu ad expetendum rapiatur . idque ita a sententiarum principe intellectum esse uoluit, quo 
+      <lb ed="#F" n="21"/>diui Pauli disciplinam sequatur, appetitionem originis esse malum describentis, non
+      tan<lb ed="#F" n="22" break="no"/>quam appetitionem actum expetentem, sed tanquam angorem &amp; aegrotationem naturae. Nec
+      au<lb ed="#F" n="23" break="no"/>tem negat homini ante uitalis Christiani laticis aspersionem originis iustitiam defuis 
+      <lb ed="#F" n="24"/>se. Sed eam defectionem ita definit, ut non originis malum, sed effectum uelit, quemad 
+      <lb ed="#F" n="25"/>modum ademptio gratiae sit effectus capitalis mali . id est, quemadmodum ob
+      capita<lb ed="#F" n="26" break="no"/>se malum homini gratia adimatur, sic uult ob originis labem ab opifice deo
+      anima<lb ed="#F" n="27" break="no"/>bus originis iustitiam non seri. In quo quidem affirmat eiusmodi malum, in anima ex 
+      <lb ed="#F" n="28"/>molli &amp; eneruata appetitione oriri, quod ex flagranti &amp; salaci quadam parentum ue 
+      <lb ed="#F" n="29"/>nere in conceptu, liberorum caruncula arripiat. Sed exoritur repente Durandus. 
+      <lb ed="#F" n="30"/>qui sententiarum principem eiusmodi tabem sensus &amp; rationis dissidium
+      nomi<lb ed="#F" n="31" break="no"/>nantem, materiae non formae naturam attigisse opinatur. Alexander autem Ales 
+      <lb ed="#F" n="32"/>paulo antiquior, sed in Theologia sincaerus &amp; sanus, cum id coenum culpa &amp; mul 
+      <lb ed="#F" n="33"/>cta definiat, ab alia causa culpam, ab alia mulctam manare arbitratur, mulctam 
+      <lb ed="#F" n="34"/>enim ex morboso quodam carnis mucore oriri putat, qua non secus anima dum 
+      <lb ed="#F" n="35"/>infunditur inquinetur, ac uinum lagenae mucore uapidum efficitur. Multi uero 
+      <lb ed="#F" n="36"/>theologorum spadones, cum, id in quo anima rationis particeps consistit,
+      meti<lb ed="#F" n="37" break="no"/>rentur, animam rationis compotem cum semine in sobolem transfundi
+      putaue<lb ed="#F" n="38" break="no"/>runt, ac ita ex inquinata anima, tinctas, &amp; contaminatas animas defluere. Alij 
+      <lb ed="#F" n="39"/>quasi ex horum errorum manubijs aliquid probabilius construerent, culpam 
+      <lb ed="#F" n="40"/>animae parentum aeque dixerunt in epheborum sobolem transferri, ac corporis 
+      <lb ed="#F" n="41"/>morbi ingenerantur, quemadmodum saepe liberis aliqua seminis tabe podagrae, &amp; 
+      <lb ed="#F" n="42"/>elephantiae gentilitia, contingit haereditas quamque ea tabes, nec podagra, nec elephantia 
+      <!--057.xml-->
+      <pb ed="#F" n="22-v"/>
+               <lb ed="#F" n="1"/>uocetur dicuntque animae culpam eo prope modo seminis transitione
+      transfundi<lb ed="#F" n="2" break="no"/>quanquam semen actu minime sit culpae naturae subiectum. Qui autem ex orchestra 
+      <lb ed="#F" n="3"/>populum theologorum in angustias compelli spectant, negant haec argumento 
+      <lb ed="#F" n="4"/>rum genera ita posse connecti, ut praedare doceant hoc originis nexu epheborum 
+      <lb ed="#F" n="5"/>sobolem astringi. nam quanquam corporis morborum, quaedam genera in liberos 
+      <lb ed="#F" n="6"/>manarent, ac rursum etiam corporis habitu, quidam animi morbi gignerentur, 
+      <lb ed="#F" n="7"/>quemadmodum saepe ex insanis insani gignuntur, ab hac tamem originis
+      infirmi<lb ed="#F" n="8" break="no"/>tate culpam excludi putant, cum eiusmodi naturae sit, ut uoluntaria omnino
+      di<lb ed="#F" n="9" break="no"/>catur. Ex quo etiam illud adiungunt, quod quanquam anima rationis compos, ita 
+      <lb ed="#F" n="10"/>in sobolem dimanaret, ut inquinatio animarum liberorum, minime in eius
+      uolun<lb ed="#F" n="11" break="no"/>tate consisteret, necesse esse arbitrantur, ut natura culpae, ad mulctam coercentis 
+      <lb ed="#F" n="12"/>liberetur: Ex quo causa data nobis fuit, cur dextrorsum argumenta retorqueamus. 
+      <lb ed="#F" n="13"/>Nam cum hominum uniuersum genus, hominis nomine, quatenus congruunt. 
+      <lb ed="#F" n="14"/>naturae metiamur, quicquid hominum a seminario primigeno profluxit, tanquam 
+      <lb ed="#F" n="15"/>unius corporis membra arbitramur in hisque similitudinem adiungimus, ut si
+      ma<lb ed="#F" n="16" break="no"/>nus panem, aut lapidem lactarit, non id manus, sed animae uoluntatis esse
+      dici<lb ed="#F" n="17" break="no"/>mus uel si manus hominem occiderit, minime uolumus ei succenseri debere, si per 
+      <lb ed="#F" n="18"/>se, ut a corpore seiuncta expendatur. sed succensendum esse censemus, si tanquam quicquam 
+      <lb ed="#F" n="19"/>hominis expendatur, quod a principe agitationis auctore mouetur. Qua similitudi 
+      <lb ed="#F" n="20"/>nis collatione confirmamus hanc tabificam mali luem, hominum non esse
+      uolunta<lb ed="#F" n="21" break="no"/>riam, sed a primigeni parentis uoluntate manare. Eodemque modo inquiritur, utrum 
+      <lb ed="#F" n="22"/>id in quo hoc originis malum insidit, caro an anima dicatur, plaerique enim cum dissidium 
+      <lb ed="#F" n="23"/>quo sensus a ratione desciscunt, ab hac originis tabe manare dicerent, eiusque dissidij 
+      <lb ed="#F" n="24"/>fibras maxime carni inesse contenderent, concludere uolebant, idipsum in carnis con 
+      <lb ed="#F" n="25"/>cretione consistere, diuo autem Anselmo uideri scio haud secus semen, ac sputum &amp; 
+      <lb ed="#F" n="26"/>sanguinem inquinari nec quicquam putat esse causae, si ex his corpus animale fingatur 
+      <lb ed="#F" n="27"/>cur eius inquinatu, anima contaminari possit, quem subsequens sicca nare mirifice 
+      <lb ed="#F" n="28"/>odorus <name xml:id="pc99ia-d1e450-Nd1e348">Scotus</name>, negat carnem quae seritur, a ueneris flagrantia in satione
+      inquina<lb ed="#F" n="29" break="no"/>ri. At magnus dlientum Aquinatum coetus, causarum definitione probat semen 
+      <lb ed="#F" n="30"/>quemadmodum sit instrumenti causa humanae naturae serendae, sic instrumenti 
+      <lb ed="#F" n="31"/>esse causam huius originis tranffundendi mali. In qua quidem sententia tuenda, 
+      <lb ed="#F" n="32"/>unus e multis <name xml:id="pc99ia-d1e450-Nd1e360">Tolosanus Capreolus</name>, maxime cum <name xml:id="pc99ia-d1e450-Nd1e363">Scoto</name>, &amp; <name xml:id="pc99ia-d1e450-Nd1e366">Durando</name> luctatur. 
+      <lb ed="#F" n="33"/>Ea autem quae ad sontis daemonis irritationem pertinent, hoc loco omittimus. est 
+      <lb ed="#F" n="34"/>enim satis exploratum ab imperante deo latam esse legem, quae sic iuberet.
+      Arbo<lb ed="#F" n="35" break="no"/>rem hanc ne libanto. Qui libarit, capitale esto. Notumque est omnibus arbori
+      im<lb ed="#F" n="36" break="no"/>plexum colubrum melle lito affatu hominem ad delinquendum pellexisse. Ex eoque 
+      <lb ed="#F" n="37"/>inquinata puritate, recessum &amp; fugam esse factam, nataque genera malorum. Et 
+      <lb ed="#F" n="38"/>quoniam ob uiolatam legem duo sunt peccati genera patrata, unum quod primigenum 
+      <lb ed="#F" n="39"/>parentum nominatur, alterum quod generatim in liberos diffunditur, de utriusque ani 
+      <lb ed="#F" n="40"/>maduersione dicendum erit. Itaque primo intelligendum est foeminam tria secum mul 
+      <lb ed="#F" n="41"/>ctarum genera detulisse, quarum una in grauiditatum multitudine, altera in perpes 
+      <lb ed="#F" n="42"/>sione dolorum, tertia in seruitute consistit. Cum autem sit duplex animae cognitio, una 
+      <!--058.xml-->
+      <pb ed="#F" n="23-r"/>
+               <lb ed="#F" n="1"/>quae est rationis compos, altera sensilis. In altera uiolatae legis uindex deus, foe 
+      <lb ed="#F" n="2"/>minam ad parendi necessitatem abiecit, in altera puerperij multitudinem cum ar 
+      <lb ed="#F" n="3"/>gore reliquit. Viro autem multiplex est quaesita pernicies, quarum una est bonorum 
+      <lb ed="#F" n="4"/>ereptio, altera inuectio malorum. earum una est qua a uitali arbore arcetur, altera in tel 
+      <lb ed="#F" n="5"/>luris execratione ponitur. Optimarum enim rerum amissio est, iactura causae
+      incolumita<lb ed="#F" n="6" break="no"/>tis uitae, &amp; ex domicilio uoluptario, recessus, &amp; fuga. Malorum autem inuectio est 
+      <lb ed="#F" n="7"/>aeque in uita, ac in obitu distinctio mulctarum. Vitae enim incommoda dicuntur cultus 
+      <lb ed="#F" n="8"/>aruorum, telluris altricis infoecunditas, &amp; uictus egestas. Ad quae quidem uitae prae 
+      <lb ed="#F" n="9"/>sidia capessenda, altera cum lana &amp; colo accedit, alter bipalium, &amp; marram arripit. 
+      <lb ed="#F" n="10"/>illud autem quod ad obitum pertinet, necessitas est, quae homines in lethi fauces, &amp; 
+      <lb ed="#F" n="11"/>orci tenebras detrudit. idque praeclare ex pellium amictu declaratur, quorum coniectum 
+      <lb ed="#F" n="12"/>est mortis fato admonita humanitas, &amp; tanquam corporum insinuatus interitus, cum al 
+      <lb ed="#F" n="13"/>tera non cum tunica talari, &amp; palla, nec alter cum paludamento, &amp; trabea, sed conscientiae 
+      <lb ed="#F" n="14"/>pudore pellibus tantum ingrederentur amicti homulli. Eius auntem insiti mali, quod ge 
+      <lb ed="#F" n="15"/>neratim in singulos dimanat, tria sunt genera poenarum, unum quod a prolapsione 
+      <lb ed="#F" n="16"/>incolumis naturae recuperari non potest. alterum defectio bonarum rerum. tertium, quod 
+      <lb ed="#F" n="17"/>minime ab homine tantum reuocari potest. quarum aliae ad animam, aliae ad corpus 
+      <lb ed="#F" n="18"/>pertinent. Ex his enim quae ad animam diriguntur, tum difficultas indagandi uer 
+      <lb ed="#F" n="19"/>ri, tum aniae appetitiones colliguntur, quarum aliam ignorationis crassa caligo, alias 
+      <lb ed="#F" n="20"/>ad malum insita prodiuitas insequitur. Prodiuitas bipertito distribuitur, una in 
+      <lb ed="#F" n="21"/>qua festine prouehitur ad malum. altera in qua ingrauescentes egrotationes
+      in<lb ed="#F" n="22" break="no"/>ueterascunt. Corporis autem tripertitae sunt mulctae. nam aliae extra animam cer 
+      <lb ed="#F" n="23"/>nuntur, aliae quae ad animae e corpore discessum pertinent. quaedam quae ante
+      ex<lb ed="#F" n="24" break="no"/>cessum irrogantur. Primum genus est quo corpora hominum, telluri matri in humum 
+      <lb ed="#F" n="25"/>conuersa redduntur. Alterum est, quod uitae occasus, &amp; lethi falx rapax,
+      nomina<lb ed="#F" n="26" break="no"/>tur, Tertium, quod famem, sitim, aestum, tabem &amp; id genus, uno complexu
+      conti<lb ed="#F" n="27" break="no"/>net, quibus luendis, damnatum genus, tanquam pestifero quodam morbo tabescit. 
+      <lb ed="#F" n="28"/>Eodemquam modo, id est perquirendum ulcus, quod a parentibus in sobolem
+      imi<lb ed="#F" n="29" break="no"/>tatione manat, in quo quidem definiendo summa est disceptatione pugnatum. 
+      <lb ed="#F" n="30"/>Nam multi peccatum sublatis externis uoluntatem prauam definiunt. at litera 
+      <lb ed="#F" n="31"/>tissimus theologorum <name xml:id="pc99ia-d1e450-Nd1e463">Ambrosius</name>, peccatum esse ait contumaciam a lata dei
+      le<lb ed="#F" n="32" break="no"/>ge desciscentem. Nonulli uero peccatum est, inquiunt, uoluntas, iustitia
+      aduersan<lb ed="#F" n="33" break="no"/>te tenax. Sententiarum autem principi placet, peccatum intus &amp; foris eminere. Itaque in 
+      <lb ed="#F" n="34"/>telligendum est perinde eiusmodi tabe animam, ac elephantia corpus
+      inquina<lb ed="#F" n="35" break="no"/>ri, scitum est enim illud, homines humanam naturam delinquendo exuere
+      pro<lb ed="#F" n="36" break="no"/>pterea que a rata rationis mensione desciscunt. Sed quoniam peccato gratia adimitur 
+      <lb ed="#F" n="37"/>facile erit intelligi, alterum ab altero oriri, in finisque societatem uocari,
+      quemadmo<lb ed="#F" n="38" break="no"/>dum si quispiam ulciscendi causa hominem occiderit, in iracundiae finem
+      homi<lb ed="#F" n="39" break="no"/>cidium accersit . Eodemque modo prodiues nascendi causae dimanant, cum
+      pecca<lb ed="#F" n="40" break="no"/>to tanquam igni materia suppeditatur, ut facile in promptu est, uenerem ab
+      incon<lb ed="#F" n="41" break="no"/>tinentia, &amp; discordiam ab auaritia defluere quare sciri omnino debet, scelus
+      sce<lb ed="#F" n="42" break="no"/>eris esse poenam. quando quidem culpa poena dicatur . Eodem acceditque quae¬ 
+      <!--059.xml-->
+      <pb ed="#F" n="23-v"/>
+               <lb ed="#F" n="1"/>dam crimina, quaedam secum appetitionum genera ferunt, quibus aut aerumnae
+      ex<lb ed="#F" n="2" break="no"/>citantur, aut corpora perturbantur. fas est enim eos uidere, qui uel ira efferuescunt, uel 
+      <lb ed="#F" n="3"/>flagrant odio, aut inuidia turgent, quo uultu, qua uoce, quo statu perturbantur. 
+      <lb ed="#F" n="4"/>Atque ob eam causam iure intelligi poterit, nefarijs hominibus ab ultore deo
+      mul<lb ed="#F" n="5" break="no"/>ctam irrogari . quandoquidem poenam gratiae ademptionem esse dicamus . Facileque
+      lice<lb ed="#F" n="6" break="no"/>bit eorum rabularum detestari inscitiam, qui contractius prouidentiam
+      astringen<lb ed="#F" n="7" break="no"/>tes, affirmant nullam habere rerum humanarum procurationem deum . Itaque praeclare 
+      <lb ed="#F" n="8"/>hoc loco a nostris, de uoluntate, de synteresi, de ignoscibili &amp; capitali, ac de omni 
+      <lb ed="#F" n="9"/>bus criminum stirpibus &amp; fibris disputatur. 
+      <lb ed="#F" n="10"/>SECVNDI SENTENTIARVM LIBRI FINIS 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

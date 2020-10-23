@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 8</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 8</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="9-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e196"><!-- l1d8 -->
+            <head xml:id="pc99ia-d1e196-Hd1e108">Distinctio 8</head>
+            <head xml:id="pc99ia-d1e196-Hd1e111" type="question-title">De Voluntate Dei</head>
+            <p xml:id="pc99ia-d1e196-d1e114">
+               <lb ed="#F" n="26"/>DEVOLVNTATEDEI 
+      <lb ed="#F" n="27"/>DISTINCTIOOCTAVA 
+      <lb ed="#F" n="28"/>DEinceps est de dei uoluntate dicendum. Hoc autem loco sciri debet, in
+      q<lb ed="#F" n="29" break="no"/>cunque intelligentiae compote inesse uoluntatem. Quemnadmodum in quocumque 
+      <lb ed="#F" n="30"/>sensum praedito, animalis appetitio inest. Atque illud quoque intelligendum 
+      <lb ed="#F" n="31"/>est, dei uoluntatem causam esse rerum, eumque uoluntate non naturae neces 
+      <lb ed="#F" n="32"/>sitate agere, ut inscite quidam compitalitij philosophi putarunt. Cumque is causa
+      catholi<lb ed="#F" n="33" break="no"/>ca rerum uniuersarum sit, intellioi debet, fieri non posse, quin semper eius uoluntas explea 
+      <lb ed="#F" n="34"/>tur ob eamque causam notum est eam mutari nullo modo posse, quo fit ut nec dolor 
+      <lb ed="#F" n="35"/>nec tristitia in dei naturam cadat, cum nullis perturbationibus quas Graeci πάθμ uo 
+      <lb ed="#F" n="36"/>cant, quatiatur deus. Ex quo eorum stolidissima leuitas exploditur, qui moerentes &amp; la 
+      <lb ed="#F" n="37"/>mentantes deos induxerunt, traduxeruntque eos ad humanae naturae moerentis
+      lu<lb ed="#F" n="38" break="no"/>ctum. quo nihil esse potest a dei natura disiunctius quandoquidem omnis turbida 
+      <lb ed="#F" n="39"/>affectio, corporeae mutationis modo fiat, quod minime in dei naturam cadit,
+      qui<lb ed="#F" n="40" break="no"/>asomatos esse dicatur, etenim licet statum uidere moerentium, aut eorum qui dolore con 
+      <lb ed="#F" n="41"/>ficiantur, quorum tacita ora pallescunt, flaccida membra trahuntur, languescunt oculi, 
+      <!--032.xml-->
+      <pb ed="#F" n="10-r"/>
+               <lb ed="#F" n="1"/>lingua singultit. Et quam quam in eum uoluntas cadat, ab eo tamem appetitionis aegritudo 
+      <lb ed="#F" n="2"/>depellitur, cum appetitio in rerum futurarum cupiditate uersetur, et deus in semet omnia 
+      <lb ed="#F" n="3"/>bonorum genera contineat. Quod si fua non refert appetitio, nec spes quidem referre
+      po<lb ed="#F" n="4" break="no"/>test, quandoquidem spes non dum bonum obtineat, sed futuri expectatione laetetur 
+      <lb ed="#F" n="5"/>quod longissime a dei absolutione abest, quae nullum auctum extrinsecus suscipere 
+      <lb ed="#F" n="6"/>potest. Atque ut spes futurum bonum, ita metus impendens malum contuetur, sed in 
+      <lb ed="#F" n="7"/>quem nec cadit spes, nec metus in eundem cadit, qui enim timere potest, quo nihil habet 
+      <lb ed="#F" n="8"/>impendens, quod timendum sit : Eodemque modo poenitentia &amp; inuidia uacat
+      qua<lb ed="#F" n="9" break="no"/>rum altera est commutatio uoluntatis, altera alieno bono angitur, alienumque malum 
+      <lb ed="#F" n="10"/>suum opinatur. Et quoniam ira est appetitio alieni mali cum libidine ulciscendi,
+      mini<lb ed="#F" n="11" break="no"/>me suaptae speciei modo in dei naturam cadit. Ex quo fas est scire eum quoque odic 
+      <lb ed="#F" n="12"/>uacare. nam cum nulla sit eius uoluntatis prodiuitas ad malum, perabsurdum est
+      opi<lb ed="#F" n="13" break="no"/>nari, quippiam odiosum esse deo, siquidem cum omnia ab eo, tanquam ab auctore
+      dima<lb ed="#F" n="14" break="no"/>nent, si quippiam illi odiosum esse diceretur, necesse esset confiteri, eum id haud esse
+      uel<lb ed="#F" n="15" break="no"/>se quo nihil dici potest in omni theologia indoctius. At nos interdum metaphori 
+      <lb ed="#F" n="16"/>cos quaedam illi odiosa esse dicimus. nam illi &amp; malorum genera esse odiosa, &amp; aliquod 
+      <lb ed="#F" n="17"/>ingentius boni genus uelle affirmamus, quod haud fieri sine minoris boni
+      adem<lb ed="#F" n="18" break="no"/>ptione potest quemadmodum quatenus iusticiae tuendae bonum uelle affirmatur, quod 
+      <lb ed="#F" n="19"/>fieri sine animaduersione nequit, quomodo enim generis humani societas iurisque 
+      <lb ed="#F" n="20"/>descriptio seruaretur, nisi tot fures, tot grassatores, tot homicidae, tot
+      depeculato<lb ed="#F" n="21" break="no"/>res, tot hostes publici plecterentur: num censemus seruari hominum
+      incolumi<lb ed="#F" n="22" break="no"/>tatem posse, si tot flagitiorum, uexationum, caedium, direptionum, rapinarum
+      im<lb ed="#F" n="23" break="no"/>punita scelera ferantur: Atque etiam gaudium &amp; delectatio, quatenus patheticae sint,
+      a<lb ed="#F" n="24" break="no"/>dei natura absunt, non suaptae speciei modo ab eo repugnant Siquidem gaudium est 
+      <lb ed="#F" n="25"/>placida quaedam uoluntatis quies, delectatio autem quaedam muneris absolutio, 
+      <lb ed="#F" n="26"/>quae, ut ait Aristoteles, munus ut adolescentia pulchritudinem absoluit, at cum deus 
+      <lb ed="#F" n="27"/>absolutissimum munus intelligendo nanciscatur, in promptu est iucundissima eum 
+      <lb ed="#F" n="28"/>delectatione intelligendo pfrui proprium est enim dei in semet gaudendo delectari. Ex 
+      <lb ed="#F" n="29"/>quo intelligi debet amorem in dei naturam cadere quod cum ita sit, fateri necesse est 
+      <lb ed="#F" n="30"/>etiam, ut cuncta quae extant amare dicatur. Sed perspicuum tamem uideri potest.  
+      <lb ed="#F" n="31"/>plus ab eo praestantiora amari. nam cum deus caufa sit praestantiae rerum, nullo
+      mo<lb ed="#F" n="32" break="no"/>do in rerum genere quicquam alterum altero praestantius diceretur, ni quaedam pluris in 
+      <lb ed="#F" n="33"/>amore faceret. Nec tamem ob id fortitudinem, temperantiam &amp; id genus in eo esse
+      di<lb ed="#F" n="34" break="no"/>cimus. nam cum a deo omnis turbida affectio absit, satis est argumenti, ab eo etiam 
+      <lb ed="#F" n="35"/>haec uirtutum genera abesse, cum in sensili animi parte uersent, in qua, ut ait
+      Aristo<lb ed="#F" n="36" break="no"/>teles, πάσμ esse dicantur, quanquam interdum metaphoricos effectuum
+      similitu<lb ed="#F" n="37" break="no"/>dine, haec genera in deo uersari affirmamus. Sed cum quaedam sint, quae
+      appeti<lb ed="#F" n="38" break="no"/>tionis prodiuitate in aliquod corporeum bonum rapiuntur, quod sensuum
+      uolu<lb ed="#F" n="39" break="no"/>ptate cietur, quales epulares, &amp; uenereae uoluptates nominantur, quibus tanquam 
+      <lb ed="#F" n="40"/>antidota. Sobrietas. Castitas, &amp; Temperantia, adhibentur, facillime tanquam
+      cor<lb ed="#F" n="41" break="no"/>poreae, a dei natura depelluntur, cum nec metaphoricos quidem deo
+      con<lb ed="#F" n="42" break="no"/>gruant, &amp; patheticae suapte natura dicantur. Ex quo iure est data eorum illudendi¬ 
+      <!--033.xml-->
+      <pb ed="#F" n="10-v"/>
+               <lb ed="#F" n="1"/>causa, qui ientantes &amp; potantes flagitiosaque libidine ardentes induxerunt deosi
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

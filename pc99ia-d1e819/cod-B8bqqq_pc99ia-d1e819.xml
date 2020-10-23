@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 3</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 3</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="39-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e819"><!-- l4q3 -->
+            <head xml:id="pc99ia-d1e819-Hd1e108">Distinctio 3</head>
+            <head xml:id="pc99ia-d1e819-Hd1e111" type="question-title">De sacramento poenitentiae</head>
+            <p xml:id="pc99ia-d1e819-d1e114">
+               <lb ed="#F" n="18"/>DE SACRAMENTO POENITENTIAE. 
+      <lb ed="#F" n="19"/>DISTINCTIO TERTIA. 
+      <lb ed="#F" n="20"/>AC expositis duobus generibus sacrorum, deinceps de caeteris
+      dicen<lb ed="#F" n="21" break="no"/>dum puto quanquam primum incidit contentio, num poenitentia sa 
+      <lb ed="#F" n="22"/>crum uideri possit siquidem <name xml:id="pc99ia-d1e819-Nd1e127">Durandus</name> aequius defendi posse
+      cen<lb ed="#F" n="23" break="no"/>set, si id poenitentiae sacrum esse negetur, &amp; liberationis, confessionisque 
+      <lb ed="#F" n="24"/>sacrum dicatur quandoquidem id in utraque tanquam in suapte materia formaque
+      con<lb ed="#F" n="25" break="no"/>sistat, in quo quidem tuendo, multa sunt ab eo ueteratorie, &amp; acute collecta. Nos 
+      <lb ed="#F" n="26"/>enim hoc loco, nequa ei nominatim nota inuratur, contrariarum rationum fer 
+      <lb ed="#F" n="27"/>ramenta omittimus. Sed ex senatus sententia respondemus, id iure poenitentiae 
+      <lb ed="#F" n="28"/>sacrum nominari, cum propter principem finem, quo sontibus mulcta irrogatur. 
+      <lb ed="#F" n="29"/>compellunturque ad faciendum deo satis tum propter id etiam, que quaecunque ad 
+      <lb ed="#F" n="30"/>eiusmodi sacrum accedunt, poenae rationem nanciscuntur, quemadmodum est 
+      <lb ed="#F" n="31"/>contusi hominis inexhaustus dolor, haesitans confessionis pudor, flaminisque ne 
+      <lb ed="#F" n="32"/>xus ad mulctam, &amp; quae sunt generis eiusdem. Sed interim est nata controuersia, 
+      <lb ed="#F" n="33"/>num his quem sceleris patrati tedeat, ex criminum sordibus cum eodem gratia 
+      <lb ed="#F" n="34"/>uirtutisque hostimento emergat. <name xml:id="pc99ia-d1e819-Nd1e156">Scotus</name> enim eum in ingentiorem gloriam euasurum 
+      <lb ed="#F" n="35"/>putat. a cuius disciplina non longe aberrat <name xml:id="pc99ia-d1e819-Nd1e161">Aureolus</name>. At <name xml:id="pc99ia-d1e819-Nd1e164">Henricus Gandensis</name> ho 
+      <lb ed="#F" n="36"/>mo in disceptando perpugnax, cunctos in eandem gratiae aequationem emersum 
+      <lb ed="#F" n="37"/>ros opinatur. Contra quem maxime <name xml:id="pc99ia-d1e819-Nd1e172">Bernardus Gannacus</name>, reiecta penula ad lu 
+      <lb ed="#F" n="38"/>ctandum prodit in quo minime nefas erit consectari medium. quanquam exoritur 
+      <lb ed="#F" n="39"/>pugna mirifica, an cumulate ab homine pro scelere, deo fieri possit satis. Nos enim 
+      <lb ed="#F" n="40"/>nexus mulctaeque hominum liberationem, in Christi persolutione consistere dici 
+      <lb ed="#F" n="41"/>mus, quae omnia mulctarum genera delerit. Exquo intelligi necesse esse, cuiuscumque 
+      <!--091.xml-->
+      <pb ed="#F" n="39-v"/>
+               <lb ed="#F" n="1"/>persolutionem, in Christi persolutione consistere, quemadmodum in quocunque 
+      <lb ed="#F" n="2"/>genere minus absolutum, ex absoluto nascatur. Ad quam quidem sententiam 
+      <lb ed="#F" n="3"/>diuum Thomam suffragatorem adhibemus. Quanquam pertinet ad hoc quaestionis 
+      <lb ed="#F" n="4"/>genus, de poenitentiae partibus inquirere quarum quidem enumeratio
+      triparti<lb ed="#F" n="5" break="no"/>ta est. Earum una contusio, altera confessio, tertia persolutio nominatur.
+      Contu<lb ed="#F" n="6" break="no"/>sio enim est angor ob patrata scelera susceptus, cum confitendi &amp; persoluendi
+      uo<lb ed="#F" n="7" break="no"/>luntate uel flens animi demissio, ex scelerum memoria, ac ex impendentis iudicij 
+      <lb ed="#F" n="8"/>formidine manans siue contractio, aut animi morsus cum obiurgatione sui, inter 
+      <lb ed="#F" n="9"/>spem &amp; metum inhaerentia criminum ulcera depellens. Confessio autem est, quae 
+      <lb ed="#F" n="10"/>spe ueniae, uulnera abstrusa detegit, &amp; morbum (ut dicitur) in uola ostendit.
+      Per<lb ed="#F" n="11" break="no"/>solutio uero est, quae stirpitus scelerum causas euellit, aditu adeuntes arcens. Sed 
+      <lb ed="#F" n="12"/>contusio hoc modo describitur, ut cum uoluntaria sit, ob culpam, non ob mulctam 
+      <lb ed="#F" n="13"/>oriatur, nec ab originis labe dimanet quando quidem haud id malum sit
+      uolun<lb ed="#F" n="14" break="no"/>tate nostra contractum. Confessio autem nexus dicitur, quo omne genus homi 
+      <lb ed="#F" n="15"/>num, quod capitali tabe uexetur, obstringitur eiusque munus ad flaminem dialem 
+      <lb ed="#F" n="16"/>pertinet, quando scilicet in angustum necessitas detruditur. Itaque poenitentem af 
+      <lb ed="#F" n="17"/>flantem animam non modo criminibus patratis, sed etiam pontificio
+      interdicto<lb ed="#F" n="18" break="no"/>ex senatusconsulto, a flamine liberari posse manifestum est. Eius autem fons aegro 
+      <lb ed="#F" n="19"/>tationis integritas nominatur, quae est flamini tanquam medico aperte
+      expromen<lb ed="#F" n="20" break="no"/>da, ut totius corporis aegritudo, quasi ulcus dempta spina sanetur, ob eamque
+      cau<lb ed="#F" n="21" break="no"/>sam senatus promulgatione cauetur, nequa confessio aliena uoce, aut ex
+      syngra<lb ed="#F" n="22" break="no"/>pha fiat. Persolutio autem ex mulctarum operibus conficitur, ea sunt donatio, 
+      <lb ed="#F" n="23"/>ieiunium, oratio quorum unum ex externis, alterum ex corporis, tertium ex animi 
+      <lb ed="#F" n="24"/>commodis elicitur. Donatio enim quae a graecis Elemosyna dicitur, est
+      benigni<lb ed="#F" n="25" break="no"/>tas, ope egentissimum quenque fouens. Ieiunium anniuersaria est esurialis feria, &amp; 
+      <lb ed="#F" n="26"/>uoluntaria continentia. Oratio est uocis, mentisque intima precatio. Sed plusculum 
+      <lb ed="#F" n="27"/>litis in cauium disceptatione uersatur., Multorum enim pedariorum
+      theologo<lb ed="#F" n="28" break="no"/>rum sententia est, senatum aetherijs clauibus non egere, affirmantium haud opus 
+      <lb ed="#F" n="29"/>esse clauibus ad eam ingrediendum aedem, cuius ianua sit euulsis cardinibus
+      pa<lb ed="#F" n="30" break="no"/>tefacta. Nam cum diuo loanne auctore, salutaris Christus coeli fores patefactas 
+      <lb ed="#F" n="31"/>dicat, condudi posse, Latium senatum clauibus ad coelestem aditum non egere 
+      <lb ed="#F" n="32"/>Quod argumenti genus si in orthodoxea incude tundatur, perfacile dicetur, sem 
+      <lb ed="#F" n="33"/>per aetherias fores suapte natura patere. Sed quibusdam occlusum in coelum adi 
+      <lb ed="#F" n="34"/>tum affirmetur, proptereaque suopte pondere superiora capessere nequeant. Onus 
+      <lb ed="#F" n="35"/>autem naturae humanae. Christi est litatu &amp; perpessione sublatum. Itaque cum
+      qui<lb ed="#F" n="36" break="no"/>busdam modo ob originis nexum, quotidianumque scelus, coeli ingressum praeclu 
+      <lb ed="#F" n="37"/>sum &amp; obstructum dicatur, ob eam causam genus humanum Latij senatus
+      cla<lb ed="#F" n="38" break="no"/>uibus egere affirmatur atque illud etiam perquiritur, an flamen in quenquam, dauium 
+      <lb ed="#F" n="39"/>imperio, uti posse uideatur. <name xml:id="pc99ia-d1e819-Nd1e272">Durandus</name> enim uaferrimorum araumentorum
+      prodi<lb ed="#F" n="40" break="no"/>gus, quenque a quocunque flamine liberari posse censet, cui quidem maxime fauet 
+      <lb ed="#F" n="41"/>multitudo quaedam uix theologorum nomenculatori nota. At multo sanior est 
+      <lb ed="#F" n="42"/>
+               <name xml:id="pc99ia-d1e819-Nd1e282">Petri Paludensis</name> partitio a diui Thomae disciplina manantis. Nos autem inse, 
+      <!--092.xml-->
+      <pb ed="#F" n="40-r"/>
+               <lb ed="#F" n="1"/>natu summum quoddam imperij genus constitutum dicimus, cui reliqui pareant. 
+      <lb ed="#F" n="2"/>ex quo in quosdam circumscriptum dominatum nanciscantur. Cum autem
+      aethe<lb ed="#F" n="3" break="no"/>riarum clauium usus, aliquod imperij ius flagitare uideatur, ob eam causam dici 
+      <lb ed="#F" n="4"/>mus eum qui summi imperij potestate nitatur, ijsdem uti in unum quemque posse 
+      <lb ed="#F" n="5"/>non autem eos, quorum sit praefinitus &amp; circumscriptus dominatus. nam ijs
+      prae<lb ed="#F" n="6" break="no"/>terquam in discrimine animas efflantium, in eos solum qui sibi sorte obtigerint
+      po<lb ed="#F" n="7" break="no"/>testas utendi datur Quanquam aliqua Theologorum dissensione certatur,
+      cuiusce<lb ed="#F" n="8" break="no"/>modi senatus indulgentia dicatur. Diuus enim Thomas religiosissimus christiana 
+      <lb ed="#F" n="9"/>salubritatis custos, eam indulgentiam (audeamus enim hoc uerbo uti) quae est 
+      <lb ed="#F" n="10"/>senatus promulgatione decreta, aliquid uirium non modo in senatus foro, sed 
+      <lb ed="#F" n="11"/>etiam in ipso dei iudicio, nancisci uoluit. In quo sane locupletior non esset exqui 
+      <lb ed="#F" n="12"/>rendus auctor, nisi in eum directis contis <name xml:id="pc99ia-d1e819-Nd1e315">Aureolus</name>, &amp; <name xml:id="pc99ia-d1e819-Nd1e319">Durandus</name> tanquam uelites 
+      <lb ed="#F" n="13"/>decurrerent . Itaque ob eam causam Christi diuorumque litatum quasi. R. P. aerarium 
+      <lb ed="#F" n="14"/>quoddam dicemus. In quod tanquam in urnam generatim quisque usque eo uectigal 
+      <lb ed="#F" n="15"/>inijciat, quoad expleatur, nec tamen expletam futuram dicimus, nisi in busto defla 
+      <lb ed="#F" n="16"/>grati, &amp; cinefacti mundi, ex quo tam multiplicem indulgendi facultatem oriri
+      uolu<lb ed="#F" n="17" break="no"/>mus. Sed multi Theologorum tunicati, qui uelut mirmillones, aut thraces in uulu 
+      <lb ed="#F" n="18"/>coetum gladiatoria spectacula aedunt, hoc indulgentiae munus, tanquam inutile explo 
+      <lb ed="#F" n="19"/>dunt, affirmantes inutilem muneralem ambitum uideri. Atqui cum in hoc gener 
+      <lb ed="#F" n="20"/>spiritus bona, ob externa dari dicant, quo scilicet in fanis aut ualitudinarijs
+      pub<lb ed="#F" n="21" break="no"/>licis construendis profundantur, cumque eam pernutationem, muneralem ambitum 
+      <lb ed="#F" n="22"/>esse opinentur, fatendum esse uolunt, id indulgentiae auctoramentum inutile
+      ui<lb ed="#F" n="23" break="no"/>deri. Quibus sane responderi debet, nullo modo spiritus bona, ob externa, nisi ex 
+      <lb ed="#F" n="24"/>aduentitio dari. nam cum ob delubra, aut ualitudinaria construenda tribuuntur 
+      <lb ed="#F" n="25"/>non ob id dari dicimus, ut in ijs habeant aliquem sistendi locum, sed ob comitantem 
+      <lb ed="#F" n="26"/>manantemque spiritus utilitatem dari. ex quo haud sane ob externa dari affirmamus, 
+      <lb ed="#F" n="27"/>nisi quatenus ad spiritus bona praetexuntur. Atque etiam plaerique hominem ob mulcta 
+      <lb ed="#F" n="28"/>nexum, a gloria adipiscenda reprimi, &amp; retardari uolunt. Sed si indulgentiae
+      au<lb ed="#F" n="29" break="no"/>ctoramentum tantidem ualiturum dicatur, quanti feratur, perfacile posse hominem 
+      <lb ed="#F" n="30"/>affirmat, si indulgentiae gyro decurrat, temporaria mulcta liberari ex quo
+      perspi<lb ed="#F" n="31" break="no"/>cuum uideri, hominem caeteris reiectis adiumentis, in hoc unum munus incumbe 
+      <lb ed="#F" n="32"/>re debere. Quibus a dynastis nostris responderi solet, quam quanquam uehementer
+      ho<lb ed="#F" n="33" break="no"/>indulgentiae auctoramentum ad mulctae liberationem ualiturum dicatur, uehemen 
+      <lb ed="#F" n="34"/>tius tamen quaedam persolutionis genera, ob essentiae praemium mereri, quod lon 
+      <lb ed="#F" n="35"/>ge sit temporariae mulctae liberatione praestantius. Sed maxime in controuersiam 
+      <lb ed="#F" n="36"/>&amp; disceptationem cadit, num consentaneum sit probos quosdam manes, cum c 
+      <lb ed="#F" n="37"/>corpore excesserint, apud expiatorem Orcum mulctari. Nonnullis enim uisum 
+      <lb ed="#F" n="38"/>est, nullum tam nefarium scelus inueniri, quin possit mulctarum perpessione in 
+      <lb ed="#F" n="39"/>uita expiari, modo mulcta aequo animo perferatur, atqui cum mors summa
+      mul<lb ed="#F" n="40" break="no"/>ctarum carnificina sit, in promptu esse poenitentem perferentemque constanter 
+      <lb ed="#F" n="41"/>morte expiari posse. Qui autem ne in festinationibus quidem quicquam de passuum tar 
+      <lb ed="#F" n="42"/>ditate remitcunt, perfacile respondent laethi naturae mulctam, haud ob patrata actu 
+      <!--093.xml-->
+      <pb ed="#F" n="40-v"/>
+               <lb ed="#F" n="1"/>crimina facere posse satis quando quidem sit homini ob originis malum
+      constitu<lb ed="#F" n="2" break="no"/>ta, quamquam haud negent ui illatam necem, quae dei spe &amp; nomine constanter perfe 
+      <lb ed="#F" n="3"/>ratur, concreta eluere scelera posse. Ex quo causa inquirendi datur, num
+      expiabi<lb ed="#F" n="4" break="no"/>lium manium sit quidam certus receptator locus. Vgo enim Victorius, affluens &amp;
+      lo<lb ed="#F" n="5" break="no"/>cuples theologus, negat ullum certum expiatorem esse locum, affirmans ijsdem 
+      <lb ed="#F" n="6"/>locis mulctari manes, quibus sit culpa contracta. Maior autem pars eo delabitur, ut 
+      <lb ed="#F" n="7"/>Ditis antrum uelit in quatuor distributum esse partes, nam imis sedibus animas actu 
+      <lb ed="#F" n="8"/>pollutas ob patrata scelera plecti dicunt, alteram esse in qua originis tabe
+      inqui<lb ed="#F" n="9" break="no"/>nati crucientur, tertium tartareum esse locum Riccardus Villa opinatur, quo sublimes 
+      <lb ed="#F" n="10"/>aniae, haerentes criminum sordes eijciant quamquam quisdam manes alibi labes eluere
+      pos<lb ed="#F" n="11" break="no"/>se dicat, quo scilicet quarundam rerum indices &amp; quasi internuntij sint, hominesque ad 
+      <lb ed="#F" n="12"/>inferias, &amp; parentalia suffragandique studia impellant, ac in perferendo, sensili
+      ali<lb ed="#F" n="13" break="no"/>qua notitia ratum dei ultoris aequilibrium ostendant. Quartum uero modo
+      anima<lb ed="#F" n="14" break="no"/>bus uacuum esse uult, quo Heroum, &amp; uatum manes subsedisse dicantur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

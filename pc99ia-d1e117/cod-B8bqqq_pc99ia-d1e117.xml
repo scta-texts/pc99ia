@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 3</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 3</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="6-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e117"><!-- l1d3 -->
+            <head xml:id="pc99ia-d1e117-Hd1e108">Distinctio 3</head>
+            <head xml:id="pc99ia-d1e117-Hd1e111" type="question-title">De scientia dei</head>
+            <p xml:id="pc99ia-d1e117-d1e114">
+      <!--024.xml-->
+               <pb ed="#F" n="6-r"/>
+               <lb ed="#F" n="1"/>DISTINCTIO III 
+      <lb ed="#F" n="2"/>DE SCIENTIA DEI DISTINCTIO III 
+      <lb ed="#F" n="3"/>Erum quoniam in dei pernoscenda natura, libatum est a nobis quodcumque 
+      <lb ed="#F" n="4"/>frugiferum uidebatur, &amp; quasi flos Theologiae decerptus, nunc sequitur ut 
+      <lb ed="#F" n="5"/>structis pontibus ad diuinam scientiam transmittatur, quaeraturque 
+      <lb ed="#F" n="6"/>in primis, an aliqua omnino sit dei nominanda scientia. Nam multi qui uo 
+      <lb ed="#F" n="7"/>funt laudemi sibi argute disserendi dari, nullam dei scientiam esse censent quandoquidem 
+      <lb ed="#F" n="8"/>scientiam absolutionem rei additam afferre dicant. At cum maxime deum sint¬, 
+      <lb ed="#F" n="9"/>plicitate pollere confirment, nec quicquam eius naturae additum arbitrentur,
+      obtine<lb ed="#F" n="10" break="no"/>re se putant, ut nullo modo quaepiam dei scientia esse dicatur. Plato autem
+      ne<lb ed="#F" n="11" break="no"/>gat scientem esse deum, sed supra scientiam efferri opinatur in quo philolopho 
+      <lb ed="#F" n="12"/>rum pedissequam phalangem habet, qui quasi id sibi per Platonem liceat, ratum 
+      <lb ed="#F" n="13"/>ordinem deorum constituunt. Quorum quidem sententiam satis a diuo
+      Dio<lb ed="#F" n="14" break="no"/>nysio reiectam esse uideo. Sed accessit callidissimus auctor Auerrois, qui dei ma 
+      <lb ed="#F" n="15"/>xime propriam scientiam &amp; uitam esse putat. Nobis uero certius probatur
+      cumu<lb ed="#F" n="16" break="no"/>late scientem esse deum. Nam cum formae angustiae ex materiae concretione oriantur, 
+      <lb ed="#F" n="17"/>intelligi potest formarum genera quo magis materia uacant, eo magis ad immen 
+      <lb ed="#F" n="18"/>sitatem quandam interminata accedere. Ex quo sciri debet quippiam materia uacans, 
+      <lb ed="#F" n="19"/>maxime nancisci pernoscendi uim seiunctaeque naturae modo, noscendi ac
+      perci<lb ed="#F" n="20" break="no"/>piendi oriri modum. Itaque praeclare Aristoteies ait stirpium generi ob materia 
+      <lb ed="#F" n="21"/>concretionem, pernoscendi ademptum esse sensum. At cum maxime deus sit ab 
+      <lb ed="#F" n="22"/>omni materia seiunctus &amp; liber, nemini dubium esse potest, eum scientem
+      de<lb ed="#F" n="23" break="no"/>bere maxime uideri. Sed interest nostra scire, an a satore mundi deo singularum 
+      <lb ed="#F" n="24"/>rerum genera pernoscantur. Multi enim quasi magnam uideantur
+      Aristoteli<lb ed="#F" n="25" break="no"/>operam dedisse, singularum rerum scientiam esse negant. At cum ea quae scien 
+      <lb ed="#F" n="26"/>tiarum genere non continentur, a quoquam percipi nullo modo possint, satis con 
+      <lb ed="#F" n="27"/>dusum esse putant, nec ea quidem a deo intelligi posse. In eiusmodi enim contro 
+      <lb ed="#F" n="28"/>uersia diuo Thomae ualde in ore est a deo singularum rerum genera pernosci 
+      <lb ed="#F" n="29"/>contra quem ex caesia disciplina Aureolus multa Scoteo genere conscripsit, affir 
+      <lb ed="#F" n="30"/>mans eum flaccescentium ratiuncularum genera afferre, quibus singula a deo 
+      <lb ed="#F" n="31"/>percipi probare conetur nec ita ab eo Auerromim feriri dicit, ut cadendi necessita 
+      <lb ed="#F" n="32"/>tem inducat. Tantundemque aculeorum affert argutus inficiator Garro. Sed prae 
+      <lb ed="#F" n="33"/>ter caeteros ingenij gloria abundans Gregorius Ariminensis, articulatim
+      argu<lb ed="#F" n="34" break="no"/>mentorum genera retexit qui quidem muita eius deturbandi causa conari
+      uide<lb ed="#F" n="35" break="no"/>retur, si diligentior Aquinateorum uerborum aestimator putaretur. At uero ex 
+      <lb ed="#F" n="36"/>philosophorum genere Auerrois, maxime talum intorsit, cum a deo singularum 
+      <lb ed="#F" n="37"/>rerum genera percipi posse negauit nam cum ea interminata esse opinaretur,
+      fa<lb ed="#F" n="38" break="no"/>cile se probare sperauit, interminata nullo scientiarum genere praefiniri posse. In quo 
+      <lb ed="#F" n="39"/>non uidit deum in agnoscendo secernere, nec sensit si concedendum sit, absurdum esse
+      in<lb ed="#F" n="40" break="no"/>terminata aliquo circunscripto scientiarum genere contineri, haud tamemn concedi opor 
+      <lb ed="#F" n="41"/>tere absurdum uideri, ab eo interminata percipi, cuius sapientiae nullis sit finibus circum 
+      <lb ed="#F" n="42"/>scriptus numerus. Ex eadem quoque Arabum disciplina Algazellus &amp; Auicemna, nobi 
+      <lb ed="#F" n="43"/>le recentium philolophorum par, quamquam minime a deo singula percipi posse ne 
+      <!--025.xml-->
+      <pb ed="#F" n="6-v"/>
+               <lb ed="#F" n="1"/>gent, cum tamen catholice singula rerum genera agnoscerc uolunt, non quidem 
+      <lb ed="#F" n="2"/>quatenus per se singula existant. In quo sane non intelligunt se deo inscitiam
+      in<lb ed="#F" n="3" break="no"/>ternoscendi dare. At mihi quidem uidetur, cum singularum rerum agnitio, ad
+      ho<lb ed="#F" n="4" break="no"/>minum expletam absolutionem pertineat, necesse esse ut eadem a deo pernoscantur. 
+      <lb ed="#F" n="5"/>Neque enim, ut ait Aristoteles, consentaneum uideri debet quicquam ab hominum
+      ge<lb ed="#F" n="6" break="no"/>nere sciri posse, quod dei notionem effugiat. Itaque dum Empedoclem uelut cras 
+      <lb ed="#F" n="7"/>sioris opimaeque ceruicis illudit, accidere putat ut deus inscius omnino putetur, si 
+      <lb ed="#F" n="8"/>antipathiam ignorare dicatur. Etenim absolutionum genera quae in inferiorum 
+      <lb ed="#F" n="9"/>rerum generibus obstringuntur, simplicia in deo &amp; iugata existunt. Et quamquam alia 
+      <lb ed="#F" n="10"/>ui ab hominum genere catholica &amp; materia seiuncta, rursumque alia ui, singula
+      ma<lb ed="#F" n="11" break="no"/>teriaque concreta internoscantur, fatendum tamen essc uolumus, ut utraque sub dei 
+      <lb ed="#F" n="12"/>simplicem intelligentiam cadant. Nec multo quidem secus cum malorum
+      gene<lb ed="#F" n="13" break="no"/>ra agnoscere dicimus. Nam quemadmodum in musicis claudicationem falsarum 
+      <lb ed="#F" n="14"/>uocum exaudimus, quatenus a musico artificio dissideant, sic deum uolumus 
+      <lb ed="#F" n="15"/>catholice cuncta malorum genera percipere, quatenus ab eius disciplina
+      discre<lb ed="#F" n="16" break="no"/>pent &amp; rursum specie secernere, quatenus non eodem modo ab eo dissideant. 
+      <lb ed="#F" n="17"/>Quamque hoc loco est nata disceptatio, an dei scientia mutari ullo modo possit.
+      Plae<lb ed="#F" n="18" break="no"/>rique enim qui ad ingenia capienda, malitiarum euerricula iactant, quo concinnius 
+      <lb ed="#F" n="19"/>argumentum cadat, deum dicunt quaecunque agat, scire omnino posse at cum
+      plu<lb ed="#F" n="20" break="no"/>ra dcum moliri posse, quam moliatur, arbitrentur, sequi uolunt, plura eum scire quam 
+      <lb ed="#F" n="21"/>sciat, quod si ita est, satis notum esse dei scientiam ademptione &amp; auctu mutari 
+      <lb ed="#F" n="22"/>posse. Contra quos diuus Thomas rotundius rude argumentum tornat. Nam  
+      <lb ed="#F" n="23"/>deum dicit ea etiam scire, quae moliri possit, nec ullo modo moliatur nec tamen ob 
+      <lb ed="#F" n="24"/>eam causam quod plura moliri possit, quam moliat, sequi uult, plura eum scire posse quam 
+      <lb ed="#F" n="25"/>sciat nec item ob id que sciat quippiam futurum esse posse, quod nullo modo sit,
+      co<lb ed="#F" n="26" break="no"/>cludi putat ut dei scientia mutari ullo modo possit, sed ab eo uarietatem rerum 
+      <lb ed="#F" n="27"/>percipi posse confirmat. Nos uero quanquam deum statuamus uarietates, conuersio 
+      <lb ed="#F" n="28"/>nesque rerum pernoscere, eum tamen uolumus sine conuersione percipere, cum sub 
+      <lb ed="#F" n="29"/>eius intelligentiam, nec transitionem, nec receptionem, aut obliuionem cadere
+      pos<lb ed="#F" n="30" break="no"/>se dicamus. Ex quo quidem effici, ut quamquam res mutari uideantur, in promptu
+      ta<lb ed="#F" n="31" break="no"/>men sit, eius scientiam nullo modo in rerum uarietate agnoscenda mutari. ldque 
+      <lb ed="#F" n="32"/>eiusmodi simulacro ostendi potest. Siquidem quemadmodum oculus uitreum 
+      <lb ed="#F" n="33"/>tectorium contuens, suapte natura transgredientium corpora quacumque moueantur 
+      <lb ed="#F" n="34"/>sine receptione cernit, nec ullo tamen modo eius agnitio, aut natura mutatur,
+      quam<lb ed="#F" n="35" break="no"/>quam res mutari uideantur, ita hoc idem in dei scientia accidere posse arbitramur. 
+      <lb ed="#F" n="36"/>Quare non sine causa intelligendum est an idem procreator mundi deus extra 
+      <lb ed="#F" n="37"/>sc caetera rerum genera percipiat. Nonnulli qui Auerroim tanquam elephantem
+      fu<lb ed="#F" n="38" break="no"/>nambulum mirantur, deum quicquam extra se percipere posse negant, inuidiosissimeque 
+      <lb ed="#F" n="39"/>Themistio obtrectare conantur, qui deum cuncta pernoscere confirmet, cum
+      in<lb ed="#F" n="40" break="no"/>telligat se causam &amp; initium esse rerum idque etiam Aristoteleo conchylio tingunt,  
+      <lb ed="#F" n="41"/>qui intelligentiam mentemque diuinam uilem fieri opinetur, si quicquam extra se perci 
+      <lb ed="#F" n="42"/>pere posse dicatur quandoquidem cognobile intelligentiae absolutionem esse uelit,  
+      <!--026.xml-->
+      <pb ed="#F" n="7-r"/>
+               <lb ed="#F" n="1"/>taeteraque rerum genera, eius collatione sordescere arbitretur. Ex nostris autem la 
+      <lb ed="#F" n="2"/>cobus Appa solers &amp; affluens theologus, cum dei agnitionem ad genita praefi 
+      <lb ed="#F" n="3"/>niri censeat, eum quippiam extra se circunscribendo percipere putat. Itaque eiusme 
+      <lb ed="#F" n="4"/>di structum, &amp; nexum argumentum affert. nam si deus, inquit, negetur quicquam
+      ex<lb ed="#F" n="5" break="no"/>tra se circumscribendo pernoscere, erit confiteri necesse ob scelera nullam
+      facino<lb ed="#F" n="6" break="no"/>rosis hominibus, mulctam esse constitutam, quod est senatus consulto reiectum. 
+      <lb ed="#F" n="7"/>propterea que hoc assumpto concesso, dubitari non potest, quin concedendum sit
+      ali<lb ed="#F" n="8" break="no"/>qua deum in se, uel extra se scelerum genera percipere. Nam si aliquod criminum
+      ge<lb ed="#F" n="9" break="no"/>nus praenoscere posse dicatur, apertum esse debet, quod quaeratur obtineri. si
+      au<lb ed="#F" n="10" break="no"/>tem affirmetur in se quaepiam scelerum genera pernoscere, fatendum erit hoc fieri
+      nul<lb ed="#F" n="11" break="no"/>lo modo posse quandoquidem in deo, nulla criminum genera inesse dicantur. Atqui 
+      <lb ed="#F" n="12"/>sequitur minime deum flagitiorum genera percipere. igitur nec ob scelera ullam 
+      <lb ed="#F" n="13"/>perditis hominibus poenam esse constitutam quando quidem ea illi omnino ignota 
+      <lb ed="#F" n="14"/>esse dicantur, quae quidem tota ratio multorum suorum sodalium gustum
+      excita<lb ed="#F" n="15" break="no"/>ret, nisi ei quaedam inesset, tanquam in melle Corsico asperitas. Nos autem deum uo 
+      <lb ed="#F" n="16"/>lumus omnia scelerum genera praesentia, anteacta, &amp; futura percipere quando qui 
+      <lb ed="#F" n="17"/>dem nihil extra se ex aeternitate, sed in se omnia futurorum genera nouisse
+      dica<lb ed="#F" n="18" break="no"/>mus. At quando in deo minime esse scelera confirmatur, plane bene concedendum 
+      <lb ed="#F" n="19"/>erit, nullo modo flagitiosum esse deum. nec tamen ob eam causam sequi
+      uolu<lb ed="#F" n="20" break="no"/>mus, quin in semet aliorum scelera pernoscat. Itaque tutissimi itineris celebritatem 
+      <lb ed="#F" n="21"/>persequemur, si ab opifice &amp; genitore rerum deo percipi cuncta dicamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

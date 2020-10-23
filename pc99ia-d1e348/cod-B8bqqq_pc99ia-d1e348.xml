@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 4</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 4</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="17-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e348"><!-- l2d4 -->
+            <head xml:id="pc99ia-d1e348-Hd1e108">Distinctio 4</head>
+            <head xml:id="pc99ia-d1e348-Hd1e111" type="question-title">De creatione corporum</head>
+            <p xml:id="pc99ia-d1e348-d1e114">
+      <!--046.xml-->
+               <pb ed="#F" n="17-r"/>
+               <lb ed="#F" n="1"/>DE CREATIONE CORPORVM. 
+      <lb ed="#F" n="2"/>DISTINCTIO QVARTA. 
+      <lb ed="#F" n="3"/>MOdo autem sequitur, ut de corporum ortu dicatur, quo loco primo 
+      <lb ed="#F" n="4"/>uidendum est, que nec sunt a coelitibus tanquam a secundis dijs corpora
+      ef<lb ed="#F" n="5" break="no"/>fecta, nec ad mulctam sontium daemonum generata, ut <name xml:id="pc99ia-d1e348-Nd1e131">Origeni</name> est ui 
+      <lb ed="#F" n="6"/>sum. In qua quidem sententia tantus uir, sal omne consumprsit nec ita 
+      <lb ed="#F" n="7"/>sunt gradatim constructa, ut alterum ab altero eatenus gigneretur, quoad ad
+      corpo<lb ed="#F" n="8" break="no"/>ream naturam perueniretur. Nec etiam illud probatur, quod Platoni placet, ut
+      fo<lb ed="#F" n="9" break="no"/>mae scilicet corporum, ex formis a materia seiunctis defluxerint. Quemadmodum 
+      <lb ed="#F" n="10"/>si constituatur canis per se existens, nulla materiae admixtione cretus, qui sit cau 
+      <lb ed="#F" n="11"/>sa omnium gignendorum canum, &amp; sus suum, &amp; bos boum . idemque de omnigenum
+      ani<lb ed="#F" n="12" break="no"/>mantium natura intelligatur. Quae quidem doctorum hominum sententiae ab uno 
+      <lb ed="#F" n="13"/>fonte manarunt. nam cum formarum causas exquirerent, dum apros, ac ursos
+      perse<lb ed="#F" n="14" break="no"/>qui non poterant, muscas &amp; culices uenabantur. Quo sane loco intelligendum est 
+      <lb ed="#F" n="15"/>que omne coagmentatum, ex formis naturam arripit, cum autem omne simile ab aliquo 
+      <lb ed="#F" n="16"/>sui simillimo gignatur, perspicuum esse debet, formarum corporearum non esse aliam 
+      <lb ed="#F" n="17"/>indagandam causam ex formis a materia secretis. Sed sciendum potius corporeas 
+      <lb ed="#F" n="18"/>formas non tanquam defluentes ex forma a materia seiuncta, sed tanquam materia
+      de<lb ed="#F" n="19" break="no"/>ducta ex potentia in actum ab aliquo coagmentato agente oriri. Cum autem omne 
+      <lb ed="#F" n="20"/>coagmentatum agens ut corpus, spus natura moueatur, praeclare sequitur corpo 
+      <lb ed="#F" n="21"/>rum formas a spus natura manare, eamque non tanquam fusionem esse
+      formarum<lb ed="#F" n="22" break="no"/>sed tanquam motionem ad formas uideri debere, quae in auctorem deum, tanquam in
+      prin<lb ed="#F" n="23" break="no"/>cipem causam conuersa feratur. Illudque etiam annectitur, in institutione rerum, ex 
+      <lb ed="#F" n="24"/>potentia in actum, transgressionem non intelligi, cum a fabricatore mundi deo, nul 
+      <lb ed="#F" n="25"/>so intermedio rerum sit facta molitio et propterea praeclarus uaticinator Moses 
+      <lb ed="#F" n="26"/>in omni primigenum dierum exordio, deum inducit ortum rerum iubentem. ex 
+      <lb ed="#F" n="27"/>quo intelligi potest uerbo imperantis dei, non calce &amp; coctilibus lateribus,
+      exaedi<lb ed="#F" n="28" break="no"/>ficatum esse mundum. Inde inter nostros magna est nata luctatio, utrum
+      mate<lb ed="#F" n="29" break="no"/>ries incondita rerum, sit tempore informationem antegressa. In quo praeclarus
+      coe<lb ed="#F" n="30" break="no"/>sestium arcanorum praeco diuus Augustinus non putat primigenam corporum mat. 
+      <lb ed="#F" n="31"/>riem informatione priorem extitisse. Basilio autem, Ambrosio, &amp; Cassiodoro
+      pla<lb ed="#F" n="32" break="no"/>cet, tempore materiam esse antegressam. Augustinus materiem inconditam esse  
+      <lb ed="#F" n="33"/>uult, quacunque forma carentem. ex quo fieri nullo modo posset, ut materies
+      incom<lb ed="#F" n="34" break="no"/>dita, tempore esset formationem antegressa, alijs enim incondita materies uideri 
+      <lb ed="#F" n="35"/>solet, non quae qualicunque forma careat, sed quae formam excludat, qua pulchritu 
+      <lb ed="#F" n="36"/>do &amp; formatio corporum ambitur. Salubriorum autem opinio est a molitore deo 
+      <lb ed="#F" n="37"/>cuncta in actu ex nihilo esse generata. Quidam uero unam corporearum rerum
+      ma<lb ed="#F" n="38" break="no"/>teriem opinati sunt siquidem ante Aristotelem, incredulum philolophorum genus. 
+      <lb ed="#F" n="39"/>omia corpora ex rerum primordijs oriri putauit nam cum qutuor illorum principiorum, una es 
+      <lb ed="#F" n="40"/>set in eadem materia communitas, ut pdare in mutuo rerum ortu, &amp; tabe patet,
+      concedi<lb ed="#F" n="41" break="no"/>sibi uolebant, ut omnium corporum materies una diceretur. Cum autem quindam corporum genera 
+      <lb ed="#F" n="42"/>haud extabescere posse uiderentur, eentque absurdum ut quppiam &amp; tabescibile, &amp; aeternum, 
+      <!--047.xml-->
+      <pb ed="#F" n="17-v"/>
+               <lb ed="#F" n="1"/>ex eodem materiae fermento manaret. Plato uerens ne sibi pedicam &amp; plagam 
+      <lb ed="#F" n="2"/>texeret, id uoluntati aedificatoris dei, non materiae naturae tribuit quod quidem 
+      <lb ed="#F" n="3"/>ab Aristotele, motuum naturalium ratione refellitur. Nos autem unitate
+      ordi<lb ed="#F" n="4" break="no"/>nis, materiam inconditam unam arbitramur, quemadmodum ordine corporeae 
+      <lb ed="#F" n="5"/>naturae, omne genus corporum, est unum genus. Atque cum institutionem &amp; mo 
+      <lb ed="#F" n="6"/>litionem rerum contemplamur, indice deo minutatim singula describimus,
+      siqui<lb ed="#F" n="7" break="no"/>dem tempus ante per se inconditum fuisse uolumus, idque postea a deo spacij
+      con<lb ed="#F" n="8" break="no"/>uersione circumscriptum, ineunteque aeuo noctis &amp; diei uicissitudinem effectam. 
+      <lb ed="#F" n="9"/>In quo confirmatur tempus numerum esse motus siderei coeli, &amp; principio aliquem 
+      <lb ed="#F" n="10"/>fuisse motum, sed notum sine tempore intelligi non posse. Inde etiam rationes 
+      <lb ed="#F" n="11"/>afferuntur, quibus probatur inconditarum tenebrarum remedio generatam esse  
+      <lb ed="#F" n="12"/>lucem, eamque primigeno die eductam, cum dies sine luce esse non possit, quam 
+      <lb ed="#F" n="13"/>quidem primitus inconditi solis fuisse confirmatur, quae initio haberet
+      illuminan<lb ed="#F" n="14" break="no"/>di uim, deinde nacta esset circumscriptam uim, circumscriptos effectus cientem 
+      <lb ed="#F" n="15"/>eaque negatur esse corpus. nam si lux corpus dici posset, quando digressu solis
+      ad<lb ed="#F" n="16" break="no"/>umbratur tellus, tum necesse esse affirmatur, ut lucis corpus extabescat, eiusque ma 
+      <lb ed="#F" n="17"/>teries formam aliam arripiat, quorum neutrum fieri certa ratione probatur.
+      Qui<lb ed="#F" n="18" break="no"/>bus expositis de coeli ortum in ipso distinctionis primigenumque dierum ordine per 
+      <lb ed="#F" n="19"/>quiritur. Apud philolophos enim Empedodes coelum ex primordijs rerum con 
+      <lb ed="#F" n="20"/>stare censet, idque indissolubile esse opinatur, proptereaque principiorum conciliatu, 
+      <lb ed="#F" n="21"/>non dissidio eius, sit absoluta natura. Platonicorum quoque canora familia, coelum 
+      <lb ed="#F" n="22"/>ex rerum principijs constitutum fuisse uoluit, non tanquam primordiorum foedere 
+      <lb ed="#F" n="23"/>coagmentatum, sed tanquam per se simplex principium, eiusque corpus ex ignei
+      pri<lb ed="#F" n="24" break="no"/>mordij natura esse constructum. Aristoteles autem coelum etiam quatuor
+      prin<lb ed="#F" n="25" break="no"/>cipiorum natura contineri arbitratur, sed extra primordia quintam excogitat na 
+      <lb ed="#F" n="26"/>turam. Si enim Platoni adhaerescendum est, minime absurdum uideri debet, coelum 
+      <lb ed="#F" n="27"/>secundo ordine recentius effectum. nam, ut illi placet, construere coelum, est ignis 
+      <lb ed="#F" n="28"/>primordium educere. primordia enim educere, ad molientis, &amp; generantis
+      pen<lb ed="#F" n="29" break="no"/>sum pertinet sed distinguentis &amp; ornantis est munus, aliquid ex primordijs
+      an<lb ed="#F" n="30" break="no"/>tecedentibus construere. Ex nostris autem diuus Augustinus coelum quod sit
+      pri<lb ed="#F" n="31" break="no"/>migeno die constructum spiritus incondita natura esse uoluit, coelum autem quod 
+      <lb ed="#F" n="32"/>uno die recentius aeditum dicatur, corporeum fuisse censet. At religiosissimus testis 
+      <lb ed="#F" n="33"/>Beda empyreum coelum primigeni diei principatu, antiquius, &amp; sidereum secun 
+      <lb ed="#F" n="34"/>do ordine constituit. Damasceno vero primo ordine eductum coelum sphaericum 
+      <lb ed="#F" n="35"/>esse placet, quod a philosophis princeps mobile, &amp; nonus orbis uocetur. Eodemque 
+      <lb ed="#F" n="36"/>modo, quaeritur, utrum aquae supra sidera, excelsissima coeli parte collocentur.
+      Ori<lb ed="#F" n="37" break="no"/>genes qui Platonis dorsuali nota agnoscitur, eas spiritus natura esse opinatur 
+      <lb ed="#F" n="38"/>Basilius autem ab his coeli flagrantiam temperari putat. Vnde exorta est causa 
+      <lb ed="#F" n="39"/>cur mathematici nullam ob aliam coniecturam, summum Saturni sidus
+      geli<lb ed="#F" n="40" break="no"/>dioris esse naturae arbitrantur, nisique aquarum propinquitate rigescere credunt. 
+      <lb ed="#F" n="41"/>ijsdemque piacet eas aquas, non perennes manare, sed quasi solida quadam glacie 
+      <lb ed="#F" n="42"/>condensari, &amp; propterea a multis id coelum adamantinum, &amp; crystallinum 
+      <!--048.xml-->
+      <pb ed="#F" n="18-r"/>
+               <lb ed="#F" n="1"/>uocari dicunt. Diuus autem Thomas qui philolophiam cum theologia coniun 
+      <lb ed="#F" n="2"/>xit, eas aquas corporeas esse statuit, eorum fundamenta conuellens, qui aquas 
+      <lb ed="#F" n="3"/>anhelitu, &amp; uapore solutas, supra sidereum coelum ferri uolunt, affirmans
+      ho<lb ed="#F" n="4" break="no"/>fieri nullo modo posse, tum propter coeli crassissimam soliditatem, quae a uapore 
+      <lb ed="#F" n="5"/>interrumpi &amp; penetrari nequeat, tum propter mediam ignis naturam, quae sit con 
+      <lb ed="#F" n="6"/>fectrix, &amp; consumptrix uaporum, tum etiam, que sensuum testimonio confirmatur. 
+      <lb ed="#F" n="7"/>uapores uix ad montium cacumina ferri. Nec item multo secus indagatur, utrum 
+      <lb ed="#F" n="8"/>unigenum sit coelum, an plures, nonnullis sane est uisum unigenum esse coelum 
+      <lb ed="#F" n="9"/>confirmare conantibus quicquid ex tota materiae suae natura constat, id
+      unige<lb ed="#F" n="10" break="no"/>num esse probari coelum autem eiusmodi esse naturae, unigenum igitur esse
+      coe<lb ed="#F" n="11" break="no"/>lum. Nostri uero, quanquam uariae sint eorum dissidentesque sententiae, in hoc tamen 
+      <lb ed="#F" n="12"/>congruunt, que coeli descriptionem tripertita ratione persequuntur, nam primum 
+      <lb ed="#F" n="13"/>coelum empyreum nominari uolunt, alterum aqueum &amp; crystallinum uocant. 
+      <lb ed="#F" n="14"/>tertium utriusque particeps, partim crystallinum, partim transsucidum esse
+      di<lb ed="#F" n="15" break="no"/>cunt, quod quidem sidereum sit, quodque in octo astra diuidatur, in sphaeram 
+      <lb ed="#F" n="16"/>stellarum inhaerentium, &amp; septem sidera errantia. <name xml:id="pc99ia-d1e348-Nd1e348">Scotus</name> autem <name xml:id="pc99ia-d1e348-Nd1e352">Ptolomaeum</name>, &amp; 
+      <lb ed="#F" n="17"/>
+               <name xml:id="pc99ia-d1e348-Nd1e357">Auicennam</name> sequens, nouem coelos esse confirmat. Post etiam inde quaestio
+      di<lb ed="#F" n="18" break="no"/>manat, num tertio sit ordine aqua a tellure secreta. In quo quidem diuus
+      Augu<lb ed="#F" n="19" break="no"/>stinus inconditam corpoream naturam, aquae &amp; telluris nomine intelligi uoluit, non 
+      <lb ed="#F" n="20"/>quia incondita natura sit informationem antegressa, sed quia origine antecesse 
+      <lb ed="#F" n="21"/>rit nec sane opinatur informationem aliam alia esse priorem, sed naturae tantum 
+      <lb ed="#F" n="22"/>ordine antegressam quo quidem ordine necessario confitendum esse,
+      informa<lb ed="#F" n="23" break="no"/>tionem, spiritus natura antiquiorem fuisse &amp; quemadmodum spiritus corpoream 
+      <lb ed="#F" n="24"/>naturam antecedat, ita supera corpora inferioribus esse antiquiora. Quo loco con 
+      <lb ed="#F" n="25"/>firmat, secundo ordine coelestium corporum informationem esse factam, &amp; tertio 
+      <lb ed="#F" n="26"/>aquarum corporeae naturae datam formam. Ex quo quidem plaerique arbitrantur 
+      <lb ed="#F" n="27"/>fabricatorem mundi deum, cum in ipso creationis meditullio, a telluris gremio 
+      <lb ed="#F" n="28"/>aquam arcuisset, tertio quoque ordine stirpium, omnigenumque arborum genera 
+      <lb ed="#F" n="29"/>aedidisse, ut telluris incondita figura remoueretur, quae aquarum diuortio nuda 
+      <lb ed="#F" n="30"/>ta, &amp; euelata, squalleret. Praeterea in disputationem uocant, num primigeno operis 
+      <lb ed="#F" n="31"/>die, an quarto generata sint astra. Multi enim in theologia populares inuenti sunt 
+      <lb ed="#F" n="32"/>qui cum dicerent sidera uasa esse lucis, lucemque operis principatu aeditam
+      affirma<lb ed="#F" n="33" break="no"/>rent, probare conabantur, sidera quoque principe die, non quarto educta fuisse. 
+      <lb ed="#F" n="34"/>Contra quos a locupletioribus, ualentioribusque disseritur, affirmantibus lucem 
+      <lb ed="#F" n="35"/>die principe aeditam, spiritus, non corporeae fuisse naturae. Ex quo coelestis operis 
+      <lb ed="#F" n="36"/>gnarus Dionysius, praecare ait lumen solis ante inconditum fuisse, &amp; quarto on 
+      <lb ed="#F" n="37"/>dine forma insignitum, censetque ortus principatu, lucem aeditam communis lucis na 
+      <lb ed="#F" n="38"/>turae modo, sed quarto operis die, astra nacta esse uim circunscriptos effectus cien 
+      <lb ed="#F" n="39"/>tem, ut uidere licet in tanta effectuum dissimilium uarietate, quae a sole &amp; luna ma 
+      <lb ed="#F" n="40"/>nare scimus. Et propterea inde quaesitum est, utrum animantia astra dicantur. Platono 
+      <lb ed="#F" n="41"/>principe multi sidera animantia esse uoluerunt. Stoicis autem placet astris uim &amp; 
+      <lb ed="#F" n="42"/>mentem inesse diuinam. At Anaxagorae ab Atheniensibus est negocium exhibitum, 
+      <!--049.xml-->
+      <pb ed="#F" n="18-v"/>
+               <lb ed="#F" n="1"/>quoniam solem, flagrantem lapidem, nec deum, nec animantem esse dixisset. Apud no 
+      <lb ed="#F" n="2"/>stros vero <name xml:id="pc99ia-d1e348-Nd1e423">Origenes</name> a <name xml:id="pc99ia-d1e348-Nd1e426">Platone</name> non discedens, animantia sidera putauit, quem pe 
+      <lb ed="#F" n="3"/>detentim &amp; dubitanter subsequi uidetur <name xml:id="pc99ia-d1e348-Nd1e431">Hieronymus</name> 
+               <name xml:id="pc99ia-d1e348-Nd1e435">diuus autem Augustinus</name> 
+               <lb ed="#F" n="4"/>tanquam arbiter in re ambigua, dum medium persequi non potest, neutri sententiae 
+      <lb ed="#F" n="5"/>assentitur. At <name xml:id="pc99ia-d1e348-Nd1e442">Apollo christianorum diuus Thomas</name>, scientius genus hoc totum ra 
+      <lb ed="#F" n="6"/>tione astringit, probat enim diuisione operum animae, nullam corporum coelestium 
+      <lb ed="#F" n="7"/>animae consentaneam esse operam, praeter intelligentiam &amp; motum . dicitque animam 
+      <lb ed="#F" n="8"/>corporibus coelestibus, non ut formam annecti, sed uirtutis appulsum, ut mobili
+      agi<lb ed="#F" n="9" break="no"/>tatorem applicari, quemnadmodum si lagena in prono, ui pedum impulsa
+      mouea<lb ed="#F" n="10" break="no"/>tur. Atque hic etiam inquiritur, num quinto sit ordine piscium &amp; uolucrum aedita 
+      <lb ed="#F" n="11"/>natura. Nonnulli id genus actu absolutum censent. <name xml:id="pc99ia-d1e348-Nd1e458">Augustinus</name> vero potentia
+      in<lb ed="#F" n="12" break="no"/>choatum putat. Hoc idem sexto ordine de animantium terrestrium ortu
+      dispu<lb ed="#F" n="13" break="no"/>tatur in quo ab <name xml:id="pc99ia-d1e348-Nd1e466">Augustino</name> eadem fere dicuntur. Sed incidit contentio, utrum sexto 
+      <lb ed="#F" n="14"/>ordine, rerum sit absoluta molitio, multi enim confirmare conantur, que quicunque 
+      <lb ed="#F" n="15"/>opus absoluit, aliquid omnino molitur, cum autem non sit literis mandatum, quicquam 
+      <lb ed="#F" n="16"/>septimo die deum fuisse machinatum, condudere uolunt, absolutionem operis, 
+      <lb ed="#F" n="17"/>septimo ordini nullo modo congruere. <name xml:id="pc99ia-d1e348-Nd1e478">Diuus autem Thomas</name> deum dicit
+      septi<lb ed="#F" n="18" break="no"/>mo die aliquid fuisse molitum, no quo quicquam recentius genuerit, sed quo genita 
+      <lb ed="#F" n="19"/>ad priuata munia obeunda induxerit, quod quidem secundae cuiusdam
+      apsolu<lb ed="#F" n="20" break="no"/>tionis exordio consentaneum uideatur. Theologorum autem omnium opinio est, in 
+      <lb ed="#F" n="21"/>gignundis rebus, septimo die cessationem esse datam, eodemque die effectorem &amp;
+      paren<lb ed="#F" n="22" break="no"/>tem deum, sic ad genita fatum. Macti auctu, ac foetura estote, &amp; propagate genus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

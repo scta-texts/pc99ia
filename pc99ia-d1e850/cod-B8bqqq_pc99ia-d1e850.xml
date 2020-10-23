@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 4</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 4</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="40-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e850"><!-- l4q4 -->
+            <head xml:id="pc99ia-d1e850-Hd1e108">Distinctio 4</head>
+            <head xml:id="pc99ia-d1e850-Hd1e111" type="question-title">De sacramento extremae unctionis</head>
+            <p xml:id="pc99ia-d1e850-d1e114">
+               <lb ed="#F" n="15"/>DE
+      SACRAMENTOEXTRE<lb ed="#F" n="16" break="no"/>MAEVNCTIONIS 
+      <lb ed="#F" n="17"/>DISTINCTIO QVARTA. 
+      <lb ed="#F" n="18"/>AC quatuor his generibus sacrorum, quinta adiungitur extima
+      perun<lb ed="#F" n="19" break="no"/>ctio. Quo in genere multorum sententia est, haud id lustrale sacrum a 
+      <lb ed="#F" n="20"/>Christo, sed a pedissequis discipulis fuisse latum, quam obrem
+      nonnulli<lb ed="#F" n="21" break="no"/>omia sacrorum genera a Christo constituta dicunt, sed quaedam ex hijs
+      ab<lb ed="#F" n="22" break="no"/>eo lata, quorundam uero lationem alumnis reseruatam fuisse, cui quidem sententiae ex
+      par<lb ed="#F" n="23" break="no"/>te magna diuus Thomas assentitur. Sed incidit contentio, num eiusmodi sacri fi 
+      <lb ed="#F" n="24"/>nitima materies oleum dicatur, quod pontifices sacrificio certo consecrarint. <name xml:id="pc99ia-d1e850-Nd1e137">Durandus</name> 
+               <lb ed="#F" n="25"/>enim argutiarum auceps, spinosiora argumenta nectit, quibus probare conatur haud 
+      <lb ed="#F" n="26"/>eiusmodi sacri materiem oleum a Pont, consecratum esse oportere quando quidem 
+      <lb ed="#F" n="27"/>Christum nullo corporeo olei perfusum usum dicat, quae sane argumentorum
+      gene<lb ed="#F" n="28" break="no"/>ra praecare a <name xml:id="pc99ia-d1e850-Nd1e149">Petro Paludensi</name> retexuntur, qui nunc in magno theologorum
+      thea<lb ed="#F" n="29" break="no"/>tro sessum recipitur. Sed interiectus est moderator diuus Thomas, qui perinde 
+      <lb ed="#F" n="30"/>id sacrum in lustrali illitu, ut baptisma in laticis aspersione, consistere arbitratur, 
+      <lb ed="#F" n="31"/>eiusque materiem, oleum consecratum esse censet. Et propterea in eam sententiam itur, ut 
+      <lb ed="#F" n="32"/>eiusmodi sacri princeps effectus criminum liberatio uocetur, ex quo id primo ad
+      in<lb ed="#F" n="33" break="no"/>sidentium scelerum aegritudinem sanandam institutum putatur, que spiritus quaedam
+      sana<lb ed="#F" n="34" break="no"/>tio dicatur. Itaque ob eam causam haud id contra eas defectiones adhiberi
+      affir<lb ed="#F" n="35" break="no"/>mamus, quibus spiritus uita adimatur, quemadmodum contra originis, &amp;
+      capita<lb ed="#F" n="36" break="no"/>se malum, sed contra eas defectiones dari, quibus homines spiritus aegritudine
+      op<lb ed="#F" n="37" break="no"/>primantur, hebetenturque ad gloriae actum nanciscendum quod quidem haud
+      quic<lb ed="#F" n="38" break="no"/>quam aliud iure dici possit quam inmbecillitas eneruata, siue socors, &amp; inepta quaedam
+      he<lb ed="#F" n="39" break="no"/>betatio, quae hominibus ob crimen actu patratum, originisque tabem relinquatur, 
+      <lb ed="#F" n="40"/>contra quae mala homines hoc lustrali sacro muniantur. Quamobrem senatus 
+      <lb ed="#F" n="41"/>consulto cauetur, nequis profanus, aut minister flamen, qui a graecis Diaconus no 
+      <!--094.xml-->
+      <pb ed="#F" n="41-r"/>
+               <lb ed="#F" n="1"/>minatur, illinendi facultatem usurpet, neue etiam insani illinantur, nisi qui stolidem 
+      <lb ed="#F" n="2"/>amentes sint, quique interposito spatio ita resipiscant, ut sentiant ui sacri, scelerum 
+      <lb ed="#F" n="3"/>uestigia dilui eodemque modo infantes repelluntur, qui nondum sint uim, praestan 
+      <lb ed="#F" n="4"/>tiamque intelligendi consecuti, quique ut praecare ait Riccardus, nondum . ignoscibi 
+      <lb ed="#F" n="5"/>li tabe inquinentur, cuius quidem mali liberationem in eiusmodi sacro unam e mu 
+      <lb ed="#F" n="6"/>tis antesignanam &amp; principem esse opinatur. Atque illud etiam sancitum est, ne ua 
+      <lb ed="#F" n="7"/>sentibus aut in quocunque aegritudinum genere, adhibeatur quandoquidem id
+      sa<lb ed="#F" n="8" break="no"/>crum extimum dicatur, quod senatus adhibeat, homines praeparans, &amp; perpoliens 
+      <lb ed="#F" n="9"/>ad gloriam et propterea eos tanntum illinendos esse dicimus, qui in ipso sint uitae 
+      <lb ed="#F" n="10"/>excessum constituti. In quo etiam intelligendum est, omnes corporis partes illiniri 
+      <lb ed="#F" n="11"/>non placere, cum id sacrum curatio quaedam dicatur, corporisque curatio haud
+      cunctis<lb ed="#F" n="12" break="no"/>corporis partibus, sed morborum tantum fibris medicamenta adhibeat. Cum autem 
+      <lb ed="#F" n="13"/>omnis nostra notio a sensibus oriatur, ubi facinorum scelerumque ortum esse dicimus 
+      <lb ed="#F" n="14"/>ibi, hoc lustrale perunctionis fomentum esse uolumus, ob eamque causam a flamine 
+      <lb ed="#F" n="15"/>senisuum sedes obliniri¬ 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

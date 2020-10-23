@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 9</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 9</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="10-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e211"><!-- l1d9 -->
+            <head xml:id="pc99ia-d1e211-Hd1e108">Distinctio 9</head>
+            <head xml:id="pc99ia-d1e211-Hd1e111" type="question-title">De Trinitate</head>
+            <p xml:id="pc99ia-d1e211-d1e114">
+               <lb ed="#F" n="2"/>DE TRINITATE. 
+      <lb ed="#F" n="3"/>DISTINCTIO NONA. 
+      <lb ed="#F" n="4"/>HActenus de dei natura conscripsimus, nunc sequitur ut ea diuina genera 
+      <lb ed="#F" n="5"/>apersequamur, quibus deum unum &amp; trinum esse ostenditur de qua quidem re. 
+      <lb ed="#F" n="6"/>magna hominem certatione pugnatur. Nam literatores multi, qui tanquam 
+      <lb ed="#F" n="7"/>tubera sine radice uiuunt, id ob eam causam negant, propterea quod 
+      <lb ed="#F" n="8"/>minime esse posse arbitrentur. Nonnulli vero dum habent ratum, quod probarint, &amp;
+      fal<lb ed="#F" n="9" break="no"/>sum quod opinatione suspicantur, foedissime in dei natura labuntur. Quibusdam etiam 
+      <lb ed="#F" n="10"/>qui ne ignem quidem calere putant, nisi eum manum contrectarint, nihil credendum esse  
+      <lb ed="#F" n="11"/>placet quod supra progredientem naturam uideatur. Multorum quoque studia tardantur. 
+      <lb ed="#F" n="12"/>que id credere nolint, quod minus sub eorum cognitionem cadat quae quidem errorum 
+      <lb ed="#F" n="13"/>prauitas ex ingeniorum imbecillitate defluxit. siquidem cum sensuum angustiae, ex
+      qui<lb ed="#F" n="14" break="no"/>bus hominum agnitio eruitur, in externorum sensilium genere uersentur, satis notum 
+      <lb ed="#F" n="15"/>esse debet, his, tanquam compedibus, intelligentiae cursum retardari, diuinaque capessere 
+      <lb ed="#F" n="16"/>nequire. At mihi quidem nullo modo consentaneum uideri solet, quoniam multa
+      inter<lb ed="#F" n="17" break="no"/>dum incredibilia uideantur, ea fieri posse negare. nam eodem modo nec credendum 
+      <lb ed="#F" n="18"/>esset, aut ab electro paleam, aut ferrum, a magnete trahi, cum illi lapideo rigori nulla 
+      <lb ed="#F" n="19"/>inesse appareat rapiendi uis, nec ferrum ductile suapte natura uideatur,. nec item
+      cen<lb ed="#F" n="20" break="no"/>sendum esset ab iaspide defluentem sisti sanguinem, quae enim esse potest lapidi cum 
+      <lb ed="#F" n="21"/>sanguine cognatio: Atque etiam quis credere deberet, a struthocamelo concoqui &amp; 
+      <lb ed="#F" n="22"/>molliri ferrum, a leone concoqui nequire: cum multo sit leonis quam struthocameli 
+      <lb ed="#F" n="23"/>natura feruidior: nihiloque facilius existimandum esset, cyathum cinere fartum, tantum 
+      <lb ed="#F" n="24"/>dem aquae refertum quam exhaustum capere : Eodemque modo nec putandum ab
+      Echi<lb ed="#F" n="25" break="no"/>naeide pisciculo uolantia nauigia sisti quae enim uis tantillo pisciculo inesse potest 
+      <lb ed="#F" n="26"/>contra tantum impellentium remigum conatum, contra tam uarios ruentium uentorum
+      impe<lb ed="#F" n="27" break="no"/>tus, contra tantas procellas aestuantis maris: quis putaret quae nec ancorarum iactu. 
+      <lb ed="#F" n="28"/>nec funium aut catenarum nexu continentur, unius pisciculi adhae sum contineri: Quod si 
+      <lb ed="#F" n="29"/>haec fieri uidemus naturae progredientis uia, quorum nulla afferri ratio potest, num 
+      <lb ed="#F" n="30"/>existimandum est nobis, quaedam incredibiliora in dei natura existere, quae nullo 
+      <lb ed="#F" n="31"/>modo sub hominis notionem cadant: Neque enim ego fas esse puto, cum tam uariae 
+      <lb ed="#F" n="32"/>inter se uoluntates, tanquam dissidentes intelligendi dissimilitudines sint, quod cuiquam 
+      <lb ed="#F" n="33"/>tanquam ratum inhaeserit, id ab eo debere pugnacissime defendi etenim id quod saepe 
+      <lb ed="#F" n="34"/>facile in alterius sensum irrepit, ab altero percipi nullo modo potest. An
+      censen<lb ed="#F" n="35" break="no"/>dum est solis aut lunae naturam, perinde in opilionis ut in eruditi intelligentiam
+      in<lb ed="#F" n="36" break="no"/>fluere: &amp; rursum eandem aeque erudito ac philolopho liquere: Num igitur, quoniam 
+      <lb ed="#F" n="37"/>multa interdum a philolopho dicantur quae alterius intelligentiam fugiant, dicen 
+      <lb ed="#F" n="38"/>dum erit, ea credi non debere: Ac rursum si qua interdum inducat, quae suprana 
+      <lb ed="#F" n="39"/>turae complexum uideantur, ob eam causam neganda putabimus, propterea que
+      ra<lb ed="#F" n="40" break="no"/>tione indagari nequeant: An non usum cernimus intelligentiam in ueri iudicio
+      per<lb ed="#F" n="41" break="no"/>noscendo, caligine offundi: an non uidemus multa in lapidum, aquarum uel herbarum 
+      <lb ed="#F" n="42"/>genere ignorari: Atqui haud tij sequi dicimus, si ea minus sub aciem intelligentiae ca¬ 
+      <!--034.xml-->
+      <pb ed="#F" n="11-r"/>
+               <lb ed="#F" n="1"/>dant, quin ea esse dici debeant cum nec sequi uideatur, si multa abdita naturae minus 
+      <lb ed="#F" n="2"/>percipi ab hominum genere possint, quin esse dicantur. Ex quo intelligi potest
+      per<lb ed="#F" n="3" break="no"/>absurdum uideri, id falsum esse affirmare, quod quaeri minus ratione possit. An 
+      <lb ed="#F" n="4"/>putandum est multa non emanatura, si rationis tantum complexu perquireretur 
+      <lb ed="#F" n="5"/>deus:. Quis non uidet quosdam ita crassiore ingenio &amp; habitu naturae hebetes, 
+      <lb ed="#F" n="6"/>ut nullius subtilioris disputationis compotes fieri possint, quosdam desidia
+      inge<lb ed="#F" n="7" break="no"/>nij naturaeque socordia testudinibus esse tardiores, qui cum noctu in uitam tanquam 
+      <lb ed="#F" n="8"/>in urbem ueniant, noctuque discedant, nihil aliud inde referunt quam adumbratum 
+      <lb ed="#F" n="9"/>simulacrum urbis; Quid dicam de his qui uitae procuratione occupantur:
+      quo<lb ed="#F" n="10" break="no"/>rum alij in artificiorum, alij in bellorum genere, alij in Re. Pu,. uersantur. Iam
+      quan<lb ed="#F" n="11" break="no"/>tum operae in alea, in conuiuijs, in erudito luxu consumitur: Quantum studij eorum 
+      <lb ed="#F" n="12"/>ambitio conterit, qui ad fortunae altitudinem obrepere uolunt, cum tamen, ut
+      pusio<lb ed="#F" n="13" break="no"/>nes, nihilo celsiores fiant, etiam si in Hadrianae molis fastigio locentur quos
+      qui<lb ed="#F" n="14" break="no"/>dem omnes fatendum est, a dei agnitione auocari, cum ab his nullum tempus ad 
+      <lb ed="#F" n="15"/>eius perquirendam naturam seponatur &amp; cum caeterarum rerum auari sint, in
+      tempo<lb ed="#F" n="16" break="no"/>ris iactura prodigi reperiuntur. Num igitur quoniam hi se in tenebrarum gurgustium 
+      <lb ed="#F" n="17"/>coniecerunt, oculosque sibi eruerunt, credere nullo modo debent: et cum minus
+      ipsi<lb ed="#F" n="18" break="no"/>stadia acdiuiora currant, opinari caeteros currere nequire: Atque etiam none
+      per<lb ed="#F" n="19" break="no"/>spicuum est, quantum temporis in Grammaticorum enarratione, quantum in syllogis 
+      <lb ed="#F" n="20"/>mis &amp; lemmatibus dialecticorum, quantum in Mathematicorum puluere,
+      quam<lb ed="#F" n="21" break="no"/>tum in physiologia consumitur: nonne notum est sine harum doctrinarum
+      co<lb ed="#F" n="22" break="no"/>mitatu ad metaphysicen perueniri nullo modo posse, quae extima est diuinae na 
+      <lb ed="#F" n="23"/>turae indagatrix: At quis tamen his doctrinarum praesidijs se obrepere posse in 
+      <lb ed="#F" n="24"/>dei agnitionem sperat, quotus enim quisque est qui non fateatur muita in his
+      non<lb ed="#F" n="25" break="no"/>dum sibi esse explorata, multa etiam sibi opinanda restare: quis ignorat in omni 
+      <lb ed="#F" n="26"/>doctrinarum explicatione, multa saepe falsa tanquam in malis punicis rancidiora gra 
+      <lb ed="#F" n="27"/>na misceri, &amp; aliquem in his semper relinqui dubitandi nodum: Aut quis non 
+      <lb ed="#F" n="28"/>uidet id quod Platoni placet, uehementer Aristoteli displicere: &amp; quod a
+      Stoi<lb ed="#F" n="29" break="no"/>cis probetur, a Peripateticorum familia refelli: &amp; quod ab altero connectatur, ab 
+      <lb ed="#F" n="30"/>alio euolutum retexi: Adde etiam si placetque nonulli omnia philolophorum
+      do<lb ed="#F" n="31" break="no"/>gmata exagitant, que ex his multi, nihil certi esse affirmant, queque etiam saepe falsum 
+      <lb ed="#F" n="32"/>aliquo uendibili sophistarum latibulo occulitur.: Ex quo sciri maxime potest,
+      ho<lb ed="#F" n="33" break="no"/>mines in magna rerum obscuritate uersari, ac ea quae rationum adiumentis
+      inda<lb ed="#F" n="34" break="no"/>gari nequeunt, instructu libatuque diuino oportere credi. Etenim hominum
+      absolu<lb ed="#F" n="35" break="no"/>tio in dei natura agnoscenda uersatur, siquidem frustra intelligi liceret natum esse homi 
+      <lb ed="#F" n="36"/>nem, nisi esset illi proprius attingendus limes ob eamque causam patefactum est illi dei libe 
+      <lb ed="#F" n="37"/>ralitate iter, quo ad eius notionem sine prolapsione contenderet. Itaque in eiusmodi quae 
+      <lb ed="#F" n="38"/>stione quaerendum est primum, num in diuina natura progressio esse uideatur. Arrius enim 
+      <lb ed="#F" n="39"/>haereticorum fax, perinde est istius modi progressionem mensus, ut effectuum genera, a 
+      <lb ed="#F" n="40"/>causa dimanant A quo Sabellij adiutus est error, quo aeque ea progressionem expendit, ac 
+      <lb ed="#F" n="41"/>causa progredi in effectum dicitur, qtenus scilicet aut eum impellit, aut in eo similitudinem 
+      <lb ed="#F" n="42"/>suam insculpit, quorum neuter progressionem in dei natura statuit. Siquidem nul¬ 
+      <!--035.xml-->
+      <pb ed="#F" n="11-v"/>
+               <lb ed="#F" n="1"/>so modo eiusmodi progressionem definimus, quatenus in rerum corporearum natura 
+      <lb ed="#F" n="2"/>uersatur, sed dimanatione quae intelligi potest, metimur, ut uerbum a loquente, quod 
+      <lb ed="#F" n="3"/>intelligi potest, in eoque insidet. Ex quo sciri debet uerbi prooressum, generationem 
+      <lb ed="#F" n="4"/>in dei natura uocari, uerbumque dimanans nominari filium. Quare non sine causa 
+      <lb ed="#F" n="5"/>magno certamine disceptari solet, an spiritus ut amor &amp; uoluntas dimanet.
+      Di<lb ed="#F" n="6" break="no"/>uus enim Thomas maturus &amp; sanus theologus personam aliquam quam Graeci πρώσωπομ 
+      <lb ed="#F" n="7"/>uocant amoris modo, in dei natura progredi arbitratur. At acerrimus bellator
+      Sco<lb ed="#F" n="8" break="no"/>tus, qui uelut ferrum usu splendescit, spiritum tanquam amoris actum dimanare censet, 
+      <lb ed="#F" n="9"/>affirmans in his, quae in rerum diuinarum notione uersantur, diuorum coetum sequem 
+      <lb ed="#F" n="10"/>dum esse ducem, qui in omni methodice Christiana spiritum amorem nominent. 
+      <lb ed="#F" n="11"/>Henricus autem qui peruenire ad triumuiratum cupit, ex his rebus affirmat, quae 
+      <lb ed="#F" n="12"/>usum experimur, nos debere ad naturae diuinae notionem permeare quando quidem 
+      <lb ed="#F" n="13"/>in nobis tergeminae diuinitatis simulacrum insidere dicatur. At cum aiat nos
+      du<lb ed="#F" n="14" break="no"/>plex amoris experiri genus, quorum unus blandissimus ex rei obiectae iuuitamen 
+      <lb ed="#F" n="15"/>to oriatur, alter igneus &amp; exardescens sit, quo uoluntas ad rem obiectam
+      impel<lb ed="#F" n="16" break="no"/>latur, utrumque anaiogica collatione in deo esse opinatur. Nos uero cum dicamus 
+      <lb ed="#F" n="17"/>quippiam ὀυσίωδαs amoris diuinitatisque actu in diuinitate progredi, facile sequi 
+      <lb ed="#F" n="18"/>uolumus, prosopon aliquam esse, amoris &amp; uoluntatis progressione manantem sed 
+      <lb ed="#F" n="19"/>cum perspicuum sit nullam quam spus prosopon uideri, in promptu esse dicimus,
+      spi<lb ed="#F" n="20" break="no"/>ritum amoris uoluntatisque progressum dimanare. Sed causa Scoto exoritur, cur no 
+      <lb ed="#F" n="21"/>lit, a parente &amp; filio spiritum natura educi, cui ita est Gregorius Ariminensis
+      as<lb ed="#F" n="22" break="no"/>sensus, ut nec eum libere dimanare opinetur. At uero cum affirmamus filium
+      in<lb ed="#F" n="23" break="no"/>telligentiae modo ut uerbum, ac spiritum uoluntatis modo, ut amorem
+      progredi<lb ed="#F" n="24" break="no"/>necesse erit confiteri nobis, amorem, a uerbo dimanare. idque maxime rerum ordine 
+      <lb ed="#F" n="25"/>probatur. Siquidem nunquam cernere licet, ab uno plura sine ordine progredi, nisi 
+      <lb ed="#F" n="26"/>in eorum genere, quae inter se materia differant, ut figulus ollas materia inter se
+      di<lb ed="#F" n="27" break="no"/>stinctas tornat, quae inter se nullum certum ordinem nanciscuntur, at in his generibus 
+      <lb ed="#F" n="28"/>in quibus nulla est materiae distincta descriptio, semper ordinem reperiri dicimus. 
+      <lb ed="#F" n="29"/>Quod si ab una parentis persona, πρώσωπα, duas dimanare affirmabimus,
+      faten<lb ed="#F" n="30" break="no"/>dum erit etiam a nobis, in his ordinem quempiam uersari. At cum nullum his praeter natu 
+      <lb ed="#F" n="31"/>rae ordinem ascribi posse uideamus, quo unus ab altero existit, fieri non posse scimus. 
+      <lb ed="#F" n="32"/>ut filius &amp; spus ita a parente progrediantur, ut eorum nemo ab altero dimanet, nisi in 
+      <lb ed="#F" n="33"/>his materiae distincta descriptio statuatur, quod fieri ullo modo in dei natura
+      ne<lb ed="#F" n="34" break="no"/>quit. Ex quo fas erit confiteri, spiritum a filio dimanare. Itaque ob eam causam
+      di<lb ed="#F" n="35" break="no"/>uinitati prosopa ascribimus, inquirimusque primo an hae inter se aequales esse
+      di<lb ed="#F" n="36" break="no"/>cantur. In quo non desino eorum haereticorum laetalem stolidissimamque super 
+      <lb ed="#F" n="37"/>biam illudere, qui opinionum prauitate lacerarunt deum, quod enim dolium tam 
+      <lb ed="#F" n="38"/>pertusum quam Macedonius Pontifex inueniri potest, cui spiritus non uidetur deuso 
+      <lb ed="#F" n="39"/>aut quid Donato Numida crassius, qu Africam totam hoc tetro latice respersit, ut parent 
+      <lb ed="#F" n="40"/>te filius, &amp; spuns filio minor uideretur: nam quid de Eunomio moroso sophista dicam, a 
+      <lb ed="#F" n="41"/>quo est diuinitati dissimilitudo adiecta: qud Priscillianum commemorem, qui ut bigener 
+      <lb ed="#F" n="42"/>quondam monstrum conflaret, Gnostica &amp; Manichea uenena per miscuit: lam quidArrium 
+      <!--036.xml-->
+      <pb ed="#F" n="12-r"/>
+               <lb ed="#F" n="1"/>nominem ardentium haereticorum follem, qui in diuinitate multitudinem tanquam
+      gra<lb ed="#F" n="2" break="no"/>dus minoris gentium adiunxit: nonne satius fuisset nullum eis tributum esse inge 
+      <lb ed="#F" n="3"/>nium, quam tanta cum lue datum. quamquam intelligi potest eos cum nocere uellent profuis 
+      <lb ed="#F" n="4"/>se, prouisumque a deo, ut eorum adumbratis praestigijs, ueritatis lumen eluceret. 
+      <lb ed="#F" n="5"/>At quanto melius ex nostris. D. Thomas aequalitatem in diuinitate statui oporte 
+      <lb ed="#F" n="6"/>re putat, cum maius &amp; minus in dei natura uersari posse negat. Nobis uero si
+      di<lb ed="#F" n="7" break="no"/>uinitati aequalitatem adimendam esse placeret, confitendum etiam esset nullo mo 
+      <lb ed="#F" n="8"/>do ὀυσίαμ unam in tergemina diuinitate existere, nec πρώσωπα, tres, unum
+      existe<lb ed="#F" n="9" break="no"/>re deum quod fieri nullo modo potest. ergo necesse uideri debet, ut aequalitas in 
+      <lb ed="#F" n="10"/>diuinitate statuatur. Sed quaerendum hoc loco uidetur an πρώσωπομ dimanans,
+      prin<lb ed="#F" n="11" break="no"/>cipio suo sit in aeternitate par. Arrius enim duodecim generandi genera inducit 
+      <lb ed="#F" n="12"/>quae asseclis suis tanquam chrias ediscendas praebuit ex quibus multitudo illa
+      ap<lb ed="#F" n="13" break="no"/>pendix, uaria est monstrorum genera commenta. At diuus Thomas detrahenda 
+      <lb ed="#F" n="14"/>rum controuersiarum causa, filium affirmat parenti in aeternitate esse parem, cum prae 
+      <lb ed="#F" n="15"/>dare notum sit, filium a parente, non uoluntate sed natura generari. Itaque parentis
+      na<lb ed="#F" n="16" break="no"/>turam, ab aeternitate absolutam esse dicit, ac ut filium parenti, ita spiritum utrique 
+      <lb ed="#F" n="17"/>aeternum esse parem. Sed cum parens is sit, a quo alius dimanet, facile intelligi pos 
+      <lb ed="#F" n="18"/>se purat, parentem principium debere dici. In quo affirmat, a Graecis principij &amp; cau 
+      <lb ed="#F" n="19"/>sae nomen ἀδιαφόρωζ misceri, rectiusque nostros principij nomine uti, cum nomen 
+      <lb ed="#F" n="20"/>quo latius uideatur, eo aptius diuinitati congruat quare diuinae naturae nomina 
+      <lb ed="#F" n="21"/>imponimus, quatenus eius absolutio in rerum creaturarum absolutione
+      splende<lb ed="#F" n="22" break="no"/>scit multaque etiam interdum metaphoricos inducimus. Ex quo fatendum erit
+      na<lb ed="#F" n="23" break="no"/>turae ordinem in diuinitate statui, cum semper ordo ad quodpiam principium col 
+      <lb ed="#F" n="24"/>latione referatur, sed intelligendum est origine ordinem sine antegressione statui, 
+      <lb ed="#F" n="25"/>qui. D. Augustino auctore, naturae ordo dicatur.
+      <lb ed="#F" n="26"/>PRIMI SENTENTIARVM LIBRI FINIS
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

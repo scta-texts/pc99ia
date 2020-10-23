@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 5</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 5</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="7-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e153"><!-- l1d5 -->
+            <head xml:id="pc99ia-d1e153-Hd1e108">Distinctio 5</head>
+            <head xml:id="pc99ia-d1e153-Hd1e111" type="question-title">De Providentia Dei</head>
+            <p xml:id="pc99ia-d1e153-d1e114">
+               <lb ed="#F" n="22"/>DE PROVIDENTIA DEI 
+      <lb ed="#F" n="23"/>DISTINCTIO QVINTA. 
+      <lb ed="#F" n="24"/>VErum nostri negocij est prouidentiam hoc loco perquirere, propterea 
+      <lb ed="#F" n="25"/>quod prouidentiam in deo esse uolumus quandoquidem necesse sit, 
+      <lb ed="#F" n="26"/>ut ratio ordinis in ultimum menti diuinae insit, ratioque statuendarum 
+      <lb ed="#F" n="27"/>rerum in ultimum prouidentia dicatur. Ob eamquam causam iure de
+      De<lb ed="#F" n="28" break="no"/>mocriti &amp; Epicuri manibus est extortus mucro, qui dum mundum corporum con 
+      <lb ed="#F" n="29"/>cursione fortuita effectum esse censebant, prouidentiam rerum excluserunt.
+      Ni<lb ed="#F" n="30" break="no"/>hiloque benignius audiendi sunt, quibus ea tantum, quae nullo modo extabescunt. 
+      <lb ed="#F" n="31"/>prouidentiae subiecta esse placet cum satis perspicuum sit, cuncta perinde diuinaem 
+      <lb ed="#F" n="32"/>mensioni, ut artificiosa rato artis ordini subesse. Ex quo quidem libet multorum 
+      <lb ed="#F" n="33"/>philosophorum insaniam accusare, qui ut a caeterorum inuentis discreparent,
+      pu<lb ed="#F" n="34" break="no"/>gnantia &amp; incredibilia multa induxerunt, quasi laus esset gignentis ingenij transi 
+      <lb ed="#F" n="35"/>lire praescripta, etiam si deprauata genuissent, quod ego non tam fastidio quam
+      igno<lb ed="#F" n="36" break="no"/>ratione accidisse puto, ut qui praeclare hominem nudum pingere nequeunt,
+      lenoci<lb ed="#F" n="37" break="no"/>nio amictus, artis ignorationem obtendunt. Qui enim cuiquam sano in mentem uenire 
+      <lb ed="#F" n="38"/>potest, ut rerum uniuersarum prouidentiam excludat, aut mundum dei procurationem 
+      <lb ed="#F" n="39"/>administrari neget: At multi tamem fuerunt, qui cuncta, nulla mente diuina, nulla 
+      <lb ed="#F" n="40"/>ratione gubernari opinati sunt, sed omnia casu fieri uolebant quod si hi in
+      phi<lb ed="#F" n="41" break="no"/>losophorum genere inuenti sunt, num mirabile uideri debet, quasdam praegnantes 
+      <lb ed="#F" n="42"/>foeminas reperiri, quae carbonum cementorumque esum delectentur:. Itaque multi ut 
+      <!--028.xml-->
+      <pb ed="#F" n="8-r"/>
+               <lb ed="#F" n="1"/>argutius sapere uideantur, nullo iodo prouidentiam diuinam negauerunt, sed 
+      <lb ed="#F" n="2"/>eam ministris uti uoluerunt, affirmantes eam regis quamsimillimam uideri, qui
+      admi<lb ed="#F" n="3" break="no"/>nistrandarum rerum suarum munia dispertiat. Ob eamque causam Plato tripartito 
+      <lb ed="#F" n="4"/>prouidentiam distribuit nam unam auctoris rerum dei esse dixit, quae spirituum in 
+      <lb ed="#F" n="5"/>primis naturae, rerumque uniuersitati consuleret alteram aiebat esse eam, quae singu 
+      <lb ed="#F" n="6"/>lis rebus quae extabescerent &amp; gignerentur prouideret, quam his coelitibus tribuendam 
+      <lb ed="#F" n="7"/>statuit, qui circum coelum meantes coelestia corpora impellerent tertiam vero
+      pu<lb ed="#F" n="8" break="no"/>tauit, quae rerum humanarum procurationem susciperet, eamque daemonum generi
+      ascri<lb ed="#F" n="9" break="no"/>psit, quos inter homines &amp; coelites interiectos esse censuit quam quidem sententiam 
+      <lb ed="#F" n="10"/>multi tanquam statuam admirando praetereunt. Nos autem cuncta uolumus
+      proui<lb ed="#F" n="11" break="no"/>dentia sine ministris gubernari, sed tamemn quaedam intermedia esse dicimus,
+      qui<lb ed="#F" n="12" break="no"/>bus non carentia uirtutis, sed affluentia probitatis inferiora regat quare si quicquam 
+      <lb ed="#F" n="13"/>cuiquam bene fortunateque euenturum sit, ei deum, coelites, &amp; coelum, suffragari
+      opor<lb ed="#F" n="14" break="no"/>tere dicimus. nam saepe alicui praeter propositum bene euenire scimus, ut si quis 
+      <lb ed="#F" n="15"/>arando auri urnam excutiat, quam nullo prorsus modo erat illi in animo
+      perqui<lb ed="#F" n="16" break="no"/>rere. Etenim saepe accidere solet, quempiam molientem praeter propositum moliri, non 
+      <lb ed="#F" n="17"/>tamen praeter heri propositum moliri, cui sit iure subiectus quemadmodum si. M. Tul 
+      <lb ed="#F" n="18"/>lius. T. Tironi aliquo proficisci iubeat, quo eo imprudente Alexionem praemiserat, 
+      <lb ed="#F" n="19"/>intelligi debet Tironis propositum, praeter Alexionis, non praeter. M. Tullij
+      propo<lb ed="#F" n="20" break="no"/>situm uideri. Eodemque modo quamquam homini quippiam fortuitu &amp; casu accidat, id 
+      <lb ed="#F" n="21"/>tamen quippiam statutum dicitur, nam cum homines corporis natura coelo,
+      intel<lb ed="#F" n="22" break="no"/>ligentia coelitibus, uoluntate parenti rerum deo subiecti sint, aliquid praeter
+      pro<lb ed="#F" n="23" break="no"/>positum homini accidere posse dicimus, quod tamen rato coeli ordine, uel coelitum 
+      <lb ed="#F" n="24"/>uel dei constitutione cadat . Eodemque modo de selectione &amp; fato disputatur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

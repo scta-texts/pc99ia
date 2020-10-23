@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 8</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 8</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="45-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e960"><!-- l4q8 -->
+            <head xml:id="pc99ia-d1e960-Hd1e108">Distinctio 8</head>
+            <head xml:id="pc99ia-d1e960-Hd1e111" type="question-title">De eadem resurrectione</head>
+            <p xml:id="pc99ia-d1e960-d1e114">
+               <lb ed="#F" n="24"/>DE EADEM RESVRRECTIONE. 
+      <lb ed="#F" n="25"/>DISTINCTIO OCTAVA. 
+      <lb ed="#F" n="26"/>Ed ne quod huiusce quaestionis praetermittatur genus, intelligendum 
+      <lb ed="#F" n="27"/>est maxime, an necessario sit humanorum corporum resurrectio futu 
+      <lb ed="#F" n="28"/>ra. Inuenti enim multi sunt, qui quasi Platonici itineris orbitam seque 
+      <lb ed="#F" n="29"/>rentur, omnem hominis naturam anima constare uoluerunt, quae corpore 
+      <lb ed="#F" n="30"/>tanquam instrumento quodam uteretur. Quo constituto consentaneum uideri
+      dice<lb ed="#F" n="31" break="no"/>bant, anima sola foelicitatis complexu cumulata, haud hominem naturali
+      foelicita<lb ed="#F" n="32" break="no"/>tis appetitione fraudatum iri ex quo satis esse argumenti, humanorum corporum resun 
+      <lb ed="#F" n="33"/>rectionem nullo modo futuram. Quibus quidem ita ab Aristotele obuiam est
+      itum<lb ed="#F" n="34" break="no"/>ut ostenderet animam corpori, ut materiae formam annecti, quod cum ita sit,
+      prae<lb ed="#F" n="35" break="no"/>dare sciri potest sine hac uita hominem nullo modo beatum fore. ex quo efficitur ut 
+      <lb ed="#F" n="36"/>abesse non possit, quin humanorum corporum sit futura resurrectio. Atque etiam
+      cum<lb ed="#F" n="37" break="no"/>anima corpori natura annenctatur, quando quidem suapte natura corporis forma 
+      <lb ed="#F" n="38"/>dicatur, fateri necesse est, eam contra naturam corpore uacare, quod autem contra
+      na<lb ed="#F" n="39" break="no"/>turam est, id etiam nec aeternum esse potest. ergo nec anima aeternum corpore uacat, 
+      <lb ed="#F" n="40"/>At cum aeterna dicatur, fieri nullo modo potest, quin in corpus tanquam in thecam, &amp; 
+      <lb ed="#F" n="41"/>domum remigret ex quo efficitur ut animarum aeternitas corporum resurrectionem 
+      <lb ed="#F" n="42"/>futuram reposcat. Quare hi si in istius modi quaestionibus tacerent, dimidio minus. 
+      <!--104.xml-->
+      <pb ed="#F" n="46-r"/>
+               <lb ed="#F" n="1"/>ingenij egerent, nec in tanta claritate lippirent. Sed maxime in hoc genere uersa, 
+      <lb ed="#F" n="2"/>tur, an resurrectio sit in mundi calce futura. In quo sane intelligi debet effectorem 
+      <lb ed="#F" n="3"/>rerum deum, ita molitum esse mundum, ut uellet quodam ordine, a
+      sublimiori<lb ed="#F" n="4" break="no"/>bus, ualentioribusque corporibus inferiora, &amp; crassiora regi. ex quo facile intellectu 
+      <lb ed="#F" n="5"/>est inferiorum &amp; concretorum corporum materiei, coeli meatus, uarietatem, &amp;
+      commutatio<lb ed="#F" n="6" break="no"/>nem dominari. At contra naturam fieri diceretur, si mediante coeli motu eadem
+      ma<lb ed="#F" n="7" break="no"/>teria ad id perueniret, quod nullo modo extabesceret. Itaque ob eam causam uo 
+      <lb ed="#F" n="8"/>lumus resurrectionis tempus ad mundi finem prorogatum iri, quo coeli comuersio 
+      <lb ed="#F" n="9"/>meandi finem nanciscetur. Sed erit tamen negare necesse, praestitutam
+      resurrectio<lb ed="#F" n="10" break="no"/>nis horam ullo modo sciri posse. Sed dubitari hoc loco potest, an cineribus huma 
+      <lb ed="#F" n="11"/>norum corporum, naturalis animae appetendae prodiuitas resideat. Quo in genere 
+      <lb ed="#F" n="12"/>mea quidem sententia, intelligendum est, naturali procliuitati agentem naturae
+      re<lb ed="#F" n="13" break="no"/>spondere quandoquidem haud quaquam natura rerum necessitati desit. At cum
+      ci<lb ed="#F" n="14" break="no"/>neres nullo naturae agente, rursum animae copulari possint, in promptu esse
+      de<lb ed="#F" n="15" break="no"/>bet, nullam his naturalem animae appetendae prodiuitatem dari. Quanquam maxi 
+      <lb ed="#F" n="16"/>ma oritur apud doctorum hominum studia certatio, num anima in reuiuiscendo 
+      <lb ed="#F" n="17"/>idem numero sit susceptura corpus. Multi enim philolophorum qui diu in hac con 
+      <lb ed="#F" n="18"/>gitatione syncipita contraxerant, animam quidem corpore uacantem, rursum cor 
+      <lb ed="#F" n="19"/>pori annecti uoluerunt. Sed dum annectendi modum exquirebant, teterrime ce 
+      <lb ed="#F" n="20"/>ciderunt propterea que animam naturae ortu rursum corpori copulari censebant, 
+      <lb ed="#F" n="21"/>Atque ut aliquid etiam noui appingerent, eam non in idem quod exuerant, sed in 
+      <lb ed="#F" n="22"/>aliud corpus immigrare censebant, quod modo idem, modo esset specie
+      dissimi<lb ed="#F" n="23" break="no"/>se. Nam sui dissimillimis tum animam copulari dicebant, cum turpissime extra
+      ra<lb ed="#F" n="24" break="no"/>tam resurrectionis mensionem uitae stipendia confecerant ob eamque causam ex 
+      <lb ed="#F" n="25"/>cessu uitae ex corpore humano in earum pecudum corpora tranfferri, quarum essent, 
+      <lb ed="#F" n="26"/>uitam in corporibus imitati . itaque quosdam ob perditam libidinem canum corpora 
+      <lb ed="#F" n="27"/>induere quosdam ob latrocinia &amp; fraudes in luporum, aut uulpium corporam
+      mi<lb ed="#F" n="28" break="no"/>grare. At qui sese a uitijs seuocauissent, ob eamquam rem cum e corpore excessissent, 
+      <lb ed="#F" n="29"/>aliquid foelicitatis adipiscerentur, tum his ad sui simillimos regressum patere, ac 
+      <lb ed="#F" n="30"/>rursum humano corpori agglutinari censebant. Quod quidem malum plura capi 
+      <lb ed="#F" n="31"/>ta, quam Hydra nanciscitur, quorum e multis, unum in animae copulatione alterum in 
+      <lb ed="#F" n="32"/>sensus, intelligentiaeque dissidio consistit siquidem animam haud quidem corpori, ut 
+      <lb ed="#F" n="33"/>materiae formam, sed ut naui nautam annecti uolebant nec intelligentiam a sensu 
+      <lb ed="#F" n="34"/>nisi ex aduentitio distare opinabantur, ut si diceret hominem inter caetera
+      animan<lb ed="#F" n="35" break="no"/>tia intelligentiae praestantia excellere, proptereaque is ob praeclarum corporis
+      habi<lb ed="#F" n="36" break="no"/>tum, uim sensilem maiorem nancisceret, quo constituto animam posse dicebant in 
+      <lb ed="#F" n="37"/>quaedam pecudum corpora migrare . idque ex commutatione animae humanae in fe 
+      <lb ed="#F" n="38"/>rinam naturam accidere. Quorum arida &amp; ieiuna ratio cum satis sit ab Aristotele 
+      <lb ed="#F" n="39"/>repulsa, nihil attinet modo ut in eos theologica sica exacuatur. Sed dicendum est 
+      <lb ed="#F" n="40"/>potius animas ijsdem numero corporibus, quibus excesserint copulatum iri quan 
+      <lb ed="#F" n="41"/>doquidem animae ad ea corpora suapte natura ferantur, quibus animalem
+      uitam<lb ed="#F" n="42" break="no"/>infuderunt. Ex quo praedare Auicenna ait animam quae corpori cuipiam inesse, 
+      <!--105.xml-->
+      <pb ed="#F" n="46-v"/>
+               <lb ed="#F" n="1"/>coeperit, ita naturalem prodiuitatem nancisci, ut illi uni adhaerescens, a caeteris
+      refu<lb ed="#F" n="2" break="no"/>giat, in eoque tuendo occupetur. Quocirca omnia membrorum genera exsuscitatum 
+      <lb ed="#F" n="3"/>iri dicimus, ut naturae absolutio cumuletur quanquam plaerique ueiut Callicrates, aut 
+      <lb ed="#F" n="4"/>Myrmicides pusillorum operum artifices, crines &amp; ungues ut sudorem &amp; lotium ex 
+      <lb ed="#F" n="5"/>poculentorum efculentorumque reliquijs gigni uolunt. Atqui cum nihil horum, nec quod 
+      <lb ed="#F" n="6"/>sit aliquid tetri habiturum exsuscitatum iri opinentur, pro concesso sumunt, nec unoues 
+      <lb ed="#F" n="7"/>quidem aut crines reuicturos. Quo sane loco intelligendum est, quaedam esse in 
+      <lb ed="#F" n="8"/>corporibus principis naturae uoluntatis, ut ea quae necessaria ad naturae munia di 
+      <lb ed="#F" n="9"/>cuntur quaedam uero esse secundae uoluntatis, ut ea quae ad incolumitatem, &amp;
+      de<lb ed="#F" n="10" break="no"/>corum pertinent, quemnadmodum frondes in arborum genere uidemus. Ex quo est 
+      <lb ed="#F" n="11"/>causa cur Aristoteles frondem corticis operculum, corticem uero fructum esse ar 
+      <lb ed="#F" n="12"/>bitretur, quod non multo secus hominum corporibus accidere dicimus, quibus na 
+      <lb ed="#F" n="13"/>tura crines, ungues, barbam, &amp; id genus ad ornatum dedit. Itaque ne quid
+      alteru<lb ed="#F" n="14" break="no"/>trius naturae uoluntatis absit, utrunque reuicturum uolumus. Atque etiam praeteriri 
+      <lb ed="#F" n="15"/>nullo modo debet, quae nam reuiuiscentium sit futura conditio. Multi enim usque 
+      <lb ed="#F" n="16"/>eo graues sunt, ut omne genus hominum aetate florescente reuicturum negent. 
+      <lb ed="#F" n="17"/>quando quidem reuiuiscentibus foelicibus nihil deum erepturum dicant, quod ad 
+      <lb ed="#F" n="18"/>naturae humanae expletionem pertineat. At cum aetas maxime ad hominis abso 
+      <lb ed="#F" n="19"/>lutionem pertineat, afferre se fatendi necessitatem putant senes in adolescentia
+      nul<lb ed="#F" n="20" break="no"/>lo modo reuicturos. At nobis quidem haud senectus ex canis, &amp; rugis, uel ex
+      cor<lb ed="#F" n="21" break="no"/>poris conditione, quae aetate exacta languescit, sed ex matura animae sapientia oriri 
+      <lb ed="#F" n="22"/>uidetur, quae illi aetati ob diuturnitatem inesse putatur. Ex quo intelligi uolumus 
+      <lb ed="#F" n="23"/>in selectorum genere cum aetatis sit defutura infirmitas, ob magnitudinem sapien 
+      <lb ed="#F" n="24"/>tiae, senectutis mansuram auctoritatem, omneque genus hominum in intermedia 
+      <lb ed="#F" n="25"/>quadam aetatis tempestiuitate exsuscitatum iri, ut pueritiae quae nondum est hu 
+      <lb ed="#F" n="26"/>manam absolutionem nacta, &amp; senectuti, quae iam ab extrema naturae expletio 
+      <lb ed="#F" n="27"/>ne abest, quod deest addatur. Sed multo intelligendum est magis, an hi qui in 
+      <lb ed="#F" n="28"/>selectorum genere numerantur, naturam sint patibilem habituri. In quo nostri 
+      <lb ed="#F" n="29"/>conuersis hastis obuij concurrunt siquidem bonus auctor Aureolus quasi habeat, 
+      <lb ed="#F" n="30"/>scire quid omnino patibile dicatur, conatur probare id quod in beatorum genere
+      feren<lb ed="#F" n="31" break="no"/>di necessitatem non habet, nullo modo a quapiam patibili forma oriri. At
+      pseu<lb ed="#F" n="32" break="no"/>doaquinas <name xml:id="pc99ia-d1e960-Nd1e326">Durandus</name> ne id quidem a quapiam adhaerescente forma nasci
+      opi<lb ed="#F" n="33" break="no"/>natur. Numen enim diuinum foelicibus affuturum putat, quod qualiscunque
+      ad<lb ed="#F" n="34" break="no"/>uentitij actionem arceat, quae patiendi necessitatem afferat. Itaque uenit illi in
+      men<lb ed="#F" n="35" break="no"/>tem, que quemadmodum patibile uicissim cum tabescibili congruat, ita uicissim
+      in<lb ed="#F" n="36" break="no"/>ter se congruere quod horum neutrum sit. At cum id quod in beatorum genere 
+      <lb ed="#F" n="37"/>non extabescit, nullo modo sit ex quapiam formae adhaesione oriturum, ita ne 
+      <lb ed="#F" n="38"/>id quidem, quod patiendi necessitatem non habeat. Atque etiam Henricus
+      Gan<lb ed="#F" n="39" break="no"/>densis ne quid de spinarum aculeis remittere uideretur, confirmare uoluit, id quod 
+      <lb ed="#F" n="40"/>corpus gloria praeditum ferendi necessitate liberet, eiusmodi esse oportere ut con 
+      <lb ed="#F" n="41"/>pus ita tueatur, ne quid interius aut ex aduentitio patibile ferat, nisi quid a
+      deo<lb ed="#F" n="42" break="no"/>manarit, idque ex primordiorum aut coeli ui nasciturum negat pptereaque haud 
+      <!--106.xml-->
+      <pb ed="#F" n="47-r"/>
+               <lb ed="#F" n="1"/>quaquam coelum in qualiscunque corporis copulationem ueniat ex quo effici, id quod 
+      <lb ed="#F" n="2"/>uult, quiddam supra naturae complexum futurum, quo corpora gloria praedita 
+      <lb ed="#F" n="3"/>patiendi necessitate liberentur. In quam sententiam <name xml:id="pc99ia-d1e960-Nd1e362">Scotus</name> non tam sibi
+      corre<lb ed="#F" n="4" break="no"/>pendum putat, ut <name xml:id="pc99ia-d1e960-Nd1e367">Henrico</name> adsit, quam ut a diui <name xml:id="pc99ia-d1e960-Nd1e370">Thomae</name> ratione desciscat, dum ne 
+      <lb ed="#F" n="5"/>gat id quod beatorum genus ferendi necessitate liberet, ex principatu animae, uel 
+      <lb ed="#F" n="6"/>ex coeli meatus uacatione oriri quanquam homo affluens &amp; locuples diuus
+      Tho<lb ed="#F" n="7" break="no"/>mas, ut aqua, eo uberius scatet quo altius effoditur. Nobis uero nihil est negocij 
+      <lb ed="#F" n="8"/>in eiusmodi disceptatione contrahendum. Sed nonulli quasi in hanc quaestionem, 
+      <lb ed="#F" n="9"/>uelut in suillam, salem indidissent, ne tabesceret, quinti cuiusdam corporis mate 
+      <lb ed="#F" n="10"/>riem adhibuerunt, quae humanorum corporum copulationi agglutinaretur, ad
+      pri<lb ed="#F" n="11" break="no"/>mordia in harmoniam quandam temperanda, ex qua principia legitimam
+      ani<lb ed="#F" n="12" break="no"/>mae materiam efficerent. Sed cum uiderent humanum corpus in uita ob
+      primor<lb ed="#F" n="13" break="no"/>diorum principatum patiendi necessitate affici, quintum corpus in resurrectione 
+      <lb ed="#F" n="14"/>dominaturum esse dixerunt, quo corpus humanum uelut coelum, patibile nullo mo 
+      <lb ed="#F" n="15"/>do constaret. Quod quidem non modo ab <name xml:id="pc99ia-d1e960-Nd1e397">Areopagitis</name> nostris, sed etiam ratione
+      ex<lb ed="#F" n="16" break="no"/>ploditur cum perspicuum sit, quintum corpus in materia humanorum
+      corporum<lb ed="#F" n="17" break="no"/>coagmentationi nullo modo copulari. At si quispiam <name xml:id="pc99ia-d1e960-Nd1e405">diui Thomae</name> sententiam 
+      <lb ed="#F" n="18"/>sequatur, facile opinari poterit, perinde corpus imperanti animae gesturum morem, 
+      <lb ed="#F" n="19"/>ut anima principi sit obsecutura deo eamquam ob causam cum affirmet nullam in
+      cor<lb ed="#F" n="20" break="no"/>pore gloria praedito commutationem, contra eam aptitudinem futuram quae ab anima 
+      <lb ed="#F" n="21"/>absoluitur, fateri coget, ea corpora patiendi necessitate liberatum iri. Quo loco dicime 
+      <lb ed="#F" n="22"/>eorum corporum perspicuitatem nullo modo e quinta quadam natura, sed ex animae 
+      <lb ed="#F" n="23"/>gloriae affluentia, nascituram eaque agilitatem habitura, qua in coelo moueantur loco¬
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

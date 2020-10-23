@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 6</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 6</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="42-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e885"><!-- l4q6 -->
+            <head xml:id="pc99ia-d1e885-Hd1e108">Distinctio 6</head>
+            <head xml:id="pc99ia-d1e885-Hd1e111" type="question-title">De sacramento matrimonii</head>
+            <p xml:id="pc99ia-d1e885-d1e114">
+               <lb ed="#F" n="31"/>DESACRAMENTO MATRIMONII. 
+      <lb ed="#F" n="32"/>DISTINCTIO SEXTA. 
+      <lb ed="#F" n="33"/>Vnc autem erit de comiugij sacro proprius disputandi locus. In quo plaerique 
+      <lb ed="#F" n="34"/>qui se in theologia tamquam in armilustrio ostendunt, id ius naturale ess 
+      <lb ed="#F" n="35"/>uolunt, quod cunctis generatim animantibus, naturae communitate inseritur, 
+      <lb ed="#F" n="36"/>Atqui cum in caeteris comiunctio sine comiugali toro cernatur, negant comiugium 
+      <lb ed="#F" n="37"/>debere naturale dici. Nos autem quippiam naturale bipertito metimur, nam quippiam 
+      <lb ed="#F" n="38"/>ex principiorum genere, naturae necessitate ortum esse affirmamus quemadmodum ignen 
+      <lb ed="#F" n="39"/>dicimus supera suapte natura capessere, ex quo genere nec comnubium, nec id quidem
+      quidli<lb ed="#F" n="40" break="no"/>bera optione cumulatur, naturale dici uolumus. Alio uero modo quippiam
+      natu<lb ed="#F" n="41" break="no"/>rale expendimus, ad quod appetendum natura moueatur, quod quidem intermedia 
+      <lb ed="#F" n="42"/>aniae optione expletur, ut actus naturales nominantur ex quo genere probamus comnubium 
+      <!--097.xml-->
+      <pb ed="#F" n="42-v"/>
+               <lb ed="#F" n="1"/>naturale dici quando quidem ad id naturae ratio, cum appetitione moueatur,
+      pro<lb ed="#F" n="2" break="no"/>creandi causa. Ex quo praecare Aristoteles liberos a parentibus tria bonorum ge 
+      <lb ed="#F" n="3"/>nera arripere opinatur quae ortum, uictum, ac disciplinam nominat. Nec enim 
+      <lb ed="#F" n="4"/>liberi a parentibus, ali instruique poterant, nisi esset quoddam certum parentum 
+      <lb ed="#F" n="5"/>circumscriptum genus, quod haud sane accidere posse manifestum est, nisi quidam 
+      <lb ed="#F" n="6"/>certus connubiorum nexus circumscriberetur. Atque etiam naturae ratio impellit, ut
+      ho<lb ed="#F" n="7" break="no"/>mines societatem colere inter se &amp; in contubernio uiuere uelint, quando quidem 
+      <lb ed="#F" n="8"/>haud sibi quisque cuncta suppeditet, quae ad uitae degendae rationem flagitantur. Cum 
+      <lb ed="#F" n="9"/>autem duplex sit natura generis humani, cumque earum rerum quae uitae desunt,
+      quae<lb ed="#F" n="10" break="no"/>dam ad uiri, quaedam ad mulieris genus pertineant, sic est natura comparatum, ut 
+      <lb ed="#F" n="11"/>mares cum foeminis copulatione quadam comiungantur, quae( ut ait
+      Aristoteles<lb ed="#F" n="12" break="no"/>connubium maritale dicatur. Quanquam maxime in contentionem adducitur, num 
+      <lb ed="#F" n="13"/>coniugium sit in ipso sacrorum genere numerandum. In quam quaestionem
+      Duran<lb ed="#F" n="14" break="no"/>dus esset chirographis obsignatis accersendus, que aliquandium in ea sententia con 
+      <lb ed="#F" n="15"/>stiterit, ut ostendere uellet haud iure connubium dici debere sacrum sed cum
+      ui<lb ed="#F" n="16" break="no"/>deret omnium prope theolooorum dimicationem sibi esse subeundam, ne de senatus 
+      <lb ed="#F" n="17"/>curriculo deflectere uideretur, hac est praecauente flexus solertia sic usus. Siquidem 
+      <lb ed="#F" n="18"/>cum comnubium in sacrorum genera referret, negandi tamem ansam quandam relinquit.  
+      <lb ed="#F" n="19"/>cum confirmat uniuocum esse cum caeteris. Quod quidem argumenti genus, tanquam 
+      <lb ed="#F" n="20"/>puluis in eum ipsum refunditur, qui excitauit. nam eodem prope modo probari pos 
+      <lb ed="#F" n="21"/>set nullum sacrum uniuocum esse cum caeteris, quandoquidem perfacile iudicium sit, nullum 
+      <lb ed="#F" n="22"/>inueniri sacrum, quod non quippiam proprium nanciscatur, quo discrepat a caeteris. Itaque 
+      <lb ed="#F" n="23"/>iure in hoc Capreolus cachinnum tollit, dum eius dialecticen exiguo Parisij
+      pon<lb ed="#F" n="24" break="no"/>ticulo confert. Sed intelligendum quoque est, num ex connubio gratia nascatur, idem 
+      <lb ed="#F" n="25"/>
+               <name xml:id="pc99ia-d1e885-Nd1e200">Durandus</name> in eiusmodi disceptatione dicit, aliud potetificalium legum gnaris, aliud 
+      <lb ed="#F" n="26"/>theologorum principibus uideri solere. nam ijs qui pontificum edicta, ad senatus 
+      <lb ed="#F" n="27"/>praescriptum syllabatim explicant, negat uisum esse ex connubio gratiam oriri quan 
+      <lb ed="#F" n="28"/>doquidem affirment ad sponsalia precij pactionem accedere, in caeteris autem sacrorum 
+      <lb ed="#F" n="29"/>generibus ex quibus gratia nascat, pacisci, aut nomina facere, fas esse negent. Quorum 
+      <lb ed="#F" n="30"/>qu idem sententiam, cum uelut Vaticanum obeliscum admiretur, eorumque dicat praescripta, 
+      <lb ed="#F" n="31"/>aeditaque oracula in eiusmodi causa, non modo senatus consulto, sed etiam uicatim a 
+      <lb ed="#F" n="32"/>flaminibus paganis rata haberi, quorum maxime intersit scire quid sanciat senatus, 
+      <lb ed="#F" n="33"/>nullo modo sibi interdictum purat, ne eorum sententiae nomem suum ascribant. Cui
+      festi<lb ed="#F" n="34" break="no"/>ne occurrit tota illa Durandomastix cohors, quae affirmat pontificalium legum 
+      <lb ed="#F" n="35"/>gnaros si temere in theologicum fundum irruant, nihilo certius se scire explicare, 
+      <lb ed="#F" n="36"/>ac theologos iuris rudes, si ex iure manu consertum uocentur, in quo praeclare illud 
+      <lb ed="#F" n="37"/>Apellaeum usurpant, ne scilicet sutor supra crepidam diudicet. Nos autem
+      connu<lb ed="#F" n="38" break="no"/>bium non modo sacrum, sed etiam naturae munus esse uolumus. Itaque ob eam partem 
+      <lb ed="#F" n="39"/>qua sacrum nominatur, cum in senatus partitione consistat, haud dicimus in
+      emptio<lb ed="#F" n="40" break="no"/>ne, aut licitatione uersari, quando quidem sit promulgatio lata, ut si quis ob
+      spon<lb ed="#F" n="41" break="no"/>salia sacra pecuniam acceperit, non modo repetundarum, sed etiam muneralis ambitus 
+      <lb ed="#F" n="42"/>postuletur, senatusque censura plectatur. At ob eam partem qua naturae murius 
+      <!--098.xml-->
+      <pb ed="#F" n="43-r"/>
+               <lb ed="#F" n="1"/>nominatur, haud quaquam in comnubijs de paciscendo, aut de pecunijs capiundis cau 
+      <lb ed="#F" n="2"/>tum esse dicimus. Sed in hac quaestione permultum interest, utrum coniugium boni 
+      <lb ed="#F" n="3"/>quippiam nanciscatur, quo excusari posse uideatur. Hoc loco illud natu est, quod 
+      <lb ed="#F" n="4"/>diuus Thomas arbitratur, ut sapientem dicat sine hostimento aequalium, aut ingemn 
+      <lb ed="#F" n="5"/>tiorum bonorum, iacturam non laturum. Ex quo cuiuspiam selectionem, cui damnum 
+      <lb ed="#F" n="6"/>adhaerescat, boni cuiuspiam accessione egere opinatur, cuius hostimento ornetur, 
+      <lb ed="#F" n="7"/>ad ratamque ordinis mensionem reuocetur. At cum in nuptialibus facibus detrimem 
+      <lb ed="#F" n="8"/>tum nascatur, proptereaque ita ratio ueneria uoluptate elidatur, ut haud inde quip 
+      <lb ed="#F" n="9"/>piam (ut ait <name xml:id="pc99ia-d1e885-Nd1e264">Aristoteles</name>) intelligendo complectat, ob eam causam connubij sele 
+      <lb ed="#F" n="10"/>ctionem ad ratam ordinis mensionem reuocari posse negat, sine cuiuspiam boni 
+      <lb ed="#F" n="11"/>hostimento, quo maxime comiugium ornetur, quibus quidem generibus bonorum, 
+      <lb ed="#F" n="12"/>connubia excoli, &amp; excusari arbitratur. Cum quo maxime congreditur
+      acerrim<lb ed="#F" n="13" break="no"/>gladiator <name xml:id="pc99ia-d1e885-Nd1e276">Scotus</name>, affirmans haud connubio ob rationis iacturam quaedam bono 
+      <lb ed="#F" n="14"/>rum genera contingere, quibus ueneris actus excusetur. Cuius sententiae est astipu 
+      <lb ed="#F" n="15"/>latrix incredibilis Scoteorum multitudo quamquam ipse <name xml:id="pc99ia-d1e885-Nd1e283">diuus Thomas</name> ut musicus
+      in<lb ed="#F" n="16" break="no"/>ter obstrepentium uoces, nihilo minus recte canit. Atque item dubitatur, utrum spoe 
+      <lb ed="#F" n="17"/>saliorum ius, rite futuri connubij uadimonium dicatur. Nobis enim ex consensu 
+      <lb ed="#F" n="18"/>futurum pollicente, haud quidem connubium, sed connubij sponsionem oriri
+      pla<lb ed="#F" n="19" break="no"/>cet, quae sponsalia dicantur. Duplex est autem sposaliorum genus, unum
+      simplex<lb ed="#F" n="20" break="no"/>Alterum circunscriptum. Simplex enim in quatuor genera distribuitur. nam &amp;
+      nu<lb ed="#F" n="21" break="no"/>dum quoddam sponsionis genus nominatur, cum utrinque dicitur. Ego te coniugem 
+      <lb ed="#F" n="22"/>despondeo, alterum in quo dotale symbolum, siue <foreign>ἀρραςὤμ</foreign> ut graeci dicunt, aut qud 
+      <lb ed="#F" n="23"/>tale prae manum datur, tertium quo pronubus anulus coniugalia auspicia continet. 
+      <lb ed="#F" n="24"/>quartum, quod iureiurando confirmatur. At cum sponsio circunscribitur, tum sunt 
+      <lb ed="#F" n="25"/>pactionum genera distinguenda propterea que aut honestum est pactionis
+      ge<lb ed="#F" n="26" break="no"/>nus, aut turpe. Honestum enim nectitur hoc modo. si. <name xml:id="pc99ia-d1e885-Nd1e314">P. Cethegus</name> pepigerit se
+      Fa<lb ed="#F" n="27" break="no"/>biam ducturum modo parentibus libuerit. At turpe pactionis genus bipertitum 
+      <lb ed="#F" n="28"/>est, ut si. <name xml:id="pc99ia-d1e885-Nd1e321">Q. Caecilius</name> dicat se Posthumiam ductum ire, si ueneficijs foecunditati
+      os<lb ed="#F" n="29" break="no"/>fecerit uel si sponsionem faciat cum Gellia Seruilius, si ad furta, &amp; peculatum
+      ad<lb ed="#F" n="30" break="no"/>iutrix fuerit. Rursusque ex eo genere certatio nascitur, an tacito consensum, connubis 
+      <lb ed="#F" n="31"/>iura obstringantur, nam multi hac etiam recentiori expolitione tolerabiles theo 
+      <lb ed="#F" n="32"/>logi, connubium mutuo consensum contineri uolunt, quod uerbis aut signis quibui 
+      <lb ed="#F" n="33"/>dam constare uideatur ob eamque causam mutos etiam, &amp; elingues coniugio col 
+      <lb ed="#F" n="34"/>ligari posse dicunt. Quorum e numero magnus &amp; nobilis auctor <name xml:id="pc99ia-d1e885-Nd1e337">Riccardus</name> eos 
+      <lb ed="#F" n="35"/>etiam absentes, qui ne de facie quidem inter se norint, utrorumque nomine, aut ex
+      chi<lb ed="#F" n="36" break="no"/>rographo iugari posse censet. Sed omissa consensuum dissimilitudine, de his quae 
+      <lb ed="#F" n="37"/>connubia impediunt dicendum erit. Itaque intelligendum est, errore connubia
+      im<lb ed="#F" n="38" break="no"/>pediri, eius autem genus in quatuor est partes distributum. quarum una ab ho 
+      <lb ed="#F" n="39"/>mine, altera ex fortuna, tertia ex conditione, quarta ex poeotete elicitur. Ab
+      ho<lb ed="#F" n="40" break="no"/>mine enim ducitur hoc modo, si <name xml:id="pc99ia-d1e885-Nd1e353">Fabia</name> agit ex sponsu, quando scilicet se putat.
+      Q<lb ed="#F" n="41" break="no"/>Caecilio nupsisse, qui sit repertus <name xml:id="pc99ia-d1e885-Nd1e359">Cethegus</name> a fortuna, si quem Croesum opinare. 
+      <lb ed="#F" n="42"/>tur, Codrum esse intelligat a conditione, si pro ingenuo seruum esse sentiat, a poeo¬ 
+      <!--099.xml-->
+      <pb ed="#F" n="43-v"/>
+               <lb ed="#F" n="1"/>tete, si quem probum crederet, improbum cognouerit. Quo loco dicimus manci 
+      <lb ed="#F" n="2"/>pia, ergastulaque uenalia, coniugio implicari nequire, proptereaque sponsaliorum 
+      <lb ed="#F" n="3"/>ius, unum alteri ad aes alienum persoluendum astringit cum autem is qui astringitur 
+      <lb ed="#F" n="4"/>nullo modo soluendo sit, perfacile intelligi potest, hac ignoratione proposita ius 
+      <lb ed="#F" n="5"/>sponsaliorum dissolui. Eadem ratio est habenda uoti, in quo <name xml:id="pc99ia-d1e885-Nd1e379">diuo Thomae</name> uisum 
+      <lb ed="#F" n="6"/>est, duplex esse uoti genus, unum simplex alterum, quod rite in sacerdotijs
+      comi<lb ed="#F" n="7" break="no"/>tijs a candidatis fiat. In quorum altero comnubium futurum, non obsignatum dissui, 
+      <lb ed="#F" n="8"/>in altero utrumque dirimi opinatur, ubi magna est ei cum <name xml:id="pc99ia-d1e885-Nd1e389">Scoto</name> contentio. Quo cit 
+      <lb ed="#F" n="9"/>ca data est causa indagandi, an is qui rite in comitijs candidatus uouerit. <name xml:id="pc99ia-d1e885-Nd1e394">Pont. 
+        <lb ed="#F" n="10"/>Max.</name> recuperatoria uenia liberari possit, cuius quidem loci multa sunt a <name xml:id="pc99ia-d1e885-Nd1e399">Petro
+          Pa<lb ed="#F" n="11" break="no"/>ludensi</name>, a <name xml:id="pc99ia-d1e885-Nd1e405">Durando</name>, &amp; <name xml:id="pc99ia-d1e885-Nd1e408">Aureolo</name> disputata neruosius maximeque eius quaestionis 
+      <lb ed="#F" n="12"/>genus persequitur, ex theologorum omnium consurrectione notus <name xml:id="pc99ia-d1e885-Nd1e413">Albertus</name>, quem
+      lo<lb ed="#F" n="13" break="no"/>cum uberius complectemur, cum separatim de <name xml:id="pc99ia-d1e885-Nd1e418">Pont. Max.</name> potestate dicemus. Nunc 
+      <lb ed="#F" n="14"/>autem uidendum est, qua nam propinquorum colligatione connubia impediri 
+      <lb ed="#F" n="15"/>dicantur. Nihil est enim peruersius, &amp; quod magis a ratione desciscat, quam filiam
+      so<lb ed="#F" n="16" break="no"/>ciam cum parente iugari, cui sit subiecta lege naturae quandoquidem ab eo uelut 
+      <lb ed="#F" n="17"/>a seminario dimanet, ob eamque causam naturae lege, sunt parentum coniugia
+      sub<lb ed="#F" n="18" break="no"/>lata. At coelesti iure praescriptum est, nequa primi, aut secundi limitis necessitudo 
+      <lb ed="#F" n="19"/>attingatur. idque ob eam causam factum est, ut libidinum occasio tollatur quando 
+      <lb ed="#F" n="20"/>quidem eiusmodi propinquorum genus in contubernio uiuat, in quo lena
+      insidia<lb ed="#F" n="21" break="no"/>trix Venus, amatorumque uirus excitetur. Sed senatus consulto, tertia, quartaquam
+      limi<lb ed="#F" n="22" break="no"/>tum propinquitas, tamquam incesta adimitur propterea que usque eo arcte naturalis ne 
+      <lb ed="#F" n="23"/>cessitudinis nexus obstringatur. At post eam necessitudinum decretam metam,
+      li<lb ed="#F" n="24" break="no"/>bera promiscua connubia, ad euanescentem amorem reuocandum fieri posse uoluit 
+      <lb ed="#F" n="25"/>Eodemque prope modo de consobrinorum, sobrinorumque colligatione distinguitur. 
+      <lb ed="#F" n="26"/>Atque huic etiam generi finitimus est de adoptione locus, cuius interuentu
+      coniu<lb ed="#F" n="27" break="no"/>gia impediri dicimus. Nihiloque secius de impuberibus, de amentibus, de ueneficijs, 
+      <lb ed="#F" n="28"/>atque de incestis disputatur. Sed maxime hoc loco quaeritur, an in uxoria actione 
+      <lb ed="#F" n="29"/>ob moechatum, uir uxori repudium remittere possit. Nostris autem placet septem 
+      <lb ed="#F" n="30"/>excipi genera debere, quibus ob adulterij probrum, minime uxori repudium
+      remit<lb ed="#F" n="31" break="no"/>tere liceat. nam si uir pellicatus postuletur, aut si coniugem ad moechandum
+      im<lb ed="#F" n="32" break="no"/>pulerit, fieri nullo modo potest, quin uxori talio, actioque uxoria detur. Nec etiam 
+      <lb ed="#F" n="33"/>quicquam est causae, cur uxori repudij mulcta irrogetur, si quando satis de uiri nece 
+      <lb ed="#F" n="34"/>liquet, alteri nubant. ac ne illud quidem ei obfuerit, si uis illata sit, aut dolose uiri
+      no<lb ed="#F" n="35" break="no"/>mine attrectata fuerit nec multo sane secus agendum erit, si uir post probrum uxo 
+      <lb ed="#F" n="36"/>rem attrectarit. Ex quo nihil est etiam cur modo de eorum genere dicatur, qui in 
+      <lb ed="#F" n="37"/>haereseos coeno obsignatis sponsaliorum tabellis, uxoribus repudia remiserint. Co 
+      <lb ed="#F" n="38"/>piose enim &amp; cumulate haec nostri aperiunt. nam non modo de secubatione &amp; cae 
+      <lb ed="#F" n="39"/>libatu, sed etiamde aeris alieni persolutione, uberrime perquirunt, quando scilicet 
+      <lb ed="#F" n="40"/>&amp; quomodo aes dissolutum esse intelligatur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

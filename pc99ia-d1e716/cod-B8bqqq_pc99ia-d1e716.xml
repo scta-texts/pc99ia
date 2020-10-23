@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 8</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 8</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="34-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e716"><!-- l3d8 -->
+            <head xml:id="pc99ia-d1e716-Hd1e108">Distinctio 8</head>
+            <head xml:id="pc99ia-d1e716-Hd1e111" type="question-title">De virtutibus moralibus</head>
+            <p xml:id="pc99ia-d1e716-d1e114">
+               <lb ed="#F" n="29"/>DEVIRTVTIBVS MORALIBVS. 
+      <lb ed="#F" n="30"/>DISTINCTIO OCTAVA. 
+      <lb ed="#F" n="31"/>ATque hoc loco de uirtutum moralium genere disputatur. In quo pro 
+      <lb ed="#F" n="32"/>batur prudentiam ducem caeterarum esse uirtutum, quae praxis sit, &amp; 
+      <lb ed="#F" n="33"/>in rationis gyro uersetur, ea enim non modo ad sui, sed etiam ad uniuer 
+      <lb ed="#F" n="34"/>si generis humani curam statuitur. Itaque ei subiecta sunt, memoria 
+      <lb ed="#F" n="35"/>ratio, intelligentia, docilitas, solertia, prouidentia, cautio, &amp; quae a graecis περ βλε Pίω 
+      <lb ed="#F" n="36"/>nominatur. Est enim Memoria praeteritarum. Intelligentia uero incidentium non 
+      <lb ed="#F" n="37"/>cessariarumque rerum fons. Docilitas autem sic definitur, ut sit uelox ad omnia sci 
+      <lb ed="#F" n="38"/>entiarum genera aptitudo . at Solertia est inuentrix mediocritatumque
+      decempeda<lb ed="#F" n="39" break="no"/>Prouidentia uero constitutrix est tempestiuarum . idonearumque rerum ad ultimum 
+      <lb ed="#F" n="40"/>sed Periblepsia est excubatrix spectatrixque negociorum, quae circunstant Cautio 
+      <lb ed="#F" n="41"/>uero rerum obstantium depulsio. Prudentiae autem est contraria imprudentia 
+      <lb ed="#F" n="42"/>quam Graeci ἀαρασίαμ uocant, ex qua cum praeceps festinatio, tum inconsulta 
+      <!--081.xml-->
+      <pb ed="#F" n="34-v"/>
+               <lb ed="#F" n="1"/>seuitas oritur, quarum altera eonsilio, altera iudicio repugnat eique etiam Inconstantia tan 
+      <lb ed="#F" n="2"/>quam nequam mancipium subijcitur quo ab integra institutione recedit, nec tabificis
+      prturba<lb ed="#F" n="3" break="no"/>tionibus ullo modo obsistit quae quidem uitia maxime ex flagranti salacique uenere na 
+      <lb ed="#F" n="4"/>scuntur nam cum sit cupiditatum lena, animam sensilium flagitiorum uoluptate
+      ra<lb ed="#F" n="5" break="no"/>pit. Sed multa uitiorum genera a prudentia dissident, quae eam tamen, ut
+      homi<lb ed="#F" n="6" break="no"/>nes simiae imitari uidentur ex quo genere calliditas, dolus, &amp; fraus numerantur. 
+      <lb ed="#F" n="7"/>Calliditas enim est duplex. Vna quae ad eum limitem statuitur, in quo nullo modo 
+      <lb ed="#F" n="8"/>aliquod boni genus inest, sed spectatu bonum, ut nummus adulterinus apparet. 
+      <lb ed="#F" n="9"/>Altera quae in bonorum aut malorum generibus adipiscendis non recta ingreditur 
+      <lb ed="#F" n="10"/>sed flexu ut uulpecula dedinat. At uero dolus tanquam in comedia seruus,
+      callidita<lb ed="#F" n="11" break="no"/>tis est minister sed inter dolum &amp; fraudem hoc interest, que dolus re uerboque, fraus 
+      <lb ed="#F" n="12"/>autem maxime re calliditatem exequitur ob eamque causam eiusmodi quaestioni
+      iu<lb ed="#F" n="13" break="no"/>stitia tanquam uitiorum libripendix annectitur, quae hominum actiones ad
+      perpendicu<lb ed="#F" n="14" break="no"/>lum &amp; amussim dirigit. Cum autem sit duplex iustitia, una quae distributrix, altera 
+      <lb ed="#F" n="15"/>quae commutatrix nominatur, cumulate hoc loco a nostris de contrariorum
+      ui<lb ed="#F" n="16" break="no"/>tiorum genere disseritur, innexoque uirtutum ambitu ostenditur, mendacium primo 
+      <lb ed="#F" n="17"/>a ueritate dissidere definiunt enim Veritatem aequalitatem, cui nimium &amp; parum
+      oppo<lb ed="#F" n="18" break="no"/>natur, quorum alterum auctore Aristotele ad ostentationem, alterum ad ironiam
+      perti<lb ed="#F" n="19" break="no"/>nere uolunt. Sed a multis mendacium tripartito describitur, quorum unum pernicio 
+      <lb ed="#F" n="20"/>sum, alterum facetum, tertium officiosum dicatur. Perniciosum enim est pixis &amp; quaedam 
+      <lb ed="#F" n="21"/>ueneni latebra, qua alteri nocetur facetum est, quo hominum mentes ad suauitatem 
+      <lb ed="#F" n="22"/>exhilarantur officiosum uero est, quo homines iuuantur, aut nocitura tolluntur. 
+      <lb ed="#F" n="23"/>quae quidem generam leuius aut grauius, trutina culpae contractae ponderantur. At 
+      <lb ed="#F" n="24"/>lronia tum maxime crimem putatur, cum palam sibi aut neuos quosdam addit qui desint, aut quom 
+      <lb ed="#F" n="25"/>dam praestantiora demit, quae supersint eodemque modo Ostentatio malum
+      capi<lb ed="#F" n="26" break="no"/>tale nominatur, si dolose aut cum alterius iactura fiat, Liberalitatem autem sic
+      defini<lb ed="#F" n="27" break="no"/>mus, ut ea sit ad bene de multis promerendum opitulatrix uirtus, quae crumenam 
+      <lb ed="#F" n="28"/>in largiendo laxet, contra quam maxime auaritia exardescat. Ea enim est opum 
+      <lb ed="#F" n="29"/>inexhausta auiditas, quae tanquam mare nulla accessione redundat ex cuius
+      tenebri<lb ed="#F" n="30" break="no"/>coso antro exiliunt uelut serpentes, proditio, fraus, dolus, inquies, uis, peieratio, &amp; 
+      <lb ed="#F" n="31"/>dura quaedam ad opem ferendam silex. At contra prodigalitas extra ripas
+      largien<lb ed="#F" n="32" break="no"/>di defluit quod eo leuius malum uideri debet, quo pluribus largiendo suffragatur. 
+      <lb ed="#F" n="33"/>aut quo propinquius liberalitati adhaerescit similisque est Fortitudinis descriptio, 
+      <lb ed="#F" n="34"/>quae cum adamas omnium uirtutum sit, ac tam expultrix formidinis quam moderatrix 
+      <lb ed="#F" n="35"/>audaciae dicatur, nullo modo a bonorum genere metu, aut periculorum
+      magnitudi<lb ed="#F" n="36" break="no"/>ne auocatur eique maxime est coniuncta magnanimitas, quatenus scilicet in rerum 
+      <lb ed="#F" n="37"/>magnarum difficultate uersetur. Itaque extra ea arrogantia. Ambitio &amp; Gloria
+      ina<lb ed="#F" n="38" break="no"/>nis, quam graeci cenodoxiam uocant, superfluentes redundant. Arrogantia enim 
+      <lb ed="#F" n="39"/>est insolens supra naturam suam elatio. Ambitio est inmoderatior honoris cupiditas 
+      <lb ed="#F" n="40"/>Cenodoxia uero est mundi cymbalum cum ostentatione praestantiae, qua homines 
+      <lb ed="#F" n="41"/>tanquam pauones cauda laetantur, ex ea enim contumacia, ostentatio, pertinacia, dis 
+      <lb ed="#F" n="42"/>cordia, &amp; arrogantia oriri putantur. Sed magnanimitati item contraria Animi¬ 
+      <!--082.xml-->
+      <pb ed="#F" n="35-r"/>
+               <lb ed="#F" n="1"/>
+               <!--erroneousl line -->
+               <lb ed="#F" n="2"/>tenuitas, quanm graeci απροίναίαμ uocant opponitur quando quidem magnum S 
+      <lb ed="#F" n="3"/>paruum inter se suapte natura dissideant, haec est naturae suae inscitia, quae robui 
+      <lb ed="#F" n="4"/>uirtutis delumbat, ac a rerum magnitudine recedit, quarum est aptissime capax 
+      <lb ed="#F" n="5"/>Magnificentiam autem uolumus ex eadem fortitudine nasci, quae sit magnorum 
+      <lb ed="#F" n="6"/>operum confectrix, cum decentia sumptuum collocandorum. Nec longius
+      qui<lb ed="#F" n="7" break="no"/>dem patientia ab eadem fortitudine abest, quae est rationis contra tristitiam 
+      <lb ed="#F" n="8"/>tutatrix. Nihiloque secius erit de Perseuerantia, quae a Graecis διατέλαα
+      dici<lb ed="#F" n="9" break="no"/>tur, &amp; Constantia dicendum, quae quanquam in limitis genere congruantr, hac
+      ta<lb ed="#F" n="10" break="no"/>men inter se specie differunt, ut Diatelia sit contra eam difficultatem stabilitas 
+      <lb ed="#F" n="11"/>quae ex operae diuturnitate oriatur, Constantia uero contra eam difficultatem fir 
+      <lb ed="#F" n="12"/>mitas putetur, quae ex externa interpellatione nascatur. Itaque maxime a Diatelia 
+      <lb ed="#F" n="13"/>mollitudo abhorret, quae ob eam causam a bonorum genere recedit propterea 
+      <lb ed="#F" n="14"/>que languidius in perferendo liquescit, facileque (ut ait Aristoteles) ab imbecillo fle 
+      <lb ed="#F" n="15"/>ctente torquetur. At pertinatia maxime exploditur, que ex rationis praescripto egre 
+      <lb ed="#F" n="16"/>diatur, &amp; uelut callum obduxerit, nunquam ex insita sententia deducatur. Sed in hoo 
+      <lb ed="#F" n="17"/>genere una e multis Temperantia tanquam uirtutum laternaria laudatur, ea enim 
+      <lb ed="#F" n="18"/>est uirtus hominem ex integra ratione ad bonorum genera impellens, turbidas 
+      <lb ed="#F" n="19"/>saporum tactionumque affectiones sanans, aegritudinemque sedans, quae ex uolu 
+      <lb ed="#F" n="20"/>ptatum uacuitate oriatur, cum ea uehementer Torpor, quem graeci Anestesiam 
+      <lb ed="#F" n="21"/>uocant, &amp; Intemperantia digladiatur. Torporenim ita istius modi uoluptatum 
+      <lb ed="#F" n="22"/>genera refugit, ut illa etiam omittat, quae sunt ad naturae necessitatem data quod 
+      <lb ed="#F" n="23"/>quidem crimen uideri debet nam cum sint uoluptates rebus necessarijs a
+      natu<lb ed="#F" n="24" break="no"/>ra satae, tantum est hijs impertiendum, quantum sit ad humanam naturam satis, 
+      <lb ed="#F" n="25"/>quanquam interdum earum uacuitatem necessariam dicamus, quemadmodum
+      in<lb ed="#F" n="26" break="no"/>terdum ad integritatem ualitudinis, necessariam parsimoniam putamus. Intem 
+      <lb ed="#F" n="27"/>perantia uero auersa est a ratione ad superuacaneas cupiditates turbida commo 
+      <lb ed="#F" n="28"/>tio, quae eo longius ab hominum praestantiam distat, quo minus abest a natura fe 
+      <lb ed="#F" n="29"/>rarum. Sed ex temperantia oriuntur tanquam ex matre liberi, Verecundia. Hone 
+      <lb ed="#F" n="30"/>stas. Parsimonia, leiunium. Sobrietas, Castitas, Virginitas. Continentia. Claemen 
+      <lb ed="#F" n="31"/>tia, Mansuetudo, Modestia, &amp; quae a graecis ωούδαίωοζ dicitur, aut si quae eius
+      ge<lb ed="#F" n="32" break="no"/>neris sunt. Verecundia enim hoc modo describitur, ut sit culpae spectatrix, &amp; te 
+      <lb ed="#F" n="33"/>nerrimus oculorum pudor, quae a criminum genere, infamiae metu arceatur. Ho 
+      <lb ed="#F" n="34"/>nestas uero non modo germana uirtutis, sed etiam tanquam quaedam temperantiae 
+      <lb ed="#F" n="35"/>conditio describitur. At parsimoniam, uictus moderatricem definimus. Ieiunium 
+      <lb ed="#F" n="36"/>autem cupiditatum carnificem, quo mens ad superarum rerum contemplationem effe 
+      <lb ed="#F" n="37"/>tatur, faciatque pro scelerum genere satis. Ex quo senatusconsulto anniuersariae
+      esu<lb ed="#F" n="38" break="no"/>riales feriae edicuntur, quibus cupiditatum ardor referuescat, &amp; integra natura
+      ser<lb ed="#F" n="39" break="no"/>uetur. Sobrietas autem potationum mensio nominatur, ne ratio languefacta
+      eli<lb ed="#F" n="40" break="no"/>datur, uini enim capnotes cerebri naturam quatit . Ideoque maxime mulierculas &amp; 
+      <lb ed="#F" n="41"/>pueros abstemios esse debere dicimus, quorum aliae propter rationis
+      imbecilli<lb ed="#F" n="42" break="no"/>tatem, alij propter aetatis feruorem prodiuius ad blandissima uoluptatum
+      ge<lb ed="#F" n="43" break="no"/>nera labantur. Castitas autem est libidinosarum cupiditatum domitrix, cuius 
+      <!--083.xml-->
+      <pb ed="#F" n="35-v"/>
+               <lb ed="#F" n="1"/>assectatrix est Virginitas, quae a graecis παρθεμία nominatur: Est enim haec
+      illiba<lb ed="#F" n="2" break="no"/>tus flos, &amp; puritas ueneriae tabis expers, cum perpetua animi inductione
+      caren<lb ed="#F" n="3" break="no"/>di quo in caelibatu sit ad contemplandum aptior Continentia uero est prauarum 
+      <lb ed="#F" n="4"/>cupiditatum repulsio. Sed claementia a mansuetudine sic differt, ut daementia sit 
+      <lb ed="#F" n="5"/>extenuatrix poenarum, mansuetudo uero irarum mitigatrix Modestia autem est 
+      <lb ed="#F" n="6"/>mediocritatum metatrix ex qua Humilitas oritur, quae cum sit sui gnara, animo  
+      <lb ed="#F" n="7"/>fraenum adhibet, ne insolentius supra naturam suam tollatur Sed cum omnes (ut 
+      <lb ed="#F" n="8"/>ait Aristoteles) natura mirifice scire aueant, intelligendum est malagma quoddam 
+      <lb ed="#F" n="9"/>esse adhibendum, quo operosa sedulitas &amp; cognitionis appetitio leniatur,
+      qua<lb ed="#F" n="10" break="no"/>rum alteram graeci ut diximus spudaeosin, alteram pragmosynam nominant.
+      Ve<lb ed="#F" n="11" break="no"/>rum quot uirtutum genera numerantur, totidem uitiorum paria opponuntur, si 
+      <lb ed="#F" n="12"/>quidem parsimoniae bellum est naturale cum Gula, quae non modo gustus
+      ob<lb ed="#F" n="13" break="no"/>sonatrix, sed etiam opsophaga intempestiua uocatur, haec enim tanquam sus foeta
+      sto<lb ed="#F" n="14" break="no"/>lidam alacritatem, scurrilitatem, coenositatem, loquacitatem, mentisque caliginem gignit.  
+      <lb ed="#F" n="15"/>atque etiam sobrietati est hostis &amp; inimica Ebrietas quae scelerum fex, ut in lancem  
+      <lb ed="#F" n="16"/>alteram propendet, alias capitale, alias ignoscibile malum uideri potest sed
+      maxi<lb ed="#F" n="17" break="no"/>me Luxuria praelium cum Castitate init, quae uaria armorum genera ad
+      dimican<lb ed="#F" n="18" break="no"/>dum affert de quo genere a nostris fuse lateque disputatur. Quare iram cum
+      man<lb ed="#F" n="19" break="no"/>suetudine, &amp; crudelitatem cum claementia pugnare dicimus. Iram enim uolumus 
+      <lb ed="#F" n="20"/>ulciscendi esse libidinem, quae iurgia, mentis tumultum, stomachationem &amp; peiera 
+      <lb ed="#F" n="21"/>tionem gignat. Crudelitatem uero in animaduertendo atrocitatem definimus. quae 
+      <lb ed="#F" n="22"/>hoc modo a saeuitia &amp; inmanitate dissideat, ut crudelitas non modo eius qui
+      ple<lb ed="#F" n="23" break="no"/>ctitur culpam metiatur, sed etiam fines animaduertendi transeat saeuitia uero nul 
+      <lb ed="#F" n="24"/>lam culpam expendat, sed hominum cruciatu &amp; uexatione pascatur, quae diritas 
+      <lb ed="#F" n="25"/>ferina uocetur. At pugnacissime superbiam cum humilitate praeliari affirmamus, 
+      <lb ed="#F" n="26"/>quae suopte uoluntario uento tenta, cum supra naturae suae modum efferatur,
+      im<lb ed="#F" n="27" break="no"/>moderatior est excellentiae cupiditas, ac caput scelerum omnium &amp; mare.
+      <lb ed="#F" n="28"/>TERTII SENTENTIARVM LIBRI FINIS 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

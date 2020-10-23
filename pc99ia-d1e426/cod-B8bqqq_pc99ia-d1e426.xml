@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 6</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 6</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="20-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e426"><!-- l2d6 -->
+            <head xml:id="pc99ia-d1e426-Hd1e108">Distinctio 6</head>
+            <head xml:id="pc99ia-d1e426-Hd1e111" type="question-title">De hominis statu ante peccatum</head>
+            <p xml:id="pc99ia-d1e426-d1e114">
+               <lb ed="#F" n="8"/>DEHOMINISSTATVANTE PECCATVM. 
+      <lb ed="#F" n="9"/>DISTINCTIO SEXTA. 
+      <lb ed="#F" n="10"/>QVibus quidem cognitis, proximum est, ut de hominis ante noxam 
+      <lb ed="#F" n="11"/>statu disseratur. In quo illud primum quaerendum erit, num incolumi 
+      <lb ed="#F" n="12"/>natura homo esset futurus aeternus. Sunt enim multi qui negent
+      ui<lb ed="#F" n="13" break="no"/>talis arboris escam, quae esset homini ad uescendum data, causam
+      im<lb ed="#F" n="14" break="no"/>mortalitatis futuram fuisse, cum nihil contra suam speciem nitatur, quando quidem 
+      <lb ed="#F" n="15"/>effectus causa non egrediatur. Cum autem lignum tabescibile diceretur (nec enim 
+      <lb ed="#F" n="16"/>aliter in alimentum exteri, &amp; molliri poterat) perfacile uolunt iudicium esse, ab eiusi 
+      <lb ed="#F" n="17"/>modi uitali edulio aeternitatis causam non oriri . idque ad eorum commentitias
+      fabeli<lb ed="#F" n="18" break="no"/>las referri posse dicunt, qui bellissime in Physicis ab <name xml:id="pc99ia-d1e426-Nd1e140">Aristotele</name> ludantur, que
+      indu<lb ed="#F" n="19" break="no"/>cerent deos, uitales quasdam epulas ientare, quae eorum immortalitatis causa
+      fo<lb ed="#F" n="20" break="no"/>rent. Ad quam quidem sententiam plaerique gregatim tanquam graculi ad turrim
+      de<lb ed="#F" n="21" break="no"/>uolant. At egregium par ducum, <name xml:id="pc99ia-d1e426-Nd1e149">Auoustinus</name> &amp; <name xml:id="pc99ia-d1e426-Nd1e152">diuus Thomas</name>, quasi nudo
+      pede<lb ed="#F" n="22" break="no"/>ingrediantur, uerentes ne inter salebras digitos detundant, hoc idem sensim, &amp; 
+      <lb ed="#F" n="23"/>pedetentim persequuntur. Nam cum homini contra duo quae desunt, totidem
+      prae<lb ed="#F" n="24" break="no"/>sidia adhibita esse uideant. Primum quod deest, humoris iacturam esse dicunt ex 
+      <lb ed="#F" n="25"/>caloris actione natam cui quidem caeterarum arborum esu occurri potuisse
+      opi<lb ed="#F" n="26" break="no"/>nantur, ut nos modo dapibus uitam, corpusque tuemur alterum ob id ipsum esse  
+      <lb ed="#F" n="27"/>uolunt, quod quemadmodum aqua uini sextario admixta, primum meri naturam 
+      <lb ed="#F" n="28"/>adulterat, tum quo crebrius &amp; largius adijcitur, eo liquidius uim eius referuefactam 
+      <lb ed="#F" n="29"/>diluit, sensimque aqueam extenuando efficit. Sic idcirco perspiciunt, que primum
+      spe<lb ed="#F" n="30" break="no"/>ciei actio tantum roboris habeat, ut non modo sit alimenti detracti restitutrix, sed 
+      <lb ed="#F" n="31"/>etiam incrementa suppeditet, postea uero quodcunque gignatur, non quidem
+      in<lb ed="#F" n="32" break="no"/>erementum addat, sed tantum detracta restituat Atque eo tandem decurrere senij 
+      <lb ed="#F" n="33"/>naturam putant, ut ne huic quidem restituendi muneri, opitulari possit ex quo
+      neces<lb ed="#F" n="34" break="no"/>se euenturum sit, ut corporis dissolutio &amp; interitus sequatur. Itaque contra hanc
+      frau<lb ed="#F" n="35" break="no"/>datam debito partem, arboris edulio, uitam propagari potuisse arbitrantur, que ipsa 
+      <lb ed="#F" n="36"/>uitalis arboris natura, nacta esset uim speciei roborandae contra imbecillitatem ex 
+      <lb ed="#F" n="37"/>aduentitia admixtione manantem. Cuius quidem sententiae imas fibras <name xml:id="pc99ia-d1e426-Nd1e190">Scotus</name> 
+               <lb ed="#F" n="38"/>abscindit, atque in campum &amp; puluerem progressus, hominis uult tabescibilis fuis 
+      <lb ed="#F" n="39"/>se partes, sed non tamem ipsum tabescibilem futurum, cum ante occasum iturum eum 
+      <lb ed="#F" n="40"/>fuisse in coelum arbitretur. Magni autem homines <name xml:id="pc99ia-d1e426-Nd1e200">Vgo Victorius</name>, <name xml:id="pc99ia-d1e426-Nd1e203">Alexander Ales</name> 
+               <lb ed="#F" n="41"/>&amp; qui sententiarum selectum interpretando exacuunt, hominis imortalitatem, non
+      ex<lb ed="#F" n="42" break="no"/>natura, sed ex adiecta gratia, nascituram fuisse uolunt, quae sit ob pollutam naturam 
+      <!--054.xml-->
+      <pb ed="#F" n="21-r"/>
+               <lb ed="#F" n="1"/>amissa, immortalique naturae sit attexta mortalis. Nec item minor contentio
+      exori<lb ed="#F" n="2" break="no"/>tur, num ante noxam homo in coelibatu esset generandi facultatem habiturus. In Go 
+      <lb ed="#F" n="3"/>quidem Graeci, quo subtilius contra nostros scribant, pumice calamos exterunt. nam 
+      <lb ed="#F" n="4"/>dum commiscendorum corporum foeditatem respuunt, quasi augustius hominis 
+      <lb ed="#F" n="5"/>ortum incoharent, propagationem sobolis tanquam coelitum, sine uenere, futuram fuisse 
+      <lb ed="#F" n="6"/>censent. Nos autem negamus res naturales dari, aut adimi posse peccato cumque homi 
+      <lb ed="#F" n="7"/>nem animali uita metiamur, intelligi uolumus, commune fuisse hominum naturae ex 
+      <lb ed="#F" n="8"/>uenere procreandi munus . idque ex membrorum partibus dedarari, quae essent ad 
+      <lb ed="#F" n="9"/>naturae necessitatem datae. Atque absurdum etiam uideri, quicquam partium in homine a 
+      <lb ed="#F" n="10"/>natura fabricatum, quorum non esset necessarius usus futurus. nam &amp; ueretra &amp;
+      in<lb ed="#F" n="11" break="no"/>guina frustra a natura effecta, putari debere dicimus, nisi ad procreandi usum
+      da<lb ed="#F" n="12" break="no"/>ta dicerentur Sed sobolem tamen sine ueneris flagitio propagari potuisse
+      affir<lb ed="#F" n="13" break="no"/>mamus, cum partes ad procreandi necessitatem factae, non irritarentur obscenius, 
+      <lb ed="#F" n="14"/>sed suapte natura, ut caetera membra sine libidine mouerentur quando quidem ra 
+      <lb ed="#F" n="15"/>tioni, ut duci morigerarentur. Ex quo sententiarum principi causa uidetur fuisse, cur 
+      <lb ed="#F" n="16"/>non secus membra coitura fuisse censeret, ac manus ori admouentur, quam quidi 
+      <lb ed="#F" n="17"/>sententiam clarissimorum interpretum coetus, uerens ne lupum auribus contineret, euo 
+      <lb ed="#F" n="18"/>lutam, &amp; resutam retexit. Nam cum parum consentaneum uideretur, ut serendae am 
+      <lb ed="#F" n="19"/>plificandaeque naturae opera sine uoluptate conficeretur, uoluntario obsequio
+      uo<lb ed="#F" n="20" break="no"/>luit sine aemula lasciuia utrinque obeundum fuisse munus sublataque libidinum
+      fa<lb ed="#F" n="21" break="no"/>ce genialem torum sternit, eorum procreandi causa, qui praedara quadam
+      condi<lb ed="#F" n="22" break="no"/>tione ad dei cultum gignerentur. In quo etiam quaeri solet, quinam ante poenam sontium, 
+      <lb ed="#F" n="23"/>liberi nascituri fuissent, multis enim uisum est infantes simulac nati essent, commen 
+      <lb ed="#F" n="24"/>datione naturae membrorum compotes futuros. Siquidem cum quaedam animantium 
+      <lb ed="#F" n="25"/>genera, ita primo ortu absoluta cernerent, ut non modo ingrediendi facultatem
+      ha<lb ed="#F" n="26" break="no"/>beant, sed etiam quacunque matres persequantur ipsa per se, cumque in homine
+      uide<lb ed="#F" n="27" break="no"/>rent caeterorum animantium inesse principatum, confiteri esse necesse dicebant, ho 
+      <lb ed="#F" n="28"/>minem primo naturae ortu, omnium membrorum usum consecuturum fuisse. Perab 
+      <lb ed="#F" n="29"/>surdum enim esse hominem rationis compotem, quem nullum unquam scelus inquinasset, 
+      <lb ed="#F" n="30"/>in corporis ingressum manibus, ut pedibus, uti, ut modo anniculos infantes
+      mani<lb ed="#F" n="31" break="no"/>bus repere, nec nisi in plostellis rectos ingredi uidemus, quod quidem malum, ad 
+      <lb ed="#F" n="32"/>eam poenam referre conantur, qua humanum plecteretur genus, quo cognito, ma 
+      <lb ed="#F" n="33"/>xime uerisimile esse, pueros ante pedicas lethalis mali, comendatione naturae
+      in<lb ed="#F" n="34" break="no"/>grediendi habilitatem adepturos . ac sine corporum tegumentis, sine tectis, sine culci 
+      <lb ed="#F" n="35"/>tra plumea, sine conditis denique obsonijs fortunatissime uicturos, cum sua sponte 
+      <lb ed="#F" n="36"/>suppeditatura essent (ut ait ille)terra cibum pueris, uestem uapor, herba cubile.
+      Qui<lb ed="#F" n="37" break="no"/>autem Physiologiam persequuntur, negant naturae congruere, ut primo ortu pueri
+      in<lb ed="#F" n="38" break="no"/>grediendi facultatem nanciscerentur, nam cum in homine cerebrum humidissimum, &amp; cor 
+      <lb ed="#F" n="39"/>poris comparatione maius quam in caeterorum animantium genere esse probent, facile 
+      <lb ed="#F" n="40"/>confirmant magnitudine humoris &amp; ponderis pueriles neruos, qui sint agitatio 
+      <lb ed="#F" n="41"/>nis instrumenta ad corporis actionem mouere membra nequire. Itaque si
+      quibus<lb ed="#F" n="42" break="no"/>dam animantium generibus, simulac nata sint, gradiundi facultas data dicatur, id ari¬ 
+      <!--055.xml-->
+      <pb ed="#F" n="21-v"/>
+               <lb ed="#F" n="1"/>ditate cerebri, non naturae praestantia accidere, cum perspicuum sit quaedam etiam
+      ab<lb ed="#F" n="2" break="no"/>solutiora animantium genera, primo ortum expertia esse membrorum usus . Ex quo con 
+      <lb ed="#F" n="3"/>dudi nemini esse dubium, quin dei nutu fieri posset, ut, primo ortu pueri essent men 
+      <lb ed="#F" n="4"/>brorum compotes futuri. Sed probabilius est homine quoquo uersum rectum esse  
+      <lb ed="#F" n="5"/>formatum, eaque recti mensionem in absoluto corporis obsequio consistere et quem 
+      <lb ed="#F" n="6"/>admodum incolumi natura nihil esse in membris, quod hominis uoluntati
+      obsiste<lb ed="#F" n="7" break="no"/>ret, ita nihil esse quod deesset. Sed cum in homine uoluntas rato ordine nitatur, 
+      <lb ed="#F" n="8"/>quae ad actiones naturae congruentes pergit, fatendum est non esse easdem cuiuscunque 
+      <lb ed="#F" n="9"/>aetatis actiones. Quod cum ita sit, sequitur minime pueros primo ortu ad
+      qualescum<lb ed="#F" n="10" break="no"/>que, sed ad aetati tantum consentaneas actiones, mouendorum membrorum facultatem 
+      <lb ed="#F" n="11"/>habituros. Eodemque modo de scientia hominis ante noxam, de iustitia, de
+      ratio<lb ed="#F" n="12" break="no"/>ne, de affectionibus, de uirtute indagatur, quae quidem praetereunda censemus, cum 
+      <lb ed="#F" n="13"/>ad potiora peroamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

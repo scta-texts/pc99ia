@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 7</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 7</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="44-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e923"><!-- l4q7 -->
+            <head xml:id="pc99ia-d1e923-Hd1e108">Distinctio 7</head>
+            <head xml:id="pc99ia-d1e923-Hd1e111" type="question-title">De resurrectione</head>
+            <p xml:id="pc99ia-d1e923-d1e114">
+      <!--100.xml-->
+               <pb ed="#F" n="44-r"/>
+               <lb ed="#F" n="1"/>DE RESVRRECTIONE. 
+      <lb ed="#F" n="2"/>DISTINCTIO SEPTIMA. 
+      <lb ed="#F" n="3"/>Pertum est autem quemadmodum homines a culpae noxa uindica 
+      <lb ed="#F" n="4"/>rentur. Deinceps dicendum est, quemadmodum in reuiuiscendo poenae 
+      <lb ed="#F" n="5"/>linteritu liberentur. Itaque inquirendum est primum, nuncubi sit anima 
+      <lb ed="#F" n="6"/>rum receptator locus. Plaerique enim contractius urgent hoc
+      modo<lb ed="#F" n="7" break="no"/>Anima sine corpore haud corporea loca petit. atqui anima seiuncta, corpore
+      ua<lb ed="#F" n="8" break="no"/>cat, nulla ergo ei debet ascribi receptatrix sedes. Nos autem quamquam dicamus spiritus 
+      <lb ed="#F" n="9"/>naturas a corporum concretione seuocari, res tamen corporeas affirmamus a
+      deo<lb ed="#F" n="10" break="no"/>intermedia spiritus natura regi, ob eamque causam in spiritus corporumque
+      natu<lb ed="#F" n="11" break="no"/>ra cognationem, conspirationemque quandam, quam graeci sympathiam uocant uen 
+      <lb ed="#F" n="12"/>sari uolumus, ut sublimioribus naturis praestantiora quaedam corporum genera illu 
+      <lb ed="#F" n="13"/>strentur, quod priscum philolophorum genus fecisse scimus, qui sunt orbium or 
+      <lb ed="#F" n="14"/>dinem coelitum natura dimensi. Nam quamquam e corpore excedentibus animabus, nul 
+      <lb ed="#F" n="15"/>lum sit tributum corpus, quaedam tamen his corporeorum locorum genera, liminum  
+      <lb ed="#F" n="16"/>cognatione statuuntur, in quibus tanquam in loco uersantur, quatenus scilicet res
+      cor<lb ed="#F" n="17" break="no"/>poreae in loco uersari dicantur. Itaque quemadmodum in corporibus quaedam deorsum 
+      <lb ed="#F" n="18"/>suopte pondere feruntur, quaedam superiora capessunt, qui locus utrorumque
+      agi<lb ed="#F" n="19" break="no"/>tationis finis dicatur, sic his loci genus praemij aut mulctae congruentia decernit, 
+      <lb ed="#F" n="20"/>quod earum actionis finis dicatur. itaque non sine causa uolumus animam tartarum, 
+      <lb ed="#F" n="21"/>aut coelum quasi domicilium capessere. Atque ex hoc etiam disputatio ducitur, an in 
+      <lb ed="#F" n="22"/>anima excessu uitae, actus sensilis potentiae resideant. Multi enim censere <name xml:id="pc99ia-d1e923-Nd1e168">Augu¬ 
+        <lb ed="#F" n="23"/>stinum</name> uolunt in eo qui est de spiritu liber, animamcum e corpore excesserit, ex 
+      <lb ed="#F" n="24"/>opinatione, iracundia, &amp; appetentia aut laetandum effuse exultare, aut ad
+      dolen<lb ed="#F" n="25" break="no"/>dum languide demitti. atqui cum haec genera sensiles uires esse intelligant,
+      consta<lb ed="#F" n="26" break="no"/>re inter omnes dicunt, animam corpore uacantem sensilibus uiribus affici, ac in 
+      <lb ed="#F" n="27"/>quodam actus genere uersari. Sed praesto adest tenebrarum laterna diuus
+      Tho<lb ed="#F" n="28" break="no"/>mas, qui illum librum insititium esse arbitratur. Nos autem dicimus quibusdam 
+      <lb ed="#F" n="29"/>uideri solere actuum sensilium uirium duplex esse genus, quorum quosdam
+      extrin<lb ed="#F" n="30" break="no"/>secus ab anima agitari, quos negant animae elapsae residere quosdam autem
+      in<lb ed="#F" n="31" break="no"/>teriores quibus per se anima fungatur, omnino residere opinantur quod quidem 
+      <lb ed="#F" n="32"/>a Platone manauit. nam <name xml:id="pc99ia-d1e923-Nd1e192">Plato</name> ut diximus animam corpori, ut naui nautam
+      anne<lb ed="#F" n="33" break="no"/>ctit, in quo ut daudicans &amp; uatrax ab <name xml:id="pc99ia-d1e923-Nd1e198">Aristotele</name> uexatur, qui ostendit animam
+      ne<lb ed="#F" n="34" break="no"/>sibi motum afferre, nec ab his quidem munijs moueri, qui cernendi, sentiendi, &amp; 
+      <lb ed="#F" n="35"/>id genus sint, quatenus scilicet munia illa motus tantum annexi dicantur, ex quo 
+      <lb ed="#F" n="36"/>intelligi maxime potest, animae, cum e corpore excesserit, sensilium uirium actus 
+      <lb ed="#F" n="37"/>nullo modo residere. Contra quem Platonicorum omnium tamquam auium contra uulpem 
+      <lb ed="#F" n="38"/>commune est bellum maximeque hoc uulnus acu suere conatur Macrobius, nequa 
+      <lb ed="#F" n="39"/>cicatrix in Platonis uultu resideat. Atque hocloco eadem est inferiarum habenda 
+      <lb ed="#F" n="40"/>ratio. In quo quidem constituendum est charitatis colligatione, quod sit arctissimum 
+      <lb ed="#F" n="41"/>uinculum Senatus, non modo uiuos, sed etiam eos qui e uita migrarint
+      deuinci<lb ed="#F" n="42" break="no"/>ri, in primisque intelligendum, malorum etiam parentalia opitulari mortuis. Sed 
+      <!--101.xml-->
+      <pb ed="#F" n="44-v"/>
+               <lb ed="#F" n="1"/>doctorum hominum est adiecta contentio, num damnatis piacularia suffragia 
+      <lb ed="#F" n="2"/>opitulentur. Plaerique enim Traianum Caesarem a diuo Gregorio herebi poena li 
+      <lb ed="#F" n="3"/>beratum uolunt. At cum perspicuum sit diu eum apud Orcum fuisse, in promptu 
+      <lb ed="#F" n="4"/>esse dicunt, reis in herebo parentalia suffragari posse, in qua quidem causa aliud 
+      <lb ed="#F" n="5"/>diuo Thomae, aliud alijs uisum esse scio, diuus enim Thomas qui ut in pictura 
+      <lb ed="#F" n="6"/>Apelles praedare sentit quid sit in dicendo satis, probabilius uideri dicit
+      Traia<lb ed="#F" n="7" break="no"/>num diui Gregorij piaculari suffragatione reuixisse, uimque gratuitam
+      consecu<lb ed="#F" n="8" break="no"/>tum, qua a poena scelerumquam nexu liberaretur. itaque placet illi praefiniti temporis 
+      <lb ed="#F" n="9"/>mulctam esse irrogatam, alij autem qui uel a <name xml:id="pc99ia-d1e923-Nd1e244">Porrectano</name>, uel ab <name xml:id="pc99ia-d1e923-Nd1e247">Origenis</name>
+      fami<lb ed="#F" n="10" break="no"/>lia manarunt, nullo modo existimant Traiani animam mulctae noxa liberatam 
+      <lb ed="#F" n="11"/>fuisse, sed animaduersionis, uexationisque iustitium, ad iudicij praestitutam diem
+      in<lb ed="#F" n="12" break="no"/>dictum esse uolunt. Quibusdam etiam uideri solet ante mundi funus,
+      parenta<lb ed="#F" n="13" break="no"/>lia reis opitulari posse. Nonnulli scelerum genera partitione seiungunt, suffraga 
+      <lb ed="#F" n="14"/>tionisque accessione poenam tolli putant. Multi inferias non quidem leuationem, 
+      <lb ed="#F" n="15"/>aut detractionem mulctae, sed dolorum solatia, &amp; fomenta afferre opinantur in 
+      <lb ed="#F" n="16"/>eoque aestuantis geruli similitudinem adiungunt, qui uideatur pressum ponderum. 
+      <lb ed="#F" n="17"/>ad facilius ferendum leuari, si laticis aspersione suffundatur, quamquam nihil sit ex pon 
+      <lb ed="#F" n="18"/>dere detractum. Cum quibus quidem omnibus multo melius actum esse dicere 
+      <lb ed="#F" n="19"/>tur, si minus ingenia exacuissent, ut quaedam arborum genera meliora sunt neglecta 
+      <lb ed="#F" n="20"/>quam culta. Nos autem munitiorem ad uerum ingrediemur uiam, si negauerimus reis 
+      <lb ed="#F" n="21"/>in Ditis antro funebria iusta suffragari quando quidem satis perspicuum sit haud 
+      <lb ed="#F" n="22"/>senatum pro reis apud tartarum parentare. Sed omissis suffragationum omnium 
+      <lb ed="#F" n="23"/>generibus, quibus theologorum personant scholae, perquirendum quidem est 
+      <lb ed="#F" n="24"/>de ostentis, quae sententiae dicundae tempus antegressura dicantur, diuus enim Tho 
+      <lb ed="#F" n="25"/>mas qui praeter caeteros, omnem hunc illustrauit iuris dicundilocum, affirmat
+      Chri<lb ed="#F" n="26" break="no"/>stum splendidissima specie in mundi rostra descensurum, ne auctoritas censori 
+      <lb ed="#F" n="27"/>desit ex quo intelligi, fore ut uocationis ius, quaedam insignium genera uelut
+      fa<lb ed="#F" n="28" break="no"/>sces, antecedant, quae homines ad parendum impellant ob eamque causam
+      quae<lb ed="#F" n="29" break="no"/>dam ostenta diei dictionem antegressura opinatur. Sed quae nam sint prodigiorum 
+      <lb ed="#F" n="30"/>genera futura, haud facile praesagiri posse censet, quod uideo placuisse Riccardo, 
+      <lb ed="#F" n="31"/>qui negat illa quindecim ostentorum genera, quae ludeorum monimentis decantentur 
+      <lb ed="#F" n="32"/>ad ueritatis similitudinem accedere. Itaque non sine causa separatim quaeri solet, an 
+      <lb ed="#F" n="33"/>in imo saeculi calce, sint solis lunaeque deliquia futura. Nos enim id bipertito
+      meti<lb ed="#F" n="34" break="no"/>mur siquidem id aut accessu dei, aut ante iuris dicundi tempus, fieri necesse
+      dici<lb ed="#F" n="35" break="no"/>mus. Si enim id eius interuentu fieri uolumus, fatendum erit id tum non ademptio 
+      <lb ed="#F" n="36"/>ne luminis, sed largioris lucis splendore perstringi debere. At si ante hoc
+      euentu<lb ed="#F" n="37" break="no"/>rum dicemus, necessitas fateri coget, utrorumque deliquia futura quae quidem si natura 
+      <lb ed="#F" n="38"/>euentura dicerentur, intelligi posset, ea tum in prodigiorum genere numerari 
+      <lb ed="#F" n="39"/>non debere quando quidem satis notum sit, multa saepe eiusmodi genera, naturae 
+      <lb ed="#F" n="40"/>necessitate accidisse. Quare intelligendum est potius ea ad hominum metum. 
+      <lb ed="#F" n="41"/>contra naturae necessitatem euentura. Siquidem natura fieri nullo modo
+      pos<lb ed="#F" n="42" break="no"/>set, ut utrorumque simul deliquia futura dicerentur, cum naturalibus causis per¬ 
+      <!--102.xml-->
+      <pb ed="#F" n="45-r"/>
+               <lb ed="#F" n="1"/>spicuum sit, lunae interpositu, solis edipsim fieri &amp; terrae obiectu occultari lunam. 
+      <lb ed="#F" n="2"/>Sed permagni refert, an aliqua sit mundi expiatio futura. Nos enim qui
+      mun<lb ed="#F" n="3" break="no"/>dum hominum causa factum esse dicimus, fatendum esse uolumus, cum
+      homi<lb ed="#F" n="4" break="no"/>num corpora in gloriae curriculo constiterint, caetera quoque mundi corpora, in al 
+      <lb ed="#F" n="5"/>solutiorem speciem mutatum iri. Eodemque modo indagamus, an euenturum 
+      <lb ed="#F" n="6"/>sit, ut mundi expiatio ex igne nascatur, in quo docemus eam expiationem, in 
+      <lb ed="#F" n="7"/>quinatio nem culpa contractam, concretionisque labem eluturam, ad
+      absolutio<lb ed="#F" n="8" break="no"/>nemque gloriae fututam uiam . idque ratione probatur. Nam cum ignis sit omni 
+      <lb ed="#F" n="9"/>um primordiorum genere praestantior, germanissima gloriae cognatione
+      con<lb ed="#F" n="10" break="no"/>iungitur, ut praecare in lucis candore patet. Atque is quoque non perinde ac
+      ini<lb ed="#F" n="11" break="no"/>tia caetera aduentitij concretionem recipit proptereaque maxime ui agendi cietur 
+      <lb ed="#F" n="12"/>Quin etiam cum aether a domicilijs nostris longissime absit, intelligi facile debet.  
+      <lb ed="#F" n="13"/>non aeque ac caetera nobis uenire usum, ob eamque causam, nec perinde item ut caete 
+      <lb ed="#F" n="14"/>ra inquinari. Ex quo illud etiam colligitur, que mirificam uim in dilatando,
+      partien<lb ed="#F" n="15" break="no"/>do, &amp; perpurgando nanciscitur, ut in auri argentique bracteis facile perspici potest. 
+      <lb ed="#F" n="16"/>Quare multi haud quidem pumili theologi, sed qui proceriorum comparatio 
+      <lb ed="#F" n="17"/>ne decrescunt, non dum satis constituere possunt, an ex igneo elemento sit futu 
+      <lb ed="#F" n="18"/>ra deflagratio, Riccardus enim in eam arcem confugit, ut cum olim
+      catadysmum<lb ed="#F" n="19" break="no"/>&amp; eluuionem aquei elementi fuisse confirmet, concedi sibi uelit, ut eodem prope 
+      <lb ed="#F" n="20"/>modo, incendium ex igneo elemento futurum dicatur, in quo est ei a diuo Tho 
+      <lb ed="#F" n="21"/>ma porrecta manus. At plaerique argumentis confirmant elementum quod in aethe 
+      <lb ed="#F" n="22"/>re sit, ex orbe suo ad mundi rogum defluxurum . delabendique modum auctu, S 
+      <lb ed="#F" n="23"/>incremento metiuntur, quando quidem ignis rei ad exardescendum aptae adhae 
+      <lb ed="#F" n="24"/>rescens augeatur . idque tum maxime euenturum putant, cum ignea uis reliquorum 
+      <lb ed="#F" n="25"/>principatum nanciscetur. Quidam etiam qui in theologorum equirijs longius 
+      <lb ed="#F" n="26"/>absunt ab ijs qui antegrediuntur, quam ab ijs qui subsequuntur, circa mediam fere 
+      <lb ed="#F" n="27"/>regionem conglobationis radiorum ignem oriturum opinantur,
+      quemadmo<lb ed="#F" n="28" break="no"/>dum in flagrantibus speculis conglobari dicunt, speculorumque uice cauas nubes 
+      <lb ed="#F" n="29"/>futuras esse censent, quibus radiorum repercussus excitetur. Quae quidem
+      aspi<lb ed="#F" n="30" break="no"/>dis latebra, facile a nobis detegetur, si effectus corporum coelestium praefinitos 
+      <lb ed="#F" n="31"/>status &amp; aspectus sequi affirmetur. At si ex corporum coelestium ui, ignem oritu 
+      <lb ed="#F" n="32"/>rum dicatur, fateri erit etiam necesse, eius deflagrationis tempus a Chaldaeis
+      prae<lb ed="#F" n="33" break="no"/>sagiri posse, quo quidem nihil longius a senatus sententia distat . Itaque
+      intelligen<lb ed="#F" n="34" break="no"/>dum est ex ignei elementi ustione, flagraturum mundum. Sed pertinere ad quae 
+      <lb ed="#F" n="35"/>stionem potest, an ignis sit omnia primordiorum genera consumpturus. Multi 
+      <lb ed="#F" n="36"/>initia rerum in materia mansura arbitrantur, sed in absolutionem mutatum
+      iri<lb ed="#F" n="37" break="no"/>uolunt ex quibus aerem &amp; terram naturae formam habitura. Igni autem &amp; aquae 
+      <lb ed="#F" n="38"/>naturae defuturam formam dicunt, quandoquidem eam in coeli formam
+      muta<lb ed="#F" n="39" break="no"/>tum iri censeant . ac ita ignem, aerem, aquam, coeli nomen habitura opinantur. 
+      <lb ed="#F" n="40"/>Quos quidem iure diuus Thomas ut anniculos infantes ludit, qui dum
+      incita<lb ed="#F" n="41" break="no"/>tius feruntur, suopte pondere quo properant labuntur. Nam nec physicis
+      ratio<lb ed="#F" n="42" break="no"/>nibus probari posse dicit, inferiora corpora uim ad coeli formam nancisci neo 
+      <!--103.xml-->
+      <pb ed="#F" n="45-v"/>
+               <lb ed="#F" n="1"/>item de senatus sententia affirmandum esse absolutionem mundi, partiumque
+      integri<lb ed="#F" n="2" break="no"/>tatem incolumem futuram. Quocirca multo tutius dicemus in natura esse rerum 
+      <lb ed="#F" n="3"/>primordia mansura quae tabe scelere hominum inuecta, expiatum iri cogantur. 
+      <lb ed="#F" n="4"/>Quo quidem constituto quaeritur, an quempiam eorum qui in selectorum patriciatum 
+      <lb ed="#F" n="5"/>coscribuntur, sit expiaturus ignis. Auctore ad hanc rem uti possum Riccardo,
+      qui<lb ed="#F" n="6" break="no"/>fore negat ut ignis quempiam ex selectorum genere exurat, cui nihil sit expiabile 
+      <lb ed="#F" n="7"/>concretu sed eos potius cessatione meatus interituros censet. Nam quanquam
+      coe<lb ed="#F" n="8" break="no"/>lum cum moueri desierit, haud omnem uim suam amissurum opinetur eam tamen 
+      <lb ed="#F" n="9"/>uim habiturum negat, quae sit ad uitae perennem propagationem apta. In quo Rabbi 
+      <lb ed="#F" n="10"/>Moses similitudinem inducit, qui aeque uelit coeli meatus conuersione extincta,
+      la<lb ed="#F" n="11" break="no"/>befactari mundum, ac hominem corde a motu deserto, mori, quanquam ne hoc quidem 
+      <lb ed="#F" n="12"/>satis a Riccardo conceditur, qui negat meatus cessatione coelestia corpora, aut
+      pri<lb ed="#F" n="13" break="no"/>mordia rerum euerti. Quibusdam etiam antequam coeli comuersio desinat, omne genus ho 
+      <lb ed="#F" n="14"/>minum interiturum uidetur idque ante meatus uacationem ignescentis aeris flagrantia 
+      <lb ed="#F" n="15"/>euenturum, qua omne sit humanum periturum genus. Nonnullis quoque placet,
+      quos<lb ed="#F" n="16" break="no"/>dam ex selectorum albo futuros, qui nondum uitae uectigal pependerint, quorum 
+      <lb ed="#F" n="17"/>alios qui expiatione eguerint, igne expiatum iri. alios ne ustulandos quidem fore. 
+      <lb ed="#F" n="18"/>Nos prorsus intelligi uolumus duplex esse ignis futuri genus, unum quod ui na 
+      <lb ed="#F" n="19"/>turae nitatur alterum quod quatenus iuris dicundi tempus antecesserit, dei
+      instru<lb ed="#F" n="20" break="no"/>mento sit in uindicando usurum. nam id quatenus ui sua cietur, perinde probos 
+      <lb ed="#F" n="21"/>ut improbos exusturum dicimus, at id quatenus sit instrumentum futurum
+      dissimilli<lb ed="#F" n="22" break="no"/>mo iure usurum esse uolumus siquidem sontes ultoris ignis natura plectentur, probi 
+      <lb ed="#F" n="23"/>autem quibus nihil sit expiabile concretum, sine dolore ad bustum agentur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

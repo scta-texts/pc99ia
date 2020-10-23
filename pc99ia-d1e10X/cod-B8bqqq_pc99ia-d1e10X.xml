@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 10</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 10</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="48-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e10X"><!-- l4q10 -->
+            <head xml:id="pc99ia-d1e10X-Hd1e108">Distinctio 10</head>
+            <head xml:id="pc99ia-d1e10X-Hd1e111" type="question-title">De beatitudine</head>
+            <p xml:id="pc99ia-d1e10X-d1e114">
+               <lb ed="#F" n="21"/>DE BEATITVDINE 
+      <lb ed="#F" n="22"/>DISTINCTIO DECIMA. 
+      <lb ed="#F" n="23"/>Vnc autem sequitur ut de foelicitate statuatur. In quo quidem
+      intelli<lb ed="#F" n="24" break="no"/>gendum est primum quodcunque ab hominum genere expetatur, id 
+      <lb ed="#F" n="25"/>omnino finis causa expeti, quae est amussis &amp; libripendix operis
+      hu<lb ed="#F" n="26" break="no"/>mani. Siquidem perspicuum esse potest, que quodcunque ab homine
+      ex<lb ed="#F" n="27" break="no"/>petitur, id necesse sit boni ratione expeti, quod quidem nisi perinde ut absolutum bonum 
+      <lb ed="#F" n="28"/>expetatur, quod est appetendorum extimum, intelligi poterit id omnino expeti, ut 
+      <lb ed="#F" n="29"/>pergens in bonum absolutum quando quidem omnis exorsus in sui finem statuatur, 
+      <lb ed="#F" n="30"/>ut praeclare ex his sciri potest, quae uel ab artificiorum genere, uel a natura dimanant  
+      <lb ed="#F" n="31"/>ex quo perfacile iudicium est, omne absolutionis exordium, ad absolutionem cu 
+      <lb ed="#F" n="32"/>mulatam statui, quae finis extremi causa fiat. Sed quoniam confitendum est
+      foelicita<lb ed="#F" n="33" break="no"/>tem extremum esse bonorum, quod ab hominibus expetatur, perquirendum
+      qui<lb ed="#F" n="34" break="no"/>dem est, quonam potissimum in genere uersetur siquidem illi ipi philosophi cum 
+      <lb ed="#F" n="35"/>consentirent in corporis, externorum, &amp; animae bonis foelicitatem oportere
+      poni<lb ed="#F" n="36" break="no"/>in eo maxime discrepabant, quid esset ex tribus generibus optabilius, quidue
+      ma<lb ed="#F" n="37" break="no"/>gis excellentis beataeque uitae specimen conficeret. Nam in tanta uarietate multi
+      mi<lb ed="#F" n="38" break="no"/>nuti philolophi, qui ad lectorum fulcra discumbunt, foelicitatem dicunt bonis corporis 
+      <lb ed="#F" n="39"/>constare, qusi ab incolumitate corpis mebrorumque integritate, seiungi non possit. In quo 
+      <lb ed="#F" n="40"/>non uident homines foelicitate inter omnia animantium genera excellere, &amp; bonis corpis a 
+      <lb ed="#F" n="41"/>mstis supari, ut perspicuum est nos pnicitate a ceruis, uiribus a tauris, agilitate a felibus 
+      <lb ed="#F" n="42"/>&amp; pardis superari. nec sentiunt corporis foelicitatem diuturnam esse non posse &amp; quod 
+      <!--110.xml-->
+      <pb ed="#F" n="49-r"/>
+               <lb ed="#F" n="1"/>diuturnum non sit, id nec beatum quidem esse posse. Ab his non longo interuallo
+      ab<lb ed="#F" n="2" break="no"/>sunt Epicurus, &amp; Aristippus Socraticae disciplinae lotura aspersus, qui summum 
+      <lb ed="#F" n="3"/>bonum in uoluptatum affluentia constituunt, dum non agnoscunt corpus lagenam S 
+      <lb ed="#F" n="4"/>quadrantal esse animae, cui tanquam materia formae, &amp; imperfectum absoluto
+      subijci<lb ed="#F" n="5" break="no"/>tur nec intelligunt uoluptatem sensibus, non ratione contineri, quando a uoluptate 
+      <lb ed="#F" n="6"/>impediatur ratio, ut praedare in libidinosorum lurconumque natura patet &amp; quod
+      ra<lb ed="#F" n="7" break="no"/>tioni officit, id nec absolutum esse posse. Itaque hi artubus foelicitatis elisis, in tanto 
+      <lb ed="#F" n="8"/>robore doctrinae, culicis morsum ferre non possunt &amp; tanquam absynthij laticem
+      pota<lb ed="#F" n="9" break="no"/>rint, nihil nisi suaue in uita perquirunt. Nec vero sapientiores fuerunt, quibus summum 
+      <lb ed="#F" n="10"/>bonum uidebatur honos, quasi parenti deo nihil tribuatur maius, nec alia merces
+      ma<lb ed="#F" n="11" break="no"/>gis ab hominibus flagitetur. In quo nullo modo superba stoliditas intelligere
+      po<lb ed="#F" n="12" break="no"/>tuit, honorem mercedem non esse uirtutis, sed mercedis loco suscipi ab hominibus 
+      <lb ed="#F" n="13"/>cum uera uirtutis merces sit solida, non lubrica, &amp; quasi precaria foelicitas. Nam si 
+      <lb ed="#F" n="14"/>homines honoris cupiditate, labores &amp; pericula adirent, fateri cogerentur, ambitio 
+      <lb ed="#F" n="15"/>nis non uirtutis causa ad id fuisse compulsos, foelicitas enim non est bonum alteri subie 
+      <lb ed="#F" n="16"/>ctum, sed id cui subiecta sunt omnia. Cum autem honos sit testimonium uirtutis 
+      <lb ed="#F" n="17"/>perfacile intelligi potest, eum in actu uirtutum, non in extremo bonorum esse
+      ponen<lb ed="#F" n="18" break="no"/>dum. Nec multo quoque secus qui gloriam appetendorum finem esse dixerunt, tanquam 
+      <lb ed="#F" n="19"/>foelicitatem ut chlamydem ad poplites fusam, non talarem adamarent, confirmare cona 
+      <lb ed="#F" n="20"/>bantur optabilius esse bonorum, quasi gloria splendida sit commemoratio nominis 
+      <lb ed="#F" n="21"/>hominum, quae propter laborum periculorumque perpessionem praestantibus tribuatur. 
+      <lb ed="#F" n="22"/>sed cum foelicitas sit uerum bonum generis humani, non cognouerunt gloriam falsam 
+      <lb ed="#F" n="23"/>esse posse, cum quiuis falso esse possit in gloria uulgi consensum excitatus. Eorum aute 
+      <lb ed="#F" n="24"/>opinio quae magnitudinis falsae typum sibi conficiens, in potentia uitam beatam 
+      <lb ed="#F" n="25"/>sitam esse censet, facile exploditur, cum praedare notum sit, foelicitatem nihil
+      prau<lb ed="#F" n="26" break="no"/>admixtum pati &amp; potentiam aeque in malis ac in bonis esse posse. Sed praeter caete 
+      <lb ed="#F" n="27"/>ros praestans quoddam philolophorum genus, foelicitatem ut thesaurum Draco com 
+      <lb ed="#F" n="28"/>plectitur, existimans ultimum bonorum ab his perfectum, qui essent in scientiarum 
+      <lb ed="#F" n="29"/>inspectione uersati, que esset inspectio quidam cottidianus cibus, quo beatissime 
+      <lb ed="#F" n="30"/>expleretur anima humana. Nam cum foelicitas sit opus uirtutum perfectarum, quae 
+      <lb ed="#F" n="31"/>maxime ad scientiarum inspectionem pertinent, concludere nitebantur, summum bonorum 
+      <lb ed="#F" n="32"/>in scientiarum inspectione consistere. Quae argumenti angustia celeriter perrumpitur. 
+      <lb ed="#F" n="33"/>cum fateri necesse sit, inspectionem principiorum ueritate transire non posse, quibus 
+      <lb ed="#F" n="34"/>omnis scientia continetur, cum autem inspectionis principia (ut ait Aristoteles) sensi 
+      <lb ed="#F" n="35"/>bus percipiantur, sequitur inspectionem sensuum cognitione non egredi, quod vero sen 
+      <lb ed="#F" n="36"/>suum cognitione non exit, nec foelicitatem quidem hominis absoluere potest. Quam 
+      <lb ed="#F" n="37"/>ob rem necesse est, ut illi ipsi philosophi, summum bonum in nullo horum generum
+      po<lb ed="#F" n="38" break="no"/>ni posse fateantur inuiti cum perspicuum sit, quodcunque commenti sunt, mortalis
+      con<lb ed="#F" n="39" break="no"/>ditionis finibus circumscribi &amp; deleto corpore, deleri etiam uitae beatae sensum. 
+      <lb ed="#F" n="40"/>Nos autem amissa ui ponderis, ueritatisque depulsa fame, summi boni integritatem 
+      <lb ed="#F" n="41"/>persequimur. Itaque intelligendum est primum foelicitatem hominum, nullo mo 
+      <lb ed="#F" n="42"/>do in aliquo genitorum genere consistere proptereaque foelicitas expletum, &amp; summum 
+      <!--111.xml-->
+      <pb ed="#F" n="49-v"/>
+               <lb ed="#F" n="1"/>est bonorum, qua appetitio sedatur, nec enim appetendorum extimum diceretur. 
+      <lb ed="#F" n="2"/>si in ea aliqua appetendi ansa resideret. At cum uoluntas, quae est animae
+      appeti<lb ed="#F" n="3" break="no"/>tio bonum uniuersum expetat, fateri necesse est eam a nullo nisi a bonorum
+      uni<lb ed="#F" n="4" break="no"/>uerso sedari. Quod quidem cum haud quaquam in aliquo genitorum genere, sed in 
+      <lb ed="#F" n="5"/>parente rerum deo consistat, a quo cumulate hominum uoluntas expletur, satis 
+      <lb ed="#F" n="6"/>erit intelligi in eo solo hominum foelicitatem esse sitam. Sed perquirendum est 
+      <lb ed="#F" n="7"/>hoc loco, an foelicitas in aliquo uoluntatis actu suapte natura uersetur. <name xml:id="pc99ia-d1e10X-Nd1e278">Scotus</name> enim 
+      <lb ed="#F" n="8"/>egregie acutus scriptor, foelicitatem magis uoluntatis actu, quam intelligentia
+      conti<lb ed="#F" n="9" break="no"/>neri putat eiusque disciplinae incredibilis multitudo appendix foelicitatem arbitratur 
+      <lb ed="#F" n="10"/>in praestantissimo actus genere uersari. Sed cum praestantiorem uoluntatis quam
+      in<lb ed="#F" n="11" break="no"/>telligentiae actum opinetur, satis argumenti esse censet, foelicitatem uoluntatis actu 
+      <lb ed="#F" n="12"/>contineri. idque hoc modo confirmat. Siquidem illa inquit actus genera
+      praestantio<lb ed="#F" n="13" break="no"/>ra uidentur, quorum causa seruitutis iuga depellimus, quam ea quorum causa
+      liber<lb ed="#F" n="14" break="no"/>tatem non nanciscimur. At cum homines uoluntatis non intelligentiae actu
+      li<lb ed="#F" n="15" break="no"/>beri dicantur, quando quidem intelligentia obiectu cogatur, facile sequitur
+      foelici<lb ed="#F" n="16" break="no"/>tatem in praestantiori actus genere uersari. Contra quos <name xml:id="pc99ia-d1e10X-Nd1e301">Durandus</name> perbelle
+      om<lb ed="#F" n="17" break="no"/>nibus ingressibus qua adiri posset, rationum praesidia collocaret, nequa effugiae 
+      <lb ed="#F" n="18"/>paterent, si enodatius intelligentiae uoluntatisque libertatem secreuisset. Nobis autem 
+      <lb ed="#F" n="19"/>cum in foelicitate duo postulanda esse placeat, unum quod foelicitatis natura sit, 
+      <lb ed="#F" n="20"/>alterum quod ei per se accidat, confitendum uidetur, foelicitatem ut foelicitatis
+      na<lb ed="#F" n="21" break="no"/>turam in uoluntatis actu nullo modo esse sitam. Atque etiam causa uidetur esse 
+      <lb ed="#F" n="22"/>quaerendi, an intelligentia genita suapte natura dei possit naturam intueri.
+      Di<lb ed="#F" n="23" break="no"/>uus quidem Thomas naturarum genera seiungens, compraehensio inquit noscem 
+      <lb ed="#F" n="24"/>tis naturae suae modo constituitur, si igitur naturae modo alicuius rei notae,
+      noscen<lb ed="#F" n="25" break="no"/>tis naturae modo egreditur, necesse est ut illius rei notio percipientis naturam
+      es<lb ed="#F" n="26" break="no"/>fugiat. In quo acriter est ei cum Scoto conserenda manus, qui syllooismum . ad 
+      <lb ed="#F" n="27"/>amussim disserendi reuocans, male ab eo connexum condusum putat. Sed ego ad 
+      <lb ed="#F" n="28"/>hanc quaestionem pertinere arbitror, ut altius hoc totum repetatur genus. Nam 
+      <lb ed="#F" n="29"/>cum plaerique philolophorum foelicitatem esse uellent in pernoscenda coelitum
+      na<lb ed="#F" n="30" break="no"/>tura semota, ab eorum sententia causa nonnullis decedendi fuit, que nullo modo 
+      <lb ed="#F" n="31"/>censerent sub intelligentiam possibilem(audeamus iterum hoc uerbo uti) coelitum 
+      <lb ed="#F" n="32"/>cadere posse naturam quasi ita longe ab intelligentiae notione, eorum natura
+      ab<lb ed="#F" n="33" break="no"/>esset, ut nihil uideretur esse posse disiunctius. Post uero ex eo genere multi cum 
+      <lb ed="#F" n="34"/>affirmarent ab hominum intelligentia nosci, quodcunque compraehendi posse
+      di<lb ed="#F" n="35" break="no"/>ceretur, facile intellectu esse censebant, coelitum naturam ab hominum intelligen 
+      <lb ed="#F" n="36"/>tia percipi posse. Atque ex his etiam bonus auctor Auicenna quasi Herculis
+      no<lb ed="#F" n="37" break="no"/>dum dissolueret, coelitum naturam a nobis non quidem ex quadam eruta, sed ex 
+      <lb ed="#F" n="38"/>impressa ab his similitudine intelligi posse uoluit. Qua tamen commentitia sen 
+      <lb ed="#F" n="39"/>tentia haud quaquam fit nobis dei abdita natura nota, cum perspicuum sit, nulla 
+      <lb ed="#F" n="40"/>impressa similitudine ab hominum intelligentia, ita percipi posse deum, ut sine intet 
+      <lb ed="#F" n="41"/>medijs, eius natura cernatur. Quare a ueri iudicio propius abest tota illa Aristotelea 
+      <lb ed="#F" n="42"/>manus, ex quo genere maxime ab Auerroi, &amp; Aphrodisieo Alexandro propria qundam 
+      <!--112.xml-->
+      <pb ed="#F" n="50-r"/>
+               <lb ed="#F" n="1"/>sunt indagata solertius. nam cum in omni notione formam necessariam esse opi 
+      <lb ed="#F" n="2"/>nentur, qua quale quidque sit intelligatur, aut ea forma cernatur, qua intelligentia 
+      <lb ed="#F" n="3"/>ad coelitum percipiendam naturam absoluatur, nullo modo quid esse putant, quod 
+      <lb ed="#F" n="4"/>intelligentia, a rebus concretis eliciat. Nec item similitudinem a coelitibus in inte 
+      <lb ed="#F" n="5"/>ligentia insculptam esse dicunt, ut Auicennae est uisum. sed ipsam coelitum natu 
+      <lb ed="#F" n="6"/>ram esse uolunt, quae intelligentiae ut forma annectatur. Quorum quidem
+      sen<lb ed="#F" n="7" break="no"/>tentia quanquam proxime ad ueritatis similitudinem accedat, multum tamen est
+      ei<lb ed="#F" n="8" break="no"/>theologica lima detrahendum. Itaque intelligi maxime debet, ab intelligentia
+      ge<lb ed="#F" n="9" break="no"/>nita minime ob naturae diuinae infirmitatem percipi posse deum, quasi non sit per 
+      <lb ed="#F" n="10"/>se natura cognobilis sed id ex intelligentiae genitae imbecillitate oriri, quae suapte 
+      <lb ed="#F" n="11"/>natura ad genitarum rerum notionem praefinitur quanquam ne hoc quidem
+      perind<lb ed="#F" n="12" break="no"/>hiominum generi, ac coelitum naturae contigit siquidem coelitum naturae seiunctae 
+      <lb ed="#F" n="13"/>nihil suapte generis ratione deest, sed naturae diuinae collatione defit, quae extra 
+      <lb ed="#F" n="14"/>eorum genus constituitur. At hominum intelligentiae suapte generis ratione
+      in<lb ed="#F" n="15" break="no"/>firmitas inest, proptereaque tenebricosa quadam caligine obducitur, idque etiam
+      co<lb ed="#F" n="16" break="no"/>gnobilis naturae longinquitate accidere dicimus. Nam quanquam affirmetur omnium 
+      <lb ed="#F" n="17"/>intelligentiarum generi praesentem esse deum, haud tamen omnium generi, ut 
+      <lb ed="#F" n="18"/>forma cognobilis adesse probatur Siquidem id tum accidere dicimus, cum ita est 
+      <lb ed="#F" n="19"/>intelligentiae informata aptitudo, ut naturae diuinae sit tanquam cognobili formae iu 
+      <lb ed="#F" n="20"/>gabilis. Quamobrem multo pressius dicemus intelligentiam hominum,
+      lumin<lb ed="#F" n="21" break="no"/>quodam gloriae in diuina natura cernenda egere. nam quodcunque ad id
+      extolli<lb ed="#F" n="22" break="no"/>tur, quod naturae suae finibus exit, necesse est ut illius habitu informetur, quod
+      ter<lb ed="#F" n="23" break="no"/>minos naturae suae transit, at cum intelligentia haud quaquam suapte natura sit
+      de<lb ed="#F" n="24" break="no"/>intuendi capax, praecare sciri potest necesse esse ut semper dei nutu augeatur
+      in<lb ed="#F" n="25" break="no"/>telligendi uis, qui auctus, lumen quoddam supra naturae complexum esse dicatur. 
+      <lb ed="#F" n="26"/>sdeoque aliqua nostrorum dissensione certatur, an intelligentia genita in deo
+      cer<lb ed="#F" n="27" break="no"/>nendo pernoscat, quaecunque agat, acturus ue sit. Diuus quidem Thomas nusquam 
+      <lb ed="#F" n="28"/>se tutius futurum putat, quam si eo loci rationes deducat, quibus id palam negetur 
+      <lb ed="#F" n="29"/>Sed accessit assiduus luctator Godofredus, qui ut id efferat quod habet ab Hen 
+      <lb ed="#F" n="30"/>rico Gandensi satiuum, cuncta a dei spectatore cerni uult, quae in deo suapte
+      na<lb ed="#F" n="31" break="no"/>tura eluceant, non autem quae mente diuina continentur. Contra quem Bernar 
+      <lb ed="#F" n="32"/>dus Gannacus diui Thomae causam tueri conatur, maximeque eum illis
+      angustij<lb ed="#F" n="33" break="no"/>urget, quibus ab eo Augustinus ad argumenti societatem accitur, sed haec alias 
+      <lb ed="#F" n="34"/>sunt a nobis disserenda latius. Hoc autem loco multo uerius dicemus extremum 
+      <lb ed="#F" n="35"/>absolutumque bonorum diuinae naturae spectatu contineri. cum perspicuum sit, ho 
+      <lb ed="#F" n="36"/>minem nunquam esse posse cumulate absolutum, quoad ei appetendi, aut indagan 
+      <lb ed="#F" n="37"/>di quippiam resideat. Etenim homini (ut ait Aristoteles) naturalis appetitio re 
+      <lb ed="#F" n="38"/>sidet indagandae causae, cum in conspectu quosdam rerum effectus fieri uidet,
+      ne<lb ed="#F" n="39" break="no"/>causam esse ignorat quae quidem appetitio conquirendi causam parit, ut si
+      quis<lb ed="#F" n="40" break="no"/>piam cometem norit, necesse esse uidet, ut is ex quapiam omnino causa
+      dima<lb ed="#F" n="41" break="no"/>net quam cum admiretur, nec intelligat, ob eam admirationem inquirendi
+      cupi<lb ed="#F" n="42" break="no"/>ditate flagrat nec unquam sane appetitio sedatur, nisi sit ab eo causae indagata na¬ 
+      <!--113.xml-->
+      <pb ed="#F" n="50-v"/>
+               <lb ed="#F" n="1"/>tura Eodemque modo si hominum intelligentia nondum primam naturae causam 
+      <lb ed="#F" n="2"/>attigisse dicatur, intelligi maxime potest, naturalem ei appetitionem residere
+      in<lb ed="#F" n="3" break="no"/>dagandae causae, nec dum eam esse complexu bonorum absolutam, ex quo quidem 
+      <lb ed="#F" n="4"/>constare inter sanos debet, necesse esse, ut in absoluto complexu bonorum, ab
+      in<lb ed="#F" n="5" break="no"/>telligentia primae causae natura attingatur. Quo sane loco tam multa de omni 
+      <lb ed="#F" n="6"/>foelicium statu, deque muneribus coronisque eorum a nostris sunt disputata diuini 
+      <lb ed="#F" n="7"/>tus, ut longius mens humana sine patefactione diuina progredi non possit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

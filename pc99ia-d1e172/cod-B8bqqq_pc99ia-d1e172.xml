@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="1-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e172"><!-- l1proem -->
+            <head xml:id="pc99ia-d1e172-Hd1e108">Prooemium</head>
+            <p xml:id="pc99ia-d1e172-d1e111">
+      <!--014.xml-->
+               <pb ed="#F" n="1-r"/>
+               <lb ed="#F" n="1"/>Diu Pont. Max. summa est hominum contentione certatum. 
+      <lb ed="#F" n="2"/>Philosophorum ne esset studijs latini sermonis
+      adhibendu<lb ed="#F" n="3" break="no"/>nitor. Sunt enim multi philosophi, qui cum facultatem 
+      uer<lb ed="#F" n="4" break="no"/>borum faciendorum uoluntariam esse opinentur, nihiloque 
+      <lb ed="#F" n="5"/>minus eis in pariendo licere quam priscis illis licitum fuerit
+      arbi<lb ed="#F" n="6" break="no"/>trentur, negant quicquam esse causae, cur uerborum pariendorum 
+      <lb ed="#F" n="7"/>licentiam, priscorum angustijs praefiniri uelint. Nonnulli autem cum
+      philolo<lb ed="#F" n="8" break="no"/>phiam, quasi marmoream quandam aedem constituant, nullo modo ei tectorium 
+      <lb ed="#F" n="9"/>induci debere censent, nec fas esse putant, pulcherrimi uultus candori illiniri fucum 
+      <lb ed="#F" n="10"/>Quibusdam etiam seuerioribus, philolophiam squallidiorem &amp; horridiorem esse  
+      <lb ed="#F" n="11"/>placet, quae nec aspectu inuitet adeuntes, nec opes uulgo largiendo effundat. In 
+      <lb ed="#F" n="12"/>quo quidem cum permagna res agatur utilitatis hominum, causa est contra eos 
+      <lb ed="#F" n="13"/>arma capiendi. Siquidem si uerborum faciendorum licentiam sibi non negatam d 
+      <lb ed="#F" n="14"/>cant, concessuros arbitror, idem perinde posteris, ut illis licere, &amp; rursum aeque
+      cae<lb ed="#F" n="15" break="no"/>teris ac caeteris liberum futurum, ex quo in infinitum cursus dimanaret quo sanc 
+      <lb ed="#F" n="16"/>nihil dici potest in omni philolophia inscitius. Atque etiam ab his, qui philosophiae 
+      <lb ed="#F" n="17"/>omnia ornamenta adimunt, in tantula causa sciscitandum puto, num philolophiae 
+      <lb ed="#F" n="18"/>speciem naturalem an artificiosam uelint: Nam si naturalem eam esse affirmant, 
+      <lb ed="#F" n="19"/>perquirendum quidem est, utrum significetur nutu, an in mente &amp; cogitatione uer 
+      <lb ed="#F" n="20"/>setur proptereaque si eam in mente insidere dicant, nihil abest quin ab hac discepta 
+      <lb ed="#F" n="21"/>tione recedant, cum de specie literata disputetur Si autem naturae pulchritudinem 
+      <lb ed="#F" n="22"/>nutu significari opinentur, perfacile etiam fateri poterunt, frustra sermonem
+      ho<lb ed="#F" n="23" break="no"/>minum generi a natura datum, quo uno belluis maxime praestamus. Siquidem ca 
+      <lb ed="#F" n="24"/>terorum animantium natura, inscitia loquendi usque eo peruenit, ut uicissim inte 
+      <lb ed="#F" n="25"/>se hilaritatem &amp; tristitiam significent uoce naturae, ut praedare in rugitu leonum 
+      <lb ed="#F" n="26"/>uel in canum latratu, siue equorum hinnitu apparet at homo qui rationis est
+      con<lb ed="#F" n="27" break="no"/>pos, sermone bonorum &amp; malorum genera dedarat. Ex quo erit confiteri necesse, 
+      <lb ed="#F" n="28"/>eiusmodi philolophiae speciem literatam &amp; artificiosam uideri, quae ad naturae 
+      <lb ed="#F" n="29"/>pulchritudinem statuatur. Quod si artificiosa dicatur, nemini dubium esse debet 
+      <lb ed="#F" n="30"/>eam speciem philolophiae studijs esse aptiorem, quae suauis quam quae absona feratur 
+      <lb ed="#F" n="31"/>proptereaque suauitas cum in intelligendi sensum irrepat, philosophiae studia am¬ 
+      <!--015.xml-->
+      <pb ed="#F" n="1-v"/>
+               <lb ed="#F" n="1"/>plificat. Nam qui in aliquo doctrinarum genere cum oblectatione uersantur, sub 
+      <lb ed="#F" n="2"/>tilius quicquam in eo genere diudicant, ut qui citharae artificio delectantur, perfaci 
+      <lb ed="#F" n="3"/>se citharoedi boni fiunt. Ob eamque causam affirmamus in orationis ornatu, uer 
+      <lb ed="#F" n="4"/>borum salubritatem non consectandum esse fucum quando quidem elegantia
+      phi<lb ed="#F" n="5" break="no"/>losophiam, tanquam pulchritudo habitum corporis sequatur. Itaque his qui eloquem 
+      <lb ed="#F" n="6"/>tiam cincinnis &amp; fuco contineri credunt, iure negemus, eos rrunquam Rhetorum
+      prae<lb ed="#F" n="7" break="no"/>cepta attigisse, cum uirtutum &amp; uitiorum uicinitate non internoscant, quantum 
+      <lb ed="#F" n="8"/>intersit inter orationem fucatam &amp; sanam, ut lippi quibus omnia alba apparent 
+      <lb ed="#F" n="9"/>marmor a topho non secernunt, que conoruere in candore uideantur. Nec multo
+      qui<lb ed="#F" n="10" break="no"/>dem secus his intempestiue seueris dicendum erit, qui dum orationem ut
+      num<lb ed="#F" n="11" break="no"/>mum tantidem ubique ualere credunt, &amp; horridiorem laudant amictum, ac soli
+      per<lb ed="#F" n="12" break="no"/>pe philosophari uolunt, non intelligunt causam esse eis, a philolophia desciscen 
+      <lb ed="#F" n="13"/>di, cum usus sordidioris amictus ab ostentatione oriatur, ut scite Aristoteles
+      ob<lb ed="#F" n="14" break="no"/>soletiorem Laconum amictum uituperat quando quidem ostentatio nimium 
+      <lb ed="#F" n="15"/>&amp; parum nanciscatur. Atque ego non uideo cur publicam philolophiae 
+      haeredita<lb ed="#F" n="16" break="no"/>tem soli adire uelint, nec ad aequilibrium assem dispertiant. Aut enim sunt
+      inui<lb ed="#F" n="17" break="no"/>diae, aut auaritiae postulandi. Sed nimirum hoc loco oppugnanda est eorum theo 
+      <lb ed="#F" n="18"/>logorum arx, qui disserendi elegantiam a theologia seiungunt, propterea que a priscem 
+      <lb ed="#F" n="19"/>poetarum oratorumque genere manarit, queque ostentatrix sit &amp; in gloriando leuis &amp;
+      quam<lb ed="#F" n="20" break="no"/>quam multos affirment ex diuorum coetu ualuisse dicendo, ab his tamem dicunt oratorium 
+      <lb ed="#F" n="21"/>dissimulatum florem. Ego autem non intelligo si explodendam esse eloquentiam
+      di<lb ed="#F" n="22" break="no"/>cant, que sit ex priscorum fundo decerpta, cur non philolophiam quoque pellendam 
+      <lb ed="#F" n="23"/>putent, que ex uberrimo priscorum fonte defluxerit cum tamen notum sit, multum 
+      <lb ed="#F" n="24"/>saepe eam contra transfugarum repugnantiumque inficiationem profuisse. At 
+      <lb ed="#F" n="25"/>cum affirmant in istius modi sermone, gloriae oriri uentum, quo homines tanquam 
+      <lb ed="#F" n="26"/>utres &amp; folles inflentur, causa non est, quin dicatur, uerius eam gloriam in 
+      scien<lb ed="#F" n="27" break="no"/>tiarum quam in uerborum genere uersari, cum huiusce gloriae limes sit praestantiae 
+      osten<lb ed="#F" n="28" break="no"/>tatio. Quod si ita esset, intelligi etiam liceret, diuos qui in omni genere doctrinae 
+      <lb ed="#F" n="29"/>praestiterunt, eiusmodi gloriae uento turgidiores extitisse quod tamen
+      perab<lb ed="#F" n="30" break="no"/>surdum uideri debet. Atque etiam dicendum est ob eam causam ab his oratorium 
+      <lb ed="#F" n="31"/>florem in disserendo caelatum, proptereaque artis intimae sit, artificium uelare
+      di<lb ed="#F" n="32" break="no"/>cendo. Quid enim erat causae cur dissimulare uellent, quod consectari uiderentur. 
+      <lb ed="#F" n="33"/>nam si uitiosus in dicendo putabatur splendor, cur erat liberum dissimulare, quod 
+      <lb ed="#F" n="34"/>esset turpe consectari. Ego uero nullo prorsus modo intelligo, quomodo diuis 
+      <lb ed="#F" n="35"/>dissimulare licuisse opinentur, nisi eos mendaces fuisse fateantur. Sed nihil est quom 
+      <lb ed="#F" n="36"/>diutius repugnent, si diuum Augustinum uadem accersam, quai non modo non sit limatius 
+      <lb ed="#F" n="37"/>dicendi aspernatus genus, sed etiam. D. Pauli orationem ad Caes. Hieronymique 
+      <lb ed="#F" n="38"/>methodicen ad troporum genera retulerit. Ac meo quidem iudicio Pont. Max 
+      <lb ed="#F" n="39"/>natura semper pulchritudinem cum utilitate suopte quodam foedere comiungit.  
+      <lb ed="#F" n="40"/>ut praecare in solis ac siderum genere ostenditur, quibus difficile est iudicare, utrum 
+      <lb ed="#F" n="41"/>quicquam pulchrius aut utilius sit commenta natura. In animantium quoque ac
+      ar<lb ed="#F" n="42" break="no"/>borum genere utilitas a specie non seiungitur quid est enim in hominis figura 
+      <!--016.xml-->
+      <pb ed="#F" n="2-r"/>
+               <lb ed="#F" n="1"/>
+               <!-- erroneous line -->
+               <lb ed="#F" n="2"/>fabricatum, quod ad usum non aeque aptum ac uenustum uideatur: quid pulchrum 
+      <lb ed="#F" n="3"/>caeterorum animantium utilibus partibus abest: lam arborum generi quae
+      per<lb ed="#F" n="4" break="no"/>tinax florum germinatio, quae fructuum procreatio deest: Eodem acceditque
+      mul<lb ed="#F" n="5" break="no"/>ta frustra pene a natura data uiderentur, nisi ad ornatum dicerentur naturae au 
+      <lb ed="#F" n="6"/>ctoramento parta. Cur enim uel macula pardo, aut pauoni cauda, siue leoni
+      es<lb ed="#F" n="7" break="no"/>set adiecta iuba, nisi ad ornatum naturae pingentis ingenio inuenta dicerentur: 
+      <lb ed="#F" n="8"/>Equidem eloquentiam in doctrinarum genere tanquam in celsissimo corpore
+      pul<lb ed="#F" n="9" break="no"/>chritudinem putarim, quae ab his uelut decora sanitate seiungi non possit. Quod 
+      <lb ed="#F" n="10"/>sane maxime coniungere uoluit, totum illud priscum philolophorum genus quis 
+      <lb ed="#F" n="11"/>enim uel amplitudinem Platonis, uel suauitatem Xenophontis, aut Theophra 
+      <lb ed="#F" n="12"/>sti candorem, siue aureum Aristotelis flumen non agnoscit: Ex quo mihi quidem 
+      <lb ed="#F" n="13"/>libet hos philosophorum oreges sciscitando urgere, qui sanctius Aristotelem quam 
+      <lb ed="#F" n="14"/>Aegyptij ibim, aut crocodilum colunt, cur in eo splendidiorem uerborum usum &amp;
+      elo<lb ed="#F" n="15" break="no"/>quentiam non reprehendunt, &amp; si non uituperant, cur in hoc ab eo desciscunta 
+      <lb ed="#F" n="16"/>Prorsus si non consectantur, damnare sane uideri possunt quando quidem eum 
+      <lb ed="#F" n="17"/>in caeteris ut nautae elicem aut cynosuram sequantur. Atqui cum supra octodecies 
+      <lb ed="#F" n="18"/>ceritum nihil in eo repertum esse dicant, quod iure obiurgari possit, inuolutius
+      pu<lb ed="#F" n="19" break="no"/>gnantia efferunt, cum in eo nullum errorem uelint, &amp; tamen aliquid ei inesse
+      ap<lb ed="#F" n="20" break="no"/>pareat, quod consectari nolint, cum in caeteris eum studiosissime sequantur Sed 
+      <lb ed="#F" n="21"/>ego Pont. Max. multos arbitror hoc scribendi genus, non tam iudicio quam
+      perfici<lb ed="#F" n="22" break="no"/>undi inscitia, aut naturae quodam morbo refugisse, ut nonnulli saepe ea 
+      contemne<lb ed="#F" n="23" break="no"/>re uideri uolunt, quae se assequi posse diffidant, ac icterici mel tanquam absynthium 
+      <lb ed="#F" n="24"/>&amp; rutam aspernantur. Quare cum uiderem philolophiam, ut euanescentem sine 
+      <lb ed="#F" n="25"/>colore picturam explodi, &amp; humaniores ut uerborum tympana contemni, perma 
+      <lb ed="#F" n="26"/>gni aestimaui quoquomodo possem quod utrisque deerat adijcere . Itaque quamquam se 
+      <lb ed="#F" n="27"/>paratim a nobis de principe tres scripti sint libri, multaque praecara in
+      philolo<lb ed="#F" n="28" break="no"/>phia sint quae illustrioribus literis potuissent explicari, mea sum tamen magis in 
+      <lb ed="#F" n="29"/>teresse ratus, Theologiam Christianam ex intima sententiarum aurifodina ad ex 
+      <lb ed="#F" n="30"/>politiones reuocare. Nam cum finis bonorum, principis ueritatis contemplatio sit, facile 
+      <lb ed="#F" n="31"/>intelligi potest, eam caeteris praestantiorem uideri quando quidem eius hypothesis 
+      <lb ed="#F" n="32"/>princeps ueritas dicatur, quae sit deus supra naturae complexum notus . Itaque ut
+      ele<lb ed="#F" n="33" break="no"/>gantiorum nostratum canora studia ad Theologiam reuocarem, quae est uelox
+      ingenio<lb ed="#F" n="34" break="no"/>rum excitatrix, Theologumenon omnium sententiarum typum, quatuor complexus 
+      <lb ed="#F" n="35"/>sum libris nam de deo, de mundi ortu, de instauratione, ac de sacris separatim di 
+      <lb ed="#F" n="36"/>sputatio explicatur. In quibus sane philolophi fateri cogentur cutem a carne seiunge 
+      <lb ed="#F" n="37"/>re, qui elegantiam a philosophia secernunt . Et politiores solum in pinacidijs nostris 
+      <lb ed="#F" n="38"/>intelligere poterunt, quantum eorum artifex sedulitas a rerum diuinarum altitudine 
+      <lb ed="#F" n="39"/>distet in quo multa diuina poterunt diudicare esse uera, quae eorum rationi
+      repu<lb ed="#F" n="40" break="no"/>gnare uidebantur, ut multi solem maiorem esse quam terram suspicari nullo modo
+      pos<lb ed="#F" n="41" break="no"/>sunt, nisi Mathematicorum circinum &amp; decempedam attigerint Quos quidem
+      li<lb ed="#F" n="42" break="no"/>bros tibi Pont. Max. dicare decreui. nam praeterquam que iam diu erat, a nobis hoc
+      ti<lb ed="#F" n="43" break="no"/>bi aeris dissoluendum, percommode etiam accidit, que pontifex sis his proximis co¬
+      <!--017.xml-->
+      <pb ed="#F" n="2-v"/>
+               <lb ed="#F" n="1"/>mitijs senatus consulto factus, cuius potissimum potestati haec theologica generam 
+      <lb ed="#F" n="2"/>creduntur. Contigit enim tibi post hominum memoriam uni, ut pontifex
+      putare<lb ed="#F" n="3" break="no"/>re antequam fieres, eodemquam constanti consensum fieres, quo putabare. Siquidem ex 
+      <lb ed="#F" n="4"/>candidatorum genere, multi potetifices sunt in interregno iudicati, qui puncto tem 
+      <lb ed="#F" n="5"/>poris repulsa ceciderunt. at in his comitijs difficile fuit iudicare, utrum quicquam
+      in<lb ed="#F" n="6" break="no"/>teresset inter pontificem factum &amp; futurum . adeoque pariter consulta &amp; festinata 
+      <lb ed="#F" n="7"/>senatoria suffragia fuerunt, ut si quem poetificatus tui poeniteret, necesse esset eum 
+      <lb ed="#F" n="8"/>conscientiae suae poenitere. Magna haec quidem laus, sed tamen sunt alia
+      maiora<lb ed="#F" n="9" break="no"/>proptereaque minus est negocij sacerdotium maximum consequi, quam adeptum tueri 
+      <lb ed="#F" n="10"/>siquidem multis ad pontificatum uia obrependi patuit, in paucis laus bene
+      geren<lb ed="#F" n="11" break="no"/>di fuit. At praeclarum est omnium sermonem celebrari, te nullos subscribere
+      libellos<lb ed="#F" n="12" break="no"/>nulla diplomata conficere, quibus aut quisquam de iure suo decaedat, aut sacrorum 
+      <lb ed="#F" n="13"/>auctoritas minuatur, te pontifice nullum fieri muneralem ambitum, nullos
+      licita<lb ed="#F" n="14" break="no"/>tores reperiri, prouideri a te, ut cuncta e Re. pu¬ christiana fiant quo nihil est
+      ho<lb ed="#F" n="15" break="no"/>minum generi ad temporum securitatem optandum maius. Quod si hos libros au 
+      <lb ed="#F" n="16"/>ctoritate tui potissimum nominis celebrari uolui, cogitare debebis, me id licentius 
+      <lb ed="#F" n="17"/>fecisse, non tam spe patefaciundi mihi aditum ad amorem tuum, cum in tuis iam  
+      <lb ed="#F" n="18"/>diu sim, quam magnanimitate commotum. siquidem magnanimi est ingentem
+      hono<lb ed="#F" n="19" break="no"/>rem, tanquam uirtutis testem expetere. Atque in cuiuspiam rei emissione, quo
+      quip<lb ed="#F" n="20" break="no"/>piam ad distantius genus emittitur, eo uehementius fertur, ut praecare patet in 
+      <lb ed="#F" n="21"/>his, quae longo interuallo iactantur. In quo si hoc quantulumcunque est metiare. 
+      <lb ed="#F" n="22"/>facile iudicare poteris, an id primus, aut cumipaucis susceperim, uel si hoc idem 
+      <lb ed="#F" n="23"/>multi factitarint. Quod si melaudare uolueris, eorum comparatione laudare
+      po<lb ed="#F" n="24" break="no"/>teris, qui nondum sint hanc scribendi laudem assecuti.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

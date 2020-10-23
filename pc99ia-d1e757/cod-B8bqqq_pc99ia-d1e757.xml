@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 1</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 1</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="36-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e757"><!-- l4q1 -->
+            <head xml:id="pc99ia-d1e757-Hd1e108">Distinctio 1</head>
+            <head xml:id="pc99ia-d1e757-Hd1e111" type="question-title">De sacramentis et primum de baptismate</head>
+            <p xml:id="pc99ia-d1e757-d1e114">
+               <lb ed="#F" n="31"/>DE SACRAMENTISET PRI 
+      <lb ed="#F" n="32"/>MVM DE BADTISMATE. 
+      <lb ed="#F" n="33"/>DISTINCTIO PRIMA. 
+      <lb ed="#F" n="34"/>Taque cum copulati uerbi sint explicatam mysteria, sequitur deinceps, ut 
+      <lb ed="#F" n="35"/>orthodoxea sacra persequamur. In quo primum est sacri
+      perquiren<lb ed="#F" n="36" break="no"/>da definitio. Multi enim qui amissa segete alieni fundi spicileoio
+      o<lb ed="#F" n="37" break="no"/>cupantur, auctore Auicenna, uolunt definitionem genere, &amp; differe 
+      <lb ed="#F" n="38"/>tia constitui . atqui cum re, uerboque constitutum in genere uersari negent, quandoquidem 
+      <lb ed="#F" n="39"/>haud ex aduenticio unum dicatur, notum esse, re uerboque constitutum, definiri non posse cum 
+      <lb ed="#F" n="40"/>autem eiusmodi sacrum re, uerboque constituatur, fatendum esse id definiri nullo modo pos 
+      <lb ed="#F" n="41"/>se. Contra quos Pythicum theologiae uatem Augustinum arcessimus, qu sacrum esse  
+      <!--085.xml-->
+      <pb ed="#F" n="36-v"/>
+               <lb ed="#F" n="1"/>affirmat, in quo sub operculo rerum spectabilium a diuinitate incolumitas
+      no<lb ed="#F" n="2" break="no"/>stra iuuetur, ex quo perspicuum uideri debet eiusmodi sacrum definiri posse, cui 
+      <lb ed="#F" n="3"/>quidem definitioni nomem suum ascribit <name xml:id="pc99ia-d1e757-Nd1e150">Durandus</name>. Vgo autem Victorius
+      Augustini<lb ed="#F" n="4" break="no"/>syngrapham resignat. At sententiarum aerarij tribunus sacrum inaspectabilis gra 
+      <lb ed="#F" n="5"/>tiae, aspectabilem formam esse uoluit, ita ut cum sui simulacrum ferat, causa dica 
+      <lb ed="#F" n="6"/>tur, quae quidem definitio, quasi cumulate sacramenti aceruum expleat, maxime 
+      <lb ed="#F" n="7"/>a diuo Thoma probatur. Sed quoniam sacra ad criminum eluendam labem
+      insti<lb ed="#F" n="8" break="no"/>tuta feruntur, in hisque fidentium hominum animas excolunt, quibus castissime con 
+      <lb ed="#F" n="9"/>litur deus, primum de incolumitatis nostrae isagoge quam graeci βάπτίσμα uocant. 
+      <lb ed="#F" n="10"/>dicendum erit. In quo etiam definiendo inter nostros est nata dissensio, siquidem 
+      <lb ed="#F" n="11"/>Vgo Victorius dum tantisper pendet animi, quorsum euadat, in eam sententiam 
+      <lb ed="#F" n="12"/>demigrat, ut id aquam ad eluenda crimina, uerbo expiatam dicat. Principi autem 
+      <lb ed="#F" n="13"/>sententiarum id laticis aspersionem extrinsecus iniectam ad uerborum praescriptum 
+      <lb ed="#F" n="14"/>esse placet. At Ricardus uilla, locuples &amp; fusus Theologus, quanquam has definitio 
+      <lb ed="#F" n="15"/>nes consentaneas esse censeat, in neutris tamen cumulatam definitionis
+      conditio<lb ed="#F" n="16" break="no"/>nem inueniri arbitratur, quae sit in posterioribus analyticis ab Aristotele
+      decreta<lb ed="#F" n="17" break="no"/>nos vero id nullo modo ambitiosi definimus, cum maius certamen oriatur, num 
+      <lb ed="#F" n="18"/>character ille qui dicit, in intelligentiae ui, tanquam in hypothesi uersetur. Diuus enim 
+      <lb ed="#F" n="19"/>Thomas dum sententiarum fundum aratro suo proscindit, characterem probat in 
+      <lb ed="#F" n="20"/>intelligentiae ui, tanquam in hypothesi inesse. nam imaginem primo in
+      percipiendi<lb ed="#F" n="21" break="no"/>ui uersari dicit, cum ex memoria, &amp; intelligentia uoluntas nascatur. Ex quo
+      per<lb ed="#F" n="22" break="no"/>spicuum esse uult, omnem imaginem in intelligentiae parte, tanquam in fibris inesse,
+      ob<lb ed="#F" n="23" break="no"/>eamque causam, quicquid est in primis ob imaginem homini tributum, id in
+      pri<lb ed="#F" n="24" break="no"/>mis ad intelligentiae partem, &amp; patheticam oculos referre, cum etiam ex
+      intelligen<lb ed="#F" n="25" break="no"/>tia nanciscatur, ut homo dicatur, ex pathetica autem ut probus, an prauus dicatur. 
+      <lb ed="#F" n="26"/>atque ob id cum character in primis oculos ad imaginem referat, eum in
+      intelligen<lb ed="#F" n="27" break="no"/>tiae parte uersari confirmat, cui aperte <name xml:id="pc99ia-d1e757-Nd1e205">Scotus</name> reiecta chlamyde loricam
+      ostendit<lb ed="#F" n="28" break="no"/>
+               <name xml:id="pc99ia-d1e757-Nd1e211">Durandus</name> uero marmoreo muro tectorium inducens, cum characterem in intelli 
+      <lb ed="#F" n="29"/>gentiae ui, tanquam in hypothesi esse neget, congruentius in flaminis manu uel
+      lin<lb ed="#F" n="30" break="no"/>gua, quam in intelligentia uersari putat. Nos uero dicimus characterem in ipso
+      pri<lb ed="#F" n="31" break="no"/>migeno uoluntatis orsum, non in lingua, aut ministris manibus esse debere,
+      quem<lb ed="#F" n="32" break="no"/>admodum etiam medicum medicinae ui ob rerum salubrium appulsum naturae 
+      <lb ed="#F" n="33"/>ministrum uolumus, cum ualitudinis princeps, agens natura dicatur, nec tamen 
+      <lb ed="#F" n="34"/>ob eam causam medicinae scientiam in expromentis lingua, aut in chirurgi
+      manu<lb ed="#F" n="35" break="no"/>sed in intelligentia ponendam arbitramur. Atque huic generi finitima est
+      quaestio<lb ed="#F" n="36" break="no"/>num medicata aqua ad eiusmodi lustralem aspersionem apposita uideatur.
+      Mul<lb ed="#F" n="37" break="no"/>ti enim nudi remiges qui physicam sententiam exhauriunt, id ex quocunque
+      gene<lb ed="#F" n="38" break="no"/>re laticis, quod specie a mera aquae natura non discrepet, fieri posse uolunt, cum
+      au<lb ed="#F" n="39" break="no"/>tem rhosaceus latex a mera aquae natura non dissideat, quando quidem easdem 
+      <lb ed="#F" n="40"/>frigiditatis humoris, &amp; perspicuitatis ποσταταζ nanciscatur, fatendum esse dicunt, 
+      <lb ed="#F" n="41"/>medicatam aquam ad id appositam uideri. Quorum quidem claudorum hominum 
+      <lb ed="#F" n="42"/>effugia praecludimus, cum a Christo, meri, non conditi laticis aspersionem decretam 
+      <!--086.xml-->
+      <pb ed="#F" n="37-r"/>
+               <lb ed="#F" n="1"/>dicimus, quo facilius omnibus suppeditaretur ad usum . ob eamque causam proba 
+      <lb ed="#F" n="2"/>mus duplex esse genus, quo merus latex uim puritatis amittat, unum quod
+      alte<lb ed="#F" n="3" break="no"/>rius corporis mixtione, alterum quod alteratione fiat, quae a graecis heterosis
+      no<lb ed="#F" n="4" break="no"/>minatur, quorum utrumque artificio &amp; natura contingit. Siquidem ars a naturae munere 
+      <lb ed="#F" n="5"/>abest, proptereaque natura substantiae formam quam graeci usiam uocant gignit.  
+      <lb ed="#F" n="6"/>quod quidem ab arte fieri nequit. At omnes quidem artificij formae aduentitiae 
+      <lb ed="#F" n="7"/>extrinsecus accidunt, nisi fortasse proprium agens ad propriam materiam applicando 
+      <lb ed="#F" n="8"/>tamquam ignem rei ad exardescendum aptae ex quo genere a multis tabe quaedam animan 
+      <lb ed="#F" n="9"/>tium genera gignuntur. Itaque quoties latex artificij, aut mixtione siue alteratione 
+      <lb ed="#F" n="10"/>transfunditur, haud sane eius speciem mutari dicimus. Ob eamque causam ex
+      eo<lb ed="#F" n="11" break="no"/>geriere laticis eiusmodi uitalem aspersionem fieri posse uolumus, nisi forsan
+      lati<lb ed="#F" n="12" break="no"/>cem ita tenuiter cum alio corpore misceri affirmamus, ut commixtum aliud
+      quip<lb ed="#F" n="13" break="no"/>piam potius, quam latex iure dici possit quemadmodum limus potius humus, quam aqua 
+      <lb ed="#F" n="14"/>nominatur ac merum latice perfusum, magis merum quam latex uocatur. At commu 
+      <lb ed="#F" n="15"/>tatio quae a natura oritur, interdum laticis speciem dissoluit atque id maxime
+      cer<lb ed="#F" n="16" break="no"/>nitur quom aqua ex commixti corporis natura gignitur, quemadmodum latex in 
+      <lb ed="#F" n="17"/>uuae liquorem uersa merum dicitur, ex quo quidem minime aquae speciem
+      nan<lb ed="#F" n="18" break="no"/>ciscatur. Atque rursum etiam ex natura, sine speciei occasum, laticis mutatio exoritur. 
+      <lb ed="#F" n="19"/>Idque non modo alteratione gignitur, ut praecare in latice a sole feruefacto
+      patet<lb ed="#F" n="20" break="no"/>sed etiam commixtione oritur, ut facile in lutulenta, oblimataque aqua cernere pos 
+      <lb ed="#F" n="21"/>sumus, quae terrenarum partium concretione miscetur, ex quo erit fateri necesse, ex 
+      <lb ed="#F" n="22"/>quocunque genere laticis hunc salutarem fieri posse aspersum, modo ne species la 
+      <lb ed="#F" n="23"/>ticis in nihilum intereat. Sed deinceps in disceptationem uocatur, num puerperia 
+      <lb ed="#F" n="24"/>debeant trina lustrali aspersione madefieri. Ricardus enim qui in theologia
+      po<lb ed="#F" n="25" break="no"/>lyhistor dici potest, nusquam se tutius consistere opinatur, quam si dicat in hoc,
+      orthodo<lb ed="#F" n="26" break="no"/>xeum Senatus consultum sequendum ducem. At diuus Thomas cum multas per 
+      <lb ed="#F" n="27"/>duellionum secessiones, seditionesque commemoret, quibus maxime sit Latius comn 
+      <lb ed="#F" n="28"/>uulsus senatus, ob periculi magnitudinem puerperia semel suffundi debere
+      cen<lb ed="#F" n="29" break="no"/>set sublatis autem restinctisque seditionibus, trinam laticis aspersionem probat, 
+      <lb ed="#F" n="30"/>Eodemque modo perquiritur, num infantibus eiusmodi nostri roris effectus insi 
+      <lb ed="#F" n="31"/>nuetur. Plaerique enim Auctore Aristotele, uolunt actus agentium in patibili &amp; 
+      <lb ed="#F" n="32"/>apto uersari. atqui cum in puerperijs nulla sit lustralis laticis arripiendi aptitudo an 
+      <lb ed="#F" n="33"/>tegressa, in promptu esse dicunt ab eiusmodi latice nullum posse in infantibus ef 
+      <lb ed="#F" n="34"/>fectum seri. <name xml:id="pc99ia-d1e757-Nd1e322">Scotus</name> uero theologici principatus auidus &amp; capax, infantes eode m 
+      <lb ed="#F" n="35"/>hostimento gratiae compotes esse negat, affirmans quosdam a deo ad
+      dissimilli<lb ed="#F" n="36" break="no"/>ma limina gloriae, praesignatione secretos. Ex quo etiam a multis interrogationes 
+      <lb ed="#F" n="37"/>interponuntur, num repugnantium parentum liberi hac debeant aspersione lustra 
+      <lb ed="#F" n="38"/>ri. Eidem Scoto qui in quocumque disputationum genere usque eo peruenire uult,
+      qus<lb ed="#F" n="39" break="no"/>que intelligentiae acies intendi potest, inuitorum parentum liberos, ante pubem hoc 
+      <lb ed="#F" n="40"/>rore suffundi posse placet. idque publici consilij principis permagni interesse
+      affir<lb ed="#F" n="41" break="no"/>mans, cui infantes in. R. P. descriptione sunt iure commissi. Nam cum maius regale 
+      <lb ed="#F" n="42"/>imperij genus, quam ius parentum arbitretur, permagni putat interesse regis, eum 
+      <!--087.xml-->
+      <pb ed="#F" n="37-v"/>
+               <lb ed="#F" n="1"/>praescribere parendi modum, quo inferius genus superiori subsit. idque ut saepe
+      so<lb ed="#F" n="2" break="no"/>let, similitudine connectit nam si quispiam inquit. Q, flaminij seruus fuerit, ipseque 
+      <lb ed="#F" n="3"/>Flaminius Cn. Sempronij seruus dicatur, uehementius laborandum esse reoi
+      opi<lb ed="#F" n="4" break="no"/>natur, ut is magis. Cn. Sempronio, quam. O. Flaminio pareat, si modo eo. Q. Flarri 
+      <lb ed="#F" n="5"/>nius ad. Cn. Sempronij imperij perniciem uti uelle uideatur. Ex quo apertum esse 
+      <lb ed="#F" n="6"/>permagni interesse regis, summi heri imperium, dominatumque tueri. Ob eamque
+      cau<lb ed="#F" n="7" break="no"/>sam minime regibus interdictum putat, quin possint ex inuitorum parentum gre 
+      <lb ed="#F" n="8"/>mio infantes euellere, ne praui, detestatique cultus traditione inquinentur,
+      nefarie<lb ed="#F" n="9" break="no"/>que in parentem deum armentur. Nec mulctam quidem regibus irrogari debere
+      cem<lb ed="#F" n="10" break="no"/>set, si modo caueant ne ob id a parentibus puerperia necentur. Cuius sententiae
+      am<lb ed="#F" n="11" break="no"/>plificator <name xml:id="pc99ia-d1e757-Nd1e371">Durandus</name>, hoc quaestionis genus tripartito discerpit. nam quosdam
+      re<lb ed="#F" n="12" break="no"/>pugnantium parentum filios qui sint a regionibus nostris longo interuallo
+      seiun<lb ed="#F" n="13" break="no"/>cti, quales Parthos aut Syros nominamus, nullo modo uult hac piaculari
+      asper<lb ed="#F" n="14" break="no"/>sione ablui, nec item ex eo genere hominum, qui pactione aut uoluntate in
+      pro<lb ed="#F" n="15" break="no"/>uincias nostras tanquam hospites diuertunt, quales mercatores, siue publicani, aut 
+      <lb ed="#F" n="16"/>trapexitae dicuntur, quos in familiaritatem, &amp; in conuictum asciscimus. At id genus ho 
+      <lb ed="#F" n="17"/>minum qui sub nostris fascibus uectigal pendunt, quibus perinde ut seruis
+      impe<lb ed="#F" n="18" break="no"/>ramus, quales iudaei uocantur, inuitis etiam parentibus geniali aqua madefieri
+      pos<lb ed="#F" n="19" break="no"/>se opinatur. Contra quem feruidius concaluit <name xml:id="pc99ia-d1e757-Nd1e391">Petrus Paludensis</name>, diuus autem Tho 
+      <lb ed="#F" n="20"/>mas orthodoxeo senatui tantum auctoritatis impertit, ut magis ritibus eius
+      pa<lb ed="#F" n="21" break="no"/>rendum esse arbitretur, quam edictis, decretisque eorum qui diuorum fastis ascribantur 
+      <lb ed="#F" n="22"/>ltaque eam rem ad senatum refert, a quo sciat, nunquam repugnantium parentum filios 
+      <lb ed="#F" n="23"/>hoc latice lotos. At mihi quidem huius rei ratio duplex uideri solet, quarum una
+      ob<lb ed="#F" n="24" break="no"/>impendentis periculi magnitudinem statuatur, altera quae iuri naturae repugnet. Nam 
+      <lb ed="#F" n="25"/>si liberi simulac nati sunt, nec dum mentis praestantiam nacti, hoc roris perfusum 
+      <lb ed="#F" n="26"/>madefierent, facile progrediente aetate parentum admonitu impelli possent, ut id 
+      <lb ed="#F" n="27"/>desererent, quo essent improuida aetate irretiti. Alteram uero naturae contrariam 
+      <lb ed="#F" n="28"/>censemus, proptereaque natura filius parentum quippiam putatur. Nam primo is 
+      <lb ed="#F" n="29"/>a parentibus, corporis natura non secernitur, quam diu parentis aluo continetur sed 
+      <lb ed="#F" n="30"/>cum maturus partus exit, antequam liberam animi optionem nanciscatur, parentum
+      di<lb ed="#F" n="31" break="no"/>sciplina, tanquam rationis quodam aluo continetur, at quandium rationis est impos,
+      pau<lb ed="#F" n="32" break="no"/>lum admodum a pecudis natura discrepat. Ex quo quidem quemadmodum
+      quis<lb ed="#F" n="33" break="no"/>piam ciuium iure in equos, aut canes ius, &amp; dominatum habet, quibus ut est collibi 
+      <lb ed="#F" n="34"/>tum utatur, ita naturae iure parentes in liberos rationis expertes imperium &amp;
+      domi<lb ed="#F" n="35" break="no"/>natum nanciscuntur. Ex quo concedi fas est contra naturam uideri, liberos in
+      crepun<lb ed="#F" n="36" break="no"/>dijs, a parentum complexu &amp; procuratione euellere, ac eos nondum rationis
+      com<lb ed="#F" n="37" break="no"/>potes, ad aliquod certum uitae genus applicare. At cum rationis auctus, &amp; firmi 
+      <lb ed="#F" n="38"/>tas accessit, iamque sunt liberam animi optionem nacti, praeclare tum intelligi
+      uo<lb ed="#F" n="39" break="no"/>lumus, eos repugnantibus etiam parentibus, et nostris initiari sacris, &amp; geniali la 
+      <lb ed="#F" n="40"/>ticeexpiari posse . Eodemque modo affirmamus laticis effectum dissimulatione im 
+      <lb ed="#F" n="41"/>pediri. Atque etiam negamus infantem rursum tanquam lanam debere mergi. Idque 
+      <lb ed="#F" n="42"/>munus ad flaminem dialem pertinere placet quanquam id temporum angustijs a¬ 
+      <!--088.xml-->
+      <pb ed="#F" n="38-r"/>
+               <lb ed="#F" n="1"/>profanis, &amp; foeminis obiri possit . Eidemque cathecismus, &amp; exorcismus additur, quorum 
+      <lb ed="#F" n="2"/>alter disciplinae traditio alter sontis daemonis afflictor &amp; exturbator dicatur,
+      repe<lb ed="#F" n="3" break="no"/>taturque uterque cum a flamine, tum ab eo qui sit pro puerperio uas factus, ut
+      rituali<lb ed="#F" n="4" break="no"/>bus est libris mandatum. Nihiloque secius de lustrali chrismate perquiritur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

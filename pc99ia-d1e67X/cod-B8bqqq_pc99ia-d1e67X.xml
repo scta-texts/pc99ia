@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 7</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 7</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="32-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e67X"><!-- l3d7 -->
+            <head xml:id="pc99ia-d1e67X-Hd1e108">Distinctio 7</head>
+            <head xml:id="pc99ia-d1e67X-Hd1e111" type="question-title">De virtutibus theologicis</head>
+            <p xml:id="pc99ia-d1e67X-d1e114">
+               <lb ed="#F" n="24" break="no"/>DE VIRTVTIBVS THEOLOGICIS 
+      <lb ed="#F" n="25"/>DISTINCTIO SEPTIMA. 
+      <lb ed="#F" n="26"/>Ed nec alienum quidem tempus est, ut de fide quaeratur, cuius quidem rei 
+      <lb ed="#F" n="27"/>est ratio duplex, una qua hominum generi credibile quippiam affertur, 
+      <lb ed="#F" n="28"/>altera in qua earum rerum assensus postulatur, quae afferuntur. In quo
+      ta<lb ed="#F" n="29" break="no"/>men fatendum est, fidem a parente rerum deo manare, etenim ea quae 
+      <lb ed="#F" n="30"/>fide continentur, sunt supra naturae complexum sita, nec in hominum contemplationem 
+      <lb ed="#F" n="31"/>sine diuina patefactione cadunt. Nam nonnullis quaedam deus sine intermedio 
+      <lb ed="#F" n="32"/>aedit, ut ea quae sunt undecemuiris discipulis aut uatibus patefacta, nomnullis quae 
+      <lb ed="#F" n="33"/>dam per praecones edicit . Itaque ob eam causam articulatim est fidei distincta
+      ra<lb ed="#F" n="34" break="no"/>tio nam quaedam ad diuinitatem, quaedam ad humanum amictum inductum pertinent, quae 
+      <lb ed="#F" n="35"/>uno senatus symbolo continentur. Ex quo est intelligi necesse ad incolumitatem ho 
+      <lb ed="#F" n="36"/>minum, fidem esse necessariam, quae credenti ab auctore rerum deo inseratur. Nam cum extima 
+      <lb ed="#F" n="37"/>foelicitas in deo contuendo uersetur, nullo modo homines ad eum obtuntum peruenire 
+      <lb ed="#F" n="38"/>possent, nisi uelut discentes a satore deo docerentur, cuius quidem doctrinae non
+      conti<lb ed="#F" n="39" break="no"/>nuo, sed progressione compotes naturae suo modo fiunt. Quare necesse est ut
+      ho<lb ed="#F" n="40" break="no"/>mines non modo fidenter ea percipiant, quae sunt supra naturam progredientem consti 
+      <lb ed="#F" n="41"/>tuta, sed etiam ea quae ratione percipi possunt . idque ob eam causam necesse fuisse dici 
+      <lb ed="#F" n="42"/>mus, quo celerius hominem mentibus diuina imprimeretu notio siquidem metaphysice¬ 
+      <!--078.xml-->
+      <pb ed="#F" n="33-r"/>
+               <lb ed="#F" n="1"/>
+               <!-- erroneous line -->
+               <lb ed="#F" n="2"/>qua deum esse probatur, per scientiarum orbem extima perdiscitur ex quo causa esset, ut
+      ho<lb ed="#F" n="3" break="no"/>mines ad dei notionem non nisi aetate exacta peruenirent . idque ob id etiam datum esse 
+      <lb ed="#F" n="4"/>uolumus, ut generatim in hominum mentes agnitio penetret, &amp; influat. Nam cum 
+      <lb ed="#F" n="5"/>multi, aut propter negocia uitae, aut propter difficultatem indagandi, uel propter he 
+      <lb ed="#F" n="6"/>betiorem ingenij aciem, longe ab expleta absolutione absint, intelligi posset, eos 
+      <lb ed="#F" n="7"/>omnino dei agnitione fraudatum iri, ni fide diuina informaretur notio . Eodem accedit 
+      <lb ed="#F" n="8"/>que nihil est fide testatius etenim ratio multum a rerum diuinarum cognitione abest . idque 
+      <lb ed="#F" n="9"/>praedare patet, que ab omni philolophorum genere in naturali rerum humanarum
+      ex<lb ed="#F" n="10" break="no"/>plicatione titubatum fuisse scimus, multaque ab his inter se pugnantia conscripta legi 
+      <lb ed="#F" n="11"/>mus. Itaque quo splendidius dei notio elucesceret, necesse fuisse dicimus, ut fide in ho 
+      <lb ed="#F" n="12"/>minum mentes rerum diuinarum agnitio illaberetur, quao oraculo nihil sit in omni
+      natu<lb ed="#F" n="13" break="no"/>ra ueracius quamobrem iure promulgatum est, ne cui liceat, a rata fidei mensione de 
+      <lb ed="#F" n="14"/>sciscere. Duplex est autem hominum desciscentium genus. nam unum genus est eorum 
+      <lb ed="#F" n="15"/>qui ne tantulum quidem credendum putant, quales ludei aut Parthi nominantur.
+      Alte<lb ed="#F" n="16" break="no"/>rum uero genus est eorum, qui ex prouincijs uectigalibus plane bene Christum fa 
+      <lb ed="#F" n="17"/>tentur deu, sed ea nullo modo seligunt, quae consignatis decretis uerissime
+      tradun<lb ed="#F" n="18" break="no"/>tur, cum id maxime consectentur, ad quod suopte ingenio rapiantur . ideoque qui eiusmo 
+      <lb ed="#F" n="19"/>di perduellionatus postulantur, non modo pontificio interdicto ex Christianorum 
+      <lb ed="#F" n="20"/>coetu extruduntur, sed etiam nece ex terrarum orbe pelluntur, nam si hij qui nummos 
+      <lb ed="#F" n="21"/>adulterant morte mulctantur, quid de illis statuendum censemus, qui fidem
+      puer<lb ed="#F" n="22" break="no"/>tere conantur: At senatus tamen consulto, eiusmodi transfugarum generi diutur 
+      <lb ed="#F" n="23"/>nior impunitas conceditur, quo spatium postliminij, sordiumque eluendarum detur. At 
+      <lb ed="#F" n="24"/>cum nihil est pertinacissimo perduellioni loci, ne uelut rancidius malum caetera po 
+      <lb ed="#F" n="25"/>morum genera contaminet, pontificio primum interdicto ex orthodoxeo foro eij 
+      <lb ed="#F" n="26"/>citur, ad praetoria deinde tribunalia raptus bustuarijs exurendus datur. Sed inci 
+      <lb ed="#F" n="27"/>dit hoc loco contentio, num spes theologica sit nominanda uirtus. Multi enim
+      sa<lb ed="#F" n="28" break="no"/>tis negocij habent, si spei acdiuam hypothesim esse dicant, atqui cum acdiuitas
+      ma<lb ed="#F" n="29" break="no"/>xime magnanimitatis sit, quae in moralium uirtutum genere numeretur, nihil abes 
+      <lb ed="#F" n="30"/>se putant, quin spes morum potius uirtus quam theologica nominanda sit. Plaerique 
+      <lb ed="#F" n="31"/>etiam, quibus nihil est hac opinione potius, cum uirtutem theologicam in duorum
+      ui<lb ed="#F" n="32" break="no"/>tiorum meditullio uersari opinentur, spemque inter desperationem &amp; arrogantem
+      con<lb ed="#F" n="33" break="no"/>fidentiam constituant, fatendum esse dicunt, spem nullo modo uirtutem
+      theologi<lb ed="#F" n="34" break="no"/>cam uideri. In quo sane lituus &amp; tuba Christianorum, d. Thomas est adhibendus 
+      <lb ed="#F" n="35"/>auctor qui cum spei quatenus uirtus dicatur, principem hypothesim deum esse
+      con<lb ed="#F" n="36" break="no"/>firmet, satis esse notum probat, spem debere uirtutem theologicam putari.
+      quam<lb ed="#F" n="37" break="no"/>quam <name xml:id="pc99ia-d1e67X-Nd1e244">Durandus</name> hanc sententiam tanquam statuam incohatam absoluere conatur in quo 
+      <lb ed="#F" n="38"/>sane intelligi potest, caput excellentis artificis, &amp; discipuli reliqua membra uideri. 
+      <lb ed="#F" n="39"/>Atque illud etiam intelligendum est, spem in primis foelicitatem quae in deo cernen 
+      <lb ed="#F" n="40"/>do uersatur, tamquam laternam intueri cum autem spei hypothesis, ut res quae esse pos 
+      <lb ed="#F" n="41"/>sit obijcienda sit, quae fide continetur, necesse est, ut fides tanquam dux &amp;
+      antesigna<lb ed="#F" n="42" break="no"/>na antegrediatur. Itaque negamus foelices in aliquo spei genere uersari quando
+      qui<lb ed="#F" n="43" break="no"/>dem foelicitas sit praesens, &amp; spes futura complectatur. Sed his qui uiuunt &amp; hijs qu 
+      <!--079.xml-->
+      <pb ed="#F" n="33-v"/>
+               <lb ed="#F" n="1"/>in expiatore orco plectuntur haud quidem spes foelicitatis consequendae adimi 
+      <lb ed="#F" n="2"/>tur. At uero reorum damnatorumque genus, cum foelicitatem ut res quae esse possit, 
+      <lb ed="#F" n="3"/>nullo modo percipiat, haud sane in aliquo spei genere uersatur, propterea que
+      aerum<lb ed="#F" n="4" break="no"/>narum eorum intersit scire spem nullam ex aerumnis exeundi residere. Eodemque 
+      <lb ed="#F" n="5"/>modo de charitate disputatur siquidem charitas eo splendidius ex omni uirtutum 
+      <lb ed="#F" n="6"/>genere floret, quo proprior est deo. Nam cum ortum ex foelicitate nanciscatur, nul 
+      <lb ed="#F" n="7"/>o modo nobis naturae ui parta inest, sed spiritus afflatu illabitur, itaque intelligen 
+      <lb ed="#F" n="8"/>dum est ea ditius in uita locupletari posse. Sed cum omne contrarium alterius
+      interuen<lb ed="#F" n="9" break="no"/>tu adimatur, sciri necesse esse, eam quoque capitalis tabis interuentu tolli. nam quem 
+      <lb ed="#F" n="10"/>admodum lucem in aere deesse dicimus, si sosi caligo offundatur, sic eam in anima 
+      <lb ed="#F" n="11"/>deesse uolumus, si dei afflatus sceleris tabe tanquam uelo quodam obtendatur. Sed 
+      <lb ed="#F" n="12"/>cum charitas latissime pateat, maxime in generis humani societate cernitur. itaque 
+      <lb ed="#F" n="13"/>ob eam causam nephariorum etiam hominum est seruanda communitas, propterea 
+      <lb ed="#F" n="14"/>que foelicitatis sit eorum natura capax. At cum culpae contractae ratio expenditur, qua 
+      <lb ed="#F" n="15"/>fiunt homines foelicitatis expertes, tum non modo hij cum quibus nulla est
+      no<lb ed="#F" n="16" break="no"/>bis propinquitatis colligatio, sed etiam parentes &amp; liberi odiosi esse debent.
+      Qua<lb ed="#F" n="17" break="no"/>re, pertinet ad omnes scire in hac hominum societate ordinem oportere statui,
+      quandoq<lb ed="#F" n="18" break="no"/>dem ordo, prius &amp; posterius complectatur. Gradus igitur societatis hominum hoc
+      mo<lb ed="#F" n="19" break="no"/>do describuntur, ut arctior sit societas propinquorum, a qua diuelli natura nequeamus 
+      <lb ed="#F" n="20"/>cum princeps sit &amp; natura solidior Si autem disceptatio aut collatio fiat, qubus plus 
+      <lb ed="#F" n="21"/>sit charitatis impertiendum, dicendum erit, ob initium plus parenti quam libero esse 
+      <lb ed="#F" n="22"/>tribuendum. At si uerius necessitudo expendatur, nemini dubium esse potest, id 
+      <lb ed="#F" n="23"/>plus amoris flagitare quod arctius astringitur . ex quo ut ait Aristoteles causa est, 
+      <lb ed="#F" n="24"/>ut plus amoris filio quam parenti debeatur siquidem pater liberum amat tamquam quippiam 
+      <lb ed="#F" n="25"/>ex se manans, quod idem filio nullo modo contigit . Eodem accedit que parentis
+      diu<lb ed="#F" n="26" break="no"/>turnior est amor, nam liberi a parentibus in crepundijs primoque naturae ortu
+      di<lb ed="#F" n="27" break="no"/>liguntur contraque parentes a liberis sero &amp; etatis progressione amantur, at amor 
+      <lb ed="#F" n="28"/>quo uetustior eo absolutior esse solet . Itaque dubitari non potest, qun iure plus
+      amo<lb ed="#F" n="29" break="no"/>ris sit a parente quam a matre reposcendum cum pater in praestantiori originis
+      ratio<lb ed="#F" n="30" break="no"/>ne uersetur, &amp; mater patibilem naturam nanciscatur : Eodemque modo de omni pro 
+      <lb ed="#F" n="31"/>pinquorum genere disseritur, quomodo sit quisque minus magisue colendus. Ac in 
+      <lb ed="#F" n="32"/>eiusmodi quaestione, a nostris, de pace, de donatione, de obiurgatione, &amp; quae sunt 
+      <lb ed="#F" n="33"/>generis eiusdem disputatur siquidem paci inquiunt dissidium &amp; bellum
+      oppo<lb ed="#F" n="34" break="no"/>nitur Dissidium enim est hominum cohaerentium charitate repugnante
+      distractio<lb ed="#F" n="35" break="no"/>Bellum autem est hominum dissidentium armata decertatio. At bellorum aequi 
+      <lb ed="#F" n="36"/>tas sic tripartito discerpitur, ut in principum auctoritate, in causa, &amp; dimicantium 
+      <lb ed="#F" n="37"/>uoluptate uersetur. Principum autem haud secus interest ferro hostes a finibus ar 
+      <lb ed="#F" n="38"/>cere, ac nepharios &amp; sontes punire domi. Causarum autem iniustarum multa sunt ge 
+      <lb ed="#F" n="39"/>nera. nam quaedam appetentium, quaedam uaferrime eripientium, quaedam iniuste
+      la<lb ed="#F" n="40" break="no"/>cessentium nominantur. Voluntas uero dimicantium legitima putatur, cum ab his 
+      <lb ed="#F" n="41"/>nec cupide nec acerbe bella geruntur, sed bellum ita suscipitur, ut pax sola
+      quaera<lb ed="#F" n="42" break="no"/>tur . ideoque iure sancitum est, ut initiati &amp; flamines exleges dicantur, sitemere in 
+      <!--080.xml-->
+      <pb ed="#F" n="34-r"/>
+               <lb ed="#F" n="1"/>acie &amp; dimicatione uersentur, aut ea praelia ineant, quibus humanus cruor profum 
+      <lb ed="#F" n="2"/>datur, est enim bellum ritualis cultus &amp; precationum hostis. At uero donatio quae 
+      <lb ed="#F" n="3"/>a graecis ἐλεμκοοηύμμ dicitur, benigna est suffragandi uoluntas, quae egentissimo
+      cui<lb ed="#F" n="4" break="no"/>que opitulatur. Hanc enim nostri in septem genera diuidunt nam eos qui fame con 
+      <lb ed="#F" n="5"/>ficiantur alere, diuturna aestuantium sitim extinguere, tunicatum &amp; semiamictum 
+      <lb ed="#F" n="6"/>penula uestire, a praedonibus redimere &amp; e seruitute captos, hospitalem esse in
+      ad<lb ed="#F" n="7" break="no"/>uenas, aegritudine tabescentibus adesse, aut eorum qui uita excesserunt cadauera hu 
+      <lb ed="#F" n="8"/>mare, in hoc benignitatis genere ponunt. Sed intelligendum est maxime, his
+      opi<lb ed="#F" n="9" break="no"/>bus in largiendo uti non licere, quae uel rapinis uel furto siue foenore parantur, cum 
+      <lb ed="#F" n="10"/>satis notum sit eiusmodi opes, his reddi debere, quibus adimuntur. Nec item ex eo
+      ge<lb ed="#F" n="11" break="no"/>nere conuenit in largiendo esse beneficum, quo pecuniae stolidis, aut pueris in
+      ta<lb ed="#F" n="12" break="no"/>lario, aut aleatorio ludo dolose detrahuntur cum illis actio repetundarum detur 
+      <lb ed="#F" n="13"/>At uero neque hijs pecunijs quae ex munerali ambitu parantur, uti in suffragando 
+      <lb ed="#F" n="14"/>licet cum &amp; qui acceperint &amp; qui dederint eiusdem iniustitiae criminis
+      postulan<lb ed="#F" n="15" break="no"/>di sint eademque praescriptio est pecuniarum quae in lupanaribus ex meretricia
+      attre<lb ed="#F" n="16" break="no"/>ctatione quaeruntur, cum difficilis sit redditio ad nummum, &amp; haud fas sit aras
+      di<lb ed="#F" n="17" break="no"/>uorumque delubra his meretricijs manubijs ornare. De obiurgatione autem
+      be<lb ed="#F" n="18" break="no"/>nigna sic agimus, ut eam aegrotationis medicinam esse dicamus. nam &amp; absynthium 
+      <lb ed="#F" n="19"/>stomacho interdum datum, &amp; mel quoque interdum uulneribus adiectum obest. 
+      <lb ed="#F" n="20"/>Quod castigationis genus, cum ex charitate dimanet, latissime patere uolumus. 
+      <lb ed="#F" n="21"/>nam homines, &amp; maiores &amp; minores gentium obiurgandi sunt idque etiam
+      quan<lb ed="#F" n="22" break="no"/>doque facinorosis nepharijsque hominibus licere dicimus, modo id claementiori
+      ob<lb ed="#F" n="23" break="no"/>iurgatione fiat, nec uerendum sit, ut medendo bilis excitetur. Itaque in desinendi 
+      <lb ed="#F" n="24"/>modo suaues castigationes tanquam bellaria ex saccaro apponantur, ut ori suauitas 
+      <lb ed="#F" n="25"/>resideat. Nec multo quidem secus de spiritus muneribus quaeri hoc loco solet, qui 
+      <lb ed="#F" n="26"/>bus homines domicilium gloriae, sine lapsu &amp; molestia capessunt. sunt enim
+      uirtu<lb ed="#F" n="27" break="no"/>tum praesidia insita afflatu, quibus multa diuinitus tanque manum contrectata
+      no<lb ed="#F" n="28" break="no"/>scuntur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

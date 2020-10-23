@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 9</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 9</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="47-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e991"><!-- l4q9 -->
+            <head xml:id="pc99ia-d1e991-Hd1e108">Distinctio 9</head>
+            <head xml:id="pc99ia-d1e991-Hd1e111" type="question-title">De iudicio</head>
+            <p xml:id="pc99ia-d1e991-d1e114">
+               <lb ed="#F" n="24"/>DE IVDICIO 
+      <lb ed="#F" n="25"/>DISTINCTIO NONA. 
+      <lb ed="#F" n="26"/>Ed restare uidetur ut totum sententiae dicundae locum persequamur, 
+      <lb ed="#F" n="27"/>quam quidem iure generatim in omnes deum laturum dicimus, ut &amp; 
+      <lb ed="#F" n="28"/>praemijs afficiantur probi, &amp; flagitiosa sceleratorum reorum immanitas 
+      <lb ed="#F" n="29"/>uindicetur. Itaque praeteriri hoc loco non debet, an iudicium sit tanquam in 
+      <lb ed="#F" n="30"/>foro, uocis disceptatione futurum. <name xml:id="pc99ia-d1e991-Nd1e131">Durandus</name> enim quanquam causae cognitionem
+      taci<lb ed="#F" n="31" break="no"/>tam futuram opinetur, sententiam tamen uoce latum iri uult quando quidem Chri 
+      <lb ed="#F" n="32"/>stum in tribunali non modo diuinitus, sed etiam humanitus diudicaturum dicat. 
+      <lb ed="#F" n="33"/>Quibusdam autem placet mente &amp; uoce rerum testificationem fore proptereaque 
+      <lb ed="#F" n="34"/>ita conscientiae theatrum perspicuum fore dicunt, ut necesse sit cuique futurum tanquam in 
+      <lb ed="#F" n="35"/>speculo testari id, cuius sine recuperatione aut prouocatione arguatur. Atque etiam 
+      <lb ed="#F" n="36"/>coelites hoc iudicij tempore affuturos censent, qui tanquam custodes &amp; testes in iu 
+      <lb ed="#F" n="37"/>dicium uocentur . idque a Platone confirmari uolunt, qui auctore. L. Apuleio dicat, 
+      <lb ed="#F" n="38"/>uocationem coelitibus in resurrectione dari. eosque non modo delectis &amp; descriptis 
+      <lb ed="#F" n="39"/>patiocinandi, sed etiam accusandi reos, negocijque exhibendi ius habituros. At vero 
+      <lb ed="#F" n="40"/>homo in omni theologia tardigradus diuus Thomas, quanquam affirmet nihil
+      si<lb ed="#F" n="41" break="no"/>bi satis pro certo in eiusmodi disceptatione liquere, probabilius tamen uideri
+      di<lb ed="#F" n="42" break="no"/>cit, iudicium in accusatione reorum, uel in patrocinio proborum, aut in sententia 
+      <lb ed="#F" n="43"/>
+               <!-- erreonous line coord -->
+               <!--107.xml-->
+               <pb ed="#F" n="47-v"/>
+               <lb ed="#F" n="1"/>dicunda tacitum futurum proptereaque si nominatim generatimque omne genus 
+      <lb ed="#F" n="2"/>humanum censendum esse diceretur, negari nullo modo posse affirmat, quin in 
+      <lb ed="#F" n="3"/>censura esset temporis incredibile conterendum spacium. Sed maxime in
+      contro<lb ed="#F" n="4" break="no"/>uersiam cadit, quanam sit specie censor hominum Christus in mundi forum
+      descen<lb ed="#F" n="5" break="no"/>surus. Nos enim cum uideamus ob eam causam iudicium esse constitutum, ut
+      qui<lb ed="#F" n="6" break="no"/>busdam ad coelum iter secludatur, quibusdam coeli penetralia pateant,
+      consenta<lb ed="#F" n="7" break="no"/>neum esse dicimus, ut qui hominibus aditum in coeli templa patefecerit, is
+      etiam<lb ed="#F" n="8" break="no"/>ad ius dicundum quod sit rerum humanarum limes, humana specie accedat. Atque 
+      <lb ed="#F" n="9"/>ex hoc etiam sciri poterit, an in ipsis rostris Christi diuinitas sit a perditorum gene 
+      <lb ed="#F" n="10"/>re cernenda. Aquinatum enim auxiliaria cohors fatendum esse uult, dei naturam, 
+      <lb ed="#F" n="11"/>naturam esse ueritatis. At cum maximam uoluptatem esse sentiat ueri
+      noscendi<lb ed="#F" n="12" break="no"/>quando quidem natura hominum mentibus insitum sit, ut uehementer
+      intelligendi<lb ed="#F" n="13" break="no"/>cupiditate flagrent, facile in promptu esse dicunt, diuinitatem sine animae laetitia 
+      <lb ed="#F" n="14"/>cerni non posse sed cum perspicuum sit in perditorum genere laetitiam esse nequire. 
+      <lb ed="#F" n="15"/>cum in misero tetroque angore uersentur, effici uolunt ut nullo modo diuinitas a 
+      <lb ed="#F" n="16"/>flagitiosa sceleratorum manum cerni posse dicatur. Cui toti rationi uehementer
+      ad<lb ed="#F" n="17" break="no"/>uersatur dientum gregibus stipatus <name xml:id="pc99ia-d1e991-Nd1e206">Scotus</name>, contra quem <name xml:id="pc99ia-d1e991-Nd1e209">Durandus</name>
+      argumento<lb ed="#F" n="18" break="no"/>rum aceruum obstruxit, maximeque Scotei terebri aciem retundere conatur
+      Ca<lb ed="#F" n="19" break="no"/>preolus, nec multo minus acute Godofredus, &amp; Bernardus Gannacus in hoc ge 
+      <lb ed="#F" n="20"/>nere uersantur, nos vero ne tantulum quidem a. D. Thoma recedendum putamus. 
+      <lb ed="#F" n="21"/>Verum contentio esse potest si indicto iustitio, quaedam mundi sit futura
+      noui<lb ed="#F" n="22" break="no"/>tas. Plaerique enim qui Empedodem non ut cometen, sed ut solem admirantur,
+      sta<lb ed="#F" n="23" break="no"/>tum hodiernum uolunt naturalem esse rerum. Atqui si res in alium statum tranfferri 
+      <lb ed="#F" n="24"/>dicantur, eundem statum naturalem esse negant sed quod nec naturale sit, id etiam 
+      <lb ed="#F" n="25"/>Aristotele auctore, nec aeternum dicant, manifestum esse eum quoque nouitatis
+      sta<lb ed="#F" n="26" break="no"/>tum, ex mundo quandoque casurum. Id si ita est, facile erit etiam mundi comuersionem 
+      <lb ed="#F" n="27"/>quandam inducere, ex qua innumerabiles uicissim mundi nascantur, quo sane 
+      <lb ed="#F" n="28"/>nihil dici potest in omni etiam physiologia hebetius. Quare haec quidem opinio in 
+      <lb ed="#F" n="29"/>Origenicorum umbra extabuit, que longissime a naturae ratione abesset, &amp; nonnul 
+      <lb ed="#F" n="30"/>lus inesset haereticorum odor Quamquam magnum est nobis cum quodam recentium philo 
+      <lb ed="#F" n="31"/>sophorum genere certamen, num reuiuiscente mundo coelestis meatus sit uacatio 
+      <lb ed="#F" n="32"/>futura, siquidem multi qui quasi in physicis non longius quam unius passus interuallo 
+      <lb ed="#F" n="33"/>Auerromim antecedentem urgeant, solis circumuectione mundum collustrari
+      opi<lb ed="#F" n="34" break="no"/>nantur. Atqui si coeli conuersio circumferri desierit, concedi sibi uolunt, aliquam 
+      <lb ed="#F" n="35"/>telluris partem summa cutem caliginosam, &amp; atram futuram quod maxime a
+      reuiui<lb ed="#F" n="36" break="no"/>scentis mundi ornatu abhorrere dicunt. Quorundam etiam opinio est, coelestia 
+      <lb ed="#F" n="37"/>corpora orbe nouo meliora effici debere. At si coeli meatum uacaturum
+      affirme<lb ed="#F" n="38" break="no"/>tur, effici etiam ut mundus multo quoque deterior futurus dicatur, cum motus
+      mul<lb ed="#F" n="39" break="no"/>to sit cessatione praestantior. Atque ex his etiam multi, si motum defuturum
+      affir<lb ed="#F" n="40" break="no"/>metur, id non aliam ob causam euenturum dicunt, nisi quatenus a motu,
+      senectu<lb ed="#F" n="41" break="no"/>tis aut defatigationis causae coelo afferantur. Quod cum fieri nullo modo possit, 
+      <lb ed="#F" n="42"/>quandoquidem &amp; motus naturalis sit, &amp; coelum haud quaquam patibile dicatur, fatendum 
+      <!--108.xml-->
+      <pb ed="#F" n="48-r"/>
+               <lb ed="#F" n="1"/>esse perennem meandi motionem nullo modo defuturam. Nos uero qui non argumen 
+      <lb ed="#F" n="2"/>torum numerum, sed selectum quaerimus, cum perfacile auctore Aristotele dicamus 
+      <lb ed="#F" n="3"/>motum ob quempiam finem esse constitutum, intelligi etiam uolumus, omnem motum 
+      <lb ed="#F" n="4"/>ob quippiam extremum constitutum, ultimo adepto quieturum, quod si ita est, erit etiam 
+      <lb ed="#F" n="5"/>fateri necesse, aut coeli meatum nunquam suum adepturum finem, quod frustra fieri
+      dice<lb ed="#F" n="6" break="no"/>retur aut omnino quandoque quieturum. Atque etiam cessationem multo motione
+      prae<lb ed="#F" n="7" break="no"/>stantiorem esse putandum est. nam ut quaeque res stabilior dicitur, eo effectoris rerum 
+      <lb ed="#F" n="8"/>dei similior uideri debet, quem immobilem esse, summum, supra est probatum a no 
+      <lb ed="#F" n="9"/>bis. At cum inferiorum generum motus ad quietem natura ferantur, satis erit intelligi 
+      <lb ed="#F" n="10"/>quo aetheria corpora praestantiora dicantur, eo magis eorum motus natura ad
+      mean<lb ed="#F" n="11" break="no"/>di uacationem circumscriptum iri quanquam hoc loco perspicuum esse potest non natura 
+      <lb ed="#F" n="12"/>sed uoluntate agitantium coelitum opificique deo parentium, coeli cessaturum motum. Itaque 
+      <lb ed="#F" n="13"/>non sine causa sciri debet modo ab his coelitibus orbes ad ratos cursus moueri, ut 
+      <lb ed="#F" n="14"/>eorum meatu afflatus temperationisque nouatio gignatur, quae ad ortum &amp; tabem 
+      <lb ed="#F" n="15"/>maxime pertineat, eosque eatenus moturos quoad descriptorum hominum selectus 
+      <lb ed="#F" n="16"/>cumuletur sed tum mouendi munia ab ijs relictum iri, proptereaque hominibus 
+      <lb ed="#F" n="17"/>sint, nullam uim tuendae uitae in meando datura, siquidem haud quaquam necessi 
+      <lb ed="#F" n="18"/>futurum dicimus, ut ultra humanum propagetur genus, uel animantia, aut arborum ge 
+      <lb ed="#F" n="19"/>nera ad usum hominum gignantur. Quare multis dubitatio accidit, an eadem coel 
+      <lb ed="#F" n="20"/>plaga sint cessaturi orbes, qua geniti esse dicantur. Nam quibusdam qui tanquam quae 
+      <lb ed="#F" n="21"/>dam animantium genera, si capita occuluerint, latere se totos opinantur, fas omnino 
+      <lb ed="#F" n="22"/>esse placet, coeli orbes praecaro, &amp; rato quodam ordine consistere. sed cum ad ueri 
+      <lb ed="#F" n="23"/>tatis similitudinem accedat eodem quoque ordine, eodemque statu coeli, esse procreatos, 
+      <lb ed="#F" n="24"/>manifestum esse eodem quoque statu quo geniti dicantur, cessaturos. In quo quidem 
+      <lb ed="#F" n="25"/>non est ita coeli partienda descriptio, ut plagarum genera distinguantur, cum per 
+      <lb ed="#F" n="26"/>spicuum sit quemcunque coeli statum, absolutiorem aut deteriorem fieri nullo modo 
+      <lb ed="#F" n="27"/>posse quanquam quosdam orbium habitus inter se magis certis quibusdam effectuum 
+      <lb ed="#F" n="28"/>generibus, quam alijs congruere affirmetur, ut si Solis &amp; Martis in leonis corde
+      connu<lb ed="#F" n="29" break="no"/>bium aptius ad ariditatem inferius gignendam, dicatur, quam louis, &amp; Saturni copu 
+      <lb ed="#F" n="30"/>latio, ut Chaldaicis est literis mandatum. At cum primo globos orbesque coeli
+      geni<lb ed="#F" n="31" break="no"/>tos esse dicimus, fateri etiam cogimur alia tum effectuum genera ad inferiora
+      regen<lb ed="#F" n="32" break="no"/>da esse quaesita, quam quae modo flagitentur, &amp; item alia modo quam dudum . ac rursum 
+      <lb ed="#F" n="33"/>alia in mundi calce, quam modo. Quocirca necesse est orbes ea coeli plaga cessaturos 
+      <lb ed="#F" n="34"/>quae ita primordiorum aptitudini congruat, ut nullo modo is status extabescere 
+      <lb ed="#F" n="35"/>posse dicatur. Cum autem initijs ea sit comuentura aptitudo, quae primo ortu orbibus 
+      <lb ed="#F" n="36"/>nullo modo congruere potuisset, facile cognosci potest, haud quaquam ea coeli plaga 
+      <lb ed="#F" n="37"/>deserturos motum, qua geniti fuisse dicantur. Itaque intelligendum est potius orbes 
+      <lb ed="#F" n="38"/>ea plaga meandi finem habituros, quae ita sit conciliatura initia, ut agendi uicissim, 
+      <lb ed="#F" n="39"/>ac ferendi necessitate liberentur. Atque etiam ex his occasio disputandi ducitur, an coeli 
+      <lb ed="#F" n="40"/>globi lucis accretione augescant. In quo placet nostris lucem non modo hominum 
+      <lb ed="#F" n="41"/>causa, sed etiam ad facultatem effectoris tanti operis contemplandi esse factam. Itaque 
+      <lb ed="#F" n="42"/>dissoluto iudicio, negatur selectorum corporibus a luce res ad usum necessarias sup¬ 
+      <!--109.xml-->
+      <pb ed="#F" n="48-v"/>
+               <lb ed="#F" n="1"/>peditatum iri. nam cum selectorum genus opificem &amp; parentem deum contempla 
+      <lb ed="#F" n="2"/>turum dicatur, intelligi simul potest, mente eos spirituum corporumque effectus
+      me<lb ed="#F" n="3" break="no"/>tiri debere, maximeque eorum oculos corporearum rerum spectaculis &amp; admiratio 
+      <lb ed="#F" n="4"/>ne laetaturos ob eamque causam consentaneum est, ut nouatis hominibus,
+      coele<lb ed="#F" n="5" break="no"/>stium quoque orbium lux accretione augescat . Eodemque modo affirmatur rerum 
+      <lb ed="#F" n="6"/>primordia, flagrantia lucis, splendidiora futura. Sed existere controuersia hoc lo 
+      <lb ed="#F" n="7"/>co potest, an cuncta sint animantum beluarum arborumque interitura genera. Qua 
+      <lb ed="#F" n="8"/>rum quidem rerum quadripertita est descriptio, nam quaedam esse animantium 
+      <lb ed="#F" n="9"/>genera dicuntur, quae per se nullo modo extabescant, quo in genere daemones, cae 
+      <lb ed="#F" n="10"/>lites, coelestiaque corpora numerantur. Alia sunt genera eorum, quae per se
+      labefa<lb ed="#F" n="11" break="no"/>ctantur, ut beluae, arbores, metalla, &amp; quae eius generis dicuntur. Tertium genus 
+      <lb ed="#F" n="12"/>est quod corpore extabescit, &amp; parte principe labefactari non potest quo
+      homi<lb ed="#F" n="13" break="no"/>nes soli continentur. Quartum uero genus est eorum, quod cum partibus
+      tabesci<lb ed="#F" n="14" break="no"/>bile sit, totum tamen corrumpi non potest, non que eorum tota natura per se tabefieri 
+      <lb ed="#F" n="15"/>non possit, sed quia his ob ratum mundi ordinem causa labefactantrix desit ex quo 
+      <lb ed="#F" n="16"/>genere rerum primordia numerantur. Sed cum perspicuum sit ei generi status qui 
+      <lb ed="#F" n="17"/>per se labefactari non possit, nullo modo id cooruere, quod per se totum, ratoque 
+      <lb ed="#F" n="18"/>mundi ordine, ac suapte sit natura tabescibile, ob eam idcirco causam praeclare sci 
+      <lb ed="#F" n="19"/>ri potest, beluarum, arborum, metallorum, ac eiusmodi genera, nullo modo
+      man<lb ed="#F" n="20" break="no"/>sura.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

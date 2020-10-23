@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="23-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e491"><!-- l3proem -->
+            <head xml:id="pc99ia-d1e491-Hd1e108">Prooemium</head>
+            <p xml:id="pc99ia-d1e491-d1e111">
+               <lb ed="#F" n="11"/>PAVLI CORTESII PROTONOTARII APOSPO 
+      <lb ed="#F" n="12"/>LICI APOLOGETICVM PROHOEMIVM IN 
+      <lb ed="#F" n="13"/>LIBRVM TERTIVM SENTENTIARVM  
+      <lb ed="#F" n="14"/>AD IVLIVM. II PONT. MAX. 
+      <lb ed="#F" n="15"/>Vm multis in rebus ueritatem Christianam Pont. Max. tum
+      prae<lb ed="#F" n="16" break="no"/>sertim in aduersariorum oppugnatione splendescere uidemus. 
+      <lb ed="#F" n="17"/>siquidem contrarij unius notitia, alterius perceptio eruitur .
+      quem<lb ed="#F" n="18" break="no"/>admodum quibus notum est album, continuo etiam ab his atrum per 
+      <lb ed="#F" n="19"/>nosci potest. Nam si uolumus singulorum dogmata recensere, 
+      <lb ed="#F" n="20"/>facile reperiemus, quantum sit hominum lippitudo in ueri
+      igno<lb ed="#F" n="21" break="no"/>ratione uersata. Etenim illi ipsi philosophi cum naturae admonitu, aliquid extra con 
+      <lb ed="#F" n="22"/>spectum maius esse suspicarentur, quasi angusti animi uideretur, uitae contentum esse  
+      <lb ed="#F" n="23"/>terminis, confidentia uirium humanarum perquirebant finem, eumque sensuum
+      prae<lb ed="#F" n="24" break="no"/>sidijs indagare conabantur, tanquam omnis nostra cognitio oriretur a sensibus
+      pa<lb ed="#F" n="25" break="no"/>rum intelligens improuida mortalitas, naturam diuinam sub eorum sensus cadere non 
+      <lb ed="#F" n="26"/>posse, qui concreta caligine offusi, ad solis splendorem hebescerent &amp; quod non
+      ca<lb ed="#F" n="27" break="no"/>deret in sensus, ab intelligentia percipi non posse, nisi quatenus cognitio e sensibus 
+      <lb ed="#F" n="28"/>erueretur. Itaque ieiuna auiditate diu in exquirenda foelicitate uersati, quanto ingre 
+      <lb ed="#F" n="29"/>di nitebantur interius, tanto retrorsum uicissim reiecti reflatu ferebantur, quando 
+      <lb ed="#F" n="30"/>quidem natura prius uideretur statuendum esse de fine qui cum esset supra
+      intelligen<lb ed="#F" n="31" break="no"/>tiae complexum, supraque mortalitatem constitutus, intelligi necesse erat, occultissime etiam 
+      <lb ed="#F" n="32"/>abdita fuisse intermedia, quibus homines ad finem bonorum ducerentur. Quod cum 
+      <lb ed="#F" n="33"/>ita sit, facile apparet sine aethereo haustu, mentis humanae naturam effoetam exaruis 
+      <lb ed="#F" n="34"/>se, nec secus internouisse finem, quam qui noctu iter facit, cum procul aliquid eminens 
+      <lb ed="#F" n="35"/>aspexerit, oculorum errore deceptus, urbem a monte non secernit, quod si nullus est 
+      <lb ed="#F" n="36"/>ab his foelicitatis certus constitutus limes, quodnam religionis genus consequi potue 
+      <lb ed="#F" n="37"/>runt, quae est ad foelicitatem iter: Atque notum quidem est a philosophorum errore ad
+      im<lb ed="#F" n="38" break="no"/>peritum uulgus superstitionem colendorum deorum emanasse. Nam quasi ex coeli motu satis 
+      <lb ed="#F" n="39"/>numinum explorata cognitio uideretur, ex eorum natura commenti sunt deos. In quo quis non 
+      <lb ed="#F" n="40"/>uidet quam insulsa sit deliratio hominum opinantium, fingentiumque deos; nam (ut caetera
+      omit<lb ed="#F" n="41" break="no"/>tam) quid absurdius esse potest, quam digladiantes inter se deos inducere: qud turpius quam Venerem 
+      <!--060.xml-->
+      <pb ed="#F" n="24-r"/>
+               <lb ed="#F" n="1"/>afferre deam, quae indusam, germanissimamque libidinem contineret, ex eaque
+      Cupi<lb ed="#F" n="2" break="no"/>dinem matris excitatorem nasci, quo non modo ad adulteria &amp; stupra, sed etiam ad 
+      <lb ed="#F" n="3"/>puerorum amores inflammarentur dij, ne quid esset uetitum mortalibus, quod non
+      appe<lb ed="#F" n="4" break="no"/>tere uideretur diuina natura. Quid item tam flagitiosum quam Bacchum deum opinari, quo 
+      <lb ed="#F" n="5"/>deorum insania gigneretur, &amp; iucundus furor. Aut quid postremo obscenius, quam pria 
+      <lb ed="#F" n="6"/>pum deum audere comentari: In quo quis non uidet quantus sit ortus error
+      homi<lb ed="#F" n="7" break="no"/>num, cum sint ad tam nuda flagitia delapsi, aut non intelligit ubi sit ueritatis
+      de<lb ed="#F" n="8" break="no"/>speratio, ibi impunem esse licentiam fingendi: Quod si tamen dij fuisse dicantur, 
+      <lb ed="#F" n="9"/>consentaneum etiam uideri debet, ab his foelicitatem hominum fuisse decretam
+      quan<lb ed="#F" n="10" break="no"/>doquidem permagni deorum intersit, hominum generi consulere. Atqui cum nulla 
+      <lb ed="#F" n="11"/>fuerit ab his humanarum rerum suscepta procuratio, fateri necesse est, nullo modo fuis 
+      <lb ed="#F" n="12"/>se deos. Atque etiam negari non potest deos optimos esse natura sed qui crebro flexi 
+      <lb ed="#F" n="13"/>loquis cauillis inter homines seditiones intestinaque bella seruerint, nullo modo 
+      <lb ed="#F" n="14"/>natura optimi dicendi sunt ergo nec etiam dij. Deinceps nihil potest tam abhor 
+      <lb ed="#F" n="15"/>rens a deorum natura, quam mendacium putari. atqui cum saepe sint oracula
+      menda<lb ed="#F" n="16" break="no"/>cia reperta, quorum fallacijs hominum generi sit quaesita pernicies, perfacile iudicium 
+      <lb ed="#F" n="17"/>est, utrum nominandi sint dij. Quod si rursum dij fuisse dicantur, quaerendum quidem est.  
+      <lb ed="#F" n="18"/>cur Christi interuentu euanuerint, cur eorum sint fana, &amp; oracula euersa, cur
+      extin<lb ed="#F" n="19" break="no"/>cta disciplina sacrorum, cur flamines, Salij. Auguresque sublati, quod quidem quia 
+      <lb ed="#F" n="20"/>negari non potest perinde, ut dicimus, contigisse, confitendum est etiam nullo modo 
+      <lb ed="#F" n="21"/>fuisse deos. Atque etiam quid erit de perduellionum nostrorum secessione
+      dicen<lb ed="#F" n="22" break="no"/>dum: qui quanquam Christum seruatorem colant, eum tamen opinionum prauita 
+      <lb ed="#F" n="23"/>te discerpunt, faucesque ab orthodoxeo senatu retorquent. Quorum quidem
+      peruer<lb ed="#F" n="24" break="no"/>sitatem maxime indicat tam dissidentium inter se claudicans opinio quando
+      qui<lb ed="#F" n="25" break="no"/>dem omnis ueritas uicissim cum alia quoquo uersum congruat. Sed lethalis
+      ambi<lb ed="#F" n="26" break="no"/>tio hoc transfugarum genus in tanta dissensione constituit, ut non modo inter aduer 
+      <lb ed="#F" n="27"/>sarios, sed etiam ipae inter se familiae concursum collidantur, &amp; quo multorum est ingenium foe 
+      <lb ed="#F" n="28"/>cundius, eo inuolutiorem implicationem affert, ut terra quo est natura uberior, eo
+      cre<lb ed="#F" n="29" break="no"/>briores sentes profundit. Cum horum prauitate, Maumethis coniunctus est error 
+      <lb ed="#F" n="30"/>cuius sera ambitio quamquam diuinitatis laruam induerit, minime tamen ita uecors fuit 
+      <lb ed="#F" n="31"/>quin Christum statuerit deum. nam quasi eum librum qui Alcoranus inscribitur, ex
+      no<lb ed="#F" n="32" break="no"/>stro &amp; compascuo uatum agro decerpat, neminem absolutum fore censet, nisi
+      qui<lb ed="#F" n="33" break="no"/>uatum elogijs, aut Christianorum consignatis decretis obstrictus teneatur, eumque li 
+      <lb ed="#F" n="34"/>brum utrorumque sacrorum umbilicum esse confirmat. In quo quidem refellendo, non est 
+      <lb ed="#F" n="35"/>ut Physiologiae mucrone utamur, honorificentius enim est haec bractearum genera 
+      <lb ed="#F" n="36"/>praeterire contemnendo, quam argumentando prumpere. Nos uero multo certius Chri 
+      <lb ed="#F" n="37"/>stum probamus esse deum, idque cum mirificis argumentorum molibus, tum maxime no 
+      <lb ed="#F" n="38"/>strorum exemplis testibus obstringimus, qui turbinibus &amp; fluctibus non modo 
+      <lb ed="#F" n="39"/>non terrerentur, sed etiam in ipso eculeo, tanquam in epulari accubatione laetarentur, quod 
+      <lb ed="#F" n="40"/>sane minime ex natura propter hormes nexus, intelligentiaeque angustias oriri po 
+      <lb ed="#F" n="41"/>terat. Quo constituto intelligi debet, id donum esse dei supra intelligentiae obtutum 
+      <lb ed="#F" n="42"/>situm, quo hominibus nostris, certa coelestis luminis alacritas, diuorumque beatitas 
+      <!--061.xml-->
+      <pb ed="#F" n="24-v"/>
+               <lb ed="#F" n="1"/>ob oculos obuersaretur: idque ratione confirmatur Nam cum anima nostra una 
+      <lb ed="#F" n="2"/>dicatur quae ulnis uires suas connexas continet, simulac uirium munus unum flagram 
+      <lb ed="#F" n="3"/>tius obit, in alterum incumbere nequit Quemadmodum dum acrius seiunctarum 
+      <lb ed="#F" n="4"/>naturarum inspectione occupamur, sensus munia amittimus . ac dum ardentius
+      li<lb ed="#F" n="5" break="no"/>bidinibus inflammamur, dumque torminibus &amp; morborum cruciamentis torquemur 
+      <lb ed="#F" n="6"/>intelligentiae obtutu orbamur. Ex quo facile intellectu est nullo modo per
+      natu<lb ed="#F" n="7" break="no"/>ram fas esse, ut homines in ipsis trucidationibus tormentisque carnificum, eam essent 
+      <lb ed="#F" n="8"/>perferendi constantiam, animaeque laeticiam nacti, quam in nostris fuisse scimus, cum 
+      <lb ed="#F" n="9"/>nefarius furor a Caudio Nerone manans, supra trecenties centum, in
+      Christia<lb ed="#F" n="10" break="no"/>norum necem exarsit . ldque mirabilius contigit, que uoluntariorum iugulos praebentium 
+      <lb ed="#F" n="11"/>ad carnificinam erat concursus, &amp; quo plures necabantur, eo plurium ignita morien 
+      <lb ed="#F" n="12"/>di auiditas percrebescebat, quod quoniam a natura oriri non poterat,
+      quandoqui<lb ed="#F" n="13" break="no"/>dem ab interitu &amp; cruciatu natura abhorreat, erit confiteri necesse id a diuinitate 
+      <lb ed="#F" n="14"/>manasse. Neque enim fieri poterat ut in ipsa carnificina, moriendi auiditas percre 
+      <lb ed="#F" n="15"/>besceret, nisi unius spe atque nomine, corpus ut putamen mensi, ad aeternitatem
+      in<lb ed="#F" n="16" break="no"/>columem animam exituram praesensissent. Quod si Chaldaeorum pugnacissima in 
+      <lb ed="#F" n="17"/>sulsitas, qui tanquam pantherae aut lupi nunquam condocefiunt, eam necis auiditatem a 
+      <lb ed="#F" n="18"/>Saturni sidere atram bilem gignente manasse confirment, quae ita hormes &amp;
+      in<lb ed="#F" n="19" break="no"/>telligentiae aciem perstringat, ut saepe hominibus dira tetraque uisa obijciat,
+      necis<lb ed="#F" n="20" break="no"/>que consciscendae desideria excitet, ut de Milesijs uirginibus est memoriae manda 
+      <lb ed="#F" n="21"/>tum, complodenda sunt nimirum in hac quaestione crepitacula, sibilisque exploden 
+      <lb ed="#F" n="22"/>di Chaldaei, cum haud meminisse uideantur, trigesimo quoque anno a Saturmo 
+      <lb ed="#F" n="23"/>cursum conuersionemque confici, &amp; bustum Christianorum supra trecenties
+      cen<lb ed="#F" n="24" break="no"/>tum conflagrasse. Nihiloque secius depellenda est Auicennae ieiuna calumnia 
+      <lb ed="#F" n="25"/>qui ingenij lassitudinem in Maumetheo puluere diluens, id ab imaginatione quam 
+      <lb ed="#F" n="26"/>graeci φαμτασίαμ uocant, manare uoluit . idque est exemplorum similitudine probare 
+      <lb ed="#F" n="27"/>conatus. Siquidem pueris usum uenire dixit, ut cum in uinariam cellam ueniunt, ima 
+      <lb ed="#F" n="28"/>ginatione defluentis uini ad quadrantal meiant ex eodemque genere, trabis
+      simi<lb ed="#F" n="29" break="no"/>litudinem adiunxit, quam fidenter ab hominibus humi stratam subiri dixit, &amp; 
+      <lb ed="#F" n="30"/>quadragenis cubitis sublatam, a nemine decurri, cum opinatione in praeceps
+      de<lb ed="#F" n="31" break="no"/>labendi imago pingatur refertque ualentes multos aegrotasse imaginatione opina 
+      <lb ed="#F" n="32"/>ti morbi, contraque multos aegros conualuisse opinione receptae ualitudinis
+      eodem<lb ed="#F" n="33" break="no"/>quam modo dicit nonullos ad alieni oris hiatum oscitare, multosque ientantium exem 
+      <lb ed="#F" n="34"/>plo ad edendum inuitari, quibus exemplis confirmatum iri putauit, fidem
+      genera<lb ed="#F" n="35" break="no"/>tim Christianis erogatam in opinione quadam residere, qua Christum
+      opinabi<lb ed="#F" n="36" break="no"/>lem colamus deum. Qui quidem si perinde lotium in matula internouisset, ut ue 
+      <lb ed="#F" n="37"/>ri iudicium secreuit, male, actum esset cum aegris siquidem perspicuum esse potest.  
+      <lb ed="#F" n="38"/>quae a natura proficiscuntur, interius rerum medullis inhaerere, quam quae
+      extrinse<lb ed="#F" n="39" break="no"/>cus accidant ob eamque causam notum est altius naturae, quam rerum accidentium per 
+      <lb ed="#F" n="40"/>ceptionem insidere, cum autem ad sapientem phantasmatum inspectio pertineat, prae 
+      <lb ed="#F" n="41"/>dare sciri potest, ea phantasmatu genera quae naturali intelligentiae
+      perceptioni<lb ed="#F" n="42" break="no"/>obsequuntur, aptius in opinationem influere, quam quae rerum accidentium comprae¬ 
+      <!--062.xml-->
+      <pb ed="#F" n="25-r"/>
+               <lb ed="#F" n="1"/>hensioni morigerantur. Atqui cum Christi compraehensio, nullo modo sit natu 
+      <lb ed="#F" n="2"/>ra insita perceptio, sed extrinsecus aduentitia dimanet quando quidem deum
+      homi<lb ed="#F" n="3" break="no"/>nem ad humani generis luendam noxam in crucem actum dicamus, fateri cogere 
+      <lb ed="#F" n="4"/>mur uehementiore esse rerum accidentium opinationem, quam naturae quando quidem 
+      <lb ed="#F" n="5"/>tot saeculis genus humanum ab hac opinabili credulitate auelli nequierit quod
+      sa<lb ed="#F" n="6" break="no"/>ne dici, nullo modo posse, manifestum est. Atque etiam si id ab acri quadam opinatio 
+      <lb ed="#F" n="7"/>ne ortum diceretur, confitendum quidem esset, id nullo modo tanta temporum
+      lon<lb ed="#F" n="8" break="no"/>ginquitate, tam disparibus naturis potuisse congruere. quare in hoc genere
+      Aui<lb ed="#F" n="9" break="no"/>cenna tanquam longurium adurendus est, ut erigatur. Sed nimirum is collimandus est 
+      <lb ed="#F" n="10"/>scopos, ut homines aut Christum seruatorem fateantur deum, aut ascriptitium, &amp;
+      no<lb ed="#F" n="11" break="no"/>uum uelint. nam si deum fatentur, ex praelio praesidia deducenda erunt. si autem
+      con<lb ed="#F" n="12" break="no"/>mentitium statuerint, in eas angustias detrudenda est obtrectatrix inscitia, ut eum 
+      <lb ed="#F" n="13"/>aut bardum, &amp; uecordem, aut dolosum &amp; tenebrionem fuisse, confirmare cogantur 
+      <lb ed="#F" n="14"/>siquidem insulsae stoliditatis arguendum fuisse negari non potest, si dicatur homi 
+      <lb ed="#F" n="15"/>nem egentem, fabri filium, ad diuinitatis honorem obrepere uoluisse, qui non mo 
+      <lb ed="#F" n="16"/>do conuulsis dijs leges uetustate robustas abrogaret, sed etiam inusitato
+      religio<lb ed="#F" n="17" break="no"/>nis nexu orbem obstringeret. At cum tantarum rerum munus, nullo modo deliri aut 
+      <lb ed="#F" n="18"/>amentis hominis, negocium uideri possit, fateri necesse est, eum sapientem
+      fuisse<lb ed="#F" n="19" break="no"/>quod si in sapientiae currum conijcitur, confiteri necesse est etiam, eam sapientiam 
+      <lb ed="#F" n="20"/>aut philosophorum scientia partam aut coelitus haustam fuisse. Atqui cum praeclare 
+      <lb ed="#F" n="21"/>notum sit, eum nec Platonicum, nec Stoicum, nec Peripateticum quidem fuisse, quo ex 
+      <lb ed="#F" n="22"/>eorum manubijs alumnum dogma construeret, nec item ei per aetatem tantos pro 
+      <lb ed="#F" n="23"/>gressus facere licuisse intelligatur, necessario sequitur, ab eo sapientiam haustam 
+      <lb ed="#F" n="24"/>fuisse coelitus. Quod si uaferrimum eum ueteratorem fingere libet, qui praestigijs 
+      <lb ed="#F" n="25"/>omne genus hominum in fraudem induxerit, perquirendum quidem est, quo nutu 
+      <lb ed="#F" n="26"/>hoc confictum mendacij genus supra quindecies centum adoleuerit quando
+      qui<lb ed="#F" n="27" break="no"/>dem &amp; philolophorum acumen, &amp; bustuariorum principum sicas retuderit, ac
+      Impe<lb ed="#F" n="28" break="no"/>rium. P. R. deo rumque hospitalium fana euerterit, inter tot expulsiones, uexationes, 
+      <lb ed="#F" n="29"/>neces. Quod si aetas quae doli est index, minime eiusmodi mendacij genus
+      dete<lb ed="#F" n="30" break="no"/>xit, cur est id lupiter pater in mundi uigilia aspernatus; ex quo intelligi maxime 
+      <lb ed="#F" n="31"/>potest, aut contra naturam, hoc mendacij phasma uiguisse, hominesque tot saeculis 
+      <lb ed="#F" n="32"/>philtris a Christo fuisse pellectos, aut statori deo diem esse dicendam, qui procura 
+      <lb ed="#F" n="33"/>tione rerum humanarum neglecta, orientem ignem non oppresserit, nec sit ei generis 
+      <lb ed="#F" n="34"/>humani in hac mendacij impunitate pertesum. Cum autem haud consentaneum 
+      <lb ed="#F" n="35"/>sit, tanta aeui diuturnitate in hominum oculos puluerem a Christo fuisse comniectum, 
+      <lb ed="#F" n="36"/>quando quidem plures hoc interim spatio quam caeteris innumerabilibus saeculis sa 
+      <lb ed="#F" n="37"/>pientes numerentur, qui non modo philolophia ueri iudicium indagare uoluerunt. 
+      <lb ed="#F" n="38"/>sed etiam omnibus sophismatis sunt hanc pubescentem &amp; adultam Christianam
+      sege<lb ed="#F" n="39" break="no"/>tem peruertere conati, cumque perinsulsum sit ab auctore deo rerum humanarum
+      pa<lb ed="#F" n="40" break="no"/>trocinium fuisse desertum, fatendum quidem est seruatorem Christum esse deum. Omit 
+      <lb ed="#F" n="41"/>timus hoc loco commentaria sacrorum, &amp; coelitus rorulentos uates, qui ad dei
+      praescri<lb ed="#F" n="42" break="no"/>ptum syllabatim Christi fulsiones, &amp; mysteria cecinerunt. Nec item sunt modo 
+      <!--063.xml-->
+      <pb ed="#F" n="25-v"/>
+               <lb ed="#F" n="1"/>incredibilium miraculorum genera, tanquam Aristaei Proconesij, aut Amaris Hyperi 
+      <lb ed="#F" n="2"/>borei, uel Clagomenij, uel Ceomenis, sera ostenta recensenda nec rursum Sibyl 
+      <lb ed="#F" n="3"/>lina sunt elogia adeunda, quibus est Christi expressa conditio. Ex quo nihil est 
+      <lb ed="#F" n="4"/>etiam cur aliquid de undecemuiris discipulis dicatur, quos uerricularios, &amp;
+      remi<lb ed="#F" n="5" break="no"/>ges, e plaebe secreuerat qui orbem quasi inter se sortitione partiti, dispares
+      habi<lb ed="#F" n="6" break="no"/>tu &amp; natura animos hominum, uno religionis genere agglutinarunt, in tanto
+      prin<lb ed="#F" n="7" break="no"/>cipum, doctissimorumque hominum repugnantium, uel theatro, uel luce. Plusque ualuit 
+      <lb ed="#F" n="8"/>in his quae sunt supra intelligentiae compiexum sita, rudium sponsorum flexianima
+      concio<lb ed="#F" n="9" break="no"/>nalis uox, quam physica ratio, in his quae manu contrectantur. Quod ni fuisset coelitus 
+      <lb ed="#F" n="10"/>informata notio, spiritusque afflator illapsus, nullo modo homines rudes id in hu 
+      <lb ed="#F" n="11"/>drargyrio consequi poterant, quod non est in auro philolophia consecuta, Tu uero 
+      <lb ed="#F" n="12"/>Pont. max. certum hoc religionis genus, quod tibi gentilitium est, sanctissime tueare.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

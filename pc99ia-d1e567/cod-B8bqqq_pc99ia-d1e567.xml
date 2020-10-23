@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 2</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 2</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="27-r"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e567"><!-- l3d2 -->
+            <head xml:id="pc99ia-d1e567-Hd1e108">Distinctio 2</head>
+            <head xml:id="pc99ia-d1e567-Hd1e111" type="question-title">De perfectione Christi</head>
+            <p xml:id="pc99ia-d1e567-d1e114">
+               <lb ed="#F" n="22"/>DE PEREECTIONE CHRISTI. 
+      <lb ed="#F" n="23"/>DISTINCTIO SECVNDA. 
+      <lb ed="#F" n="24"/>Ed nunc de his quae dei filius ex humana natura asciuit, dicenidum 
+      <lb ed="#F" n="25"/>erit. In quo quidem rectissime probamus eius animae habitu praeditam 
+      <lb ed="#F" n="26"/>fuisse gratiam . idque ex animae &amp; uerbi consociata natura natum. Nam 
+      <lb ed="#F" n="27"/>quo magis est res susceptrix influenti causae finitima, eo fusionis &amp; af 
+      <lb ed="#F" n="28"/>flatus illius uberius est particeps, cum autem gratiae fusio ex diuinitate dimanet, 
+      <lb ed="#F" n="29"/>consentaneum uideri dicimus, ex diuinitate illi animae insitam esse gratiam. Sed exorit 
+      <lb ed="#F" n="30"/>hoc loco controuersia, num liberatoris Christi gratia actu interminata dicatur 
+      <lb ed="#F" n="31"/>Aureolus enim quem in summis theologis habitum uidemus, dum huius quaestionis 
+      <lb ed="#F" n="32"/>imum quaerit, negat eam gratiam interminatam esse actu. nam cum gratia crescere 
+      <lb ed="#F" n="33"/>ei debere uideatur, obtinere se putat, ut si gratia in eo fuisse dicatur, eam posse, &amp;
+      de<lb ed="#F" n="34" break="no"/>bere cum accessione crescere, quod si quippiam accedere posse concedatur, fateri necesse 
+      <lb ed="#F" n="35"/>esse dicit, ut quod crescere possit, id interminatum non debere putari, perabsurdumque 
+      <lb ed="#F" n="36"/>esse modo summam in sospitatore Christo gratiam dicere, modo gratiam cum
+      accessio<lb ed="#F" n="37" break="no"/>ne crescere posse confirmare. Cuius quidem sententiae rimas explet <name xml:id="pc99ia-d1e567-Nd1e150">Durandus</name>
+      siqui<lb ed="#F" n="38" break="no"/>dem ab eo argumenti fibula nectitur, ut quod sit circumscript e capax, id minime 
+      <lb ed="#F" n="39"/>esse capax absolutionis infinitae, cum autem eius anima humanitus sit, &amp; circunscri 
+      <lb ed="#F" n="40"/>pte capax, negat fieri ullo modo posse, ut eius gratia sit absolutione interminata 
+      <lb ed="#F" n="41"/>praedita. In quod genus argumenti ingeniosissimi opinatores. <name xml:id="pc99ia-d1e567-Nd1e162">Adam</name>, <name xml:id="pc99ia-d1e567-Nd1e165">Gerardus</name> 
+               <lb ed="#F" n="42"/>Qddo, &amp; <name xml:id="pc99ia-d1e567-Nd1e171">Guillermus Ochan</name>, aulaea &amp; peripetasmata inducunt. <name xml:id="pc99ia-d1e567-Nd1e174">Gregorius autem 
+        <lb ed="#F" n="43"/>
+                  <!-- erroneous line; should be deleted -->
+                  <!--067.xml-->
+                  <pb ed="#F" n="27-v"/>
+                  <lb ed="#F" n="1"/>Ariminensis</name> tanquam finitor, &amp; agri mensor a deo posse affirmat gratiae formam
+      in<lb ed="#F" n="2" break="no"/>terminatam educi. At nos ex sententiarum aurifodina eruimus, quocunque circumscri 
+      <lb ed="#F" n="3"/>pto aliquid ingentius deum posse moliri sed cum liberatori Christo nulla posset 
+      <lb ed="#F" n="4"/>a deo ingentior gratia praeberi, perspicuum esse dicimus, ut eius gratia
+      intermina<lb ed="#F" n="5" break="no"/>ta dicatur Nec autem hoc ob id affirmamus, ut deum in augenda gratia
+      praefinia<lb ed="#F" n="6" break="no"/>mus, sed ut ostendatur animam Christi accessionis susceptricem esse non posse. Post 
+      <lb ed="#F" n="7"/>etiam quaestio de scientia colligitur. In quo quaeri solet num Christo alia praeten 
+      <lb ed="#F" n="8"/>diuinam, an foelicium coelicolarum, siue afflatu insita scientia contigerit. Vgo enim
+      syn<lb ed="#F" n="9" break="no"/>caerus, &amp; grandis theologus dum inquirit, unde omnium scientiam Christus arripuit.  
+      <lb ed="#F" n="10"/>nullam praeter diuinam scientiam concedit. Principi autem sententiarum placet Christum 
+      <lb ed="#F" n="11"/>perinde eadem, ut uerbum nouisse. sed cum uerbo cuncta infinita cognita dicantur., 
+      <lb ed="#F" n="12"/>necessario sequi, ut Christo sint cuncta interminata nota. Sed diuus Thomas, 
+      <lb ed="#F" n="13"/>Apollinaris, &amp; Eunomij fumo acribus sententijs explosis, nubeculam a sole
+      dis<lb ed="#F" n="14" break="no"/>pellit. nam cum Christum deum pariter &amp; hominem statuendum esse censeat,
+      pri<lb ed="#F" n="15" break="no"/>mum ei praebendum opinatur quicquid naturae diuinae intersit, tum seorsum
+      dan<lb ed="#F" n="16" break="no"/>dum quicquid hominis speciem constituit Atque ut non modo homo, sed etiam hu 
+      <lb ed="#F" n="17"/>manitus absolutus putetur, in eo statuendum arbitratur quicquid humanae
+      absolu<lb ed="#F" n="18" break="no"/>tionis intersit, quemnadmodum scientiarum &amp; uirtutum habitus dicuntur. Vt enim
+      diuini<lb ed="#F" n="19" break="no"/>tas corporis actus esse non potest, qua corpus praeditum forma uiuat, aut fiat
+      natu<lb ed="#F" n="20" break="no"/>ra rationis compos, ita animae rationis participis actus esse non potest, qua cum 
+      <lb ed="#F" n="21"/>forma sit scientiae uirtutisque compos, quemadmodum habitu homines uirtutum com 
+      <lb ed="#F" n="22"/>potes dicuntur, ex quo confirmari uult eam creatam esse scientiam, cum quo Adam, 
+      <lb ed="#F" n="23"/>&amp; loannes ripa non complexu nec lacertorum nisum, sed pedum interpositu luctantur. 
+      <lb ed="#F" n="24"/>saculatoris autem <name xml:id="pc99ia-d1e567-Nd1e237">Scoti</name> cuspis est nullam in Christo natura partam praeter insitam 
+      <lb ed="#F" n="25"/>afflatu scientiam fuisse. At <name xml:id="pc99ia-d1e567-Nd1e242">Durandus</name> quasi in ipso aditu muscipulam locarit,
+      pro<lb ed="#F" n="26" break="no"/>babile uideri dicit eiusdem esse speciei partam &amp; insitam scientiam. Si autem recte
+      senti<lb ed="#F" n="27" break="no"/>re uoluerimus, quicquid sit a deo hominum naturae insertum, idem Christi naturae 
+      <lb ed="#F" n="28"/>insitum fuisse dicemus. at cum perspicuum sit, non modo intelligentiam possibilem 
+      <lb ed="#F" n="29"/>(teramus enim hoc inusitatum uerbum utendo) sed etiam agentem intelligentiam tribu 
+      <lb ed="#F" n="30"/>tam, fatendum erit idem utrunque in liberatore Christo fuisse. Sed quemadmodum 
+      <lb ed="#F" n="31"/>Aristotele auctore nihil deum frustra agere probatur, ita quippiam in Christo 
+      <lb ed="#F" n="32"/>frustra fuisse negemus, id enim frustra dici uolumus, quod nullum proprium
+      mu<lb ed="#F" n="33" break="no"/>nus nanciscatur proprium autem munus intelligentiae agentis est, species actu
+      cogno<lb ed="#F" n="34" break="no"/>biles educere, easque a phantasmate seuocare. Ex quo concludimus species in
+      Chri<lb ed="#F" n="35" break="no"/>sto fuisse cognobiles intelligentiae agentis actione a possibili intelligentia
+      susce<lb ed="#F" n="36" break="no"/>ptas quod quidem sit, partam in eo esse scientiam interminatarum autem rerum scientiam 
+      <lb ed="#F" n="37"/>afflatu illi insitam dicemus. Sed cum multi interius ingrediantur, ne longiorfiat 
+      <lb ed="#F" n="38"/>progressio, non est modo theologorum dedolanda opinio, siquidem in disserendo 
+      <lb ed="#F" n="39"/>ambidexter <name xml:id="pc99ia-d1e567-Nd1e276">Scotus</name> praedare probare conatur, eadem omnia a Christo pernosci, quae 
+      <lb ed="#F" n="40"/>a uerbo pernoscantur. Durando autem uidetur quicquid perspici possit, a Christo 
+      <lb ed="#F" n="41"/>in diuinitate cerni. Aureolus vero quasi interdium lucernam adhibere uelit, nec a Chri 
+      <lb ed="#F" n="42"/>sto, nec ab intelligentia cuiusque in tuendo uerbo, rerum creatarum naturam perspici 
+      <!--068.xml-->
+      <pb ed="#F" n="28-r"/>
+               <lb ed="#F" n="1"/>posse opinatur, ita ut sub uisum, &amp; sub aspectum cadat. Quorum quidem omnium una 
+      <lb ed="#F" n="2"/>est contra diuum Thomam conspirans dimicatio quanquam stat grauis Entellus, qui 
+      <lb ed="#F" n="3"/>nullius quassum aut impulsione, uestigio comuelli potest. itaque ad haec de Christi pon 
+      <lb ed="#F" n="4"/>testate disceptationem adiungemus, Ratio enim Durando exoritur, qua se probare 
+      <lb ed="#F" n="5"/>putat nullam Christi animae supra naturam insitam potentiam commutandorum corpo 
+      <lb ed="#F" n="6"/>rum in aliam effigien. In qua sane sententia diuus Thomas adolescens aliquandium 
+      <lb ed="#F" n="7"/>sessitauit, cum ratio esset eiusmodi, ut probari uideretur ut uera, post autem canescens 
+      <lb ed="#F" n="8"/>ab ea est dextrorsum in latiorem uiam deductus. nam cum potentiam commutanda 
+      <lb ed="#F" n="9"/>rum rerum bipartitam esse censeret, earum unam ex rerum commutatione ducit quam
+      tri<lb ed="#F" n="10" break="no"/>partito distributam dicit quarum una naturalis sit, quae ab agente proprio, rato 
+      <lb ed="#F" n="11"/>ordine naturae fiat altera quae miraculo constans ab agente supra progredientem 
+      <lb ed="#F" n="12"/>naturam gignatur, tertia ob eam causam dicatur, quatenus natura rerum creata 
+      <lb ed="#F" n="13"/>rum interire possit in nihilum. Secundam vero distributionem ex Christi anima
+      du<lb ed="#F" n="14" break="no"/>cit eamquam bipertito metitur uno modo, uirtutis &amp; naturae ratione altero
+      quate<lb ed="#F" n="15" break="no"/>nus uerbi personae iugati instrumentum dicatur Si enim animam uirtutis &amp;
+      na<lb ed="#F" n="16" break="no"/>turae ratione metitur inesse illi potentiam dicit eorum effectuum faciendorum, qui 
+      <lb ed="#F" n="17"/>animae naturae congruerent Si autem animam ut uerbi instrumentum expendit,
+      na<lb ed="#F" n="18" break="no"/>ctum uult eum esse instrumenti uim omnium commutandarum rerum ad finem 
+      <lb ed="#F" n="19"/>statutam humani amictus inducti, qui quidem finis tam coelestium sit, quam terre 
+      <lb ed="#F" n="20"/>narum rerum recentator. Sed commutationem creatarum rerum quatenus scilicet inte 
+      <lb ed="#F" n="21"/>rire possit in nihilum, creationi rerum respondere affirmat, quatenus scilicet editae 
+      <lb ed="#F" n="22"/>ex nihilo probantur. Itaque quemadmodum dei tantum creare intersit, ita
+      faten<lb ed="#F" n="23" break="no"/>dum esse dicit, ab eo tantum res creatas interimi, &amp; dissolui posse in nihilum,
+      quem<lb ed="#F" n="24" break="no"/>admodum ab eo etiam solo, easdem in natura regi, ne in nihilum reuocentur. Ex 
+      <lb ed="#F" n="25"/>quo praecare sciri posse ait, minime Christum cunctam nactam esse potentiam 
+      <lb ed="#F" n="26"/>omnium commutandarum rerum, qua quidem sententia nihil dici potest salubrius. 
+      <lb ed="#F" n="27"/>Simillima est etiam de infirmitatum natura contentio, nonnullis enim minime 
+      <lb ed="#F" n="28"/>aequum uisum est a dei filio in amictu humano corporis aegrotationes esse suscem 
+      <lb ed="#F" n="29"/>ptas. nam quemadmodum eius animam uerbo comiugatam dicunt ita &amp; corpus 
+      <lb ed="#F" n="30"/>copulatum uideri. atqui cum eius anima nihil affirment fieri posse absolutius, per 
+      <lb ed="#F" n="31"/>spicuum esse uolunt, corpus etiam ex perfecta absolutaque natura effici debere.
+      Qui<lb ed="#F" n="32" break="no"/>bus dicendum est, consentaneum uideri ascitum corpus, aegritudini naturae
+      huma<lb ed="#F" n="33" break="no"/>nae esse subiectum, quando quidem dei filius nullam sit ob aliam causam in ter 
+      <lb ed="#F" n="34"/>ram delapsus, nisi ut hominum facinus expiaret. nam aestum, sitim, famem, uitae 
+      <lb ed="#F" n="35"/>occasum &amp; quae eiusmodi generis sunt eius delicti mulctam esse dicimus, quod 
+      <lb ed="#F" n="36"/>sit a primigeno homine inuectum. Ex quo consentaneum fuisse censemus, ut has 
+      <lb ed="#F" n="37"/>mulctas uice generis humani in hominum natura ascisceret. nam cum nulla alia re 
+      <lb ed="#F" n="38"/>magis quam aegrotatione sit homini humana nota natura, si sine infirmitate ab eo 
+      <lb ed="#F" n="39"/>esset ascita natura, facile res in contentionem uenire poterat, minime eum homi 
+      <lb ed="#F" n="40"/>nem merum fuisse quod esset in Manichaei tenebras, &amp; praestigias incurrere.
+      Hui<lb ed="#F" n="41" break="no"/>de aegrotatione animae controuersia annectitur, quo loco peccatu ex liberatoris Chri 
+      <lb ed="#F" n="42"/>sti natura eijcitur quando quidem expiatio impediri scelere dicatur. Vnde multorum est 
+      <!--069.xml-->
+      <pb ed="#F" n="28-v"/>
+               <lb ed="#F" n="1"/>orta opinio negantium Christi animam patibilis fuisse naturae, a quibus hoc
+      mo<lb ed="#F" n="2" break="no"/>do concluditur, nihil nisi a praestantiori patiendi &amp; ferendi necessitatem accipit atqui 
+      <lb ed="#F" n="3"/>nihil fuit seruatoris Christi anima praestantius. Christi igitur anima a nemine fe 
+      <lb ed="#F" n="4"/>rendi necessitatem accepit. ita nec patibilis quidem fuit. Quibus responderi solet, eum 
+      <lb ed="#F" n="5"/>animae affectionibus, quas graeci πάζμ uocant, diuinitatis nutu repugnare
+      potuis<lb ed="#F" n="6" break="no"/>se, sed uoluntate aegrotationibus fuisse subiectum. Ex quibus assumitur in eo cae 
+      <lb ed="#F" n="7"/>teras quoque hormes infirmitates extitisse, sed non perinde in eo haec genera, ut in 
+      <lb ed="#F" n="8"/>uniuerso hominum genere insedisse quando quidem homines ad obiectas species 
+      <lb ed="#F" n="9"/>incitati rapiantur, quibus ipse minime illectus raperetur, tumque in hominum ge 
+      <lb ed="#F" n="10"/>nere turbidae &amp; tabificae animae affectiones rationis iudicia praecurrunt, quae nul 
+      <lb ed="#F" n="11"/>lo modo essent a certa ratione auersae tum etiam quoniam saepe hi motus rationi uim 
+      <lb ed="#F" n="12"/>afferunt, qui ab eo cohiberentur, cum motus corpori natura congruentes ita habitu 
+      <lb ed="#F" n="13"/>quodam suo in horme interquiescerent, ut ab his ratio prturbari ullo modo posset.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

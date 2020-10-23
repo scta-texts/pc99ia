@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Distinctio 2</title>
+            <author ref="#per-b3aq1a">Paolo Cortese</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Distinctio 2</title>
+               <date when="2020-10-23">October 23, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="F" n="cod-B8bqqq">Basel 1513</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-23" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#F" n="14-v"/>
+            <cb ed="#F" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pc99ia-d1e299"><!-- l2d2 -->
+            <head xml:id="pc99ia-d1e299-Hd1e108">Distinctio 2</head>
+            <head xml:id="pc99ia-d1e299-Hd1e111" type="question-title">De angelis</head>
+            <p xml:id="pc99ia-d1e299-d1e114">
+               <lb ed="#F" n="17"/>DEANGELIS 
+      <lb ed="#F" n="18"/>DISTINCTIO SECVNDA. 
+      <lb ed="#F" n="19"/>Ed cum non obscura sit significatio exposita, generatum esse mundum, quae 
+      <lb ed="#F" n="20"/>rendum modo uidetur, utrum sit ortu, corporea, an coelitum natura antiquior 
+      <lb ed="#F" n="21"/>De quo quidem inter nostros est orta dissensio. nam Gregorius Na 
+      <lb ed="#F" n="22"/>zianzenus Graeciae theologorum princeps, parentem, &amp; generatorem 
+      <lb ed="#F" n="23"/>putat, prius mente coelitum naturam fuisse complexum, eamque meditationem opus 
+      <lb ed="#F" n="24"/>fuisse arbitratur, quem subsequitur eius auditor, praeclarus auctor. Hieronymus, ei 
+      <lb ed="#F" n="25"/>que sententiae non defuit homo doctus Damascenus. Nomnullis autem uisum est 
+      <lb ed="#F" n="26"/>corpoream naturam genitam esse a deo, ministris primigenis coelitibus.
+      Graeco<lb ed="#F" n="27" break="no"/>rum uero pertinax credulitas est, ortu antiquiores esse coelites. Sed Basilio princi 
+      <lb ed="#F" n="28"/>pe. Ambrosius, Cassiodorus. Dionysius, &amp; Beda, cuncta simul generata esse
+      uo<lb ed="#F" n="29" break="no"/>luerunt, quae quidem sanorum est hominum opinio. Apud superiores autm philolophos 
+      <lb ed="#F" n="30"/>tanquam disiecto ponte amnis transmitti nequiret, nemo quicquam a natura seiunctum 
+      <lb ed="#F" n="31"/>esse censuit. nam Thales Milesius, qui primus inter sapientes fustem quatit, hume 
+      <lb ed="#F" n="32"/>rotenus lacertos nudans, aquam dixit initium esse rerum. Heradito initium ignis. Dio 
+      <lb ed="#F" n="33"/>geni aer est uisus, quasi nihil uacans corpore, sub sensuum notionem cadere posse 
+      <lb ed="#F" n="34"/>uideretur. Anaxagoras aunt quamquam ut caeteri corporea initia esse uellet, primus tamen 
+      <lb ed="#F" n="35"/>decidenti sarcinae succurrit, dum Hylae mentem adiecit, intelligentiam materiae expet 
+      <lb ed="#F" n="36"/>tem initium commentus. Post Plato haustos luto sustulit, &amp; semiamictos philolo 
+      <lb ed="#F" n="37"/>phos uestiuit. nam cum uideret ueri iudicium ignorari, tum meatu, &amp;
+      perennita<lb ed="#F" n="38" break="no"/>te rerum concretarum, tum sensuum fallacibus indicijs quibus corpora
+      internoscun<lb ed="#F" n="39" break="no"/>tur, naturas quasdam a rebus meantibus semotas esse uoluit, e quibus nuda ueri
+      in<lb ed="#F" n="40" break="no"/>tegritas eliceretur, easque mathematicas, &amp; ideas nominat. In ideis autem ordinem 
+      <lb ed="#F" n="41"/>esse opinatur, nam quo quicquam esset in, intelligentia purius, eo id dicebat esse ordinem 
+      <!--042.xml-->
+      <pb ed="#F" n="15-r"/>
+               <lb ed="#F" n="1"/>prius, idque unum principatu praestans, immensum &amp; infinitum deum statuit, subque 
+      <lb ed="#F" n="2"/>eius dominatu &amp; nutu, uarios ordines coelitum naturae seiunctae constituit. At mul 
+      <lb ed="#F" n="3"/>to melius nostri probant, a deo generatos esse coelites, eosque diuinae animationis 
+      <lb ed="#F" n="4"/>immortali natura praeditos, uigere &amp; sapere. Maximeque hoc loco perquirunt, an 
+      <lb ed="#F" n="5"/>coelites materia &amp; forma constare dicantur. In quo quidem plaerique qui multum ope 
+      <lb ed="#F" n="6"/>rae in methodice Auerroea consumunt, aeque intelligentem naturam, ac sensilem ma 
+      <lb ed="#F" n="7"/>teria &amp; forma constare uolunt. Nos uero id Auerroim ad intelligentiam possibi 
+      <lb ed="#F" n="8"/>lem(faciamus enim hoc uerbum tractando tritius) non ad coelitum intelligentiam
+      re<lb ed="#F" n="9" break="no"/>ferri uoluisse dicimus, etenim fieri nullo modo potest, ut coelitum generi ullum sit 
+      <lb ed="#F" n="10"/>materiae genus admixtum . siquidem qualiscumque rei munus, naturae suae modo com 
+      <lb ed="#F" n="11"/>stituitur, cum autem percipere, munus sit ab omnim materia secretum, intelligi potest
+      om<lb ed="#F" n="12" break="no"/>nem intelligentem naturam, materiae concretione uacare. Ex quo eorum licet
+      insulsi<lb ed="#F" n="13" break="no"/>tatem &amp; inscitiam accusare, qui Aristoteli uisum esse uolunt, spiritus naturam
+      ma<lb ed="#F" n="14" break="no"/>teria &amp; forma constare. Itaque ob eam causam dicemus coelites, corporibus suapte 
+      <lb ed="#F" n="15"/>natura uacare. quamquam non negemus ab his quandoque uaria esse corpora suscepta, 
+      <lb ed="#F" n="16"/>ut est uatum elogijs &amp; memoriae mandatum. Sed plus negocij hoc loco exoritur, 
+      <lb ed="#F" n="17"/>an coelites in loco uersari dicantur. Nonnulli enim quibus magnae curae est, affir 
+      <lb ed="#F" n="18"/>mare intelligentiam naturam esse quandam ab omni materiae concretione
+      seiun<lb ed="#F" n="19" break="no"/>ctam, &amp; liberam, nullum eam ad locum, aut ad corpus appulsum, nancisci uolunt, 
+      <lb ed="#F" n="20"/>quandoquidem eam circa id sine intermedio moliri negent. ex quo sane magnum 
+      <lb ed="#F" n="21"/>haereseos carcinoma obreperet, cum praedare notum sit, coelites circa hominum gen 
+      <lb ed="#F" n="22"/>nus, sine intermedio moliri. At <name xml:id="pc99ia-d1e299-Nd1e222">diuus quidem Thomas</name> in hoc quaestionis gener 
+      <lb ed="#F" n="23"/>sic agit, ut coelites in loco nisi contactu, aut uirtutis appulsum, uersari neget, cui obsi 
+      <lb ed="#F" n="24"/>stere cupiens grauis interpellator <name xml:id="pc99ia-d1e299-Nd1e229">Scotus</name>, dum eum postulat ex syngrapha, pu 
+      <lb ed="#F" n="25"/>gnantia inducere confirmat, quod idem ei cum <name xml:id="pc99ia-d1e299-Nd1e235">Gregorio</name> comuenit, qui <name xml:id="pc99ia-d1e299-Nd1e238">diui Tho 
+        <lb ed="#F" n="26"/>mae</name> sententiam in Parisiense execratum membrum incidisse opinatur, in quo
+      qui<lb ed="#F" n="27" break="no"/>dem quaestionis genere, mauult ostentare quod habet, quam peruenire quo potest 
+      <lb ed="#F" n="28"/>Sed exoritur repente magnus auctor <name xml:id="pc99ia-d1e299-Nd1e247">Godofredus</name>, qui ea male tornata
+      membra<lb ed="#F" n="29" break="no"/>incudi reddere iubet, <name xml:id="pc99ia-d1e299-Nd1e253">diuumque Thomam</name> telluris sal merum esse arbitratur . idemque 
+      <lb ed="#F" n="30"/>prope <name xml:id="pc99ia-d1e299-Nd1e258">Henrico</name>, &amp; <name xml:id="pc99ia-d1e299-Nd1e261">Egidio</name> uideri scimus . Itaque hoc consti tuto, cum intelligamus com 
+      <lb ed="#F" n="31"/>lites intelligentiae complexu rationem bonorum uniuersam percipere, fateri etiam 
+      <lb ed="#F" n="32"/>cooimur in eorum genere esse uoluntatem, &amp; quemadmodum in his praestantior in 
+      <lb ed="#F" n="33"/>telligentia, quam in hominum genere sit, ita excellentiorem esse optionem, &amp;
+      praestantio<lb ed="#F" n="34" break="no"/>rem liberum uoluntatis motum . cumque in his nihil praeter intelligentiae appetitionem 
+      <lb ed="#F" n="35"/>esse dicamus, satis notum esse debet, nullo modo eorum appetitionem iracundia, &amp; 
+      <lb ed="#F" n="36"/>cupiditate secerni. Atque etiam cum in eorum genere uoluntate naturalis
+      prodiui<lb ed="#F" n="37" break="no"/>tas dicatur, dubitari non potest, quin omnis eorum uoluntas naturalis, sit dicendus 
+      <lb ed="#F" n="38"/>amor. Quo sane loco minutatim de coelitum numero quaeri solet. Aristoteles enim 
+      <lb ed="#F" n="39"/>in eiusmodi quaestione Platonem ex formula postulat, que in tota illa philosophiae 
+      <lb ed="#F" n="40"/>sylua inanius sit coelitum numerum persequutus. At <name xml:id="pc99ia-d1e299-Nd1e286">Auerrois</name>, qui in societatem
+      glo<lb ed="#F" n="41" break="no"/>riae uenire conatur, ad orbium numerum, coelitum summam deduxit, affirmans
+      mi<lb ed="#F" n="42" break="no"/>nus absolutos coelites uideri, si feriati naturae torpore consistere dicerentur. Aui¬ 
+      <!--043.xml-->
+      <pb ed="#F" n="15-v"/>
+               <lb ed="#F" n="1"/>cenna uero ambitiose egens, ne usquam a sensuum notione discederet, coelitum
+      nu<lb ed="#F" n="2" break="no"/>merum, sphaerarum numero alligauit. Nomnullis autem qui in Neapolitana crypta 
+      <lb ed="#F" n="3"/>inambulant, contractior numerus est uisus, alijs unigenum tantum coelitem esse placet. 
+      <lb ed="#F" n="4"/>multi ea quae non extabescunt, plura debere esse negant, quasi multitudo, a
+      praestam<lb ed="#F" n="5" break="no"/>tia dissideat, ut praecare in sole &amp; luna patet. In quo sane minime mirum uideri 
+      <lb ed="#F" n="6"/>debet hallucinari hos quandoquidem perinde mens humana in coelitum natura ac no 
+      <lb ed="#F" n="7"/>ctuae oculus in solis splendore hebescit. Itaque intelligendum est a coelitibus res
+      cor<lb ed="#F" n="8" break="no"/>poreas non multitudine numeri, sed multitudine specierum sine collatione superari. 
+      <lb ed="#F" n="9"/>nec enim coelitum numerum ut atomorum aut harenarum multitudinem describimus, sed 
+      <lb ed="#F" n="10"/>plures coelitum affirmamus quam corporearum rerum species inueniri. Ob eamquam
+      cau<lb ed="#F" n="11" break="no"/>sam sciri potest, eos ab animarum genere discrepare proptereaque anima suapte est 
+      <lb ed="#F" n="12"/>natura iugabilis, resque ratiocinando percipit, minusque intelligentiae lucis haurit. 
+      <lb ed="#F" n="13"/>Sed quoniam extima foelicitas in deo contuendo uersatur, in promptu esse debet. 
+      <lb ed="#F" n="14"/>dissimillimum esse eiusmodi obtutus genus siquidem perinde se deus, ut oculus 
+      <lb ed="#F" n="15"/>micantem in pupilla lucem contuetur hominum uero genus haud secus
+      domina<lb ed="#F" n="16" break="no"/>torem rerum deum aspicit, ac si quispiam hominem, speculum contuendo cernat, ex quo 
+      <lb ed="#F" n="17"/>regestum hominis simulacrum excitetur at coelitum grex aeque deum uidet, ac si
+      quis<lb ed="#F" n="18" break="no"/>piam hominem fimilitudine sine intermedio ab eo suscepta cernat, in quo quidem 
+      <lb ed="#F" n="19"/>foelicitatis genere coelites generatos esse dicimus. Eodemque modo affirmamus eos 
+      <lb ed="#F" n="20"/>nullo corporis amictu suapte natura uestiri, sed quaedam interdum corpora arripe 
+      <lb ed="#F" n="21"/>re, quae hominum generi spectabilia ipsa sint per se, eaque ex concreti aeris materia 
+      <lb ed="#F" n="22"/>effici, que aer maxime sit ad comuersionem &amp; transformationem aptus . itaque &amp; in
+      ho<lb ed="#F" n="23" break="no"/>minum hospitalia corpora obrepere, &amp; imaginationem flectere possunt, eorumque
+      mu<lb ed="#F" n="24" break="no"/>nia ex aduentitio ad intelligentiam redundant proptereaque ei imaginatio tamquam
+      co<lb ed="#F" n="25" break="no"/>lor oculis obijcitur, atque hoc quidem usque ad uoluntatis optionem permeat, cum
+      uolun<lb ed="#F" n="26" break="no"/>tas ab omni sit corporeorum instrumentorum appulsum seiugata. Ex quo intelligi licet 
+      <lb ed="#F" n="27"/>hominibus quasi peregrinantibus coelites speculatores &amp; custodes, naturae ortu 
+      <lb ed="#F" n="28"/>dari, qui non modo genus humanum in ultimum tutiore itinere deducant, sed etiam 
+      <lb ed="#F" n="29"/>nocitura depellant nec ita unquam ab excubandi munere discedunt, ut funditus tuem 
+      <lb ed="#F" n="30"/>di conseruandique procurationem deserant sed tantisper interdum excubias iuuandi
+      cau<lb ed="#F" n="31" break="no"/>sa intermittunt, quemadmodum haud quaquam interdum obest, ut homines in criminum, 
+      <lb ed="#F" n="32"/>aut aerumnarum genera incurrant. Nec multo quidem secus perquirimus, num eorum 
+      <lb ed="#F" n="33"/>sit dissimillima conditio naturae, num sit informata praesensio rerum futurarum. Dein 
+      <lb ed="#F" n="34"/>ceps etiam centuriatim descriptos ordines persequimur, ac utrum utatur deus ad 
+      <lb ed="#F" n="35"/>obeunda officia turmatim, an singulatim bonis. Quae quidem ab omni philolo 
+      <lb ed="#F" n="36"/>phorum genere sunt tractata ieiunius, a nobis uero non tam sunt rationis comple 
+      <lb ed="#F" n="37"/>xu, quam coelitus hausta, &amp; patefactione percepta.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

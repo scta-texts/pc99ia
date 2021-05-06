@@ -7,13 +7,14 @@
         <respStmt>
           <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
           <resp>Transcription Editor</resp>
+          <resp>Translator</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
           <title>Prooemium</title>
-          <date when="2020-10-23">October 23, 2020</date>
+          <date when="2020-10-24">October 23, 2020</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -38,13 +39,13 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2020-10-23" status="draft" n="0.0.0">
+        <change when="2020-10-24" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="en">
     <front>
       <div xml:id="starts-on">
         <pb ed="#F" n="1-r"/>
@@ -55,11 +56,31 @@
       <div xml:id="pc99ia-d1e172"><!-- l1proem -->
         <head xml:id="pc99ia-d1e172-Hd1e108">Prooemium</head>
         <p xml:id="pc99ia-d1e172-d1e111">
-          <!--014.xml-->
-          <pb ed="#F" n="1-r"/>
+          As long as the Pontifex Maximus has struggled
+          to be the highest by the contention of men, 
+          I strive so that I will not be labored 
+          with the study of Latin letters of the Philosophers <!-- trans very unclear -->
+          
+          For there are many philosophers, 
+          who 
+          (since they opine that the will is a faculty of making words 
+          and that it allows them in bringing these things forth 
+          nothing less than those ancient things 
+          they chose were licit)
+          deny 
+          (whatever the cause may be 
+          on account of the license of bringing forth words)
+          they wish to fix with the narrow ways of the ancients. <!-- trans review needed -->
+          
+          But several since they treat philosophy as if a marble temple
+          in no mode think it ought to be led by one fo the guides <!--?? trans check --> 
+          
+          nor do they think it right for dye to be smeared on the whiteness of the most beautiful face 
+          
+          
           <lb ed="#F" n="1"/>Diu Pont. Max. summa est hominum contentione certatum. 
-          <lb ed="#F" n="2"/>Philosophorum ne esset studijs latini sermonis adhibendus
-          <lb ed="#F" n="3"/>nitor. Sunt enim multi philosophi, qui cum facultatem 
+          <lb ed="#F" n="2"/>Philosophorum ne esset studijs latini sermonis
+          adhibendu<lb ed="#F" n="3" break="no"/>nitor. Sunt enim multi philosophi, qui cum facultatem 
           uer<lb ed="#F" n="4" break="no"/>borum faciendorum uoluntariam esse opinentur, nihiloque 
           <lb ed="#F" n="5"/>minus eis in pariendo licere quam priscis illis licitum fuerit
           arbi<lb ed="#F" n="6" break="no"/>trentur, negant quicquam esse causae, cur uerborum pariendorum 
